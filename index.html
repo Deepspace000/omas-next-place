@@ -327,7 +327,7 @@
   const S = {
     site: null, listings: new Map(), marks: store.get("marks", {}), wording: store.get("wording", null),
     area: store.get("area", "all"), hideDone: store.get("hideDone", false), open: null,
-    loadError: false, search: { state: "idle", msg: "", run: null },
+    loadError: null, savedCopy: false, search: { state: "idle", msg: "", run: null, dispatchAt: null, awaitingData: null },
   };
   const prevVisit = store.get("lastVisit", null) || new Date(Date.now() - 3 * 864e5).toISOString();
   const drafts = {};
@@ -549,7 +549,7 @@
   const cardCache = new Map();
   function renderList() {
     const host = $("#list");
-    if (!S.site) { host.innerHTML = `<div class="empty">${S.loadError ? "The list couldn't load. Check your connection; it tries again every few minutes." : "Loading the list…"}</div>`; return; }
+    if (!S.site) { host.innerHTML = `<div class="empty">${S.loadError ? `The list couldn't load (${esc(S.loadError)}). It keeps trying by itself. <button type="button" class="linkish" data-act="reload">Try again now</button>` : "Loading the list…"}</div>`; return; }
     const items = lookList();
     if (!items.length) { host.innerHTML = `<div class="empty">${S.area === "all" ? "No places to look at yet. The next search may find some." : "Nothing in this area right now."}</div>`; cardCache.clear(); return; }
     const ae = document.activeElement;
@@ -619,6 +619,10 @@
     $("#seniors").innerHTML = [...seniors].sort((a, b) => (order[a.fit] ?? 1) - (order[b.fit] ?? 1)).map(seniorHTML).join("");
     $("#seniorsNote").textContent = "These don't usually advertise vacancies, so ring or email to ask about waiting lists and cats." + (S.site && S.site.housingRegister ? " " + S.site.housingRegister : "");
 
+    $("#banner").innerHTML = S.loadError && S.site
+      ? `<div class="banner">Showing the list saved on this device from ${esc(fmtDate(S.site.generatedAt, true))}. Couldn't get the latest one (${esc(S.loadError)}); it keeps trying. <button type="button" class="linkish" data-act="reload">Try again now</button></div>`
+      : "";
+
     $("#log").innerHTML = ((S.site && S.site.runs) || []).map((r) =>
       `<li><b>${esc(fmtDate(r.at, true))}</b>: ${esc(r.found ?? "?")} ads, ${esc((r.new || []).length)} new, ${esc((r.gone || []).length)} gone${r.trigger === "workflow_dispatch" ? " (you pressed search)" : ""}${r.problems && r.problems.length ? `, problems: ${esc(r.problems.join("; "))}` : ""}</li>`).join("") || "<li>No searches yet.</li>";
   }
@@ -647,47 +651,111 @@
   function grow(t) { t.style.height = "auto"; t.style.height = t.scrollHeight + 4 + "px"; }
 
   // ---------- data ----------
+  // The list is also kept on this device, so the page opens straight away and still shows
+  // the last list if the phone's connection drops for a moment.
+  const DATA_URL = location.hostname.endsWith("github.io") ? "/omas-next-place/data/site.json" : "data/site.json";
+  let retryTimer = null, retries = 0;
+  function applySite(site, saved) {
+    S.site = site; S.savedCopy = !!saved;
+    S.listings = new Map(site.listings.map((l) => [l.id, l]));
+    const s = S.search;
+    if (s.awaitingData && !saved) {
+      const last = site.lastSearch;
+      if (last && Date.parse(last.at) >= s.awaitingData - 120000) {
+        const n = (last.new || []).length;
+        s.msg = `Search finished ${esc(fmtDate(last.at, true))}: ${esc(last.found)} ads, ${n ? n + " new (marked New)" : "nothing new"}.`;
+      } else s.msg = "The list has been updated.";
+      s.awaitingData = null;
+    }
+    render();
+  }
   async function loadData() {
+    clearTimeout(retryTimer);
     try {
-      const res = await fetch("data/site.json?t=" + Date.now(), { cache: "no-store" });
-      if (!res.ok) throw new Error("HTTP " + res.status);
+      const res = await fetch(DATA_URL + "?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("the website answered " + res.status);
       const site = await res.json();
-      if (S.site && site.generatedAt === S.site.generatedAt) return;
-      S.site = site; S.loadError = false;
-      S.listings = new Map(site.listings.map((l) => [l.id, l]));
-      render();
+      if (!site || !Array.isArray(site.listings)) throw new Error("the list came back incomplete");
+      retries = 0;
+      const hadError = !!S.loadError;
+      S.loadError = null;
+      const changed = !S.site || S.savedCopy || site.generatedAt !== S.site.generatedAt;
+      if (changed) { store.set("site", site); applySite(site, false); return; }
+      const s = S.search;
+      if (s.awaitingData && (s.awaitTries = (s.awaitTries || 0) + 1) < 12) {
+        retryTimer = setTimeout(loadData, 10000);   // the new list can take a minute to reach the website
+        return;
+      }
+      if (s.awaitingData) { s.awaitingData = null; s.msg = "Search finished. The list hasn't changed."; }
+      if (hadError || s.msg) render();
     } catch (e) {
-      if (!S.site) { S.loadError = true; render(); }
+      S.loadError = (e && e.message) || "no connection";
+      const waits = [3000, 8000, 20000, 60000];
+      retryTimer = setTimeout(loadData, waits[Math.min(retries++, waits.length - 1)]);
+      render();
     }
   }
 
   // ---------- search button (GitHub Actions) ----------
-  const api = (path, opts = {}) => {
-    const token = store.get("token", "");
+  const api = (path, opts = {}, useToken = true) => {
+    const token = useToken ? store.get("token", "") : "";
     const headers = { Accept: "application/vnd.github+json", ...(opts.headers || {}) };
     if (token) headers.Authorization = "Bearer " + token;
     return fetch("https://api.github.com/repos/" + REPO + path, { ...opts, headers });
   };
+  async function getRuns(query) {
+    let res = await api(`/actions/workflows/${WORKFLOW}/runs?${query}`);
+    if (res.status === 401) res = await api(`/actions/workflows/${WORKFLOW}/runs?${query}`, {}, false);
+    if (!res.ok) throw new Error("GitHub answered " + res.status);
+    return (await res.json()).workflow_runs || [];
+  }
   let pollTimer = null;
   async function checkRun() {
+    clearTimeout(pollTimer);
+    const s = S.search;
     try {
-      const res = await api(`/actions/workflows/${WORKFLOW}/runs?per_page=1`);
-      if (!res.ok) return;
-      const run = ((await res.json()).workflow_runs || [])[0] || null;
-      const was = S.search.run && S.search.run.status !== "completed";
-      S.search.run = run;
-      if (run && run.status !== "completed") {
-        S.search.state = "running"; S.search.msg = "";
-        clearTimeout(pollTimer); pollTimer = setTimeout(checkRun, 20000);
-      } else {
-        if (S.search.state === "running" || was) {
-          S.search.msg = run && run.conclusion === "success" ? `Search finished ${esc(ago(run.updated_at))}.` : run ? "The search didn't finish properly. It will try again on the hour." : "";
-          setTimeout(loadData, 5000);
+      if (s.dispatchAt) {
+        // follow the search this device started; GitHub takes a few seconds to create it,
+        // so an older finished search must not be mistaken for it
+        const runs = await getRuns("event=workflow_dispatch&per_page=5");
+        const mine = runs.find((r) => Date.parse(r.created_at) >= s.dispatchAt - 60000);
+        if (!mine) {
+          if (Date.now() - s.dispatchAt < 3 * 60000) {
+            s.msg = "Search requested. Waiting for GitHub to start it…";
+            pollTimer = setTimeout(checkRun, 8000);
+          } else {
+            s.dispatchAt = null; s.state = "idle";
+            s.msg = "GitHub hasn't started the search yet. It may be busy; the hourly search still runs.";
+          }
+        } else if (mine.status !== "completed") {
+          s.state = "running"; s.run = mine;
+          s.msg = `Searching now (started ${esc(ago(mine.created_at))}). It takes about 3 minutes.`;
+          pollTimer = setTimeout(checkRun, 15000);
+        } else {
+          s.dispatchAt = null; s.state = "idle"; s.run = mine;
+          if (mine.conclusion === "success") {
+            s.msg = "Search finished. Getting the new list…";
+            s.awaitingData = Date.parse(mine.created_at); s.awaitTries = 0;
+            loadData();
+          } else s.msg = "The search didn't finish properly. The hourly search will try again.";
         }
-        if (S.search.state !== "starting") S.search.state = "idle";
+      } else {
+        // otherwise just show whether a search (hourly, or from another device) is running now
+        const run = (await getRuns("per_page=1"))[0];
+        if (run && run.status !== "completed") {
+          s.state = "running"; s.run = run;
+          s.msg = `Searching now (started ${esc(ago(run.created_at))}).`;
+          pollTimer = setTimeout(checkRun, 20000);
+        } else if (s.state === "running") {
+          s.state = "idle"; s.msg = "Search finished. Getting the new list…";
+          s.awaitingData = run ? Date.parse(run.created_at) : Date.now() - 600000; s.awaitTries = 0;
+          loadData();
+        }
       }
-      renderSearch();
-    } catch (e) {}
+    } catch (e) {
+      if (s.dispatchAt || s.state === "running") pollTimer = setTimeout(checkRun, 15000);
+    }
+    renderSearch();
   }
   async function searchNow() {
     const token = store.get("token", "");
@@ -698,17 +766,19 @@
       renderMinimise();
       return;
     }
+    if (S.search.state === "running" || S.search.state === "starting" || S.search.dispatchAt) return;
     S.search.state = "starting"; S.search.msg = "Starting the search…"; renderSearch();
     try {
       const res = await api(`/actions/workflows/${WORKFLOW}/dispatches`, { method: "POST", body: JSON.stringify({ ref: "main" }) });
       if (res.status === 204) {
-        S.search.state = "running"; S.search.msg = "Search started. New places appear here a few minutes after it finishes.";
+        S.search.state = "running"; S.search.dispatchAt = Date.now();
+        S.search.msg = "Search requested. Waiting for GitHub to start it…";
         renderSearch();
-        setTimeout(checkRun, 6000);
+        pollTimer = setTimeout(checkRun, 5000);
       } else {
         S.search.state = "idle";
         S.search.msg = res.status === 401 || res.status === 403 || res.status === 404
-          ? `GitHub didn't accept the saved token (error ${res.status}). It may have expired: set it up again under "One-tap search on this device".`
+          ? `GitHub didn't accept the saved key (error ${res.status}). It may have expired: set it up again under "One-tap search on this device".`
           : `GitHub didn't start the search (error ${res.status}). Try again in a minute.`;
         renderSearch();
       }
@@ -756,6 +826,7 @@
     else if (act === "sent-no" && l) { draftFor(l).askSent = false; renderList(); }
     else if (act === "rewrite" && l) { const d = draftFor(l); d.touched = false; renderList(); }
     else if (act === "search-now") searchNow();
+    else if (act === "reload") { retries = 0; loadData(); }
   });
 
   document.addEventListener("change", (ev) => {
@@ -834,6 +905,8 @@
     }
   });
 
+  const savedSite = store.get("site", null);
+  if (savedSite && Array.isArray(savedSite.listings)) applySite(savedSite, true);
   render(); fillSettings();
   loadData();
   checkRun();
