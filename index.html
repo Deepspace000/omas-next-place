@@ -71,6 +71,9 @@
   .runline b { color: var(--ink); }
   .searchnow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
   .searchnow .note { font-size: 14px; color: var(--ink-2); max-width: 62ch; }
+  .setup { background: var(--bay-950); border: 1px solid var(--coral); border-radius: 12px; padding: 14px; display: grid; gap: 12px; max-width: 760px; }
+  .setup h3 { margin: 0; font: 700 22px/1.1 var(--display); color: var(--sand); letter-spacing: 0.01em; }
+  .setup p { margin: 0; }
 
   /* ---------- summary tiles ---------- */
   .tally { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-block: 18px 6px; }
@@ -195,6 +198,24 @@
     </ul>
     <div class="runline" id="runline"><span>Loading the list…</span></div>
     <div class="searchnow" id="searchNow" aria-live="polite"></div>
+    <div class="setup" id="searchSetup" hidden>
+      <h3>Set up this device to search</h3>
+      <p>To start a search from this page, the page needs a key from GitHub. You do this once on each phone, iPad or PC. It takes about two minutes.</p>
+      <ol class="steps">
+        <li>Tap <b>Get a key from GitHub</b>. GitHub opens with the name, time limit and permission already filled in. Log in if it asks.</li>
+        <li>Under <b>Repository access</b>, choose <b>Only select repositories</b> and pick <b>omas-next-place</b>.</li>
+        <li>Scroll down, tap <b>Generate token</b>, then copy the key it shows you (it starts with github_pat_).</li>
+        <li>Come back to this page, paste the key below and tap <b>Save and search</b>.</li>
+      </ol>
+      <div class="send-row"><a class="btn" href="https://github.com/settings/personal-access-tokens/new?name=Oma+search&description=Starts+the+search+on+Oma%27s+Next+Place&target_name=Deepspace000&expires_in=366&actions=write" target="_blank" rel="noopener">Get a key from GitHub</a></div>
+      <div class="field"><label for="setupToken">Paste the key here</label><input id="setupToken" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></div>
+      <div class="send-row">
+        <button type="button" class="btn primary" id="setupSave">Save and search</button>
+        <button type="button" class="btn" id="setupCancel">Not now</button>
+        <span class="msg" id="setupMsg" aria-live="polite"></span>
+      </div>
+      <p class="fine">The key stays on this device only, and it can only start this search. Or <a href="https://github.com/Deepspace000/omas-next-place/actions/workflows/search.yml" target="_blank" rel="noopener">start just this one search on GitHub</a> (tap "Run workflow" twice).</p>
+    </div>
   </header>
 
   <div class="tally" id="tally" aria-live="polite"></div>
@@ -249,13 +270,11 @@
   <details class="fold" id="tokenFold">
     <summary>One-tap search on this device</summary>
     <div class="settings">
-      <p class="h2note">Without this, "Search for new places now" opens GitHub, where you tap "Run workflow" twice. With it, the button starts the search by itself. You set it up once on each phone, iPad or PC.</p>
+      <p class="h2note">With a key saved, "Search for new places now" starts the search right here on the page. You set it up once on each phone, iPad or PC.</p>
       <ol class="steps">
-        <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub's new token page</a> (log in if it asks).</li>
-        <li>Name it "Oma search". Set the expiry to a year.</li>
-        <li>Under Repository access, pick "Only select repositories" and choose <b>omas-next-place</b>.</li>
-        <li>Under Permissions, find <b>Actions</b> and set it to "Read and write". Leave everything else as it is.</li>
-        <li>Press "Generate token", copy it, and paste it below.</li>
+        <li>Open <a href="https://github.com/settings/personal-access-tokens/new?name=Oma+search&description=Starts+the+search+on+Oma%27s+Next+Place&target_name=Deepspace000&expires_in=366&actions=write" target="_blank" rel="noopener">GitHub's new key page</a>. The name, time limit and permission are already filled in. Log in if it asks.</li>
+        <li>Under <b>Repository access</b>, choose <b>Only select repositories</b> and pick <b>omas-next-place</b>.</li>
+        <li>Tap <b>Generate token</b>, copy the key, and paste it below.</li>
       </ol>
       <div class="field"><label for="tokenInput">GitHub token</label><input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></div>
       <div class="send-row">
@@ -610,11 +629,11 @@
     const runNote = s.run && s.run.status !== "completed" ? `Searching now (started ${esc(ago(s.run.created_at))}). New places appear here a minute or two after it finishes.` : "";
     $("#searchNow").innerHTML =
       `<button type="button" class="btn primary" data-act="search-now" ${busy ? "disabled" : ""}>${busy ? "Searching…" : "Search for new places now"}</button>` +
-      `<span class="note">${s.msg || runNote || "It also searches by itself every hour from 6am to 10pm. Pressing this also makes Claude look again for missing agent emails."}</span>`;
+      `<span class="note">${s.msg || runNote || "It also searches by itself every hour from 6am to 10pm. Pressing this also makes Claude look again for missing agent emails." + (store.get("token", "") ? "" : " The first time on each device, it asks you to set the device up.")}</span>`;
   }
 
   function renderMinimise() {
-    const anyOpen = S.open || S.area !== "all" || document.querySelector("details[open]");
+    const anyOpen = S.open || S.area !== "all" || document.querySelector("details[open]") || !$("#searchSetup").hidden;
     $("#minimise").hidden = !anyOpen;
   }
 
@@ -673,9 +692,10 @@
   async function searchNow() {
     const token = store.get("token", "");
     if (!token) {
-      window.open(`https://github.com/${REPO}/actions/workflows/${WORKFLOW}`, "_blank", "noopener");
-      S.search.msg = 'On GitHub, tap "Run workflow", then the green "Run workflow" button. To make this button do it in one tap, open "One-tap search on this device" at the bottom of this page.';
-      renderSearch();
+      // no key on this device yet: explain and set it up here, never leave the page
+      $("#searchSetup").hidden = false;
+      $("#searchSetup").scrollIntoView({ block: "nearest", behavior: "smooth" });
+      renderMinimise();
       return;
     }
     S.search.state = "starting"; S.search.msg = "Starting the search…"; renderSearch();
@@ -713,7 +733,7 @@
     setTimeout(() => { btn.textContent = label; }, 1800);
   }
   function minimiseAll() {
-    S.open = null; S.area = "all"; store.set("area", "all");
+    S.open = null; S.area = "all"; store.set("area", "all"); $("#searchSetup").hidden = true;
     document.querySelectorAll("details[open]").forEach((d) => { d.open = false; });
     render();
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -786,9 +806,18 @@
     $("#setSubject").value = DEFAULT_WORDING.subject; $("#setBody").value = DEFAULT_WORDING.body;
     $("#settingsMsg").textContent = "Original wording put back. Press Save to keep it."; $("#settingsMsg").className = "msg warn";
   });
+  const TOKEN_RE = /^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/;
+  $("#setupSave").addEventListener("click", () => {
+    const v = $("#setupToken").value.trim();
+    if (!TOKEN_RE.test(v)) { $("#setupMsg").textContent = "That doesn't look like the key. It starts with github_pat_."; $("#setupMsg").className = "msg err"; return; }
+    store.set("token", v); $("#setupToken").value = ""; $("#setupMsg").textContent = "";
+    $("#searchSetup").hidden = true; renderMinimise();
+    searchNow();
+  });
+  $("#setupCancel").addEventListener("click", () => { $("#searchSetup").hidden = true; renderMinimise(); });
   $("#saveToken").addEventListener("click", () => {
     const v = $("#tokenInput").value.trim();
-    if (!/^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/.test(v)) { $("#tokenMsg").textContent = "That doesn't look like a GitHub token. It starts with github_pat_."; $("#tokenMsg").className = "msg err"; return; }
+    if (!TOKEN_RE.test(v)) { $("#tokenMsg").textContent = "That doesn't look like a GitHub token. It starts with github_pat_."; $("#tokenMsg").className = "msg err"; return; }
     store.set("token", v); $("#tokenInput").value = "";
     $("#tokenMsg").textContent = "Saved. The search button now works in one tap on this device."; $("#tokenMsg").className = "msg ok";
   });
@@ -799,7 +828,10 @@
   // the list is "new since you last looked" until you leave the page
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") store.set("lastVisit", new Date().toISOString());
-    else { loadData(); checkRun(); }
+    else {
+      loadData(); checkRun();
+      if (!$("#searchSetup").hidden) $("#setupToken").focus({ preventScroll: true });
+    }
   });
 
   render(); fillSettings();
