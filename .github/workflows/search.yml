@@ -14,6 +14,7 @@ permissions:
   pages: write
   id-token: write
 
+# one run at a time; a button press while a search is running waits its turn
 concurrency:
   group: oma-search
   cancel-in-progress: false
@@ -25,7 +26,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
+      # Start from the newest main, not the commit that was current when this run was queued.
+      # Otherwise runs queued back to back each start from an old copy and clash when saving.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -35,24 +40,35 @@ jobs:
         if: github.event_name != 'push'
         run: python rent_search.py
 
-      - name: Note that the search button was pressed (Claude then looks again for missing emails)
-        if: github.event_name == 'workflow_dispatch'
-        run: python update.py --request-email-retry
-
       - name: Update the page data
-        run: python update.py ${{ github.event_name == 'push' && '--rebuild' || '' }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python update.py --request-email-retry; fi
+          python update.py ${{ github.event_name == 'push' && '--rebuild' || '' }}
 
       - name: Save the results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
-          if git diff --cached --quiet; then
-            echo "Nothing changed"
-          else
-            git commit -m "Search results (${{ github.event_name }})"
-            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          save() {
+            git add data
+            if git diff --cached --quiet; then echo "Nothing changed"; return 0; fi
+            git commit -q -m "$1"
+            git push -q origin HEAD:main
+          }
+          if ! save "Search results (${{ github.event_name }})"; then
+            # Claude (or something else) saved in the meantime: redo the update on top of that
+            echo "Main moved on; updating again on top of it"
+            cp data/latest.json "$RUNNER_TEMP/latest.json"
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            cp "$RUNNER_TEMP/latest.json" data/latest.json
+            if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python update.py --request-email-retry; fi
+            python update.py ${{ github.event_name == 'push' && '--rebuild' || '' }}
+            save "Search results (${{ github.event_name }}, second try)"
           fi
+
+      - name: Check the page data before publishing
+        run: python -c "import json; d = json.load(open('data/site.json', encoding='utf-8')); assert isinstance(d['listings'], list); print(len(d['listings']), 'listings OK')"
 
       - name: Put the site together
         run: |
