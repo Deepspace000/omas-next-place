@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T07:37:04+10:00",
+ "generatedAt": "2026-09-29T07:40:00+10:00",
  "lastSearch": {
   "at": "2026-09-29T07:37:04+10:00",
   "found": 26,
@@ -45,7 +45,10 @@
  "requests": {
   "searchButtonAt": "2026-09-29T07:37:04+10:00"
  },
- "claude": {},
+ "claude": {
+  "lastReviewAt": "2026-09-29T07:38:44+10:00",
+  "emailRetryAt": "2026-09-29T07:38:44+10:00"
+ },
  "listings": [
   {
    "id": "rent-6489830",
@@ -1178,6 +1181,14 @@
      "phone": "0497 019 777",
      "source": "rent.com.au ad",
      "team": false
+    },
+    {
+     "name": "YSH Property",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@ysh.com.au",
+     "phone": "1300 368 658",
+     "source": "https://ysh.com.au/contact/",
+     "team": true
     }
    ],
    "otherAds": []
@@ -1221,12 +1232,28 @@
    "agency": "YSH Property",
    "contacts": [
     {
-     "name": "Indeea  Mallett",
-     "role": "Agent on the ad",
+     "name": "YSH Property leasing team",
+     "role": "Leasing (the ad's phone 0497 019 777 is the leasing line)",
+     "email": "leasing@ysh.com.au",
+     "phone": "0497 019 777",
+     "source": "https://ysh.com.au/team/",
+     "team": true
+    },
+    {
+     "name": "Indeea Mallett",
+     "role": "Agent named on the ad",
      "email": null,
      "phone": "0497 019 777",
-     "source": "rent.com.au ad",
+     "source": "https://www.rent.com.au/property/4-43-pioneer-st-zillmere-qld-4034-5981014",
      "team": false
+    },
+    {
+     "name": "YSH Property rentals",
+     "role": "Agency rentals email",
+     "email": "rentals@ysh.com.au",
+     "phone": "1300 368 658",
+     "source": "https://ysh.com.au/contact/",
+     "team": true
     }
    ],
    "otherAds": []
@@ -1347,6 +1374,14 @@
      "phone": "0497 019 777",
      "source": "rent.com.au ad",
      "team": false
+    },
+    {
+     "name": "YSH Property",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@ysh.com.au",
+     "phone": "1300 368 658",
+     "source": "https://ysh.com.au/contact/",
+     "team": true
     }
    ],
    "otherAds": []
@@ -1387,6 +1422,14 @@
      "phone": "0497 019 777",
      "source": "rent.com.au ad",
      "team": false
+    },
+    {
+     "name": "YSH Property",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@ysh.com.au",
+     "phone": "1300 368 658",
+     "source": "https://ysh.com.au/contact/",
+     "team": true
     }
    ],
    "otherAds": []
