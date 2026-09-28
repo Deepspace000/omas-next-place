@@ -1,0 +1,113 @@
+{
+  "agencies": [
+    {
+      "name": "Professionals Sandgate",
+      "website": "https://www.professionalssandgate.com.au",
+      "rentalsEmail": "rentals@professionalssandgate.com",
+      "generalEmail": null,
+      "phone": "(07) 3869 9999",
+      "address": "73 Brighton Road, Sandgate QLD 4017",
+      "source": "https://www.professionalssandgate.com.au/wp-content/uploads/2025/12/Application-Form-GENERAL-TENANCY.pdf"
+    },
+    {
+      "name": "Jim McKeering Real Estate - Sandgate (McKeering Real Estate)",
+      "website": "https://www.mckeeringrealestate.com.au",
+      "rentalsEmail": null,
+      "generalEmail": "info@mckeeringrealestate.com.au",
+      "phone": "(07) 3269 1276",
+      "address": "200 Seymour Street, Sandgate QLD 4017",
+      "source": "https://www.mckeeringrealestate.com.au/contact"
+    },
+    {
+      "name": "Harcourts Solutions - Windsor",
+      "website": "https://www.harcourtssolutions.com.au",
+      "rentalsEmail": "rentals@harcourtssolutions.com.au",
+      "generalEmail": "windsor@harcourtssolutions.com.au",
+      "phone": "(07) 3505 4444",
+      "address": "142 Newmarket Road, Windsor QLD 4030 (postal: PO Box 3277, Newmarket QLD 4051)",
+      "source": "https://www.harcourtssolutions.com.au/contact/"
+    }
+  ],
+  "listings": [
+    {
+      "id": "rent-4394513",
+      "contacts": [
+        {
+          "name": "Rental Department",
+          "role": "Rentals office, Professionals Sandgate",
+          "email": "rentals@professionalssandgate.com",
+          "phone": "(07) 3869 9999",
+          "source": "https://www.professionalssandgate.com.au/wp-content/uploads/2025/12/Application-Form-GENERAL-TENANCY.pdf"
+        }
+      ],
+      "enquiryForm": "https://www.professionalssandgate.com.au/real-estate/property/764559/3-37-fifth-avenue-sandgate-qld-4017/",
+      "otherAds": [
+        {"site": "Agency website", "url": "https://www.professionalssandgate.com.au/real-estate/property/764559/3-37-fifth-avenue-sandgate-qld-4017/"},
+        {"site": "rent.com.au", "url": "https://www.rent.com.au/property/3-37-fifth-ave-sandgate-qld-4017-4394513"}
+      ],
+      "extraDetails": "Agency ad: \"Ground Floor 1 bedroom Flat\", \"Close to Transport\", \"Close to Shops\", \"Close to Waterfront\", \"Carport\"; available now (\"Avail. 25.09.2026\"). No bus stop or shop named. Pets are not mentioned in the ad; the agency's general rental guide says \"Pets may be considered upon application and if approved, may be subject to terms and conditions.\"",
+      "notes": "The email address appears only in the agency's own rental guide and application form (a PDF on its website, linked from the listing). It says to email applications there, and \"If you have any further questions ... contact our office on 07 3869 9999 or via email, rentals@professionalssandgate.com\". The address ends in .com, not .com.au, even though the website is .com.au. The same address is also in the page code of https://www.professionalssandgate.com.au/manage/. The website itself hides every staff email behind contact forms. No named property manager is given: the ad and the team page just say \"Rental Department\". To be told about inspections, the ad says to \"submit an email enquiry so that your contact details are added to the property contact list\". Web searches found no realestate.com.au, domain.com.au or homely.com.au ad for this flat."
+    },
+    {
+      "id": "rent-6488119",
+      "contacts": [
+        {
+          "name": "Brenda Pearson",
+          "role": "Senior Property Manager (listing agent)",
+          "email": "brenda@mckeeringrealestate.com.au",
+          "phone": "0455 260 728",
+          "source": "https://www.mckeeringrealestate.com.au/property?property_id=1847511/3-201-rainbow-street-sandgate"
+        },
+        {
+          "name": "McKeering Real Estate office",
+          "role": "General office",
+          "email": "info@mckeeringrealestate.com.au",
+          "phone": "(07) 3269 1276",
+          "source": "https://www.mckeeringrealestate.com.au/contact"
+        }
+      ],
+      "enquiryForm": "https://www.mckeeringrealestate.com.au/property?property_id=1847511/3-201-rainbow-street-sandgate",
+      "otherAds": [
+        {"site": "Agency website", "url": "https://www.mckeeringrealestate.com.au/property?property_id=1847511/3-201-rainbow-street-sandgate"},
+        {"site": "rent.com.au", "url": "https://www.rent.com.au/property/3-201-rainbow-st-sandgate-qld-4017-6488119"},
+        {"site": "domain.com.au (probably an older 2022 ad for the same flat)", "url": "https://www.domain.com.au/3-201-rainbow-street-sandgate-qld-4017-15929486"}
+      ],
+      "extraDetails": "Agency ad (same wording as rent.com.au): \"Downstairs laundry facilities\", \"Located in a well-maintained property with a total of four flats\", \"Carport included\", \"1 Bedroom with new carpet and air conditioning\"; features \"Fully Fenced\". No ad says which floor flat 3 is on, and none mentions stairs, pets, shops or buses. The agency's inspections page says \"No rental inspections available, please contact the office at 07 3269 1276 to make a private inspection time.\"",
+      "notes": "Brenda's email and mobile are shown on the listing page and on the team page (https://www.mckeeringrealestate.com.au/agents), where her title is Senior Property Manager. The site protects the email address with Cloudflare, so I checked it in a browser: it shows as a mailto link to brenda@mckeeringrealestate.com.au. The agency has no separate rentals email. jimmckeering.com.au redirects to mckeeringrealestate.com.au, the same site. The domain.com.au link turned up in web searches, but the search snippets describe it as available from 28 June 2022 at $260/wk. Domain blocks automated fetching, so I could not check whether it is the current ad. It is unclear which floor the flat is on. \"Downstairs laundry facilities\" suggests the flat itself may be upstairs, so ask Brenda about stairs. No pet policy was found anywhere on the agency's site."
+    },
+    {
+      "id": "rent-6173821",
+      "contacts": [
+        {
+          "name": "Dee Bloor",
+          "role": "Property Management Executive (listing agent)",
+          "email": "dee.bloor@harcourtssolutions.com.au",
+          "phone": "0408 065 628",
+          "source": "https://www.harcourtssolutions.com.au/rental/studio-qld-nundah-r3306362/"
+        },
+        {
+          "name": "Harcourts Solutions Property Management",
+          "role": "Rentals office (142 Newmarket Road, Windsor)",
+          "email": "rentals@harcourtssolutions.com.au",
+          "phone": "(07) 3112 9080",
+          "source": "https://www.harcourtssolutions.com.au/contact/"
+        },
+        {
+          "name": "Harcourts Solutions Windsor office",
+          "role": "General office",
+          "email": "windsor@harcourtssolutions.com.au",
+          "phone": "(07) 3505 4444",
+          "source": "https://www.harcourtssolutions.com.au/contact/"
+        }
+      ],
+      "enquiryForm": "https://www.harcourtssolutions.com.au/rental/studio-qld-nundah-r3306362/",
+      "otherAds": [
+        {"site": "Agency website", "url": "https://www.harcourtssolutions.com.au/rental/studio-qld-nundah-r3306362/"},
+        {"site": "Inspection booking page (Inspect Real Estate, linked from the agency ad)", "url": "https://book.inspectrealestate.com.au/RegisterNew?agentID=MD-HCRTSMITCHLETON&uniqueID=R3306362"},
+        {"site": "rent.com.au", "url": "https://www.rent.com.au/property/2-10-cavendish-st-nundah-qld-4012-6173821"}
+      ],
+      "extraDetails": "Agency ad: \"Situated within walking distance to Nundah shopping precinct, Nundah train station, and numerous parks and playing fields.\" Also \"extra storage under the house\" and \"Access to a shared laundry with a washing machine and a large shared yard\". The flat is in a house, but no ad says which floor it is on or mentions stairs or a lift. No car space is listed. Pets are not mentioned. The booking page says \"Available from: 16/10/26\".",
+      "notes": "The ad's phone number, (07) 3505 4444, is Harcourts Solutions' main Windsor office number (confirmed). Dee's own mobile, 0408 065 628, is on the listing page and on her profile (https://www.harcourtssolutions.com.au/dee-bloor/), which has an \"EMAIL Dee\" mailto link to the same address. The agency also has a separate Property Management line, (07) 3112 9080, with rentals@harcourtssolutions.com.au. The site footer also gives solutions@harcourtssolutions.com.au. The agency lists this as a \"Studio\" (1 bed, 1 bath). To see inspection times, it asks people to send an enquiry, and it replies by email with the available times. harcourts.net blocked automated access (403), so I did not use it. Web searches found no realestate.com.au, domain.com.au or homely.com.au ad for this flat."
+    }
+  ]
+}

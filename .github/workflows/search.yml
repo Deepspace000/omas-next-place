@@ -1,13 +1,71 @@
 name: Search for places
+
 on:
-  workflow_dispatch:
+  schedule:
+    # every hour from 6am to 10pm Brisbane time (UTC+10, no daylight saving)
+    - cron: "7 20-23 * * *"
+    - cron: "7 0-12 * * *"
+  workflow_dispatch:   # the "Search for new places now" button
+  push:                # Claude's reviews and emails, or page changes: rebuild without searching
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: oma-search
+  cancel-in-progress: false
+
 jobs:
   search:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Search rent.com.au (Redcliffe only, reachability test)
-        run: python rent_search.py --quick
+
+      - name: Search rent.com.au
+        if: github.event_name != 'push'
+        run: python rent_search.py
+
+      - name: Note that the search button was pressed (Claude then looks again for missing emails)
+        if: github.event_name == 'workflow_dispatch'
+        run: python update.py --request-email-retry
+
+      - name: Update the page data
+        run: python update.py ${{ github.event_name == 'push' && '--rebuild' || '' }}
+
+      - name: Save the results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+          else
+            git commit -m "Search results (${{ github.event_name }})"
+            for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+          fi
+
+      - name: Put the site together
+        run: |
+          mkdir -p _site/data
+          cp index.html manifest.webmanifest _site/
+          cp -r icons _site/
+          cp data/site.json _site/data/
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

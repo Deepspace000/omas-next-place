@@ -1,0 +1,134 @@
+{
+  "agencies": [
+    {
+      "name": "McGrath North Lakes",
+      "website": "https://mcgrathmb.com.au",
+      "rentalsEmail": "mcgrathnorthlakes@mail.inspectrealestate.com.au",
+      "generalEmail": "northlakes@mcgrath.com.au",
+      "phone": "(07) 3888 0098",
+      "address": "11E/2-4 Flinders Parade, North Lakes QLD 4509",
+      "source": "https://mcgrathmb.com.au/meet-the-team/leasing-department/"
+    },
+    {
+      "name": "Calio & Scott Real Estate",
+      "website": "https://www.brightonbythesea.com.au",
+      "rentalsEmail": "caliorentals@gmail.com",
+      "generalEmail": "calioscottsales@gmail.com",
+      "phone": "(07) 3269 9466",
+      "address": "Shop 2, 353 Beaconsfield Terrace, Brighton QLD 4017",
+      "source": "https://www.brightonbythesea.com.au/our-team"
+    },
+    {
+      "name": "Rent My Property Redcliffe",
+      "website": "https://rentmyproperty.com.au",
+      "rentalsEmail": "rentals@rentmyproperty.com.au",
+      "generalEmail": "info@rentmyproperty.com.au",
+      "phone": "(07) 3203 6500",
+      "address": "545 Oxley Avenue, Redcliffe QLD 4020",
+      "source": "https://rentmyproperty.com.au/rental/7-17-thomas-street-nundah-qld-4012/ (rentals@) and https://rentmyproperty.com.au/contact-us/ (info@ and office phones)"
+    }
+  ],
+  "listings": [
+    {
+      "id": "rent-3180830",
+      "contacts": [
+        {
+          "name": "Leasing Department",
+          "role": "Property Management Team, McGrath North Lakes (the ad's contact)",
+          "email": "mcgrathnorthlakes@mail.inspectrealestate.com.au",
+          "phone": "(07) 3888 0098",
+          "source": "https://mcgrathmb.com.au/meet-the-team/leasing-department/"
+        },
+        {
+          "name": "Jane Longmuir",
+          "role": "Leasing Manager, McGrath North Lakes",
+          "email": "janelongmuir@mcgrath.com.au",
+          "phone": "(07) 3888 0098",
+          "source": "https://mcgrathmb.com.au/meet-the-team/jane-longmuir/"
+        },
+        {
+          "name": "McGrath North Lakes office",
+          "role": "General office",
+          "email": "northlakes@mcgrath.com.au",
+          "phone": "(07) 3888 0098",
+          "source": "https://mcgrathmb.com.au/contact-us/"
+        }
+      ],
+      "enquiryForm": "https://mcgrathmb.com.au/for-lease/2-81-jones-st-rothwell-qld-4022/",
+      "otherAds": [
+        {"site": "Agency website", "url": "https://mcgrathmb.com.au/for-lease/2-81-jones-st-rothwell-qld-4022/"},
+        {"site": "TenantApp", "url": "https://www.tenantapp.com.au/Rentals/ViewListing/1531802"},
+        {"site": "Inspection booking page (Inspect Real Estate, linked from the agency ad)", "url": "https://book.inspectrealestate.com.au/Register?agentid=McGrathNorthLakes&uniqueID=IRE1531802&Type=rental"},
+        {"site": "rent.com.au", "url": "https://www.rent.com.au/property/2-81-jones-st-rothwell-qld-4022-3180830"}
+      ],
+      "extraDetails": "Agency ad (same wording as rent.com.au): \"Private entrance\", \"Large fully fenced yard\", \"Covered alfresco overlooking spacious and private garden\", \"One undercover car park and extra driveway parking\". Shops: \"close to all amenities, including supermarkets, schools, the Redcliffe Peninsula, Mango Hill train line & the iconic Westfield North Lakes\". No ad mentions pets, stairs, which level the duplex is on, or a bus stop. The agency ad says \"Available from Monday 19 Oct\" and inspections are \"View by appointment\"; the booking page and TenantApp show no inspection times yet.",
+      "notes": "The ad names only \"Leasing Department\". On the agency's website that contact links to the \"Property Management Team\" page, whose only email link (\"Email Property Management\") is mcgrathnorthlakes@mail.inspectrealestate.com.au. That is McGrath's Inspect Real Estate enquiry inbox: TenantApp's copy of the ad gives the same address for \"Leasing Department\", and the enquiry form on the agency's listing page sends to it. If you would rather write to a named person, Jane Longmuir's title is \"Leasing Manager\". Her email link is on her profile and on https://mcgrathmb.com.au/north-lakes/property-management/. The office inbox, northlakes@mcgrath.com.au, is on every page of the site and on McGrath's national office page (https://www.mcgrath.com.au/offices/north-lakes-a0v5g000002CSVjAAO). Copying northlakes@ into the email would be a sensible backup. The ad's phone number, (07) 3888 0098, is correct, and all the staff share it. Web searches found no domain.com.au or homely.com.au ad for this duplex, and Homely's Rothwell rentals list doesn't include it. My tools can't search or open realestate.com.au, so I couldn't check it. Domain has a profile for this \"Leasing Department\" agent (https://www.domain.com.au/real-estate-agent/leasing-department-1911826/), but I didn't open it because Domain blocks automated access."
+    },
+    {
+      "id": "rent-6476171",
+      "contacts": [
+        {
+          "name": "Calio Office",
+          "role": "Rentals office, Calio & Scott Real Estate (the ad's contact)",
+          "email": "caliorentals@gmail.com",
+          "phone": "(07) 3269 9466",
+          "source": "https://www.brightonbythesea.com.au/our-team"
+        },
+        {
+          "name": "Jason Bower",
+          "role": "Director Property Management, Calio & Scott Real Estate",
+          "email": "caliorentals@gmail.com",
+          "phone": "0478 771 350",
+          "source": "https://www.brightonbythesea.com.au/our-team"
+        },
+        {
+          "name": "Calio & Scott office (sales)",
+          "role": "Agency's general and sales email",
+          "email": "calioscottsales@gmail.com",
+          "phone": "(07) 3269 9466",
+          "source": "https://www.brightonbythesea.com.au/our-team"
+        }
+      ],
+      "enquiryForm": "https://www.brightonbythesea.com.au/property/1966/unit-2--31-view-street-woody-point-qld",
+      "otherAds": [
+        {"site": "Agency website", "url": "https://www.brightonbythesea.com.au/property/1966/unit-2--31-view-street-woody-point-qld"},
+        {"site": "homely.com.au", "url": "https://www.homely.com.au/homes/unit-2-31-view-street-woody-point-qld-4019/13469667"},
+        {"site": "TenantApp", "url": "https://www.tenantapp.com.au/Rentals/ViewListing/6205775"},
+        {"site": "Inspection booking page (Inspect Real Estate, linked from the agency ad)", "url": "https://book.inspectrealestate.com.au/Register?AgentAccountName=CalioandScott&address=Unit%202%2C%2031%20View%20Street%2C%20Woody%20Point&type=rental"},
+        {"site": "rent.com.au", "url": "https://www.rent.com.au/property/unit-2-31-view-st-woody-point-qld-4019-6476171"}
+      ],
+      "extraDetails": "Agency ad (Property ID 1966, same wording as rent.com.au): \"just a short walk from the water and local amenities\", \"easy access to public transport\", \"covered carport for parking\", \"built-in wardrobe\", \"brand-new flooring and fixtures throughout\". No ad names a shop or bus stop, says which floor unit 2 is on, or mentions stairs, a lift or pets. It is available now, but the inspection booking page says \"NO INSPECTION TIMES AVAILABLE\" (checked 29 Sep 2026).",
+      "notes": "The ad's phone number, +6132699466, is missing the 7. The office number is (07) 3269 9466, shown on every page of the agency's website. The site also lists a second, unlabelled number, (07) 3269 8488. The ad's contact is \"Calio Office\" (job title \"Administration\"). The agency's listing page shows it with phone 3269 9466, and the page's built-in listing data gives its email as caliorentals@gmail.com. TenantApp's copy of the ad lists Calio Office with the same email and +61 7 3269 9466. The Our Team page shows caliorentals@gmail.com as the email link for Jason Bower, Director Property Management (mobile 0478 771 350). So although it is a Gmail address, it is the agency's real rentals inbox, and brightonbythesea.com.au is the agency's own website. calioscottsales@gmail.com is the sales address, used for Carl Calio (Sales Team) and Michelle Delaney (Director - Principal), so use it only as a backup. Web searches found no domain.com.au ad, and I couldn't check realestate.com.au. One thing is uncertain: 31 View Street sold in July 2021 as a 5-bedroom, 3-bathroom house on 607 square metres (sale record on imageproperty.com.au). This unit may therefore be part of a converted house, so ask which level unit 2 is on and how many steps there are."
+    },
+    {
+      "id": "rent-3742596",
+      "contacts": [
+        {
+          "name": "Rent My Property",
+          "role": "Rentals inbox, Rent My Property (the ad's contact)",
+          "email": "rentals@rentmyproperty.com.au",
+          "phone": "(07) 3193 3450",
+          "source": "https://rentmyproperty.com.au/rental/7-17-thomas-street-nundah-qld-4012/"
+        },
+        {
+          "name": "Rent My Property Redcliffe office",
+          "role": "Brisbane Northside to Sunshine Coast office (545 Oxley Ave, Redcliffe), general email",
+          "email": "info@rentmyproperty.com.au",
+          "phone": "(07) 3203 6500",
+          "source": "https://rentmyproperty.com.au/contact-us/"
+        }
+      ],
+      "enquiryForm": "https://book.inspectrealestate.com.au/RegisterNew?agentid=MD-RMPROP&uniqueID=21781548&Type=rental",
+      "otherAds": [
+        {"site": "Agency website", "url": "https://rentmyproperty.com.au/rental/7-17-thomas-street-nundah-qld-4012/"},
+        {"site": "homely.com.au", "url": "https://www.homely.com.au/homes/7-17-thomas-street-nundah-qld-4012/6443794"},
+        {"site": "TenantApp", "url": "https://app.tenantapp.com.au/Rentals/ViewListing/2419144"},
+        {"site": "Inspection booking page (Inspect Real Estate, linked from the agency ad)", "url": "https://book.inspectrealestate.com.au/RegisterNew?agentid=MD-RMPROP&uniqueID=21781548&Type=rental"},
+        {"site": "domain.com.au (probably an older Feb 2025 ad for the same unit)", "url": "https://www.domain.com.au/7-17-thomas-street-nundah-qld-4012-14018204"},
+        {"site": "rent.com.au", "url": "https://www.rent.com.au/property/7-17-thomas-st-nundah-qld-4012-3742596"}
+      ],
+      "extraDetails": "Agency ad (same text as rent.com.au, TenantApp and Homely): \"All studios are unfurnished with a private balcony or courtyard\". Shops: \"Nundah Village - 800m or a 10 mins walk\". Buses: \"Closest Bus Stop approximately 600 metres\" (the ad also says \"just 500m\"), \"Bus Route 300, 310 (City express)\", every 30 minutes from 6am to 8.30pm. Nundah train station is 700 m away. Also \"Laundry facility on site by use of gold coins\" and \"Electricity is a your expense\"; there is no car space. Pets: 7/17's own ads say nothing. The sister ad for studio 5/17 (same building, same agency: https://rentmyproperty.com.au/rental/5-17-thomas-st-nundah-qld-4012/) says \"-No Pets\" and \"(Single Living Only)\". Floor: not stated for unit 7. A property profile of the building (seen only as ratemyagent.com.au search-result text) says the \"ground floor has 10 studio apartments and 1 one bedroom apartment\", and Level 1 has 5 studios, 1 one-bedroom unit and 5 lofts with \"internal stairs\". No lift is mentioned. TenantApp shows an inspection on Wed 30 Sep, 1:00-1:15 pm.",
+      "notes": "Confirmed: rentals@rentmyproperty.com.au is published on the agency's own ad for 7/17 as a \"Contact Rent My Property by Email\" link, and TenantApp's copy of the ad gives the same address. The ad's phone number, +6131933450, is missing the 7: it is (07) 3193 3450. That number appears on the TenantApp ad and on TenantApp's Rent My Property page, and the agency's own ad shows it as \"31933450\". TenantApp pairs it with an older Carina address (866 Old Cleveland Road). The agency's current contact page doesn't list Carina or that number. The ad is filed under the Redcliffe office, which the contact page calls \"Brisbane Northside to Sunshine Coast\": 545 Oxley Ave, Redcliffe, phone (07) 3203 6500, info@rentmyproperty.com.au. The head-office line on the same page is (07) 3709 5555. No named property manager appears anywhere. Pets: expect a no-pets building. 5/17 says \"No Pets\", and web-search summaries of older, now-removed ads for units 1 and 19 also said no pets (not verified). Ask directly about a small indoor cat. The domain.com.au link is probably an older ad for this unit: the search snippet shows $300 a week, available 12 Feb 2025. Domain blocks automated fetching, so I couldn't check it, and I couldn't check realestate.com.au either. The ad is aimed at students and young professionals; the unit is a studio (1 bed, 1 bath, no parking). The enquiry link above is the agency's inspection booking page, because the listing page has no enquiry form. The agency's general contact form is at https://rentmyproperty.com.au/contact-us/."
+    }
+  ]
+}

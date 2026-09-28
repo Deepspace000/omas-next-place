@@ -1,0 +1,813 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Oma's Next Place</title>
+<meta name="description" content="Small 1-bedroom rentals around Redcliffe and north Brisbane that could suit Oma and her cat.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0b1d31">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;700&family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  /* One deliberate look: the deep blue of Moreton Bay at dusk, with sunset coral for what needs a tap. */
+  :root {
+    color-scheme: dark;
+    --bay-950: #081727;
+    --bay-900: #0b1d31;
+    --bay-850: #0f243c;
+    --bay-800: #132b47;
+    --bay-700: #1a3758;
+    --bay-600: #25486f;
+    --ink: #eef4fa;
+    --ink-2: #b4c6d9;
+    --ink-3: #8aa3bd;
+    --sand: #f1e2c4;
+    --coral: #ff9466;
+    --coral-ink: #2a1206;
+    --good: #83dcab;
+    --good-bg: rgba(131, 220, 171, 0.13);
+    --ask: #f3c85e;
+    --ask-bg: rgba(243, 200, 94, 0.13);
+    --bad: #f39189;
+    --bad-bg: rgba(243, 145, 137, 0.13);
+    --focus: #9fd3ff;
+    --radius: 14px;
+    --display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+    --body: "Atkinson Hyperlegible Next", "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bay-900); }
+  body {
+    margin: 0;
+    background: var(--bay-900);
+    color: var(--ink);
+    font: 16px/1.5 var(--body);
+    -webkit-font-smoothing: antialiased;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  [hidden] { display: none !important; }
+  img { max-width: 100%; }
+  .wrap { max-width: 1120px; margin: 0 auto; padding-inline: 16px; padding-block: 20px 96px; }
+  a { color: var(--sand); }
+  button, input, textarea, select { font: inherit; color: inherit; }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 6px; }
+  .num { font-variant-numeric: tabular-nums; }
+
+  /* ---------- header ---------- */
+  .top { display: grid; gap: 14px; padding-block: 8px 18px; border-bottom: 1px solid var(--bay-700); }
+  .eyebrow { font: 700 13px/1 var(--body); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
+  h1 { margin: 0; font: 700 clamp(40px, 9vw, 64px)/0.95 var(--display); letter-spacing: 0.005em; color: var(--sand); text-wrap: balance; }
+  .lede { margin: 0; color: var(--ink-2); max-width: 62ch; }
+  .wants { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+  .wants li { padding: 5px 11px; border-radius: 999px; background: var(--bay-800); border: 1px solid var(--bay-600); font-size: 14px; }
+  .runline { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 14px; color: var(--ink-2); }
+  .runline b { color: var(--ink); }
+  .searchnow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
+  .searchnow .note { font-size: 14px; color: var(--ink-2); max-width: 62ch; }
+
+  /* ---------- summary tiles ---------- */
+  .tally { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-block: 18px 6px; }
+  .tile { background: var(--bay-850); border: 1px solid var(--bay-700); border-radius: var(--radius); padding: 12px 14px; }
+  .tile .n { font: 700 34px/1 var(--display); }
+  .tile .l { font-size: 14px; color: var(--ink-2); }
+  .tile.coral .n { color: var(--coral); }
+
+  /* ---------- filters ---------- */
+  .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin-block: 18px 14px; }
+  .chip { border: 1px solid var(--bay-600); background: transparent; border-radius: 999px; padding: 7px 13px; font-size: 14px; cursor: pointer; color: var(--ink-2); }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--bay-900); border-color: var(--ink); font-weight: 700; }
+  .toggle { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; color: var(--ink-2); margin-left: auto; cursor: pointer; }
+  .toggle input { width: 18px; height: 18px; accent-color: var(--coral); }
+
+  h2 { font: 700 28px/1.1 var(--display); margin: 34px 0 6px; color: var(--sand); letter-spacing: 0.01em; }
+  .h2note { margin: 0 0 14px; color: var(--ink-2); font-size: 15px; max-width: 70ch; }
+
+  /* ---------- listing cards ---------- */
+  .grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+  @media (min-width: 800px) { .grid { grid-template-columns: 1fr 1fr; align-items: start; } }
+  .card { background: var(--bay-800); border: 1px solid var(--bay-700); border-radius: var(--radius); padding: 16px; display: grid; gap: 12px; min-width: 0; }
+  .card.is-open { grid-column: 1 / -1; }
+  .card.dim { opacity: 0.72; }
+  .photos { display: flex; gap: 8px; overflow-x: auto; scroll-snap-type: x mandatory; margin: -6px -6px 0; padding-bottom: 4px; }
+  .photos img { flex: 0 0 86%; width: 86%; max-width: 86%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 10px; scroll-snap-align: start; background: var(--bay-700); }
+  .photos img:only-child { flex-basis: 100%; width: 100%; max-width: 100%; }
+  .card-top { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .new { background: var(--coral); color: var(--coral-ink); font-weight: 700; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; }
+  .area { font-size: 13px; color: var(--ink-3); letter-spacing: 0.04em; text-transform: uppercase; font-weight: 700; }
+  .price { margin-left: auto; font: 700 30px/1 var(--display); white-space: nowrap; }
+  .price small { font: 400 14px var(--body); color: var(--ink-2); }
+  .tagv { font-size: 12px; font-weight: 700; border-radius: 6px; padding: 2px 6px; }
+  .tagv.good { color: var(--good); background: var(--good-bg); }
+  .tagv.bad { color: var(--bad); background: var(--bad-bg); }
+  .tagv.ask { color: var(--ask); background: var(--ask-bg); }
+  .over { font-size: 12px; font-weight: 700; color: var(--ask); border: 1px solid currentColor; border-radius: 6px; padding: 2px 6px; }
+  .addr { margin: 0; font: 700 27px/1.05 var(--display); letter-spacing: 0.01em; text-wrap: balance; overflow-wrap: anywhere; }
+  .addr .sub { display: block; font: 600 19px/1.2 var(--display); color: var(--ink-2); letter-spacing: 0.02em; margin-top: 3px; }
+  .sum { margin: 0; }
+  .checks { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .chk { display: grid; grid-template-columns: 64px 1fr; gap: 10px; align-items: start; padding: 7px 10px; border-radius: 10px; font-size: 15px; }
+  .chk .k { font-weight: 700; font-size: 13px; letter-spacing: 0.05em; text-transform: uppercase; padding-top: 1px; }
+  .chk.good { background: var(--good-bg); } .chk.good .k { color: var(--good); }
+  .chk.ask { background: var(--ask-bg); } .chk.ask .k { color: var(--ask); }
+  .chk.bad { background: var(--bad-bg); } .chk.bad .k { color: var(--bad); }
+  .facts { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0; font-size: 14px; color: var(--ink-2); }
+  .facts div { display: flex; gap: 6px; }
+  .facts dt { color: var(--ink-3); }
+  .facts dd { margin: 0; color: var(--ink); }
+  .status { display: flex; flex-wrap: wrap; gap: 6px; }
+  .status button { border: 1px solid var(--bay-600); background: var(--bay-850); color: var(--ink-2); border-radius: 8px; padding: 6px 10px; font-size: 14px; cursor: pointer; }
+  .status button[aria-pressed="true"] { background: var(--sand); color: var(--bay-900); border-color: var(--sand); font-weight: 700; }
+  .status .lbl { font-size: 13px; color: var(--ink-3); align-self: center; margin-right: 2px; }
+  .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 44px; padding: 9px 16px; border-radius: 10px; border: 1px solid var(--bay-600); background: var(--bay-700); color: var(--ink); text-decoration: none; font-weight: 700; font-size: 15px; cursor: pointer; }
+  .btn:hover { border-color: var(--ink-3); }
+  .btn.primary { background: var(--coral); border-color: var(--coral); color: var(--coral-ink); }
+  .btn.small { min-height: 34px; padding: 5px 11px; font-size: 14px; }
+  .btn[disabled] { opacity: 0.55; cursor: default; }
+  .btn.greyed { background: transparent; color: var(--ink-3); border-style: dashed; cursor: not-allowed; }
+  .off { opacity: 0.4; filter: grayscale(1); pointer-events: none; }
+  .linkish { background: none; border: 0; padding: 0; color: var(--sand); text-decoration: underline; cursor: pointer; font: inherit; }
+  .sent-line { font-size: 14px; color: var(--good); }
+  details.notes summary { cursor: pointer; font-size: 14px; color: var(--ink-2); }
+  details.notes textarea { width: 100%; margin-top: 8px; min-height: 70px; resize: vertical; background: var(--bay-900); border: 1px solid var(--bay-600); border-radius: 10px; padding: 10px; }
+
+  /* ---------- composer ---------- */
+  .composer { background: var(--bay-950); border: 1px solid var(--bay-600); border-radius: 12px; padding: 14px; display: grid; gap: 14px; }
+  .composer h4 { margin: 0; font: 700 21px/1.1 var(--display); color: var(--sand); letter-spacing: 0.02em; }
+  .who { display: grid; gap: 8px; }
+  .who-row { display: grid; grid-template-columns: 22px 1fr; gap: 10px; align-items: start; padding: 10px 12px; border: 1px solid var(--bay-700); border-radius: 10px; background: var(--bay-850); cursor: pointer; }
+  .who-row:has(input:checked) { border-color: var(--coral); }
+  .who-row input { width: 18px; height: 18px; margin-top: 3px; accent-color: var(--coral); }
+  .who-name { font-weight: 700; }
+  .who-role { color: var(--ink-3); font-size: 14px; }
+  .line { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; font-size: 15px; overflow-wrap: anywhere; }
+  .line .val { font-family: var(--mono); font-size: 14px; user-select: all; }
+  .line .miss { color: var(--ask); font-size: 14px; }
+  .field { display: grid; gap: 6px; }
+  .field-head { display: flex; align-items: center; gap: 10px; justify-content: space-between; }
+  .field label { font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-3); font-weight: 700; }
+  .field input, .field textarea { width: 100%; background: var(--bay-900); border: 1px solid var(--bay-600); border-radius: 10px; padding: 10px 12px; }
+  .field textarea.body { font-family: var(--mono); font-size: 14px; line-height: 1.55; white-space: pre-wrap; overflow: hidden; resize: none; min-height: 280px; }
+  .send-row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .ask-sent { border: 1px solid var(--good); border-radius: 10px; padding: 10px 12px; display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; }
+  .msg { font-size: 14px; }
+  .msg.ok { color: var(--good); } .msg.warn { color: var(--ask); } .msg.err { color: var(--bad); }
+  .fine { font-size: 13px; color: var(--ink-3); }
+
+  /* ---------- seniors, ruled out, settings ---------- */
+  .plain { background: var(--bay-850); border: 1px solid var(--bay-700); border-radius: var(--radius); padding: 14px 16px; display: grid; gap: 8px; min-width: 0; }
+  .plain h3 { margin: 0; font: 700 22px/1.1 var(--display); letter-spacing: 0.01em; }
+  .plain .meta { font-size: 14px; color: var(--ink-2); }
+  .fit { font-size: 12px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; padding: 2px 7px; border-radius: 6px; justify-self: start; }
+  .fit.good { color: var(--good); background: var(--good-bg); } .fit.maybe { color: var(--ask); background: var(--ask-bg); } .fit.unlikely { color: var(--bad); background: var(--bad-bg); }
+  details.fold { border-top: 1px solid var(--bay-700); padding-top: 10px; margin-top: 26px; }
+  details.fold > summary { cursor: pointer; font: 700 24px/1.2 var(--display); color: var(--sand); }
+  .out-list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 8px; }
+  .out-list li { display: flex; flex-wrap: wrap; gap: 4px 12px; padding: 10px 12px; background: var(--bay-850); border-radius: 10px; font-size: 15px; }
+  .out-list .why { color: var(--bad); }
+  .settings { display: grid; gap: 12px; max-width: 760px; margin-top: 12px; }
+  .settings .two { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 520px) { .settings .two { grid-template-columns: 1fr; } }
+  .settings textarea { font-family: var(--mono); font-size: 14px; min-height: 300px; resize: vertical; }
+  .steps { margin: 0; padding-left: 20px; display: grid; gap: 6px; color: var(--ink-2); font-size: 15px; }
+  .log { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 6px; font-size: 14px; color: var(--ink-2); }
+  .empty { padding: 18px; border: 1px dashed var(--bay-600); border-radius: var(--radius); color: var(--ink-2); }
+  .banner { padding: 12px 14px; border-radius: 10px; background: var(--ask-bg); color: var(--ask); margin-top: 14px; }
+  .minimise { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 5; box-shadow: 0 6px 24px rgba(0, 0, 0, 0.45); }
+  @media (prefers-reduced-motion: no-preference) { .card { transition: border-color 0.2s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="eyebrow">Rental search · Redcliffe and north Brisbane</div>
+    <h1>Oma's Next Place</h1>
+    <p class="lede">A search of rent.com.au every hour from 6am to 10pm for a small 1-bedroom place for Oma and her cat. Tap <b>Email the agent</b> on any place to send the questions from your phone.</p>
+    <ul class="wants" aria-label="What we're looking for">
+      <li>1 bedroom</li><li>Up to $400 a week (shows to $430)</li><li>Cat allowed</li><li>No stairs</li><li>Near shops and a bus</li><li>Redcliffe first</li>
+    </ul>
+    <div class="runline" id="runline"><span>Loading the list…</span></div>
+    <div class="searchnow" id="searchNow" aria-live="polite"></div>
+  </header>
+
+  <div class="tally" id="tally" aria-live="polite"></div>
+
+  <div class="bar">
+    <span id="areaChips" role="group" aria-label="Show area"></span>
+    <label class="toggle"><input type="checkbox" id="hideDone"> Hide ones marked "Not for Oma"</label>
+  </div>
+
+  <div id="banner"></div>
+  <section aria-labelledby="h-look">
+    <h2 id="h-look">Places to look at</h2>
+    <p class="h2note">Best matches first, then places where the ad leaves something to ask, then long shots (a known problem like stairs). Within each group, Redcliffe Peninsula comes first.</p>
+    <div class="grid" id="list"><div class="empty">Loading the list…</div></div>
+  </section>
+
+  <section aria-labelledby="h-seniors" id="seniorsSec" hidden>
+    <h2 id="h-seniors">Seniors and over-50s rentals to call</h2>
+    <p class="h2note" id="seniorsNote"></p>
+    <div class="grid" id="seniors"></div>
+  </section>
+
+  <details class="fold" id="outFold">
+    <summary>Ruled out (<span id="outCount">0</span>)</summary>
+    <p class="h2note">Ads that say no pets, or that are rooms in a shared house. Kept here so they aren't suggested again.</p>
+    <ul class="out-list" id="outList"></ul>
+  </details>
+
+  <details class="fold" id="goneFold">
+    <summary>No longer advertised (<span id="goneCount">0</span>)</summary>
+    <ul class="out-list" id="goneList"></ul>
+  </details>
+
+  <details class="fold">
+    <summary>Email wording</summary>
+    <form class="settings" id="settingsForm">
+      <p class="h2note">This wording fills every email. Words in curly brackets are filled in for each place: {greeting} {address} {suburb} {price} {kind} {name} {phone}. It's saved on this device only.</p>
+      <div class="two">
+        <div class="field"><label for="setName">Your name</label><input id="setName" autocomplete="name"></div>
+        <div class="field"><label for="setPhone">Your phone (optional)</label><input id="setPhone" inputmode="tel" autocomplete="tel"></div>
+      </div>
+      <div class="field"><label for="setSubject">Subject</label><input id="setSubject"></div>
+      <div class="field"><label for="setBody">Message</label><textarea id="setBody"></textarea></div>
+      <div class="send-row">
+        <button class="btn primary" type="submit">Save wording</button>
+        <button class="btn" type="button" id="resetWording">Go back to the original wording</button>
+        <span class="msg" id="settingsMsg" aria-live="polite"></span>
+      </div>
+    </form>
+  </details>
+
+  <details class="fold" id="tokenFold">
+    <summary>One-tap search on this device</summary>
+    <div class="settings">
+      <p class="h2note">Without this, "Search for new places now" opens GitHub, where you tap "Run workflow" twice. With it, the button starts the search by itself. You set it up once on each phone, iPad or PC.</p>
+      <ol class="steps">
+        <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub's new token page</a> (log in if it asks).</li>
+        <li>Name it "Oma search". Set the expiry to a year.</li>
+        <li>Under Repository access, pick "Only select repositories" and choose <b>omas-next-place</b>.</li>
+        <li>Under Permissions, find <b>Actions</b> and set it to "Read and write". Leave everything else as it is.</li>
+        <li>Press "Generate token", copy it, and paste it below.</li>
+      </ol>
+      <div class="field"><label for="tokenInput">GitHub token</label><input id="tokenInput" type="password" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></div>
+      <div class="send-row">
+        <button class="btn primary" type="button" id="saveToken">Save on this device</button>
+        <button class="btn" type="button" id="clearToken">Remove it</button>
+        <span class="msg" id="tokenMsg" aria-live="polite"></span>
+      </div>
+      <p class="fine">The token stays in this browser only. It can only start this search; it can't read or change anything else.</p>
+    </div>
+  </details>
+
+  <details class="fold">
+    <summary>Search log</summary>
+    <p class="h2note">Every search. realestate.com.au and Domain block automatic searches, so ads that are only on those sites can be missed. Claude reads new ads and looks for agent emails every 2 hours from 7:30am to 9:30pm while the Claude app is open on the home PC.</p>
+    <ul class="log" id="log"></ul>
+  </details>
+</div>
+
+<button type="button" class="btn primary minimise" id="minimise" hidden>Minimise all</button>
+
+<script>
+(() => {
+  "use strict";
+  const REPO = "Deepspace000/omas-next-place";
+  const WORKFLOW = "search.yml";
+  const AREAS = ["Redcliffe Peninsula", "Deception Bay / North Lakes", "Sandgate / Brighton", "Northern suburbs"];
+  const STATUSES = [["", "To contact"], ["emailed", "Emailed"], ["replied", "Replied"], ["inspecting", "Inspecting"], ["no", "Not for Oma"]];
+  const DEFAULT_WORDING = {
+    name: "",
+    phone: "",
+    subject: "Enquiry about {address}, {suburb}",
+    body:
+      "{greeting}\n\n" +
+      "I'm enquiring about the {kind} at {address}, {suburb}, advertised at {price} a week. It would be for my mother, who is 84.\n\n" +
+      "Could you please let me know:\n\n" +
+      "1. Do you allow small indoor pets? She has a little quiet cat. It is desexed and stays inside.\n" +
+      "2. Are there any stairs to get to the unit? If so, how many?\n" +
+      "3. Is it near any shops, and is there a bus stop close by?\n" +
+      "4. When is it available, and when could we come and have a look?\n\n" +
+      "Thank you,\n{name}\n{phone}",
+  };
+
+  // ---------- this device's own storage (the origin is shared with other pages, so keys are prefixed) ----------
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("oma." + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("oma." + k, JSON.stringify(v)); return true; } catch (e) { return false; } },
+    del(k) { try { localStorage.removeItem("oma." + k); } catch (e) {} },
+  };
+
+  const S = {
+    site: null, listings: new Map(), marks: store.get("marks", {}), wording: store.get("wording", null),
+    area: store.get("area", "all"), hideDone: store.get("hideDone", false), open: null,
+    loadError: false, search: { state: "idle", msg: "", run: null },
+  };
+  const prevVisit = store.get("lastVisit", null) || new Date(Date.now() - 3 * 864e5).toISOString();
+  const drafts = {};
+  const $ = (sel, root = document) => root.querySelector(sel);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const money = (n) => (typeof n === "number" ? "$" + n : "");
+  const wording = () => ({ ...DEFAULT_WORDING, ...(S.wording || {}) });
+  const mark = (id) => S.marks[id] || {};
+
+  function fmtDate(iso, withTime) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d)) return iso;
+    const o = { weekday: "short", day: "numeric", month: "short" };
+    if (withTime) Object.assign(o, { hour: "numeric", minute: "2-digit" });
+    return d.toLocaleString("en-AU", o);
+  }
+  function ago(iso) {
+    const m = Math.round((Date.now() - Date.parse(iso)) / 60000);
+    if (!isFinite(m)) return "";
+    if (m < 1) return "just now";
+    if (m < 60) return m + " min ago";
+    const h = Math.round(m / 60);
+    return h < 24 ? h + (h === 1 ? " hour ago" : " hours ago") : fmtDate(iso, true);
+  }
+  function availText(a) {
+    if (!a) return "";
+    if (/^now$/i.test(a)) return "Now";
+    return a.replace(/(\d+)(st|nd|rd|th)/, "$1");
+  }
+
+  // ---------- ordering ----------
+  const verdictRank = { good: 0, maybe: 1, longshot: 2 };
+  function lookList() {
+    return [...S.listings.values()]
+      .filter((l) => l.verdict in verdictRank && !l.gone)
+      .filter((l) => S.area === "all" || l.area === S.area)
+      .filter((l) => !(S.hideDone && mark(l.id).status === "no"))
+      .sort((a, b) =>
+        (verdictRank[a.verdict] - verdictRank[b.verdict]) ||
+        (AREAS.indexOf(a.area) - AREAS.indexOf(b.area)) ||
+        ((a.price || 0) - (b.price || 0)));
+  }
+
+  // ---------- email text ----------
+  function firstName(c) {
+    if (!c) return "";
+    if (c.greet) return c.greet;
+    if (!c.name || c.team) return "";
+    const f = c.name.trim().split(/\s+/)[0];
+    return /^(the|rental|rentals|leasing|property|admin|office|team|for|private)$/i.test(f) ? "" : f;
+  }
+  function fill(tpl, l, c) {
+    const w = wording();
+    const fn = firstName(c);
+    const map = {
+      greeting: fn ? "Hi " + fn + "," : "Hi there,",
+      address: l.address || "", suburb: l.suburb || "", price: money(l.price),
+      kind: l.kind || "1-bedroom place", name: w.name || "", phone: w.phone || "",
+    };
+    return tpl.replace(/\{(\w+)\}/g, (m, k) => (k in map ? map[k] : m)).replace(/\n+$/g, "").replace(/\n{3,}/g, "\n\n");
+  }
+  function draftFor(l) {
+    const cs = l.contacts || [];
+    let d = drafts[l.id];
+    if (!d) {
+      const firstEmail = cs.findIndex((c) => c.email);
+      d = drafts[l.id] = { ci: firstEmail >= 0 ? firstEmail : 0, touched: false };
+    }
+    if (!d.touched) {
+      const c = cs[d.ci];
+      d.subject = fill(wording().subject, l, c);
+      d.body = fill(wording().body, l, c);
+    }
+    return d;
+  }
+  function smsText(l) {
+    const w = wording();
+    const code = l.smsCode ? " (code " + l.smsCode + ")" : "";
+    return "Hi, I'm enquiring about the " + (l.kind || "1-bedroom place") + " at " + l.address + ", " + l.suburb + code +
+      " for my mother, who is 84. Do you allow a small indoor cat? Are there any stairs, and how many? Is it near shops?" +
+      (w.name ? " Thanks, " + w.name : " Thanks");
+  }
+  const mailtoHref = (to, subject, body) => "mailto:" + encodeURIComponent(to) + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+  const gmailWebHref = (to, subject, body) => "https://mail.google.com/mail/?view=cm&fs=1&to=" + encodeURIComponent(to) + "&su=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+  function telHref(p) {
+    let d = String(p || "").replace(/\D/g, "");
+    if (d.startsWith("0") && !d.startsWith("1300")) d = "61" + d.slice(1);
+    return d ? "tel:+" + d : "";
+  }
+  const isMobile = (p) => /^04/.test(String(p || "").replace(/\D/g, "").replace(/^61/, "0"));
+  function callButtons(c, l) {
+    return `<a class="btn primary" href="${esc(telHref(c.phone))}">Call the agent <span class="num">${esc(c.phone)}</span></a>` +
+      (isMobile(c.phone) ? `<a class="btn" href="sms:${esc(telHref(c.phone).slice(4))}?body=${esc(encodeURIComponent(smsText(l)))}">Text them</a>` : "") +
+      `<button type="button" class="btn small" data-act="copy" data-text="${esc(c.phone)}">Copy number</button>`;
+  }
+
+  // ---------- rendering ----------
+  function checkRow(key, obj) {
+    if (!obj) return "";
+    const cls = { ok: "good", none: "good", lift: "good", close: "good", ask: "ask", some: "ask", no: "bad", stairs: "bad", far: "bad" }[obj.state] || "ask";
+    return `<li class="chk ${cls}"><span class="k">${key}</span><span class="v">${esc(obj.note || "")}</span></li>`;
+  }
+
+  function cardHTML(l) {
+    const m = mark(l.id);
+    const isOpen = S.open === l.id;
+    const isNew = !m.status && l.firstSeenAt && l.firstSeenAt > prevVisit;
+    const hasAnyEmail = (l.contacts || []).some((c) => c.email);
+    const caller = (l.contacts || []).find((c) => c.phone);
+    const statusBtns = STATUSES.map(([v, t]) =>
+      `<button type="button" data-act="status" data-id="${esc(l.id)}" data-v="${v}" aria-pressed="${(m.status || "") === v}">${t}</button>`).join("");
+    const facts = [
+      l.available && ["Available", availText(l.available)],
+      l.type && ["Type", l.type],
+      l.bond && ["Bond", money(l.bond)],
+      l.agency && ["Agent", l.agency],
+      l.firstSeenAt && ["Found", fmtDate(l.firstSeenAt)],
+    ].filter(Boolean).map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join("");
+    const photos = (l.photos || []).slice(0, 3);
+    return `
+      <article class="card${isOpen ? " is-open" : ""}${m.status === "no" ? " dim" : ""}" data-card="${esc(l.id)}">
+        ${photos.length ? `<div class="photos" aria-label="Photos from the ad">${photos.map((u, i) => `<img src="${esc(u)}" alt="Photo ${i + 1} of ${esc(l.address)}" loading="lazy" decoding="async" referrerpolicy="no-referrer">`).join("")}</div>` : ""}
+        <div class="card-top">
+          ${isNew ? '<span class="new">New</span>' : ""}
+          <span class="area">${esc(l.area || "")}</span>
+          <span class="price num">${money(l.price)} <small>a week</small></span>
+          ${(l.price || 0) > 400 ? '<span class="over">A bit over budget</span>' : ""}
+          ${l.verdict === "good" ? '<span class="tagv good">Best match</span>' : l.verdict === "longshot" ? '<span class="tagv bad">Long shot</span>' : ""}
+          ${l.reviewed === false ? '<span class="tagv ask">Not checked by Claude yet</span>' : ""}
+        </div>
+        <h3 class="addr">${esc(l.address)}<span class="sub">${esc(l.suburb)} ${esc(l.postcode || "")}</span></h3>
+        ${l.summary ? `<p class="sum">${esc(l.summary)}</p>` : ""}
+        <ul class="checks">${checkRow("Cat", l.cat)}${checkRow("Stairs", l.stairs)}${checkRow("Shops", l.shops)}</ul>
+        <dl class="facts">${facts}</dl>
+        ${m.emailedAt ? `<div class="sent-line">Emailed ${esc(m.emailedTo || "")} on ${esc(fmtDate(m.emailedAt, true))}</div>` : ""}
+        <div class="status" role="group" aria-label="Where you're up to"><span class="lbl">Where you're up to:</span>${statusBtns}</div>
+        <div class="actions">
+          ${hasAnyEmail
+            ? `<button type="button" class="btn primary" data-act="compose" data-id="${esc(l.id)}" aria-expanded="${isOpen}">${isOpen ? "Close the email" : "Email the agent"}</button>`
+            : `<button type="button" class="btn greyed" disabled title="No email found for this agent">Email the agent</button>`}
+          ${!hasAnyEmail && caller ? callButtons(caller, l) : ""}
+          ${l.url ? `<a class="btn" href="${esc(l.url)}" target="_blank" rel="noopener">Open the ad</a>` : ""}
+          ${(l.otherAds || []).map((a) => `<a class="btn small" href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.site)}</a>`).join("")}
+        </div>
+        ${!hasAnyEmail ? `<div class="fine">No email found for this agent yet. ${l.smsCode ? `Quote code <b>${esc(l.smsCode)}</b> when you call or text. ` : ""}${l.enquiryForm ? `<a href="${esc(l.enquiryForm)}" target="_blank" rel="noopener">Their enquiry form</a>` : ""}</div>` : ""}
+        ${isOpen ? composerHTML(l) : ""}
+        <details class="notes"${m.note ? " open" : ""}>
+          <summary>Notes${m.note ? "" : " (none yet)"}</summary>
+          <textarea data-act="note" data-id="${esc(l.id)}" id="note-${esc(l.id)}" aria-label="Notes about ${esc(l.address)}" placeholder="e.g. rang Tuesday, inspection Sat 10am">${esc(m.note || "")}</textarea>
+        </details>
+      </article>`;
+  }
+
+  function composerHTML(l) {
+    const d = draftFor(l);
+    const cs = l.contacts || [];
+    const c = cs[d.ci] || {};
+    const hasEmail = !!c.email;
+    const rows = cs.map((x, i) => `
+      <label class="who-row">
+        <input type="radio" name="who-${esc(l.id)}" data-act="pick" data-id="${esc(l.id)}" data-i="${i}" ${i === d.ci ? "checked" : ""}>
+        <span>
+          <span class="who-name">${esc(x.name || "Agent")}</span> <span class="who-role">${esc(x.role || "")}</span>
+          <span class="line">${x.email ? `<span class="val">${esc(x.email)}</span><button type="button" class="btn small" data-act="copy" data-text="${esc(x.email)}">Copy email</button>` : '<span class="miss">No email</span>'}</span>
+          ${x.phone ? `<span class="line"><span class="val">${esc(x.phone)}</span><button type="button" class="btn small" data-act="copy" data-text="${esc(x.phone)}">Copy phone</button></span>` : ""}
+        </span>
+      </label>`).join("");
+    const w = wording();
+    return `
+      <div class="composer">
+        <h4>${hasEmail ? "Email" : "Contact"} about ${esc(l.address)}</h4>
+        <div class="field"><label>Send to</label><div class="who">${rows}</div></div>
+        ${l.enquiryForm ? `<div class="fine">The agent also has an enquiry form: <a href="${esc(l.enquiryForm)}" target="_blank" rel="noopener">open it</a>.</div>` : ""}
+        ${!hasEmail ? `<div class="fine">${esc(c.name || "This contact")} has no email, so the email is greyed out. Call or text instead.</div>
+          ${c.phone ? `<div class="actions">${callButtons(c, l)}</div>` : ""}` : ""}
+        <div class="${hasEmail ? "" : "off"}"${hasEmail ? "" : ' aria-disabled="true"'}>
+          <div class="field">
+            <div class="field-head"><label for="subj-${esc(l.id)}">Subject</label><button type="button" class="btn small" data-act="copy" data-from="subj-${esc(l.id)}"${hasEmail ? "" : " disabled"}>Copy subject</button></div>
+            <input id="subj-${esc(l.id)}" data-act="edit" data-field="subject" data-id="${esc(l.id)}" value="${esc(d.subject)}"${hasEmail ? "" : " disabled"}>
+          </div>
+          <div class="field">
+            <div class="field-head"><label for="body-${esc(l.id)}">Message</label><button type="button" class="btn small" data-act="copy" data-from="body-${esc(l.id)}"${hasEmail ? "" : " disabled"}>Copy message</button></div>
+            <textarea class="body" id="body-${esc(l.id)}" data-act="edit" data-field="body" data-id="${esc(l.id)}"${hasEmail ? "" : " disabled"}>${esc(d.body)}</textarea>
+          </div>
+        </div>
+        ${hasEmail ? `
+        ${!w.name ? `<div class="msg warn">Add your name for the sign-off under "Email wording" at the bottom of the page (saved on this device).</div>` : ""}
+        <div class="send-row">
+          <a class="btn primary" data-act="mail" data-id="${esc(l.id)}" data-link="mailto" href="${esc(mailtoHref(c.email, d.subject, d.body))}">Open in Gmail to send</a>
+          <a class="btn" data-act="mail" data-id="${esc(l.id)}" data-link="gmailweb" href="${esc(gmailWebHref(c.email, d.subject, d.body))}" target="_blank" rel="noopener">Gmail in the browser</a>
+          ${d.touched ? `<button type="button" class="btn small" data-act="rewrite" data-id="${esc(l.id)}">Start the wording again</button>` : ""}
+        </div>
+        <div class="fine">"Open in Gmail" opens your phone's email app with everything filled in. On a PC, use "Gmail in the browser".</div>
+        ${d.askSent ? `<div class="ask-sent">Did you send it?
+          <button type="button" class="btn small" data-act="sent-yes" data-id="${esc(l.id)}">Yes, mark as emailed</button>
+          <button type="button" class="btn small" data-act="sent-no" data-id="${esc(l.id)}">Not yet</button></div>` : ""}` : `
+        <div class="field"><div class="field-head"><label for="sms-${esc(l.id)}">Text message</label><button type="button" class="btn small" data-act="copy" data-from="sms-${esc(l.id)}">Copy text</button></div>
+          <textarea class="body" id="sms-${esc(l.id)}" style="min-height:120px">${esc(smsText(l))}</textarea></div>`}
+      </div>`;
+  }
+
+  function seniorHTML(p) {
+    const lines = [
+      p.phone && `<span class="line"><span class="val">${esc(p.phone)}</span><a class="btn small" href="${esc(telHref(p.phone))}">Call</a><button type="button" class="btn small" data-act="copy" data-text="${esc(p.phone)}">Copy</button></span>`,
+      p.email && `<span class="line"><span class="val">${esc(p.email)}</span><button type="button" class="btn small" data-act="copy" data-text="${esc(p.email)}">Copy email</button></span>`,
+    ].filter(Boolean).join("");
+    return `<article class="plain">
+      <span class="fit ${esc(p.fit || "maybe")}">${esc({ good: "Good fit", maybe: "Worth a call", unlikely: "Long shot" }[p.fit] || "Worth a call")}</span>
+      <h3>${esc(p.name)}</h3>
+      <div class="meta">${esc([p.kind, p.suburb].filter(Boolean).join(" · "))}</div>
+      ${p.why ? `<div>${esc(p.why)}</div>` : ""}
+      <div class="meta"><b>Rent:</b> ${esc(p.rent || "Not published")}<br><b>Pets:</b> ${esc(p.pets || "Not stated")}<br><b>Access:</b> ${esc(p.access || "Not stated")}${p.nearby ? `<br><b>Nearby:</b> ${esc(p.nearby)}` : ""}</div>
+      ${lines}
+      <div class="actions">${p.website ? `<a class="btn small" href="${esc(p.website)}" target="_blank" rel="noopener">Website</a>` : ""}${p.enquiry ? `<a class="btn small" href="${esc(p.enquiry)}" target="_blank" rel="noopener">Enquiry form</a>` : ""}</div>
+    </article>`;
+  }
+
+  const cardCache = new Map();
+  function renderList() {
+    const host = $("#list");
+    if (!S.site) { host.innerHTML = `<div class="empty">${S.loadError ? "The list couldn't load. Check your connection; it tries again every few minutes." : "Loading the list…"}</div>`; return; }
+    const items = lookList();
+    if (!items.length) { host.innerHTML = `<div class="empty">${S.area === "all" ? "No places to look at yet. The next search may find some." : "Nothing in this area right now."}</div>`; cardCache.clear(); return; }
+    const ae = document.activeElement;
+    const focusId = ae && ae.id && host.contains(ae) ? ae.id : null;
+    const sel = focusId && "selectionStart" in ae ? [ae.selectionStart, ae.selectionEnd] : null;
+    const want = items.map((l) => [l.id, cardHTML(l)]);
+    const same = want.length === host.children.length && want.every(([id], i) => host.children[i].dataset.card === id);
+    if (!same) {
+      host.innerHTML = want.map(([, h]) => h).join("");
+      want.forEach(([id, h]) => cardCache.set(id, h));
+    } else {
+      want.forEach(([id, h], i) => {
+        if (cardCache.get(id) !== h) {
+          const tmp = document.createElement("div");
+          tmp.innerHTML = h.trim();
+          host.replaceChild(tmp.firstElementChild, host.children[i]);
+          cardCache.set(id, h);
+        }
+      });
+    }
+    host.querySelectorAll("textarea.body").forEach(grow);
+    if (focusId) {
+      const el = document.getElementById(focusId);
+      if (el && el !== document.activeElement) {
+        el.focus({ preventScroll: true });
+        if (sel && "setSelectionRange" in el) try { el.setSelectionRange(sel[0], sel[1]); } catch (e) {}
+      }
+    }
+  }
+
+  function renderRest() {
+    const all = [...S.listings.values()];
+    const live = all.filter((l) => !l.gone);
+    const look = live.filter((l) => l.verdict in verdictRank);
+    const out = live.filter((l) => l.verdict === "no");
+    const gone = all.filter((l) => l.gone && l.verdict !== "no");
+    const emailed = look.filter((l) => ["emailed", "replied", "inspecting"].includes(mark(l.id).status)).length;
+    const newCount = look.filter((l) => !mark(l.id).status && l.firstSeenAt > prevVisit).length;
+    const last = S.site && S.site.lastSearch;
+
+    $("#runline").innerHTML = last
+      ? `<span>Last search <b>${esc(ago(last.at))}</b> (${esc(fmtDate(last.at, true))})</span><span>${esc(last.found ?? "?")} one-bedroom ads at $430 or less</span>`
+      : S.site ? "<span>No searches have run yet.</span>" : S.loadError ? "<span>Couldn't load the list.</span>" : "<span>Loading the list…</span>";
+
+    $("#tally").innerHTML = S.site ? [
+      ["coral", newCount, "New since you last looked"],
+      ["", look.length, "Places to look at"],
+      ["", emailed, "Emailed so far"],
+      ["", out.length, "Ruled out"],
+    ].map(([c, n, t]) => `<div class="tile ${c}"><div class="n num">${n}</div><div class="l">${t}</div></div>`).join("") : "";
+
+    const counts = Object.fromEntries(AREAS.map((a) => [a, look.filter((l) => l.area === a).length]));
+    $("#areaChips").innerHTML = [["all", "All areas", look.length], ...AREAS.map((a) => [a, a, counts[a]])]
+      .map(([v, t, n]) => `<button type="button" class="chip" data-act="area" data-v="${esc(v)}" aria-pressed="${S.area === v}">${esc(t)} <span class="num">${n}</span></button>`).join(" ");
+    $("#hideDone").checked = S.hideDone;
+
+    $("#outCount").textContent = out.length;
+    $("#outList").innerHTML = out.sort((a, b) => AREAS.indexOf(a.area) - AREAS.indexOf(b.area) || a.price - b.price).map((l) =>
+      `<li><b class="num">${money(l.price)}</b><span>${esc(l.address)}, ${esc(l.suburb)}</span><span class="why">${esc(l.reason || "")}</span>${l.url ? `<a href="${esc(l.url)}" target="_blank" rel="noopener">ad</a>` : ""}</li>`).join("");
+    $("#goneCount").textContent = gone.length;
+    $("#goneList").innerHTML = gone.map((l) =>
+      `<li><b class="num">${money(l.price)}</b><span>${esc(l.address)}, ${esc(l.suburb)}</span><span class="fine">gone since ${esc(fmtDate(l.goneAt))}</span></li>`).join("");
+
+    const seniors = (S.site && S.site.seniors) || [];
+    $("#seniorsSec").hidden = !seniors.length;
+    const order = { good: 0, maybe: 1, unlikely: 2 };
+    $("#seniors").innerHTML = [...seniors].sort((a, b) => (order[a.fit] ?? 1) - (order[b.fit] ?? 1)).map(seniorHTML).join("");
+    $("#seniorsNote").textContent = "These don't usually advertise vacancies, so ring or email to ask about waiting lists and cats." + (S.site && S.site.housingRegister ? " " + S.site.housingRegister : "");
+
+    $("#log").innerHTML = ((S.site && S.site.runs) || []).map((r) =>
+      `<li><b>${esc(fmtDate(r.at, true))}</b>: ${esc(r.found ?? "?")} ads, ${esc((r.new || []).length)} new, ${esc((r.gone || []).length)} gone${r.trigger === "workflow_dispatch" ? " (you pressed search)" : ""}${r.problems && r.problems.length ? `, problems: ${esc(r.problems.join("; "))}` : ""}</li>`).join("") || "<li>No searches yet.</li>";
+  }
+
+  function renderSearch() {
+    const s = S.search;
+    const busy = s.state === "starting" || s.state === "running";
+    const runNote = s.run && s.run.status !== "completed" ? `Searching now (started ${esc(ago(s.run.created_at))}). New places appear here a minute or two after it finishes.` : "";
+    $("#searchNow").innerHTML =
+      `<button type="button" class="btn primary" data-act="search-now" ${busy ? "disabled" : ""}>${busy ? "Searching…" : "Search for new places now"}</button>` +
+      `<span class="note">${s.msg || runNote || "It also searches by itself every hour from 6am to 10pm. Pressing this also makes Claude look again for missing agent emails."}</span>`;
+  }
+
+  function renderMinimise() {
+    const anyOpen = S.open || S.area !== "all" || document.querySelector("details[open]");
+    $("#minimise").hidden = !anyOpen;
+  }
+
+  function render() { renderRest(); renderSearch(); renderList(); renderMinimise(); }
+
+  function fillSettings() {
+    if ($("#settingsForm").contains(document.activeElement)) return;
+    const w = wording();
+    $("#setName").value = w.name; $("#setPhone").value = w.phone; $("#setSubject").value = w.subject; $("#setBody").value = w.body;
+  }
+  function grow(t) { t.style.height = "auto"; t.style.height = t.scrollHeight + 4 + "px"; }
+
+  // ---------- data ----------
+  async function loadData() {
+    try {
+      const res = await fetch("data/site.json?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const site = await res.json();
+      if (S.site && site.generatedAt === S.site.generatedAt) return;
+      S.site = site; S.loadError = false;
+      S.listings = new Map(site.listings.map((l) => [l.id, l]));
+      render();
+    } catch (e) {
+      if (!S.site) { S.loadError = true; render(); }
+    }
+  }
+
+  // ---------- search button (GitHub Actions) ----------
+  const api = (path, opts = {}) => {
+    const token = store.get("token", "");
+    const headers = { Accept: "application/vnd.github+json", ...(opts.headers || {}) };
+    if (token) headers.Authorization = "Bearer " + token;
+    return fetch("https://api.github.com/repos/" + REPO + path, { ...opts, headers });
+  };
+  let pollTimer = null;
+  async function checkRun() {
+    try {
+      const res = await api(`/actions/workflows/${WORKFLOW}/runs?per_page=1`);
+      if (!res.ok) return;
+      const run = ((await res.json()).workflow_runs || [])[0] || null;
+      const was = S.search.run && S.search.run.status !== "completed";
+      S.search.run = run;
+      if (run && run.status !== "completed") {
+        S.search.state = "running"; S.search.msg = "";
+        clearTimeout(pollTimer); pollTimer = setTimeout(checkRun, 20000);
+      } else {
+        if (S.search.state === "running" || was) {
+          S.search.msg = run && run.conclusion === "success" ? `Search finished ${esc(ago(run.updated_at))}.` : run ? "The search didn't finish properly. It will try again on the hour." : "";
+          setTimeout(loadData, 5000);
+        }
+        if (S.search.state !== "starting") S.search.state = "idle";
+      }
+      renderSearch();
+    } catch (e) {}
+  }
+  async function searchNow() {
+    const token = store.get("token", "");
+    if (!token) {
+      window.open(`https://github.com/${REPO}/actions/workflows/${WORKFLOW}`, "_blank", "noopener");
+      S.search.msg = 'On GitHub, tap "Run workflow", then the green "Run workflow" button. To make this button do it in one tap, open "One-tap search on this device" at the bottom of this page.';
+      renderSearch();
+      return;
+    }
+    S.search.state = "starting"; S.search.msg = "Starting the search…"; renderSearch();
+    try {
+      const res = await api(`/actions/workflows/${WORKFLOW}/dispatches`, { method: "POST", body: JSON.stringify({ ref: "main" }) });
+      if (res.status === 204) {
+        S.search.state = "running"; S.search.msg = "Search started. New places appear here a few minutes after it finishes.";
+        renderSearch();
+        setTimeout(checkRun, 6000);
+      } else {
+        S.search.state = "idle";
+        S.search.msg = res.status === 401 || res.status === 403 || res.status === 404
+          ? `GitHub didn't accept the saved token (error ${res.status}). It may have expired: set it up again under "One-tap search on this device".`
+          : `GitHub didn't start the search (error ${res.status}). Try again in a minute.`;
+        renderSearch();
+      }
+    } catch (e) {
+      S.search.state = "idle"; S.search.msg = "Couldn't reach GitHub. Check your connection and try again."; renderSearch();
+    }
+  }
+
+  // ---------- actions ----------
+  function saveMark(id, patch) {
+    S.marks[id] = { ...mark(id), ...patch, updatedAt: new Date().toISOString() };
+    if (!store.set("marks", S.marks)) alert("This browser won't save changes (private browsing?).");
+    render();
+  }
+  async function copyText(btn, text, sourceEl) {
+    const label = btn.textContent;
+    try { await navigator.clipboard.writeText(text); btn.textContent = "Copied"; }
+    catch (e) {
+      if (sourceEl && sourceEl.select) { sourceEl.focus(); sourceEl.select(); btn.textContent = "Selected: press Copy"; }
+      else btn.textContent = "Couldn't copy";
+    }
+    setTimeout(() => { btn.textContent = label; }, 1800);
+  }
+  function minimiseAll() {
+    S.open = null; S.area = "all"; store.set("area", "all");
+    document.querySelectorAll("details[open]").forEach((d) => { d.open = false; });
+    render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  document.addEventListener("click", (ev) => {
+    const t = ev.target.closest("[data-act], #minimise");
+    if (!t) return;
+    if (t.id === "minimise") { minimiseAll(); return; }
+    const act = t.dataset.act, id = t.dataset.id, l = id && S.listings.get(id);
+    if (act === "area") { S.area = t.dataset.v; store.set("area", S.area); render(); }
+    else if (act === "compose" && l) {
+      S.open = S.open === id ? null : id; renderList(); renderMinimise();
+      if (S.open) document.querySelector(`[data-card="${CSS.escape(id)}"]`)?.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    }
+    else if (act === "status" && l) saveMark(id, { status: t.dataset.v });
+    else if (act === "copy") { const src = t.dataset.from ? document.getElementById(t.dataset.from) : null; copyText(t, src ? src.value : t.dataset.text, src); }
+    else if (act === "mail" && l) { const d = draftFor(l); d.askSent = true; d.lastLink = t.dataset.link; setTimeout(renderList, 400); }
+    else if (act === "sent-yes" && l) { const d = draftFor(l); const c = (l.contacts || [])[d.ci] || {}; d.askSent = false; saveMark(id, { status: "emailed", emailedAt: new Date().toISOString(), emailedTo: c.email }); }
+    else if (act === "sent-no" && l) { draftFor(l).askSent = false; renderList(); }
+    else if (act === "rewrite" && l) { const d = draftFor(l); d.touched = false; renderList(); }
+    else if (act === "search-now") searchNow();
+  });
+
+  document.addEventListener("change", (ev) => {
+    const t = ev.target;
+    if (t.id === "hideDone") { S.hideDone = t.checked; store.set("hideDone", t.checked); render(); }
+    if (t.dataset.act === "pick") {
+      const l = S.listings.get(t.dataset.id); if (!l) return;
+      const d = draftFor(l); d.ci = +t.dataset.i; d.askSent = false;
+      renderList();
+    }
+  });
+
+  let noteTimer = null;
+  document.addEventListener("input", (ev) => {
+    const t = ev.target;
+    if (t.dataset.act === "edit") {
+      const l = S.listings.get(t.dataset.id); if (!l) return;
+      const d = draftFor(l); d[t.dataset.field] = t.value; d.touched = true;
+      cardCache.delete(l.id);
+      if (t.tagName === "TEXTAREA") grow(t);
+      const c = (l.contacts || [])[d.ci] || {};
+      const card = t.closest(".card");
+      if (card && c.email) {
+        const m = card.querySelector('[data-link="mailto"]'), g = card.querySelector('[data-link="gmailweb"]');
+        if (m) m.href = mailtoHref(c.email, d.subject, d.body);
+        if (g) g.href = gmailWebHref(c.email, d.subject, d.body);
+      }
+    }
+    if (t.dataset.act === "note") {
+      clearTimeout(noteTimer);
+      const id = t.dataset.id, val = t.value;
+      noteTimer = setTimeout(() => { S.marks[id] = { ...mark(id), note: val }; store.set("marks", S.marks); cardCache.delete(id); }, 400);
+    }
+  });
+
+  document.addEventListener("toggle", renderMinimise, true);
+
+  $("#settingsForm").addEventListener("submit", (ev) => {
+    ev.preventDefault();
+    S.wording = { name: $("#setName").value.trim(), phone: $("#setPhone").value.trim(), subject: $("#setSubject").value, body: $("#setBody").value };
+    const ok = store.set("wording", S.wording);
+    Object.values(drafts).forEach((d) => { if (!d.touched) d.subject = null; });
+    $("#settingsMsg").textContent = ok ? "Saved on this device. New emails use this wording." : "This browser won't save it (private browsing?).";
+    $("#settingsMsg").className = "msg " + (ok ? "ok" : "err");
+    renderList();
+  });
+  $("#resetWording").addEventListener("click", () => {
+    $("#setSubject").value = DEFAULT_WORDING.subject; $("#setBody").value = DEFAULT_WORDING.body;
+    $("#settingsMsg").textContent = "Original wording put back. Press Save to keep it."; $("#settingsMsg").className = "msg warn";
+  });
+  $("#saveToken").addEventListener("click", () => {
+    const v = $("#tokenInput").value.trim();
+    if (!/^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/.test(v)) { $("#tokenMsg").textContent = "That doesn't look like a GitHub token. It starts with github_pat_."; $("#tokenMsg").className = "msg err"; return; }
+    store.set("token", v); $("#tokenInput").value = "";
+    $("#tokenMsg").textContent = "Saved. The search button now works in one tap on this device."; $("#tokenMsg").className = "msg ok";
+  });
+  $("#clearToken").addEventListener("click", () => {
+    store.del("token"); $("#tokenMsg").textContent = "Removed from this device."; $("#tokenMsg").className = "msg ok";
+  });
+
+  // the list is "new since you last looked" until you leave the page
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") store.set("lastVisit", new Date().toISOString());
+    else { loadData(); checkRun(); }
+  });
+
+  render(); fillSettings();
+  loadData();
+  checkRun();
+  setInterval(() => { if (document.visibilityState === "visible") loadData(); }, 3 * 60 * 1000);
+  setInterval(() => { if (document.visibilityState === "visible" && S.search.state !== "running") checkRun(); }, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>

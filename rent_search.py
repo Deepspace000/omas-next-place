@@ -235,7 +235,10 @@ def clean_record(area, card, full):
     feed_email = papf.get("papf_realestatem") or None
     emails_in_text = sorted(set(EMAIL_RE.findall(desc)))
     street = (src.get("street_address") or "").strip().rstrip(",").strip()
+    gallery = (full or {}).get("gallery") or card.get("gallery") or []
+    photos = [g["url"] for g in gallery if g.get("url") and g.get("gallery_type", "photo") == "photo"][:3]
     return {
+        "photos": photos,
         "id": f"rent-{src['id']}",
         "source": "rent.com.au",
         "url": src.get("url"),

@@ -2,3 +2,6 @@ __pycache__/
 data/db/
 data/photos/
 page.html
+_site/
+.claude/
+build_docs.py

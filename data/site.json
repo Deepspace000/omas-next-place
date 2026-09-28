@@ -1,0 +1,1620 @@
+{
+ "generatedAt": "2026-09-29T07:02:01+10:00",
+ "lastSearch": {
+  "at": "2026-09-29T07:02:01+10:00",
+  "found": 26,
+  "new": [],
+  "gone": [],
+  "problems": [],
+  "trigger": "manual"
+ },
+ "runs": [
+  {
+   "at": "2026-09-29T07:02:01+10:00",
+   "found": 26,
+   "new": [],
+   "gone": [],
+   "problems": [],
+   "trigger": "manual"
+  }
+ ],
+ "requests": {},
+ "claude": {},
+ "listings": [
+  {
+   "id": "rent-6489830",
+   "url": "https://www.rent.com.au/property/2-91-albert-st-margate-qld-4019-6489830",
+   "area": "Redcliffe Peninsula",
+   "address": "2/91 Albert Street",
+   "suburb": "Margate",
+   "postcode": "4019",
+   "type": "Unit",
+   "beds": 1,
+   "price": 365,
+   "bond": 1460,
+   "available": "13th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267892345/38e606a3962f4c9154a104a1-81ac77db_2D4297_2D935f_2D64f6_2Dabf0634e2b11-1789515788-original.png?1789515788",
+    "https://cdn.rent.com.au/photos/images/267892583/ea9b3b24c8ea5023d298d931-ecda9857_2De064_2D287c_2D8f88_2D25b781fb114a-1789515906-original.png?1789515906",
+    "https://cdn.rent.com.au/photos/images/268013701/64e0cb8d217ccd6fec16b068-7680bff6_2D697e_2D6fef_2D1dd2_2Db5f2d5897199-1790205898-original.png?1790205898"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "longshot",
+   "summary": "1-bedroom unit at the back of a house split into three, with a back deck.",
+   "kind": "1-bedroom unit",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "stairs",
+    "note": "Upstairs: the ad says it's above unit 3."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. The ad says it's a walk to the beach, shops and public transport."
+   },
+   "agency": "Living Property Management",
+   "contacts": [
+    {
+     "name": "Living Property Management rental team (for Meedz Smith)",
+     "role": "Rentals / leasing email",
+     "email": "inspections@livingpm.com.au",
+     "phone": "1300 885 624",
+     "source": "http://web.archive.org/web/20251013122535/https://www.livingpm.com.au/team/697711",
+     "greet": "Meedz",
+     "team": true
+    },
+    {
+     "name": "Meedz Smith",
+     "role": "Property manager named on the ad (leasing)",
+     "email": null,
+     "phone": "0417 595 944",
+     "source": "https://www.homely.com.au/homes/2-91-albert-street-margate-qld-4019/13513259",
+     "team": false
+    },
+    {
+     "name": "Living Property Management office",
+     "role": "General office",
+     "email": "admin@livingpm.com.au",
+     "phone": "1300 885 624",
+     "source": "https://app.2apply.com.au/Agency/LivingPM",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://www.tenantapp.com.au/Rentals/ViewListing/4785836",
+   "otherAds": [
+    {
+     "site": "Agency website, 'Available For Rent' page (blocks automated access; a web search of the site returned this unit at $365, but I could not open the page to get a direct link)",
+     "url": "https://www.livingpm.com.au/available-for-rent/"
+    },
+    {
+     "site": "TenantApp (the agency's listing and inspection-booking platform)",
+     "url": "https://www.tenantapp.com.au/Rentals/ViewListing/4785836"
+    }
+   ]
+  },
+  {
+   "id": "rent-6499010",
+   "url": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010",
+   "area": "Redcliffe Peninsula",
+   "address": "1/25 Prince Edward Parade",
+   "suburb": "Redcliffe",
+   "postcode": "4020",
+   "type": "Flat",
+   "beds": 1,
+   "price": 380,
+   "bond": 1520,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268044443/be6c6f11b429414aa8b05ee9-b53d4cbfe52ceaaeab2d05db99074dea-1790331621-original.?1790331621",
+    "https://cdn.rent.com.au/photos/images/268044445/2b460c1c20b3642379ba7063-44a69fe31363f129ebf3bdabca38a43e-1790331628-original.?1790331628",
+    "https://cdn.rent.com.au/photos/images/268044444/adbd49afdd0789e9e505a98e-c2d9f80341b0966180acfb7347d00e6c-1790331627-original.?1790331627"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "maybe",
+   "summary": "Spacious 1-bedroom flat across the road from the waterfront, close to shops. Private landlord: call or text and quote the code. The ad asks for employment and rental references and a 12-month lease.",
+   "kind": "1-bedroom flat",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. The ad says it's close to shops."
+   },
+   "smsCode": "75636",
+   "agency": "Property Listings",
+   "contacts": [
+    {
+     "name": "Private landlord (phone-code line)",
+     "role": "Landlord, reached by phone or text with phone code 75636",
+     "email": null,
+     "phone": "0488 839 724",
+     "source": "https://www.homely.com.au/homes/1-25-prince-edward-parade-redcliffe-qld-4020/13543006",
+     "team": true
+    },
+    {
+     "name": "Property Listings / For Sale By Agent (listing service, not the landlord)",
+     "role": "Shared inbox used for this service's rental ads (fallback only)",
+     "email": null,
+     "phone": "1300 831 940",
+     "source": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://www.forsalebyagent.com.au/118245132/",
+   "otherAds": [
+    {
+     "site": "forsalebyagent.com.au (the listing service's own page for this flat)",
+     "url": "https://www.forsalebyagent.com.au/118245132/"
+    },
+    {
+     "site": "homely.com.au",
+     "url": "https://www.homely.com.au/homes/1-25-prince-edward-parade-redcliffe-qld-4020/13543006"
+    }
+   ]
+  },
+  {
+   "id": "rent-6388186",
+   "url": "https://www.rent.com.au/property/3-31-marine-pde-redcliffe-qld-4020-6388186",
+   "area": "Redcliffe Peninsula",
+   "address": "3/31 Marine Parade",
+   "suburb": "Redcliffe",
+   "postcode": "4020",
+   "type": "Flat",
+   "beds": 1,
+   "price": 380,
+   "bond": 1520,
+   "available": "9th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/266060723/71800f2d9a5f35fd84df8c83-201158880__1778627166-20891-Screenshot2026-05-13090602-1779845644-original.jpg?1779845644",
+    "https://cdn.rent.com.au/photos/images/266060921/eb86d5492a7ea1ac44d6cc8a-201158915__1778627179-20862-Screenshot2026-05-13090615-1779845963-original.jpg?1779845963",
+    "https://cdn.rent.com.au/photos/images/266060922/245ab3751c7cc90c7b229bfc-201158999__1778627190-32460-Screenshot2026-05-13090626-1779845963-original.jpg?1779845963"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "maybe",
+   "summary": "Renovated studio granny flat at the back of a house, across the road from Suttons Beach. Listed as 1 bedroom but described as a studio. It has no laundry, and you must inspect in person before you can apply.",
+   "kind": "studio granny flat",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "Probably ground level (a granny flat with a front porch), but the ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. The ad says there's easy access to local shops."
+   },
+   "agency": "Ray White Woody Point",
+   "contacts": [
+    {
+     "name": "Tanya Sheridan",
+     "role": "Property Manager (listing agent)",
+     "email": "tanya.sheridan@raywhite.com",
+     "phone": "(07) 3883 8102",
+     "source": "https://raywhitewoodypoint.com.au/agents/tanya-sheridan/103070",
+     "team": false
+    },
+    {
+     "name": "Abby Warner",
+     "role": "Leasing Consultant (second agent on the ad)",
+     "email": "abby.warner@raywhite.com",
+     "phone": "(07) 3883 8106",
+     "source": "https://raywhitewoodypoint.com.au/agents/abby-warner/174383",
+     "team": false
+    },
+    {
+     "name": "Ray White Woody Point office",
+     "role": "General office",
+     "email": "woodypoint.qld@raywhite.com",
+     "phone": "(07) 3283 2277",
+     "source": "https://raywhitewoodypoint.com.au/about",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://raywhitewoodypoint.com.au/properties/residential-for-rent/qld/redcliffe-4020/flat/3582293",
+   "otherAds": [
+    {
+     "site": "Agency website (current ad)",
+     "url": "https://raywhitewoodypoint.com.au/properties/residential-for-rent/qld/redcliffe-4020/flat/3582293"
+    },
+    {
+     "site": "raywhite.com",
+     "url": "https://www.raywhite.com/qld/redcliffe/3582293"
+    }
+   ]
+  },
+  {
+   "id": "rent-3180830",
+   "url": "https://www.rent.com.au/property/2-81-jones-st-rothwell-qld-4022-3180830",
+   "area": "Redcliffe Peninsula",
+   "address": "2/81 Jones Street",
+   "suburb": "Rothwell",
+   "postcode": "4022",
+   "type": "House",
+   "beds": 1,
+   "price": 400,
+   "bond": 1600,
+   "available": "19th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/248618115/a01d621767803a653cc47480-b9f2e6a3_2Ddfd9_2Dce00_2D2da0_2Da0bb40d46bde-1709790247-original.jpg?1709790247",
+    "https://cdn.rent.com.au/photos/images/248618112/d1abc64980be23e3aa76dac1-f9e2e662_2D0ff6_2D7fcc_2Dbae8_2Dd744661279cd-1709790246-original.jpg?1709790246",
+    "https://cdn.rent.com.au/photos/images/248618113/4c81e6b53c3ca62aa242ab25-bf594200_2D4725_2Db29b_2D0bee_2D8e7a7896721d-1709790247-original.jpg?1709790247"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "maybe",
+   "summary": "1-bedroom duplex with its own entrance, a covered patio and a big fenced yard. Separate laundry, water included.",
+   "kind": "1-bedroom duplex",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. The fenced yard is a good sign. Ask."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "Probably single level (a duplex with its own entrance), but the ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus. The ad says it's close to supermarkets and Westfield North Lakes."
+   },
+   "agency": "McGrath North Lakes",
+   "contacts": [
+    {
+     "name": "Leasing Department",
+     "role": "Property Management Team, McGrath North Lakes (the ad's contact)",
+     "email": "mcgrathnorthlakes@mail.inspectrealestate.com.au",
+     "phone": "(07) 3888 0098",
+     "source": "https://mcgrathmb.com.au/meet-the-team/leasing-department/",
+     "team": true
+    },
+    {
+     "name": "Jane Longmuir",
+     "role": "Leasing Manager, McGrath North Lakes",
+     "email": "janelongmuir@mcgrath.com.au",
+     "phone": "(07) 3888 0098",
+     "source": "https://mcgrathmb.com.au/meet-the-team/jane-longmuir/",
+     "team": false
+    },
+    {
+     "name": "McGrath North Lakes office",
+     "role": "General office",
+     "email": "northlakes@mcgrath.com.au",
+     "phone": "(07) 3888 0098",
+     "source": "https://mcgrathmb.com.au/contact-us/",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://mcgrathmb.com.au/for-lease/2-81-jones-st-rothwell-qld-4022/",
+   "otherAds": [
+    {
+     "site": "Agency website",
+     "url": "https://mcgrathmb.com.au/for-lease/2-81-jones-st-rothwell-qld-4022/"
+    },
+    {
+     "site": "TenantApp",
+     "url": "https://www.tenantapp.com.au/Rentals/ViewListing/1531802"
+    }
+   ]
+  },
+  {
+   "id": "rent-6476171",
+   "url": "https://www.rent.com.au/property/unit-2-31-view-st-woody-point-qld-4019-6476171",
+   "area": "Redcliffe Peninsula",
+   "address": "2/31 View Street",
+   "suburb": "Woody Point",
+   "postcode": "4019",
+   "type": "Unit",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267667600/206acc3b5d2a6270a19810c7-2-31_View_Street_Woody_Point_Front_8467-6a9634be330ea-1788229279-original.jpg?1788229279",
+    "https://cdn.rent.com.au/photos/images/267667976/23b8a3e94f180a91cf654479-2-31_View_Street_Woody_Point_Front_2_8471-6a9634be67301-1788229486-original.jpg?1788229486",
+    "https://cdn.rent.com.au/photos/images/267667971/ee907da59b5c7ba43fa618bc-2-31_View_Street_Woody_Point_Kitchen_8473-6a9634bed7d83-1788229485-original.jpg?1788229485"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "maybe",
+   "summary": "Fully renovated 1-bedroom apartment, a short walk to the water. Covered carport.",
+   "kind": "1-bedroom apartment",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say which floor. The building used to be a 5-bedroom house, so it could be upstairs. Ask."
+   },
+   "shops": {
+    "state": "far",
+    "note": "Not walkable. The ad says shops and transport are a short walk away, so ask."
+   },
+   "agency": "Calio & Scott Real Estate",
+   "contacts": [
+    {
+     "name": "Calio Office",
+     "role": "Rentals office, Calio & Scott Real Estate (the ad's contact)",
+     "email": "caliorentals@gmail.com",
+     "phone": "(07) 3269 9466",
+     "source": "https://www.brightonbythesea.com.au/our-team",
+     "team": true
+    },
+    {
+     "name": "Jason Bower",
+     "role": "Director Property Management, Calio & Scott Real Estate",
+     "email": "caliorentals@gmail.com",
+     "phone": "0478 771 350",
+     "source": "https://www.brightonbythesea.com.au/our-team",
+     "team": false
+    },
+    {
+     "name": "Calio & Scott office (sales)",
+     "role": "Agency's general and sales email",
+     "email": "calioscottsales@gmail.com",
+     "phone": "(07) 3269 9466",
+     "source": "https://www.brightonbythesea.com.au/our-team",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://www.brightonbythesea.com.au/property/1966/unit-2--31-view-street-woody-point-qld",
+   "otherAds": [
+    {
+     "site": "Agency website",
+     "url": "https://www.brightonbythesea.com.au/property/1966/unit-2--31-view-street-woody-point-qld"
+    },
+    {
+     "site": "homely.com.au",
+     "url": "https://www.homely.com.au/homes/unit-2-31-view-street-woody-point-qld-4019/13469667"
+    }
+   ]
+  },
+  {
+   "id": "rent-6499181",
+   "url": "https://www.rent.com.au/property/mango-hill-qld-4509-6499181",
+   "area": "Deception Bay / North Lakes",
+   "address": "(address not shown)",
+   "suburb": "Mango Hill",
+   "postcode": "4509",
+   "type": "Unit",
+   "beds": 1,
+   "price": 300,
+   "bond": 1200,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268048667/0f3edc6ef20a10c73a55b3d8-194dfd6e9935c38618af8ff1d44600d6-1790500039-original.?1790500039",
+    "https://cdn.rent.com.au/photos/images/268048668/b2ca78f77cfd42b1524ec617-19331bb1104cf7ab8071e1617591fab2-1790500045-original.?1790500045",
+    "https://cdn.rent.com.au/photos/images/268048669/77429ca8a778af54fdc54226-9c79578921da44881fd8724913429be1-1790500045-original.?1790500045"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "A room in shared rooming accommodation",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "Property Listings",
+   "contacts": [
+    {
+     "name": "For Rent",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0488 839 724",
+     "source": "rent.com.au ad",
+     "team": true
+    },
+    {
+     "name": "Property Listings (For Sale By Agent), the listing service used by the private landlord of 1/25 Prince Edward Parade",
+     "role": "Agency rentals email (found earlier)",
+     "email": null,
+     "phone": "1300 831 940",
+     "source": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010 (the address is only inside the page's 1Form 'apply' link, not shown as contact text; forsalebyagent.com.au itself publishes no email)",
+     "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6490961",
+   "url": "https://www.rent.com.au/property/3-5-wirragrove-cct-kallangur-qld-4503-6490961",
+   "area": "Deception Bay / North Lakes",
+   "address": "3/5 Wirragrove Circuit",
+   "suburb": "Kallangur",
+   "postcode": "4503",
+   "type": "Other",
+   "beds": 1,
+   "price": 410,
+   "bond": 1640,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267911460/27f8a3322de5d70831c3391c-75b92763_2Df27f_2Def07_2Df6c9_2D4811514f3ba9-1789599788-original.jpg?1789599788",
+    "https://cdn.rent.com.au/photos/images/267911463/1347be7475b9f0c2b4ad6d14-7b46b82e_2D18f9_2D29cc_2D4dba_2D2a915f127369-1789599798-original.jpg?1789599798",
+    "https://cdn.rent.com.au/photos/images/267911462/9be8ff65e27602b346cc87e2-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1789599797-original.jpg?1789599797"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "A room in a share house; the ad says it's unsuitable for pets",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "Invida Property Management ",
+   "contacts": [
+    {
+     "name": "Rob  Claridge",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0448 191 826",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6490955",
+   "url": "https://www.rent.com.au/property/2-5-wirragrove-cct-kallangur-qld-4503-6490955",
+   "area": "Deception Bay / North Lakes",
+   "address": "2/5 Wirragrove Circuit",
+   "suburb": "Kallangur",
+   "postcode": "4503",
+   "type": "Other",
+   "beds": 1,
+   "price": 410,
+   "bond": 1640,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267911341/4a3f8ffe628b792a86e5b1db-51458494_2D6295_2D5561_2D9a03_2Dc53c45e233ed-1789599537-original.jpg?1789599537",
+    "https://cdn.rent.com.au/photos/images/267911348/e10be861f988116cad43f472-3e7c9764_2D09ba_2De131_2D0580_2D94a4283404b3-1789599550-original.jpg?1789599550",
+    "https://cdn.rent.com.au/photos/images/267911350/eb4178a6d53332d11698d653-0b7d45ff_2D8125_2D991c_2D02b9_2D3ff26bf4851b-1789599552-original.jpg?1789599552"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "A room in a share house; the ad says it's unsuitable for pets",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "Invida Property Management ",
+   "contacts": [
+    {
+     "name": "Rob  Claridge",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0448 191 826",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-4394513",
+   "url": "https://www.rent.com.au/property/3-37-fifth-ave-sandgate-qld-4017-4394513",
+   "area": "Sandgate / Brighton",
+   "address": "3/37 Fifth Avenue",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Flat",
+   "beds": 1,
+   "price": 370,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/225851906/2df56ee350442277bc9067aa-1500-1789442864-original.jpeg?1789442864",
+    "https://cdn.rent.com.au/photos/images/225851909/0a0cfd36847abe1e3417498c-1500-1789442864-original.jpeg?1789442864",
+    "https://cdn.rent.com.au/photos/images/225851919/5109afcca91c65fafbc56f1f-1500-1789442864-original.jpeg?1789442864"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "good",
+   "summary": "Ground-floor 1-bedroom flat with a carport, close to shops, transport and the waterfront.",
+   "kind": "1-bedroom flat",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. The agency's rental guide says pets may be considered on application. Ask."
+   },
+   "stairs": {
+    "state": "none",
+    "note": "The ad says ground floor."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. The ad says it's close to shops and transport."
+   },
+   "agency": "Professionals Sandgate",
+   "contacts": [
+    {
+     "name": "Rental Department",
+     "role": "Rentals office, Professionals Sandgate",
+     "email": "rentals@professionalssandgate.com",
+     "phone": "(07) 3869 9999",
+     "source": "https://www.professionalssandgate.com.au/wp-content/uploads/2025/12/Application-Form-GENERAL-TENANCY.pdf",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://www.professionalssandgate.com.au/real-estate/property/764559/3-37-fifth-avenue-sandgate-qld-4017/",
+   "otherAds": [
+    {
+     "site": "Agency website",
+     "url": "https://www.professionalssandgate.com.au/real-estate/property/764559/3-37-fifth-avenue-sandgate-qld-4017/"
+    }
+   ]
+  },
+  {
+   "id": "rent-6394566",
+   "url": "https://www.rent.com.au/property/9-88-flinders-pde-sandgate-qld-4017-6394566",
+   "area": "Sandgate / Brighton",
+   "address": "9/88 Flinders Parade",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Flat",
+   "beds": 1,
+   "price": 380,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/266258579/4e855301b6d233c8ced1f787-1500-1780453179-original.jpeg?1780453179",
+    "https://cdn.rent.com.au/photos/images/266259051/1f16ba4fa669ffbf664137c5-1500-1780453444-original.jpeg?1780453444",
+    "https://cdn.rent.com.au/photos/images/266259048/caad318f16d65f6ad1dd0076-1500-1780453442-original.jpeg?1780453442"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "A boarding-house room with a shared bathroom, upstairs",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "Professionals Sandgate",
+   "contacts": [
+    {
+     "name": "Rental Department",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "(07) 3869 9999",
+     "source": "rent.com.au ad",
+     "team": true
+    },
+    {
+     "name": "Professionals Sandgate",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@professionalssandgate.com",
+     "phone": "(07) 3869 9999",
+     "source": "https://www.professionalssandgate.com.au/wp-content/uploads/2025/12/Application-Form-GENERAL-TENANCY.pdf",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6447565",
+   "url": "https://www.rent.com.au/property/14-waruda-st-bracken-ridge-qld-4017-6447565",
+   "area": "Sandgate / Brighton",
+   "address": "14 Waruda Street",
+   "suburb": "Bracken Ridge",
+   "postcode": "4017",
+   "type": "Unit",
+   "beds": 1,
+   "price": 390,
+   "bond": 1560,
+   "available": "12th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267205423/f0d77fb40b4e3993be879c6d-b4970151-ef46-45ec-8b6c-73b3ee44135f-1785472752-original.png?1785472752",
+    "https://cdn.rent.com.au/photos/images/267205611/38ae1385adfacc528cf10dd7-b4970151-ec4b-4203-8066-f3be7d3e51f3-1785472879-original.png?1785472879",
+    "https://cdn.rent.com.au/photos/images/267205612/15f54b47361dc9db5cb205e0-b4970151-e867-4d5a-9680-cf174fd7f3c6-1785472879-original.png?1785472879"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "Upside Ave",
+   "contacts": [
+    {
+     "name": "Leasing Team",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0493 446 309",
+     "source": "rent.com.au ad",
+     "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6488119",
+   "url": "https://www.rent.com.au/property/3-201-rainbow-st-sandgate-qld-4017-6488119",
+   "area": "Sandgate / Brighton",
+   "address": "3/201 Rainbow Street",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Flat",
+   "beds": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267864771/da3795577a2bce6b40e40ace-uploads_2F1789100841274-e9pchepwe5i-6d0b5058adc2f081e10eeff2bd9bff2a_2FIMG_4558-1789365978-original.jpeg?1789365978",
+    "https://cdn.rent.com.au/photos/images/267864824/21f50d4ba9a22dfc9662efd5-uploads_2F1789100841270-xnnnggc2vvj-6d0b5058adc2f081e10eeff2bd9bff2a_2FIMG_4557-1789366068-original.jpeg?1789366068",
+    "https://cdn.rent.com.au/photos/images/267864825/0a40c58218f4fe830464d545-uploads_2F1789100841288-5unzl5c1szp-6d0b5058adc2f081e10eeff2bd9bff2a_2FIMG_4564-1789366068-original.jpeg?1789366068"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "maybe",
+   "summary": "Freshly painted 1-bedroom flat in an old Queenslander house split into four flats. Carport, air conditioning.",
+   "kind": "1-bedroom flat",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "Probably upstairs: the ad says the laundry is downstairs. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. Sandgate shops and the train are nearby."
+   },
+   "agency": "Jim McKeering Real Estate - Sandgate",
+   "contacts": [
+    {
+     "name": "Brenda Pearson",
+     "role": "Senior Property Manager (listing agent)",
+     "email": "brenda@mckeeringrealestate.com.au",
+     "phone": "0455 260 728",
+     "source": "https://www.mckeeringrealestate.com.au/property?property_id=1847511/3-201-rainbow-street-sandgate",
+     "team": false
+    },
+    {
+     "name": "McKeering Real Estate office",
+     "role": "General office",
+     "email": "info@mckeeringrealestate.com.au",
+     "phone": "(07) 3269 1276",
+     "source": "https://www.mckeeringrealestate.com.au/contact",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://www.mckeeringrealestate.com.au/property?property_id=1847511/3-201-rainbow-street-sandgate",
+   "otherAds": [
+    {
+     "site": "Agency website",
+     "url": "https://www.mckeeringrealestate.com.au/property?property_id=1847511/3-201-rainbow-street-sandgate"
+    },
+    {
+     "site": "domain.com.au (probably an older 2022 ad for the same flat)",
+     "url": "https://www.domain.com.au/3-201-rainbow-street-sandgate-qld-4017-15929486"
+    }
+   ]
+  },
+  {
+   "id": "rent-6398165",
+   "url": "https://www.rent.com.au/property/2-14-duke-st-brighton-qld-4017-6398165",
+   "area": "Sandgate / Brighton",
+   "address": "2/14 Duke Street",
+   "suburb": "Brighton",
+   "postcode": "4017",
+   "type": "Studio",
+   "beds": 1,
+   "price": 425,
+   "bond": 1700,
+   "available": "6th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268045422/3bda3e23e50e2559810bb8ea-10057515_21635343_8_1790378632-1790379066-original.jpg?1790379066",
+    "https://cdn.rent.com.au/photos/images/268045426/5269f9f837dbe9919ab357dd-10057515_21635343_7_1790378640-1790379072-original.jpg?1790379072",
+    "https://cdn.rent.com.au/photos/images/268045423/58b1092dcfa79fbb175c7ec6-10057515_21635343_6_1790378650-1790379071-original.jpg?1790379071"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Hero Karalouka",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0439 673 884",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6047267",
+   "url": "https://www.rent.com.au/property/5-13-queens-pde-brighton-qld-4017-6047267",
+   "area": "Sandgate / Brighton",
+   "address": "5/13 Queens Parade",
+   "suburb": "Brighton",
+   "postcode": "4017",
+   "type": "Studio",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "2nd October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267780391/036a1ae1d666f1472421b2a3-10057515_21513511_14_1788844322-1788845970-original.jpg?1788845970",
+    "https://cdn.rent.com.au/photos/images/267780392/d2649cd1506c80fb16ad0f54-10057515_21513511_12_1788844322-1788845971-original.jpg?1788845971",
+    "https://cdn.rent.com.au/photos/images/267780389/6470f0662c4dc3d882e57504-10057515_21513511_13_1788844322-1788845970-original.jpg?1788845970"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Hero Karalouka",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0439 673 884",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6371324",
+   "url": "https://www.rent.com.au/property/121b-speight-st-brighton-qld-4017-6371324",
+   "area": "Sandgate / Brighton",
+   "address": "121B Speight Street",
+   "suburb": "Brighton",
+   "postcode": "4017",
+   "type": "Unit",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/266541473/5f5a1ea07ea455cca3dbdc04-b46b0086-a325-472d-9e6e-58cf60919fbc-1781578082-original.jpg?1781578082",
+    "https://cdn.rent.com.au/photos/images/267862400/29f587fb93cceec9589d5628-b4c5010c-ee6f-4f26-bdc2-ce8d57de80cd-1789362956-original.png?1789362956",
+    "https://cdn.rent.com.au/photos/images/266541471/0d11f5ce79a5005db392c929-b46b0086-a462-45ad-9536-d3e2321362ca-1781578069-original.jpg?1781578069"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "Upside Ave",
+   "contacts": [
+    {
+     "name": "Leasing Team",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0493 446 309",
+     "source": "rent.com.au ad",
+     "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-5731687",
+   "url": "https://www.rent.com.au/property/5-36-braun-st-deagon-qld-4017-5731687",
+   "area": "Sandgate / Brighton",
+   "address": "5/36 Braun Street",
+   "suburb": "Deagon",
+   "postcode": "4017",
+   "type": "Studio",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "12th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/251253611/d901961ebc74944049aab28f-10057515_21366065_1_1657065520-1720683529-original.jpg?1720683529",
+    "https://cdn.rent.com.au/photos/images/251253894/885b60ba974a9fb23a23d8c0-10057515_21366065_3_1657065520-1720683700-original.jpg?1720683700",
+    "https://cdn.rent.com.au/photos/images/251253900/dbcc3dfcbf949920527daaaf-10057515_21366065_7_1657065521-1720683701-original.jpg?1720683701"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Hero Karalouka",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0439 673 884",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6473629",
+   "url": "https://www.rent.com.au/property/5-17-thomas-st-nundah-qld-4012-6473629",
+   "area": "Northern suburbs",
+   "address": "5/17 Thomas Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Unit",
+   "beds": 1,
+   "price": 320,
+   "bond": 1280,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267625967/5252c52e02be5f61d19b4a1e-216608138__1787884542-63118-DSC7992-2NOV-1787884850-original.jpg?1787884850",
+    "https://cdn.rent.com.au/photos/images/267626015/da78face6fd6ddf1cc019cf6-216608140__1787884546-51407-DSC8055-2NOV-1787884913-original.jpg?1787884913",
+    "https://cdn.rent.com.au/photos/images/267626016/b4a999644dab849318e23b5f-216608141__1787884549-235781-DSC8062-2NOV-1787884913-original.jpg?1787884913"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says no pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "Rent my Property Redcliffe",
+   "contacts": [
+    {
+     "name": "Rent My Property",
+     "role": "Agent on the ad",
+     "email": "rentals@rentmyproperty.com.au",
+     "phone": "+6131933450",
+     "source": "rent.com.au ad",
+     "team": true
+    },
+    {
+     "name": "Rent My Property Redcliffe",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@rentmyproperty.com.au",
+     "phone": "(07) 3203 6500",
+     "source": "https://rentmyproperty.com.au/rental/7-17-thomas-street-nundah-qld-4012/ (rentals@) and https://rentmyproperty.com.au/contact-us/ (info@ and office phones)",
+     "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-3742596",
+   "url": "https://www.rent.com.au/property/7-17-thomas-st-nundah-qld-4012-3742596",
+   "area": "Northern suburbs",
+   "address": "7/17 Thomas Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Unit",
+   "beds": 1,
+   "price": 320,
+   "bond": 1280,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/252680122/ac7fffe7da6d29f40ee281b7-110681663__1726707543-46916-DSC7992-2NOV-1727135604-original.jpg?1727135604",
+    "https://cdn.rent.com.au/photos/images/252680224/0c3c7a8ca3be0ec7a14f7498-110679666__1726707115-35814-DSC3587NOV-1727136848-original.jpg?1727136848",
+    "https://cdn.rent.com.au/photos/images/252680223/312d0dfdf12ddce57613541c-110679670__1726707118-45686-DSC3594NOV-1727136848-original.jpg?1727136848"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "longshot",
+   "summary": "Renovated studio with a balcony or courtyard, next to a small park. Electricity is extra. There was an inspection on Wed 30 Sep, 1:00 to 1:15pm.",
+   "kind": "studio",
+   "cat": {
+    "state": "ask",
+    "note": "Probably not: another ad in the same building says no pets. Ask."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. Nundah shops are a 10-minute walk, the bus stop 500 m and the train 700 m."
+   },
+   "agency": "Rent my Property Redcliffe",
+   "contacts": [
+    {
+     "name": "Rent My Property",
+     "role": "Rentals inbox, Rent My Property (the ad's contact)",
+     "email": "rentals@rentmyproperty.com.au",
+     "phone": "(07) 3193 3450",
+     "source": "https://rentmyproperty.com.au/rental/7-17-thomas-street-nundah-qld-4012/",
+     "team": true
+    },
+    {
+     "name": "Rent My Property Redcliffe office",
+     "role": "Brisbane Northside to Sunshine Coast office (545 Oxley Ave, Redcliffe), general email",
+     "email": "info@rentmyproperty.com.au",
+     "phone": "(07) 3203 6500",
+     "source": "https://rentmyproperty.com.au/contact-us/",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://book.inspectrealestate.com.au/RegisterNew?agentid=MD-RMPROP&uniqueID=21781548&Type=rental",
+   "otherAds": [
+    {
+     "site": "Agency website",
+     "url": "https://rentmyproperty.com.au/rental/7-17-thomas-street-nundah-qld-4012/"
+    },
+    {
+     "site": "homely.com.au",
+     "url": "https://www.homely.com.au/homes/7-17-thomas-street-nundah-qld-4012/6443794"
+    }
+   ]
+  },
+  {
+   "id": "rent-6410099",
+   "url": "https://www.rent.com.au/property/15-lowerson-st-lutwyche-qld-4030-6410099",
+   "area": "Northern suburbs",
+   "address": "15 Lowerson Street",
+   "suburb": "Lutwyche",
+   "postcode": "4030",
+   "type": "House",
+   "beds": 1,
+   "price": 350,
+   "bond": 1400,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/266736937/1798d4157162e6b740e7ea81-1-1782754508-original.jpg?1782754508",
+    "https://cdn.rent.com.au/photos/images/266736938/8e29fa6307c5de1aad129b90-2-1782754514-original.jpg?1782754514",
+    "https://cdn.rent.com.au/photos/images/266736939/fa5cc5b2d738ce533f623b2f-3-1782754514-original.jpg?1782754514"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "A room in a house; the ad says no pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "The Onsite Manager",
+   "contacts": [
+    {
+     "name": "Peter Kang",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0413 653 966",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6173821",
+   "url": "https://www.rent.com.au/property/2-10-cavendish-st-nundah-qld-4012-6173821",
+   "area": "Northern suburbs",
+   "address": "2/10 Cavendish Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Studio",
+   "beds": 1,
+   "price": 390,
+   "bond": 1560,
+   "available": "16th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/259444729/875a333ffbb384d08fd8df29-166382015__1759469850-268282-IMG8744-1759470567-original.jpg?1759470567",
+    "https://cdn.rent.com.au/photos/images/259445015/6c9ac3179e38d145f32ec442-166382018__1759469852-90194-IMG8745-1759470682-original.jpg?1759470682",
+    "https://cdn.rent.com.au/photos/images/259445022/2237c7eb2ef4c686a5e83ea5-166382019__1759469854-90657-IMG8746-1759470684-original.jpg?1759470684"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "maybe",
+   "summary": "Air-conditioned studio in a house, with its own bathroom and kitchen, a walk from Nundah shops and train station. Shared laundry and yard, no car space. Available 16 October.",
+   "kind": "studio",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say which floor. It mentions storage under the house, so the house may be raised. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. Nundah shops and the train station are a walk away."
+   },
+   "agency": "Harcourts Solutions - WINDSOR",
+   "contacts": [
+    {
+     "name": "Dee Bloor",
+     "role": "Property Management Executive (listing agent)",
+     "email": "dee.bloor@harcourtssolutions.com.au",
+     "phone": "0408 065 628",
+     "source": "https://www.harcourtssolutions.com.au/rental/studio-qld-nundah-r3306362/",
+     "team": false
+    },
+    {
+     "name": "Harcourts Solutions Property Management",
+     "role": "Rentals office (142 Newmarket Road, Windsor)",
+     "email": "rentals@harcourtssolutions.com.au",
+     "phone": "(07) 3112 9080",
+     "source": "https://www.harcourtssolutions.com.au/contact/",
+     "team": true
+    },
+    {
+     "name": "Harcourts Solutions Windsor office",
+     "role": "General office",
+     "email": "windsor@harcourtssolutions.com.au",
+     "phone": "(07) 3505 4444",
+     "source": "https://www.harcourtssolutions.com.au/contact/",
+     "team": true
+    }
+   ],
+   "enquiryForm": "https://www.harcourtssolutions.com.au/rental/studio-qld-nundah-r3306362/",
+   "otherAds": [
+    {
+     "site": "Agency website",
+     "url": "https://www.harcourtssolutions.com.au/rental/studio-qld-nundah-r3306362/"
+    },
+    {
+     "site": "Inspection booking page (Inspect Real Estate, linked from the agency ad)",
+     "url": "https://book.inspectrealestate.com.au/RegisterNew?agentID=MD-HCRTSMITCHLETON&uniqueID=R3306362"
+    }
+   ]
+  },
+  {
+   "id": "rent-6447867",
+   "url": "https://www.rent.com.au/property/44-griffiths-st-bald-hills-qld-4036-6447867",
+   "area": "Northern suburbs",
+   "address": "44 Griffiths Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Apartment",
+   "beds": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267407689/aae8c8bbaad21cbbce93c954-1e1a2212_2D90ba_2D8ff4_2D256b_2D627b94864616-1786679681-original.jpg?1786679681",
+    "https://cdn.rent.com.au/photos/images/267408068/ffe43048b0bff7b5763bf3d6-443596cc_2D2589_2Ddb9d_2Dcb70_2D0b16b8b0176f-1786679824-original.jpg?1786679824",
+    "https://cdn.rent.com.au/photos/images/267408065/27770c3b170ee9cac2ed06e0-8a83001d_2D4e55_2D7a99_2Dde80_2Dae3260076a6c-1786679823-original.jpg?1786679823"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says no pets",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "YSH Property",
+   "contacts": [
+    {
+     "name": "Indeea  Mallett",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0497 019 777",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-5981014",
+   "url": "https://www.rent.com.au/property/4-43-pioneer-st-zillmere-qld-4034-5981014",
+   "area": "Northern suburbs",
+   "address": "4/43 Pioneer Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Apartment",
+   "beds": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "16th November 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/255856524/2f67340394edeef552ebc3f5-8e050abe_2D4e8b_2D76f6_2De625_2Dbe46b8d10f59-1742176101-original.jpg?1742176101",
+    "https://cdn.rent.com.au/photos/images/255856520/30626e7a5505836211af7a44-f3b3b0b1_2D96f6_2D32b6_2Dd68c_2Db316a3851338-1742176095-original.jpg?1742176095",
+    "https://cdn.rent.com.au/photos/images/255856523/4f192ddbaaa5d3ea9fb3ece2-11cf9f32_2Dc94f_2D6896_2D38a2_2D1718b79b8725-1742176101-original.jpg?1742176101"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "longshot",
+   "summary": "Furnished micro apartment with its own bathroom, kitchenette and courtyard. Power, water and internet included. One person only. Available 16 November.",
+   "kind": "1-bedroom apartment",
+   "cat": {
+    "state": "ask",
+    "note": "Probably not: the ad doesn't say, but this agent's other buildings say no pets. Ask."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "It has a courtyard, so probably ground level. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable. Bus stop 350 m, Zillmere train 800 m."
+   },
+   "agency": "YSH Property",
+   "contacts": [
+    {
+     "name": "Indeea  Mallett",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0497 019 777",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-5908714",
+   "url": "https://www.rent.com.au/property/3-47-strathpine-rd-bald-hills-qld-4036-5908714",
+   "area": "Northern suburbs",
+   "address": "3/47 Strathpine Road",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "6th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/254597051/91299becc5d83b47e24b6f6b-10057515_21452058_13_1670886742-1736213936-original.jpg?1736213936",
+    "https://cdn.rent.com.au/photos/images/254596816/af8a8f334373ca46170a7279-10057515_21452058_11_1670886741-1736213844-original.jpg?1736213844",
+    "https://cdn.rent.com.au/photos/images/254597050/abea254b09690810b02df280-10057515_21452058_14_1670886742-1736213935-original.jpg?1736213935"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Hero Karalouka",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0439 673 884",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6179270",
+   "url": "https://www.rent.com.au/property/38-centre-st-aspley-qld-4034-6179270",
+   "area": "Northern suburbs",
+   "address": "38 Centre Street",
+   "suburb": "Aspley",
+   "postcode": "4034",
+   "type": "Unit",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "19th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/259548778/17ff74a44a908bc125865807-agent923_rental_extra_4640353-1760056532-original.jpg?1760056532",
+    "https://cdn.rent.com.au/photos/images/259549307/c8ea2bdf43602afe24b6cf8d-agent923_rental_extra_4640340-1760056650-original.jpg?1760056650",
+    "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says no pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "Onsite Property",
+   "contacts": [
+    {
+     "name": "Rebecca Chen",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0493 262 105",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6490939",
+   "url": "https://www.rent.com.au/property/26-harold-st-virginia-qld-4014-6490939",
+   "area": "Northern suburbs",
+   "address": "26 Harold Street",
+   "suburb": "Virginia",
+   "postcode": "4014",
+   "type": "Apartment",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267911122/fcb9800203f9caf60a5841ec-c4004fe5_2D8f7e_2Dd168_2D423e_2D04705bb1ae87-1789598779-original.jpg?1789598779",
+    "https://cdn.rent.com.au/photos/images/267911123/0dd60e644836103ee3f0c2ca-924cbc38_2D01ab_2Db69d_2D23a5_2Debc9db6b51fd-1789598791-original.jpg?1789598791",
+    "https://cdn.rent.com.au/photos/images/267911124/b7adab28b58f98660f002160-5cd2aec3_2D3962_2Dce17_2Dd63f_2Dd8ee3b9375cb-1789598792-original.jpg?1789598792"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says no pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "YSH Property",
+   "contacts": [
+    {
+     "name": "Indeea  Mallett",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0497 019 777",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6458671",
+   "url": "https://www.rent.com.au/property/26b-harold-st-virginia-qld-4014-6458671",
+   "area": "Northern suburbs",
+   "address": "26B Harold Street",
+   "suburb": "Virginia",
+   "postcode": "4014",
+   "type": "Apartment",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/267412507/f35e8c2d6dec5494e0493cb3-58032779_2D31f9_2Dd1bd_2De2fa_2D45e11ff51c9d-1786686179-original.jpg?1786686179",
+    "https://cdn.rent.com.au/photos/images/267412508/22d0909cf794646b6dc179ab-5c8c4138_2D57d3_2Da54e_2D0507_2Dbb075ade67c2-1786686179-original.jpg?1786686179",
+    "https://cdn.rent.com.au/photos/images/267412505/0d7ad8af12567e6b3c007da6-0c282685_2D9727_2D2c38_2De0ab_2D907a0894a816-1786686179-original.jpg?1786686179"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-09-29T07:02:01+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says no pets",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "YSH Property",
+   "contacts": [
+    {
+     "name": "Indeea  Mallett",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0497 019 777",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  }
+ ],
+ "seniors": [
+  {
+   "id": "eureka-maiala-court-margate",
+   "name": "Eureka Maiala Court Margate",
+   "operator": "Eureka Group Holdings (Eureka Villages)",
+   "suburb": "Margate",
+   "address": "43 Macdonnell Road, Margate QLD 4019",
+   "kind": "Seniors rental village",
+   "rent": "Not published. Rentals only: no entry or exit fees, just a refundable rental bond. Eureka says it sets its rents so people who rely on the Age Pension can afford them, and residents may be eligible for Rent Assistance. Electricity, phone and internet are extra.",
+   "pets": "Not stated for Margate (one directory lists it as 'Pet Policy Not Specific'). Eureka's general FAQ: 'Most of our villages are pet friendly, but restrictions do apply. The Eureka Villages Pet Policy must be strictly adhered to. Please contact your village manager for more information.'",
+   "access": "Lift: 'Covered walkways provide all-weather protection and our elevator allows easy access to the Community Room and your neighbours.' One-bedroom unfurnished units with ensuite; units have private balconies, so some are upstairs - ask for a ground-floor unit or one on the lift.",
+   "nearby": "Public transport 20 m, doctor 380 m, post office 700 m, pharmacy 750 m, shopping centre 750 m, Centrelink 900 m, hospital 1 km, Margate beach about 500 m (Eureka page and village flyer).",
+   "phone": "1800 356 818",
+   "email": "enquiries@eurekavillages.com.au",
+   "website": "https://www.eurekavillages.com.au/village/eureka-maiala-court-margate/",
+   "enquiry": "https://www.eurekavillages.com.au/contact/",
+   "fit": "good",
+   "why": "The only seniors rental village I found on the Redcliffe Peninsula: 1-bedroom units, a lift, a bus stop at the gate and shops 750 m away, with pension-friendly rent and no buy-in. Rent is not published and the cat needs the manager's OK, so ask about both.",
+   "sources": [
+    "https://www.eurekavillages.com.au/village/eureka-maiala-court-margate/",
+    "https://www.eurekavillages.com.au/wp-content/uploads/Margate-Village-Info-Flyer-LR-SEP2017.pdf",
+    "https://www.eurekavillages.com.au/wp-content/uploads/Eureka-Villages-FAQs-1.pdf",
+    "https://www.eurekavillages.com.au/wp-content/uploads/Eureka-Villages-Benefits-of-Renting-4.pdf",
+    "https://www.eurekavillages.com.au/contact/",
+    "https://www.villages.com.au/qld/brisbane-north/eureka-maiala-court-13394"
+   ]
+  },
+  {
+   "id": "bhc-solstice-redcliffe",
+   "name": "Solstice (BHC seniors apartments, Redcliffe)",
+   "operator": "Brisbane Housing Company (BHC)",
+   "suburb": "Redcliffe",
+   "address": "99 Sutton Street, Redcliffe QLD 4020",
+   "kind": "Community housing",
+   "rent": "82 homes for people aged 55 and over: 59 social and 23 affordable. Social units: BHC says its social rents are 'not income-based but set at levels designed to be affordable for most people receiving Centrelink benefits' and it counts Rent Assistance when checking affordability. Affordable units: 74.9% of market rent; income limit for a single adult $64,992 a year (June 2026).",
+   "pets": "BHC: 'we understand the value of pets and support residents in having one where possible', but 'not all BHC properties are suitable for a pet'. You apply to keep a pet (form, or pets@bhcl.com.au) with proof of microchipping and desexing for a cat; BHC replies within 14 days.",
+   "access": "New multi-storey apartment building (opened late 2025). All homes built to Gold or Platinum Livable Housing Design standards so residents with varying mobility can age in place; one bedroom plus a multi-purpose room and a private balcony. Lifts are not spelled out in the sources I read - confirm.",
+   "nearby": "BHC: 'Located just moments from Redcliffe's foreshore, shops, and essential services.' Bus and GP not stated.",
+   "phone": "(07) 3307 3000",
+   "email": "applyaffordable@bhcl.com.au (affordable units); reception@bhcl.com.au (general)",
+   "website": "https://bhcl.com.au/our-work/developments/project-highlights/",
+   "enquiry": null,
+   "fit": "good",
+   "why": "Brand-new over-55s apartments in Redcliffe built for ageing in place, from a landlord that allows pets where it can. The social units come only through the Queensland Housing Register (then a BHC application form); the 23 affordable units are advertised on realestate.com.au when one falls vacant, and BHC checks she can afford the rent on her income.",
+   "sources": [
+    "https://bhcl.com.au/our-work/developments/project-highlights/",
+    "https://buildcorp.com.au/project/bhc-redcliffe/",
+    "https://www.arkhefield.com.au/projects/redcliffe-social-housing",
+    "https://statements.qld.gov.au/statements/103767",
+    "https://bhcl.com.au/find-a-home/social-housing/",
+    "https://bhcl.com.au/find-a-home/affordable-housing/",
+    "https://bhcl.com.au/your-tenancy/animals-and-pets/",
+    "https://bhcl.com.au/"
+   ]
+  },
+  {
+   "id": "bric-portwood-street-redcliffe",
+   "name": "Bric Housing Redcliffe units (Portwood Street)",
+   "operator": "Bric Housing",
+   "suburb": "Redcliffe",
+   "address": "Portwood Street, Redcliffe (street number not published)",
+   "kind": "Community housing",
+   "rent": "Income-based rent (community housing). Tenants come only by referral from the Queensland Housing Register.",
+   "pets": "Not stated",
+   "access": "18 one-bedroom units built to Gold and Platinum Liveable Housing standards, with 'wider hallways and doors to make them suitable for people with decreased mobility and people who use a wheelchair'. Number of storeys and lift not stated.",
+   "nearby": "Not stated",
+   "phone": "(07) 3230 5555",
+   "email": "info@bric.org.au",
+   "website": "https://bric.org.au/",
+   "enquiry": null,
+   "fit": "maybe",
+   "why": "A small, new, accessible complex in Redcliffe built for seniors and people with disability, but Bric says it has no waitlist of its own and only houses people referred by the Department of Housing, and its pet policy is not published.",
+   "sources": [
+    "https://bric.org.au/affordable-housing-in-redcliffe/",
+    "https://statements.qld.gov.au/statements/99198",
+    "https://bric.org.au/apply-for-housing/apply/",
+    "https://bric.org.au/",
+    "https://www.moretonbay.qld.gov.au/files/assets/public/v/3/services/community-support/homelessness-and-housing-services-guide.pdf"
+   ]
+  },
+  {
+   "id": "coast2bay-moreton-bay",
+   "name": "Coast2Bay Housing Group (community housing across Moreton Bay)",
+   "operator": "Coast2Bay Housing Group",
+   "suburb": "Moreton Bay, including the Redcliffe Peninsula and Deception Bay",
+   "address": "Various properties; Moreton Bay office listed at 16 King Street, Caboolture QLD 4510 (council guide, 2022)",
+   "kind": "Community housing",
+   "rent": "Community housing: 'rent based on what you can afford' (income-based). Its affordable housing (capped at 75% of market, no more than 30% of household income) is mostly on the Sunshine Coast and Banya.",
+   "pets": "Not stated",
+   "access": "Varies by property (houses, townhouses and 1-4 bedroom units).",
+   "nearby": "Varies by property.",
+   "phone": "(07) 5451 2900 (office); 1300 796 716 (tenant line)",
+   "email": "housingservices@coast2bay.com.au",
+   "website": "https://coast2bay.com.au/",
+   "enquiry": null,
+   "fit": "maybe",
+   "why": "A large community-housing landlord in Moreton Bay including the Redcliffe Peninsula, but I found no seniors-only complex, and its community housing is only offered through Department of Housing referrals, so the Housing Register is the way in.",
+   "sources": [
+    "https://coast2bay.com.au/",
+    "https://coast2bay.com.au/community-housing/",
+    "https://coast2bay.com.au/apply-for-housing/",
+    "https://coast2bay.com.au/affordable-housing/",
+    "https://www.moretonbay.qld.gov.au/files/assets/public/v/3/services/community-support/homelessness-and-housing-services-guide.pdf"
+   ]
+  },
+  {
+   "id": "seasons-kallangur",
+   "name": "Seasons Kallangur (Seasons Flexi Lease)",
+   "operator": "Seasons Seniors Living",
+   "suburb": "Kallangur",
+   "address": "1321 Anzac Avenue, Kallangur QLD 4503",
+   "kind": "Seniors rental village",
+   "rent": "From $340 per week (Seasons Kallangur page). Bond is four weeks' rent; first lease is six months; Rent Assistance can be claimed if eligible. A 2021 news article said the model included a meal service (three meals a day for about $80 a week) - ask whether meals are included or compulsory now.",
+   "pets": "'Seasons Flexi communities are pet-friendly and allow one pet to reside per unit, on application. Please note pets are not permitted in the communal dining area.' FAQ: 'Yes. We welcome pet cats, dogs, birds or fish.'",
+   "access": "One-bedroom apartments with private courtyards, an accessible bathroom and flat garden paths in a gated community; Seasons' own site summary calls them ground level - confirm on a visit.",
+   "nearby": "'Located on Anzac Avenue, Seasons Kallangur is close to shops, sport clubs and medical services.' Bus not stated.",
+   "phone": "(07) 3285 9500",
+   "email": "rentals@seasonsliving.com.au",
+   "website": "https://seasonsflexi.com.au/kallangur/",
+   "enquiry": "https://seasonsflexi.com.au/contact/",
+   "fit": "good",
+   "why": "Seniors rental with one-bedroom apartments from $340 a week, a written pet policy that includes cats, no buy-in, and Seasons Home Care on site. It is full right now ('all our Rental Communities are currently at capacity'), so the step is to join the waitlist, which is offered first come, first served.",
+   "sources": [
+    "https://seasonsflexi.com.au/kallangur/",
+    "https://seasonsflexi.com.au/kallangur-brochure/",
+    "https://seasonsflexi.com.au/wp-content/uploads/2026/09/Kallangur-Resident-Information-Booklet_2026.pdf",
+    "https://seasonsflexi.com.au/faqs/",
+    "https://seasonsflexi.com.au/contact/",
+    "https://seasonsflexi.com.au/",
+    "https://hellocare.com.au/how-this-model-of-living-is-providing-affordable-and-safe-accommodation-for-seniors/"
+   ]
+  },
+  {
+   "id": "cofc-kurrajong-kallangur",
+   "name": "Kurrajong Townhouses",
+   "operator": "Churches of Christ in Queensland",
+   "suburb": "Kallangur",
+   "address": "Kallangur QLD 4503 (street not published on the page)",
+   "kind": "Other",
+   "rent": "Affordable living at discounted market rent; 'Income to rent affordability must be within 30%'; assets under $141,500 for a single person. You apply directly for vacancies advertised on real estate websites.",
+   "pets": "Not stated; the application steps include a 'Pet Application (if applicable)'.",
+   "access": "50 homes: 7 one-bedroom single-storey townhouses; the 2- and 3-bedroom townhouses are two storey.",
+   "nearby": "Not stated; large community centre on site.",
+   "phone": "(07) 3327 1600",
+   "email": null,
+   "website": "https://www.cofc.com.au/social-housing/our-projects/explore-our-developments/kurrajong",
+   "enquiry": null,
+   "fit": "unlikely",
+   "why": "One of the few affordable rentals you can apply for directly, with seven single-storey one-bedroom homes, but it is a mixed family complex (not for seniors) and the rent must be no more than 30% of income, which is hard to meet on the pension alone.",
+   "sources": [
+    "https://www.cofc.com.au/social-housing/our-projects/explore-our-developments/kurrajong",
+    "https://www.cofc.com.au/social-housing/residents/how-to-apply/",
+    "https://www.moretonbay.qld.gov.au/files/assets/public/v/3/services/community-support/homelessness-and-housing-services-guide.pdf"
+   ]
+  },
+  {
+   "id": "eureka-deagon",
+   "name": "Eureka Deagon (also listed as Oxford Crest Deagon Village)",
+   "operator": "Eureka Group Holdings (Eureka Villages)",
+   "suburb": "Deagon (Sandgate)",
+   "address": "126 Board Street, Deagon QLD 4017",
+   "kind": "Seniors rental village",
+   "rent": "Not published ('Contact Us For Pricing & Availablities'). Rentals only, no buy-in, just a refundable bond; Eureka says it sets rents so Age Pension recipients can afford them, and residents may get Rent Assistance. Electricity, phone and internet are extra.",
+   "pets": "'Pet friendly' (Eureka Deagon page); the Downsizing listing says 'Pets Allowed'.",
+   "access": "'Single-level villa living' (Downsizing listing); self-contained 1-bedroom units with front and back doors, a verandah sitting area, split-system air-conditioning and an emergency call button.",
+   "nearby": "'Well-serviced by local buses and the Deagon train station (on the Shorncliffe line)'; close to Sandgate's shops, 'excellent doctor's practices, and pharmacies'.",
+   "phone": "1800 356 818",
+   "email": "enquiries@eurekavillages.com.au",
+   "website": "https://www.eurekavillages.com.au/village/eureka-deagon/",
+   "enquiry": "https://www.eurekavillages.com.au/contact/",
+   "fit": "good",
+   "why": "Pension-friendly seniors rental with single-level 1-bedroom villas and a stated pet-friendly policy, near Sandgate's shops, buses and the train. It is in her third-choice area, and the rent has to be asked for.",
+   "sources": [
+    "https://www.eurekavillages.com.au/village/eureka-deagon/",
+    "https://www.downsizing.com.au/property/rental/217403/affordable-independent-retirement-rental-living-deagon",
+    "https://www.eurekavillages.com.au/wp-content/uploads/Eureka-Villages-Benefits-of-Renting-4.pdf",
+    "https://www.eurekavillages.com.au/contact/",
+    "https://www.villages.com.au/retirement-villages/qld/sandgate"
+   ]
+  },
+  {
+   "id": "kedron-wavell-terraces-chermside",
+   "name": "Kedron Wavell Terraces (SunnyCove Retirement Village Chermside)",
+   "operator": "Private operator, advertised as SunnyCove Retirement Village Chermside",
+   "suburb": "Chermside",
+   "address": "12-20 Ballantine Street, Chermside QLD 4032",
+   "kind": "Over-50s rental community",
+   "rent": "Not published ('Contact Agent'); the listing mentions 'Centrelink rent assistance eligibility'.",
+   "pets": "Not stated",
+   "access": "44 units over two levels with 'lift access to upper units'; 1-bedroom units with ensuite and an individual courtyard.",
+   "nearby": "Listing: 'walk-in only 1min to BUS STATION; 2min to LIBRARY; 2min to RSL CLUB; 5min to WESTFIELD'; doctors nearby and a short drive to hospital; meals cooked on site, visiting hairdresser and a courtesy bus to the RSL.",
+   "phone": "0402 631 805",
+   "email": null,
+   "website": "https://www.downsizing.com.au/property/rental/32990/rental-best-location-and-best-choice-for-your-retirement-living",
+   "enquiry": null,
+   "fit": "maybe",
+   "why": "Over-50s rentals with a lift, right beside Westfield Chermside and the bus station, but it is in her last-choice area, has no website of its own, and rent and pet rules are not published (the ad is undated, so check it is current).",
+   "sources": [
+    "https://www.downsizing.com.au/property/rental/32990/rental-best-location-and-best-choice-for-your-retirement-living",
+    "https://www.retirementlivingonline.com.au/retirement/facilities/kedron-wavell-terraces"
+   ]
+  },
+  {
+   "id": "carseldine-gardens",
+   "name": "Carseldine Gardens",
+   "operator": "Liberty Senior Living (on-site management; units privately owned)",
+   "suburb": "Carseldine",
+   "address": "144 Dorville Road, Carseldine QLD 4034",
+   "kind": "Over-50s rental community",
+   "rent": "Not published. Units are rented out by their owners; a 2-bedroom there was advertised at $420 a week (bond $1,680) in August 2023, so a 1-bedroom villa may come in under that.",
+   "pets": "Not stated for the village; one 2023 unit listing showed pets allowed.",
+   "access": "One- and two-bedroom villas; which ones are single level is not stated.",
+   "nearby": "Directory lists 'Walk to Shops', 'Access to local public transport' and a village bus.",
+   "phone": "(07) 3863 4419",
+   "email": null,
+   "website": "https://www.villages.com.au/qld/brisbane/liberty-senior-living-carseldine-gardens-1183",
+   "enquiry": null,
+   "fit": "maybe",
+   "why": "A seniors village of 143 homes where you can rent rather than buy, with a manager, hair salon and village bus, but units come up one at a time through private landlords and the operator's own website no longer loads, so details need a phone call.",
+   "sources": [
+    "https://www.villages.com.au/qld/brisbane/liberty-senior-living-carseldine-gardens-1183",
+    "https://www.agedcare101.com.au/listings/qld/carseldine/liberty-senior-living-carseldine-gardens-6122",
+    "https://agedcareonline.com.au/retirement-villages/facilities/liberty-senior-living-carseldine-gardens",
+    "https://www.tenantapp.com.au/Rentals/ViewListing/4164132"
+   ]
+  },
+  {
+   "id": "cofc-dianella-mitchelton",
+   "name": "Dianella Apartments",
+   "operator": "Churches of Christ in Queensland",
+   "suburb": "Mitchelton",
+   "address": "Mitchelton QLD (street not published on the page)",
+   "kind": "Community housing",
+   "rent": "Community housing: 'a small amount of rent, based on your household income and Commonwealth Rent Assistance, where applicable.'",
+   "pets": "Not stated",
+   "access": "49 'universally designed community housing apartments for seniors' (31 one-bedroom) over three levels with lift access; mobility-scooter charging bays.",
+   "nearby": "Not stated",
+   "phone": "(07) 3327 1600",
+   "email": null,
+   "website": "https://www.cofc.com.au/social-housing/our-projects/explore-our-developments/dianella",
+   "enquiry": null,
+   "fit": "maybe",
+   "why": "Purpose-built seniors community housing with a lift, but it is in Brisbane's north-west, outside her listed suburbs, and the only way in is a Department of Housing referral from the Housing Register.",
+   "sources": [
+    "https://www.cofc.com.au/social-housing/our-projects/explore-our-developments/dianella",
+    "https://www.cofc.com.au/social-housing/residents/how-to-apply/",
+    "https://www.cofc.com.au/social-housing"
+   ]
+  }
+ ],
+ "housingRegister": "Call 13 QGOV (13 74 68), or the Moreton Bay Housing Service Centre in Caboolture on (07) 5432 0700 (moretonbayhsc@hpw.qld.gov.au), to apply by phone or book an appointment to join the Queensland Housing Register, which is how you get offered public 'seniors' units' for over-55s and community housing such as Solstice, Bric, Coast2Bay and Dianella (source: https://www.qld.gov.au/housing/public-community-housing/eligibility-applying-for-housing/guide-to-applying-for-housing-assistance/apply-for-housing and https://www.qld.gov.au/housing/public-community-housing/housing-service-centre)."
+}

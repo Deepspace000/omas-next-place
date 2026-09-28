@@ -1,0 +1,172 @@
+{
+ "agencies": [
+  {
+   "name": "Living Property Management",
+   "website": "https://www.livingpm.com.au",
+   "rentalsEmail": "inspections@livingpm.com.au",
+   "generalEmail": "admin@livingpm.com.au",
+   "phone": "1300 885 624",
+   "address": "Level 2, 1 Springfield Lakes Boulevard, Springfield Lakes QLD 4300 (also an office at 1/158 Moray Street, New Farm QLD 4005; postal: PO Box 2669, New Farm QLD 4005)",
+   "source": "http://web.archive.org/web/20251013122535/https://www.livingpm.com.au/team/697711 (inspections@, the agency's 'Rental Team' page) ; https://app.2apply.com.au/Agency/LivingPM (admin@, live page)"
+  },
+  {
+   "name": "Property Listings (For Sale By Agent), the listing service used by the private landlord of 1/25 Prince Edward Parade",
+   "website": "https://www.forsalebyagent.com.au",
+   "rentalsEmail": "rentals@forsalebyagent.com.au",
+   "generalEmail": null,
+   "phone": "1300 831 940",
+   "address": "Level 1, 3/19 William Street, Balaclava VIC 3183",
+   "source": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010 (the address is only inside the page's 1Form 'apply' link, not shown as contact text; forsalebyagent.com.au itself publishes no email)"
+  },
+  {
+   "name": "Ray White Woody Point",
+   "website": "https://raywhitewoodypoint.com.au",
+   "rentalsEmail": null,
+   "generalEmail": "woodypoint.qld@raywhite.com",
+   "phone": "(07) 3283 2277",
+   "address": "Unit 1, 54 Oxley Avenue, Woody Point QLD 4019",
+   "source": "https://raywhitewoodypoint.com.au/about"
+  }
+ ],
+ "listings": [
+  {
+   "id": "rent-6489830",
+   "contacts": [
+    {
+     "name": "Living Property Management rental team (for Meedz Smith)",
+     "role": "Rentals / leasing email",
+     "email": "inspections@livingpm.com.au",
+     "phone": "1300 885 624",
+     "source": "http://web.archive.org/web/20251013122535/https://www.livingpm.com.au/team/697711",
+     "greet": "Meedz"
+    },
+    {
+     "name": "Meedz Smith",
+     "role": "Property manager named on the ad (leasing)",
+     "email": null,
+     "phone": "0417 595 944",
+     "source": "https://www.homely.com.au/homes/2-91-albert-street-margate-qld-4019/13513259"
+    },
+    {
+     "name": "Living Property Management office",
+     "role": "General office",
+     "email": "admin@livingpm.com.au",
+     "phone": "1300 885 624",
+     "source": "https://app.2apply.com.au/Agency/LivingPM"
+    }
+   ],
+   "enquiryForm": "https://www.tenantapp.com.au/Rentals/ViewListing/4785836",
+   "otherAds": [
+    {
+     "site": "Agency website, 'Available For Rent' page (blocks automated access; a web search of the site returned this unit at $365, but I could not open the page to get a direct link)",
+     "url": "https://www.livingpm.com.au/available-for-rent/"
+    },
+    {
+     "site": "TenantApp (the agency's listing and inspection-booking platform)",
+     "url": "https://www.tenantapp.com.au/Rentals/ViewListing/4785836"
+    },
+    {
+     "site": "2Apply (the agency's application page, which lists this unit)",
+     "url": "https://app.2apply.com.au/Agency/LivingPM"
+    },
+    {
+     "site": "homely.com.au",
+     "url": "https://www.homely.com.au/homes/2-91-albert-street-margate-qld-4019/13513259"
+    },
+    {
+     "site": "rent.com.au",
+     "url": "https://www.rent.com.au/property/2-91-albert-st-margate-qld-4019-6489830"
+    }
+   ],
+   "extraDetails": "All ads use the same text. \"The home is split into three self contained units. Unit 2 is located at the back of the home above unit 3.\" So this unit is upstairs. No ad mentions stairs or a lift, but a lift is unlikely in a house split into three units. \"Back Deck\". \"Located within walking distance to the beach, local shops, public transport and major amenities\". No shop or bus stop is named. 1 garage/car space. Available 13 Oct 2026, bond $1,460. No ad mentions pets, and the 'pets allowed' box on rent.com.au is not ticked. rent.com.au scores: walk 53 (\"somewhat walkable\"), transit 35 (\"some transit\"). The ad says: \"If you are unable to attend an inspection in person, please contact our office to discuss alternative arrangements.\"",
+   "notes": "Meedz Smith's own email is not published anywhere I could find. The agency's website (livingpm.com.au) blocks automated access (403 error), so I read archived copies on the Wayback Machine. The 'Rental Team' page (Oct 2025) and leasing consultant Helen Allen's page (Mar 2026) both give inspections@livingpm.com.au. The Contact Us page (Jan 2026) gives admin@livingpm.com.au. The live 2Apply page (Sept 2026) says \"You can contact Living Property Management at admin@livingpm.com.au and 1300 885 624\". TenantApp's ad for this unit also sends inspection requests to inspections@livingpm.com.au (in the page code). Best plan: email inspections@ with 'Attention: Meedz Smith' and 2/91 Albert Street in the subject, and cc admin@. Phone: the +61 417 595 944 on rent.com.au is correct (0417 595 944, same on Homely). Meedz is not on the agency's Jan 2026 staff page, which listed that same mobile for leasing consultant Ashley Cummins. So it seems to be the leasing team's work mobile, now used by Meedz. Office line: 1300 885 624. Trustpilot's company profile also lists enquiry@livingpm.com.au, but I did not see that address on the agency's own pages. The agency is based in Springfield Lakes/New Farm, not near Margate. Its website menu has a 'Pet Application' page for tenants. Web searches found no realestate.com.au or domain.com.au ad for this unit."
+  },
+  {
+   "id": "rent-6499010",
+   "contacts": [
+    {
+     "name": "Private landlord (phone-code line)",
+     "role": "Landlord, reached by phone or text with phone code 75636",
+     "email": null,
+     "phone": "0488 839 724",
+     "source": "https://www.homely.com.au/homes/1-25-prince-edward-parade-redcliffe-qld-4020/13543006"
+    },
+    {
+     "name": "Property Listings / For Sale By Agent (listing service, not the landlord)",
+     "role": "Shared inbox used for this service's rental ads (fallback only)",
+     "email": "rentals@forsalebyagent.com.au",
+     "phone": "1300 831 940",
+     "source": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010"
+    }
+   ],
+   "enquiryForm": "https://www.forsalebyagent.com.au/118245132/",
+   "otherAds": [
+    {
+     "site": "forsalebyagent.com.au (the listing service's own page for this flat)",
+     "url": "https://www.forsalebyagent.com.au/118245132/"
+    },
+    {
+     "site": "homely.com.au",
+     "url": "https://www.homely.com.au/homes/1-25-prince-edward-parade-redcliffe-qld-4020/13543006"
+    },
+    {
+     "site": "rent.com.au",
+     "url": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010"
+    }
+   ],
+   "extraDetails": "The ad is the same on all three sites: \"Spacious 1bedroom Clean Opposite waterfront Close to shops Suits quiet, responsible tenant.\" \"Current employment and rental references essential.\" \"12 month lease minimum.\" \"Please submit an enquiry to receive a link to the Application Form.\" 1 garage. No ad says which floor unit 1 is on or mentions stairs or a lift. No bus stop or shop is named. No ad mentions pets, and the 'pets allowed' box on rent.com.au is not ticked. Homely says available from Sat 26 Sep; rent.com.au says \"Available now\". Bond $1,520. rent.com.au scores: walk 73 (\"very walkable\"), transit 43 (\"some transit\").",
+   "notes": "No email for the landlord is published. The flat is listed privately through 'Property Listings', which is the For Sale By Agent service (forsalebyagent.com.au, sister site of forsalebyowner.com.au, both at William Street, Balaclava VIC). How renters are meant to get in touch: (1) Phone or text 0488 839 724 and quote/enter phone code 75636. The system automatically texts back the landlord's name and mobile number. (2) Or send the enquiry form on the forsalebyagent.com.au listing page. The service forwards it to the landlord by email and SMS, and emails you the landlord's details. (Both routes are explained on https://www.forsalebyowner.com.au/packages-residential-rentals/.) rentals@forsalebyagent.com.au is not shown as a contact anywhere. It only appears inside the 'apply' links on rent.com.au (1Form) and Homely (Tenant Options). It is the same address on every 'Property Listings' ad: I checked two others, in Brisbane City and Sarina. forsalebyagent.com.au publishes no email at all. So an email sent straight to it may never reach this landlord. If it is used, quote '1/25 Prince Edward Parade, Redcliffe' and phone code 75636. Phone: 0488 839 724 is correct (rent.com.au and Homely). It is a shared line: other ads use it with other codes. The forsalebyagent.com.au page shows a different shared mobile, 0488 849 770, with \"Enter Phone Code when promted\". The service's office is 1300 831 940 (website footer). Homely lists the 'Property Listings' office as 1300 446 960. The ad does not say whether the lister is the owner or an agent using this service. \"Current employment ... essential\" may matter for a retired applicant, so ask whether pension income is fine. The service says it lists on realestate.com.au and domain.com.au, but web searches found no ad URL on either site."
+  },
+  {
+   "id": "rent-6388186",
+   "contacts": [
+    {
+     "name": "Tanya Sheridan",
+     "role": "Property Manager (listing agent)",
+     "email": "tanya.sheridan@raywhite.com",
+     "phone": "(07) 3883 8102",
+     "source": "https://raywhitewoodypoint.com.au/agents/tanya-sheridan/103070"
+    },
+    {
+     "name": "Abby Warner",
+     "role": "Leasing Consultant (second agent on the ad)",
+     "email": "abby.warner@raywhite.com",
+     "phone": "(07) 3883 8106",
+     "source": "https://raywhitewoodypoint.com.au/agents/abby-warner/174383"
+    },
+    {
+     "name": "Ray White Woody Point office",
+     "role": "General office",
+     "email": "woodypoint.qld@raywhite.com",
+     "phone": "(07) 3283 2277",
+     "source": "https://raywhitewoodypoint.com.au/about"
+    }
+   ],
+   "enquiryForm": "https://raywhitewoodypoint.com.au/properties/residential-for-rent/qld/redcliffe-4020/flat/3582293",
+   "otherAds": [
+    {
+     "site": "Agency website (current ad)",
+     "url": "https://raywhitewoodypoint.com.au/properties/residential-for-rent/qld/redcliffe-4020/flat/3582293"
+    },
+    {
+     "site": "raywhite.com",
+     "url": "https://www.raywhite.com/qld/redcliffe/3582293"
+    },
+    {
+     "site": "homely.com.au",
+     "url": "https://www.homely.com.au/homes/3-31-marine-parade-redcliffe-qld-4020/13193867"
+    },
+    {
+     "site": "rent.com.au",
+     "url": "https://www.rent.com.au/property/3-31-marine-pde-redcliffe-qld-4020-6388186"
+    },
+    {
+     "site": "Agency website (earlier letting of the same flat, now marked Leased)",
+     "url": "https://raywhitewoodypoint.com.au/properties/leased-residential/qld/redcliffe-4020/flat/3515422"
+    }
+   ],
+   "extraDetails": "The agency ad (same text on raywhite.com, Homely and rent.com.au) says: \"studio granny flat located at the rear of a larger property\"; \"Front porch\"; \"Airconditioning\"; \"Yard maintenance included\"; \"*THIS PROPERTY HAS NO LAUNDARY*\". No car space is listed. \"Directly across the road from Suttons Beach\"; \"Easy access to local shops and amenities\"; \"Enjoy coastal walks, cafes, and parks nearby\". No shop or bus stop is named. \"The main house at the front of the property is leased as unit 1 and 2\". No ad says whether there are steps up to the flat or mentions a lift. Search snippets of the 2025 sale ad for the whole property described it as \"elevated\" above Suttons Beach, so ask about steps. No ad mentions pets, and the 'pets allowed' box on rent.com.au is not ticked. \"You will be required to physically attend and complete a property inspection in order to proceed with your rental application\"; \"We do not accept 1Form applications.\" Available Fri 9 Oct 2026, bond $1,520. rent.com.au scores: walk 67, transit 39.",
+   "notes": "Tanya's email and direct line are published on her agent page. raywhite.com's copy of the ad shows the same email and number. The rent.com.au number +61 7 3883 8102 is correct: (07) 3883 8102. The agency has no separate rentals email. On the agency's About page, the office email woodypoint.qld@raywhite.com is shown as text, but the link behind it opens an email to damien.misso@raywhite.com, so type the address rather than clicking it. An earlier Ray White ad for this same flat (available 27 May 2026, $380) is now marked 'Leased'. That was the previous letting. The current ad (created 22 Sep 2026, status 'Current') is at the residential-for-rent link. Property records (onthehouse.com.au) show 31 Marine Parade sold in Dec 2025. Web searches found no realestate.com.au or domain.com.au ad for this letting. An old domain.com.au page ('31 Marine Parade ... House For Rent', ID 18054137) is not this ad."
+  }
+ ]
+}

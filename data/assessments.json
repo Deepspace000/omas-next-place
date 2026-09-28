@@ -1,0 +1,238 @@
+{
+ "_about": "One entry per ad id: Claude's reading of the ad for Mum. verdict: good | maybe | longshot | no. cat/stairs/shops states: cat ok|ask|no, stairs none|lift|ask|stairs, shops close (walkable) | far (not walkable). Written by hand or by the routine; build_docs.py merges it with the search results.",
+ "rent-4394513": {
+  "verdict": "good",
+  "kind": "1-bedroom flat",
+  "summary": "Ground-floor 1-bedroom flat with a carport, close to shops, transport and the waterfront.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. The agency's rental guide says pets may be considered on application. Ask."
+  },
+  "stairs": {
+   "state": "none",
+   "note": "The ad says ground floor."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's close to shops and transport."
+  }
+ },
+ "rent-6499010": {
+  "verdict": "maybe",
+  "kind": "1-bedroom flat",
+  "summary": "Spacious 1-bedroom flat across the road from the waterfront, close to shops. Private landlord: call or text and quote the code. The ad asks for employment and rental references and a 12-month lease.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's close to shops."
+  },
+  "smsCode": "75636"
+ },
+ "rent-6388186": {
+  "verdict": "maybe",
+  "kind": "studio granny flat",
+  "summary": "Renovated studio granny flat at the back of a house, across the road from Suttons Beach. Listed as 1 bedroom but described as a studio. It has no laundry, and you must inspect in person before you can apply.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "Probably ground level (a granny flat with a front porch), but the ad doesn't say. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says there's easy access to local shops."
+  }
+ },
+ "rent-3180830": {
+  "verdict": "maybe",
+  "kind": "1-bedroom duplex",
+  "summary": "1-bedroom duplex with its own entrance, a covered patio and a big fenced yard. Separate laundry, water included.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. The fenced yard is a good sign. Ask."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "Probably single level (a duplex with its own entrance), but the ad doesn't say. Ask."
+  },
+  "shops": {
+   "state": "far",
+   "note": "Not walkable: most errands need a car or bus. The ad says it's close to supermarkets and Westfield North Lakes."
+  }
+ },
+ "rent-6476171": {
+  "verdict": "maybe",
+  "kind": "1-bedroom apartment",
+  "summary": "Fully renovated 1-bedroom apartment, a short walk to the water. Covered carport.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. The building used to be a 5-bedroom house, so it could be upstairs. Ask."
+  },
+  "shops": {
+   "state": "far",
+   "note": "Not walkable. The ad says shops and transport are a short walk away, so ask."
+  }
+ },
+ "rent-6173821": {
+  "verdict": "maybe",
+  "kind": "studio",
+  "summary": "Air-conditioned studio in a house, with its own bathroom and kitchen, a walk from Nundah shops and train station. Shared laundry and yard, no car space. Available 16 October.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. It mentions storage under the house, so the house may be raised. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. Nundah shops and the train station are a walk away."
+  }
+ },
+ "rent-6488119": {
+  "verdict": "maybe",
+  "kind": "1-bedroom flat",
+  "summary": "Freshly painted 1-bedroom flat in an old Queenslander house split into four flats. Carport, air conditioning.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "Probably upstairs: the ad says the laundry is downstairs. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. Sandgate shops and the train are nearby."
+  }
+ },
+ "rent-6489830": {
+  "verdict": "longshot",
+  "kind": "1-bedroom unit",
+  "summary": "1-bedroom unit at the back of a house split into three, with a back deck.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "stairs",
+   "note": "Upstairs: the ad says it's above unit 3."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's a walk to the beach, shops and public transport."
+  }
+ },
+ "rent-3742596": {
+  "verdict": "longshot",
+  "kind": "studio",
+  "summary": "Renovated studio with a balcony or courtyard, next to a small park. Electricity is extra. There was an inspection on Wed 30 Sep, 1:00 to 1:15pm.",
+  "cat": {
+   "state": "ask",
+   "note": "Probably not: another ad in the same building says no pets. Ask."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. Nundah shops are a 10-minute walk, the bus stop 500 m and the train 700 m."
+  }
+ },
+ "rent-5981014": {
+  "verdict": "longshot",
+  "kind": "1-bedroom apartment",
+  "summary": "Furnished micro apartment with its own bathroom, kitchenette and courtyard. Power, water and internet included. One person only. Available 16 November.",
+  "cat": {
+   "state": "ask",
+   "note": "Probably not: the ad doesn't say, but this agent's other buildings say no pets. Ask."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "It has a courtyard, so probably ground level. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. Bus stop 350 m, Zillmere train 800 m."
+  }
+ },
+ "rent-6499181": {
+  "verdict": "no",
+  "reason": "A room in shared rooming accommodation"
+ },
+ "rent-6490961": {
+  "verdict": "no",
+  "reason": "A room in a share house; the ad says it's unsuitable for pets"
+ },
+ "rent-6490955": {
+  "verdict": "no",
+  "reason": "A room in a share house; the ad says it's unsuitable for pets"
+ },
+ "rent-6394566": {
+  "verdict": "no",
+  "reason": "A boarding-house room with a shared bathroom, upstairs"
+ },
+ "rent-6447565": {
+  "verdict": "no",
+  "reason": "The ad says it's not suitable for pets"
+ },
+ "rent-6398165": {
+  "verdict": "no",
+  "reason": "The ad says it's not suitable for pets"
+ },
+ "rent-6047267": {
+  "verdict": "no",
+  "reason": "The ad says it's not suitable for pets"
+ },
+ "rent-6371324": {
+  "verdict": "no",
+  "reason": "The ad says it's not suitable for pets"
+ },
+ "rent-5731687": {
+  "verdict": "no",
+  "reason": "The ad says it's not suitable for pets"
+ },
+ "rent-6473629": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ },
+ "rent-6410099": {
+  "verdict": "no",
+  "reason": "A room in a house; the ad says no pets"
+ },
+ "rent-6447867": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ },
+ "rent-5908714": {
+  "verdict": "no",
+  "reason": "The ad says it's not suitable for pets"
+ },
+ "rent-6179270": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ },
+ "rent-6490939": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ },
+ "rent-6458671": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ }
+}
