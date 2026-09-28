@@ -5,3 +5,4 @@ page.html
 _site/
 .claude/
 build_docs.py
+version.txt

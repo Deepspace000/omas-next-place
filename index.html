@@ -86,6 +86,10 @@
   .bar { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin-block: 18px 14px; }
   .chip { border: 1px solid var(--bay-600); background: transparent; border-radius: 999px; padding: 7px 13px; font-size: 14px; cursor: pointer; color: var(--ink-2); }
   .chip[aria-pressed="true"] { background: var(--ink); color: var(--bay-900); border-color: var(--ink); font-weight: 700; }
+  .new-chip { border-color: var(--coral); color: var(--coral); font-weight: 700; }
+  .new-chip[aria-pressed="true"] { background: var(--coral); border-color: var(--coral); color: var(--coral-ink); }
+  #version { letter-spacing: 0.04em; text-transform: none; }
+  .update { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 10px 12px; border-radius: 10px; background: var(--good-bg); color: var(--good); font-size: 15px; }
   .toggle { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; color: var(--ink-2); margin-left: auto; cursor: pointer; }
   .toggle input { width: 18px; height: 18px; accent-color: var(--coral); }
 
@@ -190,7 +194,8 @@
 <body>
 <div class="wrap">
   <header class="top">
-    <div class="eyebrow">Rental search · Redcliffe and north Brisbane</div>
+    <div class="eyebrow">Rental search · Redcliffe and north Brisbane · <span id="version"></span></div>
+    <div id="updateBanner"></div>
     <h1>Oma's Next Place</h1>
     <p class="lede">A search of rent.com.au every hour from 6am to 10pm for a small 1-bedroom place for Oma and her cat. Tap <b>Email the agent</b> on any place to send the questions from your phone.</p>
     <ul class="wants" aria-label="What we're looking for">
@@ -221,6 +226,7 @@
   <div class="tally" id="tally" aria-live="polite"></div>
 
   <div class="bar">
+    <span id="newOnly"></span>
     <span id="areaChips" role="group" aria-label="Show area"></span>
     <label class="toggle"><input type="checkbox" id="hideDone"> Hide ones marked "Not for Oma"</label>
   </div>
@@ -298,6 +304,7 @@
 <script>
 (() => {
   "use strict";
+  const VERSION = "1.40";   // raise this with every change, so it's easy to see the page has updated
   const REPO = "Deepspace000/omas-next-place";
   const WORKFLOW = "search.yml";
   const AREAS = ["Redcliffe Peninsula", "Deception Bay / North Lakes", "Sandgate / Brighton", "Northern suburbs"];
@@ -327,9 +334,18 @@
   const S = {
     site: null, listings: new Map(), marks: store.get("marks", {}), wording: store.get("wording", null),
     area: store.get("area", "all"), hideDone: store.get("hideDone", false), open: null,
-    loadError: null, savedCopy: false, search: { state: "idle", msg: "", run: null, dispatchAt: null, awaitingData: null },
+    loadError: null, savedCopy: false, onlyNew: false, search: { state: "idle", msg: "", run: null, dispatchAt: null, awaitingData: null },
   };
-  const prevVisit = store.get("lastVisit", null) || new Date(Date.now() - 3 * 864e5).toISOString();
+  // A place is "new" until you've seen it on this device: tapped "I've seen these", opened its
+  // email or its ad, or set where you're up to. Reloading the page doesn't clear it.
+  const seen = new Set(store.get("seen", []));
+  const isNew = (l) => !seen.has(l.id) && !mark(l.id).status;
+  function markSeen(ids) {
+    let changed = false;
+    ids.forEach((id) => { if (!seen.has(id)) { seen.add(id); changed = true; } });
+    if (changed) { store.set("seen", [...seen]); cardCache.clear(); }
+    return changed;
+  }
   const drafts = {};
   const $ = (sel, root = document) => root.querySelector(sel);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -366,6 +382,7 @@
       .filter((l) => l.verdict in verdictRank && !l.gone)
       .filter((l) => S.area === "all" || l.area === S.area)
       .filter((l) => !(S.hideDone && mark(l.id).status === "no"))
+      .filter((l) => !S.onlyNew || isNew(l))
       .sort((a, b) =>
         (verdictRank[a.verdict] - verdictRank[b.verdict]) ||
         (AREAS.indexOf(a.area) - AREAS.indexOf(b.area)) ||
@@ -435,7 +452,7 @@
   function cardHTML(l) {
     const m = mark(l.id);
     const isOpen = S.open === l.id;
-    const isNew = !m.status && l.firstSeenAt && l.firstSeenAt > prevVisit;
+    const fresh = isNew(l);
     const hasAnyEmail = (l.contacts || []).some((c) => c.email);
     const caller = (l.contacts || []).find((c) => c.phone);
     const statusBtns = STATUSES.map(([v, t]) =>
@@ -452,7 +469,7 @@
       <article class="card${isOpen ? " is-open" : ""}${m.status === "no" ? " dim" : ""}" data-card="${esc(l.id)}">
         ${photos.length ? `<div class="photos" aria-label="Photos from the ad">${photos.map((u, i) => `<img src="${esc(u)}" alt="Photo ${i + 1} of ${esc(l.address)}" loading="lazy" decoding="async" referrerpolicy="no-referrer">`).join("")}</div>` : ""}
         <div class="card-top">
-          ${isNew ? '<span class="new">New</span>' : ""}
+          ${fresh ? '<span class="new">New</span>' : ""}
           <span class="area">${esc(l.area || "")}</span>
           <span class="price num">${money(l.price)} <small>a week</small></span>
           ${(l.price || 0) > 400 ? '<span class="over">A bit over budget</span>' : ""}
@@ -470,7 +487,7 @@
             ? `<button type="button" class="btn primary" data-act="compose" data-id="${esc(l.id)}" aria-expanded="${isOpen}">${isOpen ? "Close the email" : "Email the agent"}</button>`
             : `<button type="button" class="btn greyed" disabled title="No email found for this agent">Email the agent</button>`}
           ${!hasAnyEmail && caller ? callButtons(caller, l) : ""}
-          ${l.url ? `<a class="btn" href="${esc(l.url)}" target="_blank" rel="noopener">Open the ad</a>` : ""}
+          ${l.url ? `<a class="btn" data-act="open-ad" data-id="${esc(l.id)}" href="${esc(l.url)}" target="_blank" rel="noopener">Open the ad</a>` : ""}
           ${(l.otherAds || []).map((a) => `<a class="btn small" href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.site)}</a>`).join("")}
         </div>
         ${!hasAnyEmail ? `<div class="fine">No email found for this agent yet. ${l.smsCode ? `Quote code <b>${esc(l.smsCode)}</b> when you call or text. ` : ""}${l.enquiryForm ? `<a href="${esc(l.enquiryForm)}" target="_blank" rel="noopener">Their enquiry form</a>` : ""}</div>` : ""}
@@ -551,7 +568,10 @@
     const host = $("#list");
     if (!S.site) { host.innerHTML = `<div class="empty">${S.loadError ? `The list couldn't load (${esc(S.loadError)}). It keeps trying by itself. <button type="button" class="linkish" data-act="reload">Try again now</button>` : "Loading the list…"}</div>`; return; }
     const items = lookList();
-    if (!items.length) { host.innerHTML = `<div class="empty">${S.area === "all" ? "No places to look at yet. The next search may find some." : "Nothing in this area right now."}</div>`; cardCache.clear(); return; }
+    if (!items.length) {
+      host.innerHTML = `<div class="empty">${S.onlyNew ? `You've seen every place. New ones from the next search will show up here. <button type="button" class="linkish" data-act="only-new">Show all places</button>` : S.area === "all" ? "No places to look at yet. The next search may find some." : "Nothing in this area right now."}</div>`;
+      cardCache.clear(); return;
+    }
     const ae = document.activeElement;
     const focusId = ae && ae.id && host.contains(ae) ? ae.id : null;
     const sel = focusId && "selectionStart" in ae ? [ae.selectionStart, ae.selectionEnd] : null;
@@ -587,7 +607,7 @@
     const out = live.filter((l) => l.verdict === "no");
     const gone = all.filter((l) => l.gone && l.verdict !== "no");
     const emailed = look.filter((l) => ["emailed", "replied", "inspecting"].includes(mark(l.id).status)).length;
-    const newCount = look.filter((l) => !mark(l.id).status && l.firstSeenAt > prevVisit).length;
+    const newCount = look.filter(isNew).length;
     const last = S.site && S.site.lastSearch;
 
     $("#runline").innerHTML = last
@@ -595,11 +615,15 @@
       : S.site ? "<span>No searches have run yet.</span>" : S.loadError ? "<span>Couldn't load the list.</span>" : "<span>Loading the list…</span>";
 
     $("#tally").innerHTML = S.site ? [
-      ["coral", newCount, "New since you last looked"],
+      ["coral", newCount, "Not seen yet"],
       ["", look.length, "Places to look at"],
       ["", emailed, "Emailed so far"],
       ["", out.length, "Ruled out"],
     ].map(([c, n, t]) => `<div class="tile ${c}"><div class="n num">${n}</div><div class="l">${t}</div></div>`).join("") : "";
+    $("#newOnly").innerHTML = S.site
+      ? `<button type="button" class="chip new-chip" data-act="only-new" aria-pressed="${S.onlyNew}">Only unseen places <span class="num">${newCount}</span></button>` +
+        (S.onlyNew && newCount ? ` <button type="button" class="linkish" data-act="seen-all">I've seen these</button>` : "")
+      : "";
 
     const counts = Object.fromEntries(AREAS.map((a) => [a, look.filter((l) => l.area === a).length]));
     $("#areaChips").innerHTML = [["all", "All areas", look.length], ...AREAS.map((a) => [a, a, counts[a]])]
@@ -637,7 +661,7 @@
   }
 
   function renderMinimise() {
-    const anyOpen = S.open || S.area !== "all" || document.querySelector("details[open]") || !$("#searchSetup").hidden;
+    const anyOpen = S.open || S.area !== "all" || S.onlyNew || document.querySelector("details[open]") || !$("#searchSetup").hidden;
     $("#minimise").hidden = !anyOpen;
   }
 
@@ -803,7 +827,7 @@
     setTimeout(() => { btn.textContent = label; }, 1800);
   }
   function minimiseAll() {
-    S.open = null; S.area = "all"; store.set("area", "all"); $("#searchSetup").hidden = true;
+    S.open = null; S.area = "all"; S.onlyNew = false; store.set("area", "all"); $("#searchSetup").hidden = true;
     document.querySelectorAll("details[open]").forEach((d) => { d.open = false; });
     render();
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -816,7 +840,7 @@
     const act = t.dataset.act, id = t.dataset.id, l = id && S.listings.get(id);
     if (act === "area") { S.area = t.dataset.v; store.set("area", S.area); render(); }
     else if (act === "compose" && l) {
-      S.open = S.open === id ? null : id; renderList(); renderMinimise();
+      S.open = S.open === id ? null : id; markSeen([id]); renderRest(); renderList(); renderMinimise();
       if (S.open) document.querySelector(`[data-card="${CSS.escape(id)}"]`)?.scrollIntoView({ block: "nearest", behavior: "smooth" });
     }
     else if (act === "status" && l) saveMark(id, { status: t.dataset.v });
@@ -827,6 +851,10 @@
     else if (act === "rewrite" && l) { const d = draftFor(l); d.touched = false; renderList(); }
     else if (act === "search-now") searchNow();
     else if (act === "reload") { retries = 0; loadData(); }
+    else if (act === "open-ad" && l) { if (markSeen([id])) setTimeout(render, 300); }
+    else if (act === "only-new") { S.onlyNew = !S.onlyNew; render(); if (S.onlyNew) $("#h-look").scrollIntoView({ block: "start", behavior: "smooth" }); }
+    else if (act === "seen-all") { markSeen(lookList().map((x) => x.id)); S.onlyNew = false; render(); }
+    else if (act === "update-now") { location.reload(); }
   });
 
   document.addEventListener("change", (ev) => {
@@ -896,14 +924,26 @@
     store.del("token"); $("#tokenMsg").textContent = "Removed from this device."; $("#tokenMsg").className = "msg ok";
   });
 
-  // the list is "new since you last looked" until you leave the page
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "hidden") store.set("lastVisit", new Date().toISOString());
-    else {
-      loadData(); checkRun();
+    if (document.visibilityState === "visible") {
+      loadData(); checkRun(); checkVersion();
       if (!$("#searchSetup").hidden) $("#setupToken").focus({ preventScroll: true });
     }
   });
+
+  $("#version").textContent = "v" + VERSION;
+  async function checkVersion() {
+    try {
+      const res = await fetch("version.txt?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) return;
+      const live = (await res.text()).trim();
+      $("#updateBanner").innerHTML = live && live !== VERSION
+        ? `<div class="update">A newer version of this page is ready (v${esc(live)}; you have v${esc(VERSION)}). <button type="button" class="btn small" data-act="update-now">Update now</button></div>`
+        : "";
+    } catch (e) {}
+  }
+  checkVersion();
+  setInterval(() => { if (document.visibilityState === "visible") checkVersion(); }, 10 * 60 * 1000);
 
   const savedSite = store.get("site", null);
   if (savedSite && Array.isArray(savedSite.listings)) applySite(savedSite, true);

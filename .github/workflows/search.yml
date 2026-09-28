@@ -74,6 +74,7 @@ jobs:
         run: |
           mkdir -p _site/data
           cp index.html manifest.webmanifest _site/
+          grep -o "const VERSION = \"[^\"]*\"" index.html | cut -d\" -f2 > _site/version.txt
           cp -r icons _site/
           cp data/site.json _site/data/
 
