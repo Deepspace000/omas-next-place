@@ -1,0 +1,13 @@
+name: Search for places
+on:
+  workflow_dispatch:
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Search rent.com.au (Redcliffe only, reachability test)
+        run: python rent_search.py --quick
