@@ -1,0 +1,27 @@
+{
+ "agencies": [
+  {
+   "name": "YSH Property",
+   "website": "https://ysh.com.au",
+   "rentalsEmail": "rentals@ysh.com.au",
+   "generalEmail": "info@ysh.com.au",
+   "phone": "1300 368 658",
+   "address": "Building B, Level 1, 172 Evans Road, Salisbury QLD 4107 (postal: PO Box 677, Annerley QLD 4103)",
+   "source": "https://ysh.com.au/contact/"
+  }
+ ],
+ "listings": [
+  {
+   "id": "rent-5981014",
+   "contacts": [
+    {"name": "YSH Property leasing team", "role": "Leasing (the ad's phone 0497 019 777 is the leasing line)", "email": "leasing@ysh.com.au", "phone": "0497 019 777", "source": "https://ysh.com.au/team/"},
+    {"name": "Indeea Mallett", "role": "Agent named on the ad", "email": null, "phone": "0497 019 777", "source": "https://www.rent.com.au/property/4-43-pioneer-st-zillmere-qld-4034-5981014"},
+    {"name": "YSH Property rentals", "role": "Agency rentals email", "email": "rentals@ysh.com.au", "phone": "1300 368 658", "source": "https://ysh.com.au/contact/"}
+   ],
+   "enquiryForm": null,
+   "otherAds": [],
+   "extraDetails": "YSH's micro apartments page says the buildings have keyless entry and security cameras on common areas. It says nothing about pets or stairs.",
+   "notes": "The ad's mobile 0497 019 777 is listed on YSH's team page as the leasing line with email leasing@ysh.com.au (listed under Denny Dao; Indeea Mallett is not on the team page). YSH also advertises other micro apartments at 45 Pioneer Street (tenantapp.com.au). No separate ad for 4/43 was found."
+  }
+ ]
+}
