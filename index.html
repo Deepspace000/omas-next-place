@@ -304,7 +304,7 @@
 <script>
 (() => {
   "use strict";
-  const VERSION = "1.41";   // raise this with every change, so it's easy to see the page has updated
+  const VERSION = "1.42";   // raise this with every change, so it's easy to see the page has updated
   const REPO = "Deepspace000/omas-next-place";
   const WORKFLOW = "search.yml";
   const AREAS = ["Redcliffe Peninsula", "Deception Bay / North Lakes", "Sandgate / Brighton", "Northern suburbs"];
@@ -317,7 +317,7 @@
     subject: "Enquiry about {address}, {suburb}",
     body:
       "{greeting}\n\n" +
-      "I'm enquiring about the {kind} at {address}, {suburb}, advertised at {price} a week. It would be for my mother, who is 84.\n\n" +
+      "I'm enquiring about the {kind} at {address}, {suburb}, advertised at {price} a week. It would be for my mother, who is in her eighties.\n\n" +
       "Could you please let me know:\n\n" +
       "1. Do you allow small indoor pets? She has a little quiet cat. It is desexed and stays inside.\n" +
       "2. Are there any stairs to get to the unit? If so, how many?\n" +
@@ -427,7 +427,7 @@
     const w = wording();
     const code = l.smsCode ? " (code " + l.smsCode + ")" : "";
     return "Hi, I'm enquiring about the " + (l.kind || "1-bedroom place") + " at " + l.address + ", " + l.suburb + code +
-      " for my mother, who is 84. Do you allow a small indoor cat? Are there any stairs, and how many? Is it near shops?" +
+      " for my mother, who is in her eighties. Do you allow a small indoor cat? Are there any stairs, and how many? Is it near shops?" +
       (w.name ? " Thanks, " + w.name : " Thanks");
   }
   const mailtoHref = (to, subject, body) => "mailto:" + encodeURIComponent(to) + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
