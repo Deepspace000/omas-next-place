@@ -1,5 +1,15 @@
 [
  {
+  "at": "2026-09-29T11:23:10+10:00",
+  "found": 27,
+  "new": [
+   "rent-6258001"
+  ],
+  "gone": [],
+  "problems": [],
+  "trigger": "workflow_dispatch"
+ },
+ {
   "at": "2026-09-29T08:10:40+10:00",
   "found": 26,
   "new": [],
