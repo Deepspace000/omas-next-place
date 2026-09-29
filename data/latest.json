@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-09-29T01:47+00:00",
+ "searchedAt": "2026-09-29T05:39+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 27,
@@ -551,73 +551,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/225851906/2df56ee350442277bc9067aa-1500-1789442864-original.jpeg?1789442864",
-    "https://cdn.rent.com.au/photos/images/225851909/0a0cfd36847abe1e3417498c-1500-1789442864-original.jpeg?1789442864",
-    "https://cdn.rent.com.au/photos/images/225851919/5109afcca91c65fafbc56f1f-1500-1789442864-original.jpeg?1789442864"
-   ],
-   "id": "rent-4394513",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/3-37-fifth-ave-sandgate-qld-4017-4394513",
-   "area": "Sandgate / Brighton",
-   "address": "3/37 Fifth Avenue",
-   "suburb": "Sandgate",
-   "postcode": "4017",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 370,
-   "bond": 0,
-   "available": "now",
-   "listedAt": "2026-09-15T11:26:07.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 80,
-   "walkCategory": "very_walkable",
-   "transitScore": 48,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Parks and recreation",
-    "Friendly neighbourhood",
-    "Near shops",
-    "Great public transport"
-   ],
-   "inspections": [],
-   "lat": "-27.317218",
-   "lng": "153.070015",
-   "byline": "3/37 FIFTH AVENUE - Avail. 25.09.2026",
-   "description": "* Ground Floor 1 bedroom Flat\n* Close to Transport\n* Close to Shops \n* Close to Waterfront\n* Carport\n\nINSPECTION TIMES: In order to be advised of any upcoming inspections, please submit an email enquiry so that your contact details are added to the property contact list. As inspection times become available, you will be notified via email and we ask that you please also keep an eye out for any open homes listed online. You must register for all inspections so that we can monitor numbers and advise you of any changes or cancellations should they occur. Should there be no confirmed attendees 1 hour prior to the inspection time, please note this inspection may be cancelled without notice.\n\nAPPLICATIONS (Copy and paste link into web browser): http://www.professionalssandgate.com.au/wp-content/uploads/sites/94/2025/07/General-Tenancy-Application-Form.pdf\n\nDisclaimer: Images in listing are digitalised and may not be scale to exact sizes. Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisement is true and correct but accept no responsibility and disclaim all liability in respect to any errors, omissions, inaccuracies or misstatements contained. Prospective tenants should make their own enquiries to verify the information contained in this advertisement.",
-   "flags": {
-    "ground": [
-     "* Ground Floor 1 bedroom Flat * Close to Transport * Close to Shops * Clo"
-    ],
-    "stairs": [
-     "xact sizes. Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisem"
-    ],
-    "shops": [
-     "* Ground Floor 1 bedroom Flat * Close to Transport * Close to Shops * Close to Waterfront * Carport INSPECTI",
-     "Ground Floor 1 bedroom Flat * Close to Transport * Close to Shops * Close to Waterfront * Carport INSPECTION TIMES: In orde"
-    ]
-   },
-   "contactPerson": {
-    "name": "Rental Department",
-    "phone": "+61738699999",
-    "phoneAlt": "+61738699999"
-   },
-   "company": {
-    "name": "Professionals Sandgate",
-    "phone": null,
-    "email": null,
-    "address": "73 Brighton Road Sandgate, QLD 4017",
-    "profileUrl": "https://www.rent.com.au/agents/10787/professionals-sandgate"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/266258579/4e855301b6d233c8ced1f787-1500-1780453179-original.jpeg?1780453179",
     "https://cdn.rent.com.au/photos/images/266259051/1f16ba4fa669ffbf664137c5-1500-1780453444-original.jpeg?1780453444",
     "https://cdn.rent.com.au/photos/images/266259048/caad318f16d65f6ad1dd0076-1500-1780453442-original.jpeg?1780453442"
@@ -671,6 +604,70 @@
     "email": null,
     "address": "73 Brighton Road Sandgate, QLD 4017",
     "profileUrl": "https://www.rent.com.au/agents/10787/professionals-sandgate"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268079199/c640b89489f95b924575949b-uploads_2F1790658260326-lrsamcpldy-6695d2b33f439c040d606b667ad2cae7_2Fimage2-1790658615-original.jpg?1790658615",
+    "https://cdn.rent.com.au/photos/images/268079204/340e03189c1d7c47eb4ed0f8-uploads_2F1790658260328-bwncwt91uv5-6695d2b33f439c040d606b667ad2cae7_2Fmain__281_29-1790658636-original.jpg?1790658636",
+    "https://cdn.rent.com.au/photos/images/268079205/e5b88104571940d8176cc3e6-uploads_2F1790658260322-3639lu9i9p2-6695d2b33f439c040d606b667ad2cae7_2Fimage2__281_29-1790658637-original.jpg?1790658637"
+   ],
+   "id": "rent-6501228",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-39-second-ave-sandgate-qld-4017-6501228",
+   "area": "Sandgate / Brighton",
+   "address": "3/39 Second Avenue",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 390,
+   "bond": 1560,
+   "available": "12th October 2026",
+   "listedAt": "2026-09-29T13:10:05.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 83,
+   "walkCategory": "very_walkable",
+   "transitScore": 50,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Parks and recreation",
+    "Friendly neighbourhood",
+    "Near shops",
+    "Great public transport"
+   ],
+   "inspections": [],
+   "lat": "-27.319182",
+   "lng": "153.072116",
+   "byline": "Ideal Avenue Position  Newly Renovated Flat",
+   "description": "Positioned in a convenient Sandgate location, this newly renovated and spacious flat offers comfortable living with privacy and easy access to the area's local amenities. Situated at the rear of the property, it provides a peaceful setting while remaining within walking distance of the waterfront, Sandgate village and public transport.\n\n Open-plan kitchen and dining area\n Brand-new kitchen\n Separate lounge room\n Bedroom with walk-in robe\n Ceiling fans\n Internal laundry\n Bathroom\n Positioned at the rear of the property for added privacy\n\nLocation Highlights:\n\n Walking distance to the Sandgate waterfront and foreshore\n Close to Sandgate village, with local shops, cafes, restaurants and everyday services nearby\n Convenient access to Sandgate train station and local bus services\n Close to Sandgate State School and Sandgate District State High School\n Easy access to Brisbane's northern suburbs, Brisbane CBD and Brisbane Airport via public transport and major road connections\n\nImportant Notes:\n\n This flat is located at the rear of the property and offers much privacy.",
+   "flags": {
+    "shops": [
+     "ing distance of the waterfront, Sandgate village and public transport. Open-plan kitchen and dining area Brand-new kitchen Se",
+     "rfront and foreshore Close to Sandgate village, with local shops, cafes, restaurants and everyday services nearby Convenien",
+     "and everyday services nearby Convenient access to Sandgate train station and local bus services Close to Sandgate State Sch",
+     "arby Convenient access to Sandgate train station and local bus services Close to Sandgate State School and Sandgate Distr",
+     "thern suburbs, Brisbane CBD and Brisbane Airport via public transport and major road connections Important Notes: This flat is"
+    ]
+   },
+   "contactPerson": {
+    "name": "Jodie Shay",
+    "phone": "+61409178026",
+    "phoneAlt": "+61409178026"
+   },
+   "company": {
+    "name": "Jim McKeering Real Estate - Sandgate",
+    "phone": null,
+    "email": null,
+    "address": "200 Seymour Street Sandgate, QLD 4017",
+    "profileUrl": "https://www.rent.com.au/agents/10464/jim-mckeering-real-estate-sandgate"
    },
    "feedAgentName": null,
    "feedCompany": null,
