@@ -63,9 +63,10 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "gone": false,
+  "gone": true,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-29T22:45:49+10:00",
+  "goneAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6499010": {
   "raw": {
@@ -130,7 +131,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6388186": {
   "raw": {
@@ -195,7 +196,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-3180830": {
   "raw": {
@@ -261,7 +262,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6476171": {
   "raw": {
@@ -326,7 +327,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6499181": {
   "raw": {
@@ -387,7 +388,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -454,7 +455,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -521,7 +522,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-4394513": {
   "raw": {
@@ -660,7 +661,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6447565": {
   "raw": {
@@ -736,7 +737,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6488119": {
   "raw": {
@@ -801,7 +802,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6398165": {
   "raw": {
@@ -869,7 +870,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6047267": {
   "raw": {
@@ -936,7 +937,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6371324": {
   "raw": {
@@ -1002,7 +1003,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-5731687": {
   "raw": {
@@ -1072,7 +1073,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6473629": {
   "raw": {
@@ -1141,7 +1142,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1211,7 +1212,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6410099": {
   "raw": {
@@ -1276,7 +1277,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1343,7 +1344,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6447867": {
   "raw": {
@@ -1416,7 +1417,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-5981014": {
   "raw": {
@@ -1485,7 +1486,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1553,7 +1554,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6179270": {
   "raw": {
@@ -1620,7 +1621,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1693,7 +1694,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -1766,7 +1767,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00"
+  "lastSeenAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6258001": {
   "firstSeenAt": "2026-09-29T11:23:10+10:00",
@@ -1830,7 +1831,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-09-29T22:45:49+10:00",
+  "lastSeenAt": "2026-09-30T09:40:10+10:00",
   "gone": false
  },
  "rent-6501228": {
@@ -1899,7 +1900,68 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-09-29T22:45:49+10:00",
+  "lastSeenAt": "2026-09-30T09:40:10+10:00",
+  "gone": false
+ },
+ "rent-5395195": {
+  "firstSeenAt": "2026-09-30T09:40:10+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/244670110/92f739fd08cf31975438543f-69716159__1692580260-8922-MG0660-1692580526-original.jpg?1692580526",
+    "https://cdn.rent.com.au/photos/images/244670115/e4c986d4f611c55e43ed4e13-69716163__1692580264-9585-MG0651-1692580541-original.jpg?1692580541",
+    "https://cdn.rent.com.au/photos/images/244670113/9ca27a36ec757bdbb1d9e1c8-69716148__1692580251-9549-MG0654-1692580538-original.jpg?1692580538"
+   ],
+   "id": "rent-5395195",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-10a-joseph-st-margate-qld-4019-5395195",
+   "area": "Redcliffe Peninsula",
+   "address": "2/10A Joseph Street",
+   "suburb": "Margate",
+   "postcode": "4019",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 400,
+   "bond": 1600,
+   "available": "28th November 2026",
+   "listedAt": "2026-09-30T06:02:16.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 78,
+   "walkCategory": "very_walkable",
+   "transitScore": 38,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Near shops",
+    "Friendly neighbourhood",
+    "Parks and recreation",
+    "Close to schools"
+   ],
+   "inspections": [],
+   "lat": "-27.239613",
+   "lng": "153.106416",
+   "byline": "Low maintenance living in the heart of Margate!",
+   "description": "PLEASE NOTE  ** RENT INCREASE FROM 12/12/2026 TO $450 PER WEEK** \n\nThis fully self-contained one-bedroom unit offers comfortable, modern living right in the heart of Margate.\n\nFeatures include:\n Air-conditioned living area\n Open-plan Kitchen with Modern Appliances\n Large Living area\n Spacious Bedroom with Built in Robe and Ceiling Fan\n Modern Bathroom with Separate Toilet\n Single Lock Up Garage\n Good Sized Front Yard\n Rent increase from 12/12/2026 to $450 per week \n\nDisclaimer: In preparing this advertisement, we have endeavoured to ensure the information contained is true and accurate. We accept no responsibility and disclaim all liability in respect of any errors, omissions, inaccuracies or misstatements contained. Digital enhancement, including virtual furniture staging or removal, may have been used. Prospective tenants must rely on their own enquiries and inspections to verify all details.",
+   "flags": {},
+   "contactPerson": {
+    "name": "Alex Beker",
+    "phone": "+61406190342",
+    "phoneAlt": "+61732832033"
+   },
+   "company": {
+    "name": "Ray White Redcliffe",
+    "phone": null,
+    "email": null,
+    "address": "143 Sutton Street Redcliffe, QLD 4020",
+    "profileUrl": "https://www.rent.com.au/agents/374/ray-white-redcliffe"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-09-30T09:40:10+10:00",
   "gone": false
  }
 }
