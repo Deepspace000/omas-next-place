@@ -304,11 +304,13 @@
 <script>
 (() => {
   "use strict";
-  const VERSION = "1.40";   // raise this with every change, so it's easy to see the page has updated
+  const VERSION = "1.41";   // raise this with every change, so it's easy to see the page has updated
   const REPO = "Deepspace000/omas-next-place";
   const WORKFLOW = "search.yml";
   const AREAS = ["Redcliffe Peninsula", "Deception Bay / North Lakes", "Sandgate / Brighton", "Northern suburbs"];
   const STATUSES = [["", "To contact"], ["emailed", "Emailed"], ["replied", "Replied"], ["inspecting", "Inspecting"], ["no", "Not for Oma"]];
+  const SENIOR_STATUSES = [["", "To contact"], ["emailed", "Emailed"], ["called", "Called"], ["waitlist", "Put name down"], ["submitted", "Submitted"]];
+  const seniorMarks = (() => { try { return JSON.parse(localStorage.getItem("oma.seniorMarks") || "{}"); } catch (e) { return {}; } })();
   const DEFAULT_WORDING = {
     name: "",
     phone: "",
@@ -552,6 +554,9 @@
       p.phone && `<span class="line"><span class="val">${esc(p.phone)}</span><a class="btn small" href="${esc(telHref(p.phone))}">Call</a><button type="button" class="btn small" data-act="copy" data-text="${esc(p.phone)}">Copy</button></span>`,
       p.email && `<span class="line"><span class="val">${esc(p.email)}</span><button type="button" class="btn small" data-act="copy" data-text="${esc(p.email)}">Copy email</button></span>`,
     ].filter(Boolean).join("");
+    const st = (seniorMarks[p.id] || {}).status || "";
+    const statusBtns = SENIOR_STATUSES.map(([v, t]) =>
+      `<button type="button" data-act="senior-status" data-id="${esc(p.id)}" data-v="${v}" aria-pressed="${st === v}">${t}</button>`).join("");
     return `<article class="plain">
       <span class="fit ${esc(p.fit || "maybe")}">${esc({ good: "Good fit", maybe: "Worth a call", unlikely: "Long shot" }[p.fit] || "Worth a call")}</span>
       <h3>${esc(p.name)}</h3>
@@ -560,6 +565,7 @@
       <div class="meta"><b>Rent:</b> ${esc(p.rent || "Not published")}<br><b>Pets:</b> ${esc(p.pets || "Not stated")}<br><b>Access:</b> ${esc(p.access || "Not stated")}${p.nearby ? `<br><b>Nearby:</b> ${esc(p.nearby)}` : ""}</div>
       ${lines}
       <div class="actions">${p.website ? `<a class="btn small" href="${esc(p.website)}" target="_blank" rel="noopener">Website</a>` : ""}${p.enquiry ? `<a class="btn small" href="${esc(p.enquiry)}" target="_blank" rel="noopener">Enquiry form</a>` : ""}</div>
+      <div class="status" role="group" aria-label="Where you're up to with ${esc(p.name)}"><span class="lbl">Where you're up to:</span>${statusBtns}</div>
     </article>`;
   }
 
@@ -851,6 +857,11 @@
     else if (act === "rewrite" && l) { const d = draftFor(l); d.touched = false; renderList(); }
     else if (act === "search-now") searchNow();
     else if (act === "reload") { retries = 0; loadData(); }
+    else if (act === "senior-status") {
+      seniorMarks[id] = { status: t.dataset.v, updatedAt: new Date().toISOString() };
+      if (!store.set("seniorMarks", seniorMarks)) alert("This browser won't save changes (private browsing?).");
+      renderRest();
+    }
     else if (act === "open-ad" && l) { if (markSeen([id])) setTimeout(render, 300); }
     else if (act === "only-new") { S.onlyNew = !S.onlyNew; render(); if (S.onlyNew) $("#h-look").scrollIntoView({ block: "start", behavior: "smooth" }); }
     else if (act === "seen-all") { markSeen(lookList().map((x) => x.id)); S.onlyNew = false; render(); }
