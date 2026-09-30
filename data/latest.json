@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-09-30T21:50+00:00",
+ "searchedAt": "2026-09-30T23:41+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 25,
+ "count": 24,
  "problems": [],
  "listings": [
   {
@@ -662,7 +662,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "0493 446 309",
+    "phone": "+61493446309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -796,67 +796,6 @@
     "email": null,
     "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
     "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/266541473/5f5a1ea07ea455cca3dbdc04-b46b0086-a325-472d-9e6e-58cf60919fbc-1781578082-original.jpg?1781578082",
-    "https://cdn.rent.com.au/photos/images/267862400/29f587fb93cceec9589d5628-b4c5010c-ee6f-4f26-bdc2-ce8d57de80cd-1789362956-original.png?1789362956",
-    "https://cdn.rent.com.au/photos/images/266541471/0d11f5ce79a5005db392c929-b46b0086-a462-45ad-9536-d3e2321362ca-1781578069-original.jpg?1781578069"
-   ],
-   "id": "rent-6371324",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/121b-speight-st-brighton-qld-4017-6371324",
-   "area": "Sandgate / Brighton",
-   "address": "121B Speight Street",
-   "suburb": "Brighton",
-   "postcode": "4017",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-05-08T09:59:59.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 37,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 32,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Parks and recreation",
-    "I feel safe here",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.303227",
-   "lng": "153.055765",
-   "byline": "Fully Furnished Spacious Studio Apartments- All Bills Included",
-   "description": "**IMPORTANT INFORMATION** \n\n\n\n- Brisbane City Council Laws and Fire Safety Regulations limit One (1) occupant per unit. No couples or dependents. Property is not suitable for pets. \n\n- TO REGISTER FOR AN INSPECTION, CLICK ON THE \"BOOK AN INSPECTION\" BUTTON\nBELOW. You must register to inspect this property. By registering your details, you will be\ninstantly informed of any updates, changes, or cancellations for your scheduled\ninspection. If no one registers for an inspection time, then that inspection may be\ncancelled at short notice.\n\nWelcome to your very own spacious studio oasis, situated in a quiet street just minutes from the beautiful Brighton Beach Foreshore!\nThese brand-new studio units boast impeccable finishes, functional layouts and present unmissable value for the single working professional.\n\nWith 5 fresh and modern units- dont miss out on being the first ever tenants and securing your new abode with all expenses covered for a hassle-free living experience.\n\nAvailable Units\n\nUnit 1 (Ground floor, disability access + Secure Uncovered Car Space): $430/week\n\n\n\n\nMain features include:\n\n- Spacious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenance finishes and excellent separation between living and bedroom spaces\n\n- Fully Equipped Kitchenette: Enjoy the freedom to create culinary delights with your own kitchenette complete with luxury appliances including induction cooktop, kettle, toaster, microwave, fridge, and all cooking equipment and utensils provided.\n\n- Fully Furnished: Relax and unwind with top-tier furniture items including a queen-size bed, comfy 2-seater sofa, stylish dining suite and a large smart TV for your entertainment.\n\n- All-Inclusive Living: Experience the ease of living and extra savings with all utilities includedwater, electricity and unlimited super-fast Wi-Fi are all included in the rental price!\n\n- Secure Living: Experience the convenience of key-less, digital entry locks, providing maximum security for your peace of mind.\n\n- Private Bathroom: Freshen up in your own well appointed bathroom with large shower\n\n- Private Outdoor Area: Relax and enjoy fresh air in your private patio area with small tranquil garden and a screen door for added convenience\n\n- Modern Amenities: Enjoy the benefits of a ceiling fan and reverse cycle air conditioning for year-round comfort.\n\n- Communal Convenience: Access a shared communal area with a fully equipped kitchen, laundry with 1 washing machine and 1 dryer, and a secure clothesline area.",
-   "flags": {
-    "ground": [
-     "a hassle-free living experience. Available Units Unit 1 (Ground floor, disability access + Secure Uncovered Car Space): $430/week",
-     "acious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenanc"
-    ]
-   },
-   "contactPerson": {
-    "name": "Leasing Team",
-    "phone": "0493 446 309",
-    "phoneAlt": "+61493446309"
-   },
-   "company": {
-    "name": "Upside Ave",
-    "phone": null,
-    "email": null,
-    "address": "27 Stanley Road Camp Hill, QLD 4152",
-    "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
    },
    "feedAgentName": null,
    "feedCompany": null,
