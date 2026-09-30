@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-09-30T05:27+00:00",
+ "searchedAt": "2026-09-30T12:29+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 26,
+ "count": 25,
  "problems": [],
  "listings": [
   {
@@ -536,67 +536,6 @@
     "email": null,
     "address": "P.O Box 203, Bli Bli, QLD 4560",
     "profileUrl": "https://www.rent.com.au/agents/15252/invida-property-management-"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/266258579/4e855301b6d233c8ced1f787-1500-1780453179-original.jpeg?1780453179",
-    "https://cdn.rent.com.au/photos/images/266259051/1f16ba4fa669ffbf664137c5-1500-1780453444-original.jpeg?1780453444",
-    "https://cdn.rent.com.au/photos/images/266259048/caad318f16d65f6ad1dd0076-1500-1780453442-original.jpeg?1780453442"
-   ],
-   "id": "rent-6394566",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/9-88-flinders-pde-sandgate-qld-4017-6394566",
-   "area": "Sandgate / Brighton",
-   "address": "9/88 Flinders Parade",
-   "suburb": "Sandgate",
-   "postcode": "4017",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 380,
-   "bond": 0,
-   "available": "now",
-   "listedAt": "2026-09-15T09:11:07.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 74,
-   "walkCategory": "very_walkable",
-   "transitScore": 47,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Parks and recreation",
-    "Friendly neighbourhood",
-    "Near shops",
-    "Great public transport"
-   ],
-   "inspections": [],
-   "lat": "-27.31444",
-   "lng": "153.069543",
-   "byline": "9/88 Flinders Pde - Avail. NOW",
-   "description": "* New flooring and freshly painted throughout\n* INCLUDES WATER & ELECTRICITY\n* High-set STUDIO with SHARED bathroom and laundry\n* Basic Kitchenette\n* Waterfront position\n\n*Please note this property has SHARED bathroom and laundry facilities and is located within a boarding house*\n\nIMPORTANT NOTE  this is not a General Tenancy. Approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement.\n\nINSPECTION TIMES: In order to be advised of any upcoming inspections, please submit an email enquiry so that your contact details are added to the property contact list. As inspection times become available, you will be notified via email and we ask that you please also keep an eye out for any open homes listed online. You must register for all inspections so that we can monitor numbers and advise you of any changes or cancellations should they occur. Should there be no confirmed attendees 1 hour prior to the inspection time, please note this inspection may be cancelled without notice.\n\nAPPLICATIONS: http://www.professionalssandgate.com.au/wp-content/uploads/sites/94/2025/07/Rooming-Accommodation-Application-Form.pdf\n\nDisclaimer: Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisement is true and correct but accept no responsibility and disclaim all liability in respect to any errors, omissions, inaccuracies or misstatements contained. Prospective tenants should make their own enquiries to verify the information contained in this advertisement.",
-   "flags": {
-    "stairs": [
-     "freshly painted throughout * INCLUDES WATER & ELECTRICITY * High-set STUDIO with SHARED bathroom and laundry * Basic Kitchenette",
-     "Disclaimer: Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisem"
-    ]
-   },
-   "contactPerson": {
-    "name": "Rental Department",
-    "phone": "+61738699999",
-    "phoneAlt": "+61738699999"
-   },
-   "company": {
-    "name": "Professionals Sandgate",
-    "phone": null,
-    "email": null,
-    "address": "73 Brighton Road Sandgate, QLD 4017",
-    "profileUrl": "https://www.rent.com.au/agents/10787/professionals-sandgate"
    },
    "feedAgentName": null,
    "feedCompany": null,
