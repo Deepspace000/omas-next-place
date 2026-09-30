@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-09-30T01:20+00:00",
+ "searchedAt": "2026-09-30T05:27+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 27,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -732,66 +732,6 @@
     "email": null,
     "address": "27 Stanley Road Camp Hill, QLD 4152",
     "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/267864771/da3795577a2bce6b40e40ace-uploads_2F1789100841274-e9pchepwe5i-6d0b5058adc2f081e10eeff2bd9bff2a_2FIMG_4558-1789365978-original.jpeg?1789365978",
-    "https://cdn.rent.com.au/photos/images/267864824/21f50d4ba9a22dfc9662efd5-uploads_2F1789100841270-xnnnggc2vvj-6d0b5058adc2f081e10eeff2bd9bff2a_2FIMG_4557-1789366068-original.jpeg?1789366068",
-    "https://cdn.rent.com.au/photos/images/267864825/0a40c58218f4fe830464d545-uploads_2F1789100841288-5unzl5c1szp-6d0b5058adc2f081e10eeff2bd9bff2a_2FIMG_4564-1789366068-original.jpeg?1789366068"
-   ],
-   "id": "rent-6488119",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/3-201-rainbow-st-sandgate-qld-4017-6488119",
-   "area": "Sandgate / Brighton",
-   "address": "3/201 Rainbow Street",
-   "suburb": "Sandgate",
-   "postcode": "4017",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 420,
-   "bond": 1680,
-   "available": "now",
-   "listedAt": "2026-09-14T14:05:26.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 70,
-   "walkCategory": "very_walkable",
-   "transitScore": 47,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Parks and recreation",
-    "Friendly neighbourhood",
-    "Near shops",
-    "Great public transport"
-   ],
-   "inspections": [],
-   "lat": "-27.323024",
-   "lng": "153.076143",
-   "byline": "1 Bedroom Flat in Queenslander",
-   "description": "Available now, this freshly painted 1-bedroom flat in a charming Queenslander is ready to be your new home! Featuring new carpet and vinyl in the combined kitchen and living area.\n\nKey Features:\n\n- 1 Bedroom with new carpet and air conditioning\n- Bathroom with shower, linen cupboard\n- Combined kitchen and living area\n- Downstairs laundry facilities\n- Carport included\n- Located in a well-maintained property with a total of four flats\n\nThis flat is perfect for a single person seeking comfort and convenience.\n\nFor inspections and further inquiries, please contact the agent today!\n\nDon't miss out on this great opportunity!",
-   "flags": {
-    "stairs": [
-     "shower, linen cupboard - Combined kitchen and living area - Downstairs laundry facilities - Carport included - Located in a well-m"
-    ]
-   },
-   "contactPerson": {
-    "name": "Brenda Pearson",
-    "phone": "+61455260728",
-    "phoneAlt": "+61732691276"
-   },
-   "company": {
-    "name": "Jim McKeering Real Estate - Sandgate",
-    "phone": null,
-    "email": null,
-    "address": "200 Seymour Street Sandgate, QLD 4017",
-    "profileUrl": "https://www.rent.com.au/agents/10464/jim-mckeering-real-estate-sandgate"
    },
    "feedAgentName": null,
    "feedCompany": null,
