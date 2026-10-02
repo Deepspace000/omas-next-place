@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-02T05:29+00:00",
+ "searchedAt": "2026-10-02T12:26+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 25,
+ "count": 24,
  "problems": [],
  "listings": [
   {
@@ -671,69 +671,6 @@
     "email": null,
     "address": "27 Stanley Road Camp Hill, QLD 4152",
     "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268045422/3bda3e23e50e2559810bb8ea-10057515_21635343_8_1790378632-1790379066-original.jpg?1790379066",
-    "https://cdn.rent.com.au/photos/images/268045426/5269f9f837dbe9919ab357dd-10057515_21635343_7_1790378640-1790379072-original.jpg?1790379072",
-    "https://cdn.rent.com.au/photos/images/268045423/58b1092dcfa79fbb175c7ec6-10057515_21635343_6_1790378650-1790379071-original.jpg?1790379071"
-   ],
-   "id": "rent-6398165",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/2-14-duke-st-brighton-qld-4017-6398165",
-   "area": "Sandgate / Brighton",
-   "address": "2/14 Duke Street",
-   "suburb": "Brighton",
-   "postcode": "4017",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 425,
-   "bond": 1700,
-   "available": "6th October 2026",
-   "listedAt": "2026-09-28T07:31:06.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 70,
-   "walkCategory": "very_walkable",
-   "transitScore": 34,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Parks and recreation",
-    "I feel safe here",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.293537",
-   "lng": "153.059744",
-   "byline": "NEAR NEW UNFURNISHED BEACHSIDE STUDIO UNIT!",
-   "description": "Check out this near new, fully furnished studio unit located in a quiet street within walking distance to the beach, local shops, cafes and restaurants right in the heart of Brighton.\n\nAs per Council and Fire Regulations these studios allow SINGLE people ONLY (no couples or children and the property is not suitable for pets) \n\nLocated at the front of the complex, large bathroom, large bedroom and equipped a fenced private courtyard!\n\nFully air conditioned plus ceiling fan, security screens, kitchenettes with portable induction cooktop, bathroom and lounge area, separated bedrooms with roomy built in wardrobe.\n\nShared laundry with 2 washing machines provided, designated parking space included in rent.\n\nNo going through the hassle of connecting utilities as power, water, electricity and communal internet are all included in the rent. \n\nHandy to bus stops, easy access to Hornibrook Highway and Deagon Deviation, short drive to Sandgate Shopping Village and train station\n\nBe Quick Book your Inspection online today!!",
-   "flags": {
-    "shops": [
-     "a quiet street within walking distance to the beach, local shops, cafes and restaurants right in the heart of Brighton. As",
-     "communal internet are all included in the rent. Handy to bus stops, easy access to Hornibrook Highway and Deagon Deviati",
-     "brook Highway and Deagon Deviation, short drive to Sandgate Shopping Village and train station Be Quick Book your Inspectio",
-     "gon Deviation, short drive to Sandgate Shopping Village and train station Be Quick Book your Inspection online today!!"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
