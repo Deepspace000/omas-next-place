@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-02T01:23+00:00",
+ "searchedAt": "2026-10-02T05:29+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 24,
+ "count": 25,
  "problems": [],
  "listings": [
   {
@@ -1372,6 +1372,74 @@
     "email": null,
     "address": "Po Box 230 Waterford, QLD 4133",
     "profileUrl": "https://www.rent.com.au/agents/649/onsite-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268129587/cf836274eadf19587fd1f4ce-a74f4cb4_2D8922_2D9fef_2De267_2Db15695fb47d9-1790904588-original.jpg?1790904588",
+    "https://cdn.rent.com.au/photos/images/268129852/afd2616235ee0eb86263b16e-8ce7ae52_2D41a6_2D7828_2D2951_2Db531a5a05c44-1790904763-original.jpg?1790904763",
+    "https://cdn.rent.com.au/photos/images/268129855/e442d0ce08b4dae547b857fc-ec747853_2D3f1a_2D33a9_2Dcc98_2D1565a4c89c25-1790904765-original.jpg?1790904765"
+   ],
+   "id": "rent-6504264",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-7-mcphail-st-zillmere-qld-4034-6504264",
+   "area": "Northern suburbs",
+   "address": "3/7 Mcphail Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Apartment",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "18th November 2026",
+   "listedAt": "2026-10-02T09:23:01.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 75,
+   "walkCategory": "very_walkable",
+   "transitScore": 46,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.352787",
+   "lng": "153.045313",
+   "byline": "Near Brand New Fully Furnished One-Bedroom Apartment with Utilities Included!",
+   "description": "Dont miss the opportunity to rent a brand new, all inclusive, spacious, 1 Bedroom apartment within building of 5. This property comes fully furnished PLUS high-speed internet, electricity and water bills are included!\n\nSimply pack your bags and settle in.\n\nImportant: Single Occupancy Only.\n\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, and overnight guests are not permitted.\nKEY FEATURES:\n-All-inclusive living expenses!\n-Fully furnished with high-quality, modern furniture throughout.\n-Air conditioning & ceiling fans. \n-Ceiling fans.\n-Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n-Secure electronic door locks for keyless entry.\n-Security System.\n-Equipped kitchenette.\n-Smart TV.\n-Private courtyard.\n\nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\n\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \n\nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\n\nRELAX IN COMFORT: Ceiling fans and split- system A/C in every room to ensure  you enjoy a pleasant living environment. \n\nFULLY FURNISHED: Your apartment comes equipped with everything you need: a comfy bed, lounge, dining setting, outdoor furniture, smart TV, and kitchenware. \n\nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop, cutlery, dinnerware, and more for your convenience.\n\nPREMIUM EXTRAS: Stay comfortable year-round with air conditioning and ceiling fans.\n\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \n\nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\n\nAMENITIES NEARBY:\nConveniently Located Near Shops, Services & Public Transport  Live Close to It All! \n\nTaigum Square- 350m: offering Woolworths, a Medical Center, Big W and dining options, and a variety of retail stores to cover all your daily needs.\n\nJoseph Lee Park - 350m: offering breath of fresh air in open and green space just around the corner. \n \n\nTRANSPORT:\nZillmere Train Station: 1.6km: offered transport to Brisbane CBD in approx. 20 minutes. \nBus Stop: 120m: Offering quick access to local bus routes for seamless travel around Zillmere and neighbouring suburbs. \nBrisbane Airport 14.7km: Domestic and International terminals.\n\n*** TO SCHEDULE AN INSPECTION, CLICK THE \"BOOK AN INSPECTION\" BUTTON BELOW. \n\n*** REGISTRATION IS REQUIRED TO VIEW THIS PROPERTY.\n\n*** AFTER THE INSPECTION, YOU WILL RECEIVE AN INSPECTION CODE, WHICH MUST BE PROVIDED BEFORE YOU CAN SUBMIT YOUR APPLICATION.\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "flags": {
+    "pets": [
+     "Designed for single occupancy only. No couples, children or pets allowed. MICRO APARTMENT: Enjoy the privacy of your own securely a"
+    ],
+    "shops": [
+     "llance system. AMENITIES NEARBY: Conveniently Located Near Shops, Services & Public Transport Live Close to It All! Taigu",
+     "NEARBY: Conveniently Located Near Shops, Services & Public Transport Live Close to It All! Taigum Square- 350m: offering Wool",
+     "port Live Close to It All! Taigum Square- 350m: offering Woolworths, a Medical Center, Big W and dining options, and a variety",
+     "se to It All! Taigum Square- 350m: offering Woolworths, a Medical Center, Big W and dining options, and a variety of retail s",
+     "esh air in open and green space just around the corner. TRANSPORT: Zillmere Train Station: 1.6km: offered transport to Brisba",
+     "green space just around the corner. TRANSPORT: Zillmere Train Station: 1.6km: offered transport to Brisbane CBD in approx"
+    ]
+   },
+   "contactPerson": {
+    "name": "Indeea  Mallett",
+    "phone": "+61497019777",
+    "phoneAlt": "+611300368658"
+   },
+   "company": {
+    "name": "YSH Property",
+    "phone": null,
+    "email": null,
+    "address": "P.O. Box 677 Annerley, QLD 4103",
+    "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
    },
    "feedAgentName": null,
    "feedCompany": null,
