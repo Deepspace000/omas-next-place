@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-03T05:12+00:00",
+ "searchedAt": "2026-10-03T11:36+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 24,
+ "count": 27,
  "problems": [],
  "listings": [
   {
@@ -679,6 +679,69 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268146309/1116da897535aa5f08a7de7a-10057515_21300596_11_1791004244-1791005478-original.jpg?1791005478",
+    "https://cdn.rent.com.au/photos/images/248362822/64efff5961f2712e7b405589-10057515_21300596_17_1691734887-1708652327-original.jpg?1708652327",
+    "https://cdn.rent.com.au/photos/images/268146319/1cbd232c17042460713f5f80-10057515_21300596_8_1791004244-1791005488-original.jpg?1791005488"
+   ],
+   "id": "rent-5585863",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-79-high-st-brighton-qld-4017-5585863",
+   "area": "Sandgate / Brighton",
+   "address": "3/79 High Street",
+   "suburb": "Brighton",
+   "postcode": "4017",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 410,
+   "bond": 1640,
+   "available": "19th October 2026",
+   "listedAt": "2026-10-03T13:31:05.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 52,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 33,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Parks and recreation",
+    "I feel safe here",
+    "Close to schools"
+   ],
+   "inspections": [],
+   "lat": "-27.295464",
+   "lng": "153.057526",
+   "byline": "NEAR NEW BRIGHTON STUDIO UNIT",
+   "description": "Near new studio unit, designed and furnished to accommodate the active, stylish, tenant located in a superb Brighton location. From the contemporary fittings and colour schemes to the tranquil suburban setting these studio units are sure to please.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the property is not suitable for pets)\n\nLocated upstairs with a balcony facing the front of the property with open plan living spaces and peaceful suburban outlooks. Fully air conditioned, with a ceiling fan, security screens, kitchenette, bathroom and fully separated bedroom with spacious built in robes.\n\nShared laundry with 2 washing machines, street parking only\n\nNo need to worry with the hassle of connecting utilities as electricity, water and internet are included in the rent.\n\nPerfectly located within walking distance to local shops and cafes, a very short drive to Brighton Beach and Redcliffe. Easy access to M1 and major arterial roads and all local amenities.",
+   "flags": {
+    "stairs": [
+     "hildren and the property is not suitable for pets) Located upstairs with a balcony facing the front of the property with open p"
+    ],
+    "shops": [
+     "e rent. Perfectly located within walking distance to local shops and cafes, a very short drive to Brighton Beach and Redclif"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/267780391/036a1ae1d666f1472421b2a3-10057515_21513511_14_1788844322-1788845970-original.jpg?1788845970",
     "https://cdn.rent.com.au/photos/images/267780392/d2649cd1506c80fb16ad0f54-10057515_21513511_12_1788844322-1788845971-original.jpg?1788845971",
     "https://cdn.rent.com.au/photos/images/267780389/6470f0662c4dc3d882e57504-10057515_21513511_13_1788844322-1788845970-original.jpg?1788845970"
@@ -1189,6 +1252,72 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/247324322/17f78dd3f5f93b47486a3611-10057515_21278985_7_1704346293-1704350211-original.jpg?1704350211",
+    "https://cdn.rent.com.au/photos/images/247324420/6d704ba5f22aff5a78c589d2-10057515_21278985_8_1704346293-1704350301-original.jpg?1704350301",
+    "https://cdn.rent.com.au/photos/images/247324423/00dd15a5dba66509bc4fba15-10057515_21278985_9_1704346293-1704350304-original.jpg?1704350304"
+   ],
+   "id": "rent-5531457",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-22a-wing-st-bald-hills-qld-4036-5531457",
+   "area": "Northern suburbs",
+   "address": "2/22A Wing Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 425,
+   "bond": 1700,
+   "available": "3rd November 2026",
+   "listedAt": "2026-10-03T13:31:04.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 36,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.318248",
+   "lng": "153.011378",
+   "byline": "NEAR NEW STUDIO IN BALD HILLS",
+   "description": "Near new fully furnished, spacious studio unit meticulously designed and styled ready for immediate occupation in the heart of Bald Hills\n\nCouncil and Fire Regulations allow SINGLE people ONLY (ie no couples or children and the property is not suitable for pets)\n\nLocated upstairs facing the front of the property with a balcony and a generous open plan living space, kitchenette and bathroom complete with air conditioning, screens, ceiling fan and loads of storage.\n\nShared laundry with 2 washing machines, rent includes off street parking space\n\nNo need to go through the hassle of connecting utilities as electricity, water and high speed internet are all included in the rent!\n\nUltra convenient location, short walk to Bald Hills Train station, local shops, bikeways and walking tracks with a bus stop at your door. Short drive to Strathpine & Chermside Shopping Centres and all other amenities. Easy access to Gympie Arterial and other major access roads\n\nBe Quick book your inspection online today!!",
+   "flags": {
+    "stairs": [
+     "hildren and the property is not suitable for pets) Located upstairs facing the front of the property with a balcony and a gener"
+    ],
+    "shops": [
+     "rent! Ultra convenient location, short walk to Bald Hills Train station, local shops, bikeways and walking tracks with a bu",
+     "ent location, short walk to Bald Hills Train station, local shops, bikeways and walking tracks with a bus stop at your door.",
+     "in station, local shops, bikeways and walking tracks with a bus stop at your door. Short drive to Strathpine & Chermside Sh",
+     "us stop at your door. Short drive to Strathpine & Chermside Shopping Centres and all other amenities. Easy access to Gympie"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/254597051/91299becc5d83b47e24b6f6b-10057515_21452058_13_1670886742-1736213936-original.jpg?1736213936",
     "https://cdn.rent.com.au/photos/images/254596816/af8a8f334373ca46170a7279-10057515_21452058_11_1670886741-1736213844-original.jpg?1736213844",
     "https://cdn.rent.com.au/photos/images/254597050/abea254b09690810b02df280-10057515_21452058_14_1670886742-1736213935-original.jpg?1736213935"
@@ -1309,6 +1438,73 @@
     "email": null,
     "address": "Po Box 230 Waterford, QLD 4133",
     "profileUrl": "https://www.rent.com.au/agents/649/onsite-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268146308/50deff5142c9aa29ef021b81-10057515_21682368_8_1768182901-1791005471-original.jpg?1791005471",
+    "https://cdn.rent.com.au/photos/images/268146311/810b31d0f0b5cd27129dbc2f-10057515_21682368_7_1768182900-1791005483-original.jpg?1791005483",
+    "https://cdn.rent.com.au/photos/images/268146313/36213ec8c891a13244c1bb22-10057515_21682368_8_1768182774-1791005484-original.jpg?1791005484"
+   ],
+   "id": "rent-6505210",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-43-bartholomew-st-zillmere-qld-4034-6505210",
+   "area": "Northern suburbs",
+   "address": "4/43 Bartholomew Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "13th October 2026",
+   "listedAt": "2026-10-03T13:31:05.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 74,
+   "walkCategory": "very_walkable",
+   "transitScore": 49,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.353103",
+   "lng": "153.04277",
+   "byline": "BRAND NEW STUDIO'S IN A GREAT LOCATION",
+   "description": "Near new, well designed, ground floor studio apartment styled and ready for occupancy on the border of Zillmere and Taigum\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets)\n\nLocated at the back of the property with fenced courtyard and private external access, fully furnished with an open plan living area and kitchenette, spacious bedroom area and bathroom. Air conditioned, complete with security screens and ceiling fan.\n\nShared laundry with 2 washing machines, designated parking space available for $15 per week\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located very lose to both Taigum Shopping Centre and to the local Zillmere shops, easy access to bus and train stops. Short drive to Chermside Shopping Centre and local amenities. Easy access to M1 and other major arterial highways.\n\nBe quick book your inspection online now!!",
+   "flags": {
+    "ground": [
+     "Near new, well designed, ground floor studio apartment styled and ready for occupancy on the bord"
+    ],
+    "shops": [
+     "in the rent Conveniently located very lose to both Taigum Shopping Centre and to the local Zillmere shops, easy access to",
+     "se to both Taigum Shopping Centre and to the local Zillmere shops, easy access to bus and train stops. Short drive to Chermsi",
+     "ping Centre and to the local Zillmere shops, easy access to bus and train stops. Short drive to Chermside Shopping Centre a",
+     "tre and to the local Zillmere shops, easy access to bus and train stops. Short drive to Chermside Shopping Centre and local a",
+     "asy access to bus and train stops. Short drive to Chermside Shopping Centre and local amenities. Easy access to M1 and other"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
