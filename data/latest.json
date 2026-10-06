@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-05T14:29+00:00",
+ "searchedAt": "2026-10-06T01:18+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 27,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -296,66 +296,6 @@
     "email": null,
     "address": "11 E/2 Flinders Parade North Lakes, QLD 4509",
     "profileUrl": "https://www.rent.com.au/agents/7599/mcgrath-north-lakes"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/267667600/206acc3b5d2a6270a19810c7-2-31_View_Street_Woody_Point_Front_8467-6a9634be330ea-1788229279-original.jpg?1788229279",
-    "https://cdn.rent.com.au/photos/images/267667976/23b8a3e94f180a91cf654479-2-31_View_Street_Woody_Point_Front_2_8471-6a9634be67301-1788229486-original.jpg?1788229486",
-    "https://cdn.rent.com.au/photos/images/267667971/ee907da59b5c7ba43fa618bc-2-31_View_Street_Woody_Point_Kitchen_8473-6a9634bed7d83-1788229485-original.jpg?1788229485"
-   ],
-   "id": "rent-6476171",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/unit-2-31-view-st-woody-point-qld-4019-6476171",
-   "area": "Redcliffe Peninsula",
-   "address": "UNIT 2/31 View Street",
-   "suburb": "Woody Point",
-   "postcode": "4019",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-09-01T10:16:19.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 46,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 35,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Parks and recreation",
-    "I feel safe here",
-    "Cafes and restaurants"
-   ],
-   "inspections": [],
-   "lat": "-27.256982",
-   "lng": "153.100753",
-   "byline": "Modern 1-Bedroom Apartment in Prime Location",
-   "description": "Welcome to your new home! This fully renovated 1-bedroom apartment offers a perfect blend of style and convenience. Featuring a built-in wardrobe, a living area off the kitchen, and brand-new flooring and fixtures throughout, this apartment is ready for you to move in and enjoy.\n\nLocated just a short walk from the water and local amenities, you'll have everything you need right at your doorstep. Enjoy easy access to public transport and the convenience of a covered carport for parking.\n\nDon't miss out on this opportunity to live close to the water with all the modern comforts.\n\nContact us today to schedule a viewing!\n\nProperty Code: 1966",
-   "flags": {
-    "shops": [
-     "ou need right at your doorstep. Enjoy easy access to public transport and the convenience of a covered carport for parking. Don'"
-    ]
-   },
-   "contactPerson": {
-    "name": "Calio Office",
-    "phone": "+6132699466",
-    "phoneAlt": "+6132699466"
-   },
-   "company": {
-    "name": "Calio & Scott Real Estate",
-    "phone": null,
-    "email": null,
-    "address": "2 / 353 Beaconsfield Terrace Brighton Shopping Vill Brighton Qld 4017, Brighton, QLD 4017",
-    "profileUrl": "https://www.rent.com.au/agents/6816/calio-scott-real-estate"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1335,7 +1275,7 @@
    "cars": 0,
    "price": 430,
    "bond": 1720,
-   "available": "6th October 2026",
+   "available": "now",
    "listedAt": "2026-09-15T15:21:14.000+08:00",
    "petsListed": false,
    "furnished": true,
