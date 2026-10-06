@@ -114,7 +114,7 @@
    },
    "contactPerson": {
     "name": "For Rent",
-    "phone": "+61488839724",
+    "phone": "0488 839 724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -131,7 +131,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6388186": {
   "raw": {
@@ -196,7 +196,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-3180830": {
   "raw": {
@@ -262,7 +262,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6476171": {
   "raw": {
@@ -372,7 +372,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "+61488839724",
+    "phone": "0488 839 724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -389,7 +389,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -456,7 +456,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -523,7 +523,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-4394513": {
   "raw": {
@@ -739,7 +739,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6488119": {
   "raw": {
@@ -941,7 +941,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6371324": {
   "raw": {
@@ -1078,7 +1078,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6473629": {
   "raw": {
@@ -1147,7 +1147,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1217,7 +1217,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6410099": {
   "raw": {
@@ -1282,7 +1282,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1349,7 +1349,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6447867": {
   "raw": {
@@ -1422,7 +1422,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-5981014": {
   "raw": {
@@ -1491,7 +1491,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1559,7 +1559,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6179270": {
   "raw": {
@@ -1629,7 +1629,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1702,7 +1702,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -1775,7 +1775,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-06T11:42:32+10:00"
+  "lastSeenAt": "2026-10-06T16:14:12+10:00"
  },
  "rent-6258001": {
   "firstSeenAt": "2026-09-29T11:23:10+10:00",
@@ -1839,7 +1839,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  },
  "rent-6501228": {
@@ -1908,7 +1908,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  },
  "rent-5395195": {
@@ -1969,7 +1969,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  },
  "rent-6504264": {
@@ -2042,7 +2042,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  },
  "rent-5585863": {
@@ -2110,7 +2110,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  },
  "rent-5531457": {
@@ -2181,7 +2181,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2222,7 +2222,7 @@
    "inspections": [],
    "lat": "-27.353103",
    "lng": "153.04277",
-   "byline": "BRAND NEW STUDIO'S IN A GREAT LOCATION",
+   "byline": "FURNISHED STUDIO IN A GREAT ZILLMERE LOCATION",
    "description": "Near new, well designed, ground floor studio apartment styled and ready for occupancy on the border of Zillmere and Taigum\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets)\n\nLocated at the back of the property with fenced courtyard and private external access, fully furnished with an open plan living area and kitchenette, spacious bedroom area and bathroom. Air conditioned, complete with security screens and ceiling fan.\n\nShared laundry with 2 washing machines, designated parking space available for $15 per week\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located very lose to both Taigum Shopping Centre and to the local Zillmere shops, easy access to bus and train stops. Short drive to Chermside Shopping Centre and local amenities. Easy access to M1 and other major arterial highways.\n\nBe quick book your inspection online now!!",
    "flags": {
     "ground": [
@@ -2253,7 +2253,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-06T11:42:32+10:00",
+  "lastSeenAt": "2026-10-06T16:14:12+10:00",
   "gone": false
  }
 }
