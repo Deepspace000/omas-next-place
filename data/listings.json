@@ -4,7 +4,7 @@
    "photos": [
     "https://cdn.rent.com.au/photos/images/267892345/38e606a3962f4c9154a104a1-81ac77db_2D4297_2D935f_2D64f6_2Dabf0634e2b11-1789515788-original.png?1789515788",
     "https://cdn.rent.com.au/photos/images/267892583/ea9b3b24c8ea5023d298d931-ecda9857_2De064_2D287c_2D8f88_2D25b781fb114a-1789515906-original.png?1789515906",
-    "https://cdn.rent.com.au/photos/images/268013701/64e0cb8d217ccd6fec16b068-7680bff6_2D697e_2D6fef_2D1dd2_2Db5f2d5897199-1790205898-original.png?1790205898"
+    "https://cdn.rent.com.au/photos/images/267892585/0417a24a6cdd1b5ef4d982d7-2a5ef8a4_2Dcb0a_2D01f6_2D891b_2D89683ed246d2-1789515907-original.png?1789515907"
    ],
    "id": "rent-6489830",
    "source": "rent.com.au",
@@ -19,8 +19,8 @@
    "cars": 1,
    "price": 365,
    "bond": 1460,
-   "available": "13th October 2026",
-   "listedAt": "2026-09-16T07:39:14.000+08:00",
+   "available": "now",
+   "listedAt": "2026-10-08T13:58:55.000+08:00",
    "petsListed": false,
    "furnished": false,
    "walkScore": 53,
@@ -48,7 +48,7 @@
    },
    "contactPerson": {
     "name": "Meedz Smith",
-    "phone": "+61417595944",
+    "phone": "0417 595 944",
     "phoneAlt": "+61417595944"
    },
    "company": {
@@ -63,9 +63,9 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "gone": true,
+  "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-09-29T22:45:49+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "goneAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6499010": {
@@ -197,7 +197,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-3180830": {
   "raw": {
@@ -391,7 +391,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -458,7 +458,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -525,7 +525,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-4394513": {
   "raw": {
@@ -741,7 +741,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6488119": {
   "raw": {
@@ -943,7 +943,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6371324": {
   "raw": {
@@ -1080,7 +1080,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6473629": {
   "raw": {
@@ -1149,7 +1149,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1219,7 +1219,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6410099": {
   "raw": {
@@ -1284,7 +1284,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1351,7 +1351,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6447867": {
   "raw": {
@@ -1391,7 +1391,7 @@
    "lat": "-27.322885",
    "lng": "153.012122",
    "byline": "Brand New Fully Furnished One-Bedroom Apartment with Utilities Included!",
-   "description": "Dont miss the opportunity to rent all inclusive, spacious one bedroom apartment within building of 5. \nThis property comes fully furnished PLUS high-speed internet, electricity and water bills are included!\n\nSimply pack your bags and settle in.\n\nImportant: Single Occupancy Only\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, and overnight guests are not permitted.\n\nROOM #1 $460        \tCar Park A\nROOM #2 $440\t\t\nROOM #3 LEASED\nROOM #4 $420\nROOM #5 $460         Car Park B \n\nKEY FEATURES:\n-All-inclusive living expenses!\n-Fully furnished with high-quality, modern furniture throughout.\n-Air conditioning & ceiling fans. \n-Ceiling fans.\n-Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n-Secure electronic door locks for keyless entry.\n-Security System.\n-Equipped kitchenette.\n-Smart TV.\n-Private courtyard OR balcony.\n\nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\n\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \n\nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\n\nRELAX IN COMFORT: Ceiling fans and split- system A/C in every room to ensure  you enjoy a pleasant living environment. \n\nFULLY FURNISHED: Your apartment comes equipped with everything you need: a comfy bed, lounge, dining setting, outdoor furniture, smart TV, and kitchenware. \n\nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop, cutlery, dinnerware, and more for your convenience.\n\nPREMIUM EXTRAS: Stay comfortable year-round with air conditioning and ceiling fans.\n\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \n\nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\n\nAMENITIES NEARBY:\nConveniently Located Near Shops, Services & Public Transport  Live Close to It All! \nStrathpine Centre 3.3km: offering Coles, a medical center, dining options, and a variety of retail stores to cover all your daily needs.\nTRANSPORT:\nBald Hills Train Station: 550m: offered transport to Brisbane CBD in approx. 29 minutes. \nBus Stop: 350m: Offering quick access to local bus routes for seamless travel around Bald Hills and neighbouring suburbs. \nBrisbane Airport 21km: Domestic and International terminals.\n\n*** TO SCHEDULE AN INSPECTION, CLICK THE \"BOOK AN INSPECTION\" BUTTON BELOW. \n\n*** REGISTRATION IS REQUIRED TO VIEW THIS PROPERTY.\n\n*** AFTER THE INSPECTION, YOU WILL RECEIVE AN INSPECTION CODE, WHICH MUST BE PROVIDED BEFORE YOU CAN SUBMIT YOUR APPLICATION.\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "description": "Dont miss the opportunity to rent all inclusive, spacious one bedroom apartment within building of 5. \nThis property comes fully furnished PLUS high-speed internet, electricity and water bills are included!\n\nSimply pack your bags and settle in.\n\nImportant: Single Occupancy Only\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, and overnight guests are not permitted.\n\nROOM #1 $460        \tCar Park A\nROOM #2 $440\t\t\nROOM #3 LEASED\nROOM #4 $420\nROOM #5 LEASED\n\nKEY FEATURES:\n-All-inclusive living expenses!\n-Fully furnished with high-quality, modern furniture throughout.\n-Air conditioning & ceiling fans. \n-Ceiling fans.\n-Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n-Secure electronic door locks for keyless entry.\n-Security System.\n-Equipped kitchenette.\n-Smart TV.\n-Private courtyard OR balcony.\n\nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\n\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \n\nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\n\nRELAX IN COMFORT: Ceiling fans and split- system A/C in every room to ensure  you enjoy a pleasant living environment. \n\nFULLY FURNISHED: Your apartment comes equipped with everything you need: a comfy bed, lounge, dining setting, outdoor furniture, smart TV, and kitchenware. \n\nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop, cutlery, dinnerware, and more for your convenience.\n\nPREMIUM EXTRAS: Stay comfortable year-round with air conditioning and ceiling fans.\n\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \n\nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\n\nAMENITIES NEARBY:\nConveniently Located Near Shops, Services & Public Transport  Live Close to It All! \nStrathpine Centre 3.3km: offering Coles, a medical center, dining options, and a variety of retail stores to cover all your daily needs.\nTRANSPORT:\nBald Hills Train Station: 550m: offered transport to Brisbane CBD in approx. 29 minutes. \nBus Stop: 350m: Offering quick access to local bus routes for seamless travel around Bald Hills and neighbouring suburbs. \nBrisbane Airport 21km: Domestic and International terminals.\n\n*** TO SCHEDULE AN INSPECTION, CLICK THE \"BOOK AN INSPECTION\" BUTTON BELOW. \n\n*** REGISTRATION IS REQUIRED TO VIEW THIS PROPERTY.\n\n*** AFTER THE INSPECTION, YOU WILL RECEIVE AN INSPECTION CODE, WHICH MUST BE PROVIDED BEFORE YOU CAN SUBMIT YOUR APPLICATION.\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
    "flags": {
     "pets": [
      "Designed for single occupancy only. No couples, children or pets allowed. MICRO APARTMENT: Enjoy the privacy of your own securely a"
@@ -1424,7 +1424,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-5981014": {
   "raw": {
@@ -1493,7 +1493,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1561,7 +1561,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6179270": {
   "raw": {
@@ -1572,17 +1572,17 @@
    ],
    "id": "rent-6179270",
    "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/38-centre-st-aspley-qld-4034-6179270",
+   "url": "https://www.rent.com.au/property/36-centre-st-aspley-qld-4034-6179270",
    "area": "Northern suburbs",
-   "address": "38 Centre Street",
+   "address": "36 Centre Street",
    "suburb": "Aspley",
    "postcode": "4034",
    "type": "Unit",
    "beds": 1,
    "baths": 1,
    "cars": 1,
-   "price": 430,
-   "bond": 1720,
+   "price": 420,
+   "bond": 1680,
    "available": "19th October 2026",
    "listedAt": "2026-07-15T12:57:13.000+08:00",
    "petsListed": null,
@@ -1598,8 +1598,8 @@
     "I feel safe here"
    ],
    "inspections": [],
-   "lat": "-27.361766",
-   "lng": "153.018055",
+   "lat": "-27.362023",
+   "lng": "153.017949",
    "byline": "Brand New, Fully Furnished One-bedroom apartments with utilities included",
    "description": "Newly built one bedroom apartment within building of 5. These apartments are fully furnished with modern furniture, Plus high speed internet, electricity and water bills are included.\nImportant: Single Occupancy Only due to Brisbane City Council and Fire Safety Regulations, No couples, families and pets are permitted.\n\nKey Features:\n- Fully furnished with modern furniture throughout\n- Air conditioning, flyscreens & ceiling fans.\n- Queen size bed and mattress\n- Spacious built-in Wardrobes\n- Equipped Kitchenette\n- Secure digital locks for both front and own room\n- Smart TV\n- Private courtyard or balcony\n- Garage is available with extra charge\nPhotos indicative, layout may vary, currently we have two units available, all downstairs, another one will be available on Nov.10th with the option to have garage for extra cost.\n\n\nCommon Facilities: \nAccess to a fully equipped shared kitchen with oven, cooktop and rangehood. Shared laundry with two washing machines.\n36 Centre Street, Aspley offers great convenience-just a short walk to public transport connecting directly to Chermside and Brisbane CBD. Also only a few minutes' drive from Aspley Hypermarket, Aspley Village Shopping Centre, and Westfield Chermside, providing easy access to shops, cafes, restaurants, and everyday essentials.\n\nOpen Home Inspections: you must email to  register for an inspection, we may cancel the inspection if no registration.",
    "flags": {
@@ -1631,7 +1631,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1704,7 +1704,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -1777,7 +1777,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-08T15:56:12+10:00"
+  "lastSeenAt": "2026-10-08T23:22:09+10:00"
  },
  "rent-6258001": {
   "firstSeenAt": "2026-09-29T11:23:10+10:00",
@@ -1841,7 +1841,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-08T15:56:12+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "gone": false
  },
  "rent-6501228": {
@@ -1972,7 +1972,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-08T15:56:12+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "gone": false
  },
  "rent-6504264": {
@@ -2045,7 +2045,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-08T15:56:12+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "gone": false
  },
  "rent-5585863": {
@@ -2113,7 +2113,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-08T15:56:12+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "gone": false
  },
  "rent-5531457": {
@@ -2184,7 +2184,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-08T15:56:12+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2256,7 +2256,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-08T15:56:12+10:00",
+  "lastSeenAt": "2026-10-08T23:22:09+10:00",
   "gone": false
  }
 }
