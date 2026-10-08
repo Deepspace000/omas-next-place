@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-08T00:09+00:00",
+ "searchedAt": "2026-10-08T05:56+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 25,
+ "count": 23,
  "problems": [],
  "listings": [
   {
@@ -63,66 +63,6 @@
    "feedAgentName": null,
    "feedCompany": null,
    "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268044443/be6c6f11b429414aa8b05ee9-b53d4cbfe52ceaaeab2d05db99074dea-1790331621-original.?1790331621",
-    "https://cdn.rent.com.au/photos/images/268044445/2b460c1c20b3642379ba7063-44a69fe31363f129ebf3bdabca38a43e-1790331628-original.?1790331628",
-    "https://cdn.rent.com.au/photos/images/268044444/adbd49afdd0789e9e505a98e-c2d9f80341b0966180acfb7347d00e6c-1790331627-original.?1790331627"
-   ],
-   "id": "rent-6499010",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/1-25-prince-edward-pde-redcliffe-qld-4020-6499010",
-   "area": "Redcliffe Peninsula",
-   "address": "1/25 Prince Edward Parade",
-   "suburb": "Redcliffe",
-   "postcode": "4020",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 380,
-   "bond": 1520,
-   "available": "now",
-   "listedAt": "2026-09-25T18:20:12.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 73,
-   "walkCategory": "very_walkable",
-   "transitScore": 43,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Near shops",
-    "Parks and recreation",
-    "Cafes and restaurants",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.221062",
-   "lng": "153.114741",
-   "byline": "Redcliffe Flat to Rent",
-   "description": "Please submit an enquiry to receive a link to the Application Form.\n\nSpacious\n1bedroom\nClean\nOpposite waterfront\nClose to shops\nSuits quiet, responsible tenant.\nCurrent employment and rental references essential.\n12 month lease minimum.\n\nThe Phone Code for this property is: 75636. Please quote this number when phoning or texting.",
-   "flags": {
-    "shops": [
-     "Form. Spacious 1bedroom Clean Opposite waterfront Close to shops Suits quiet, responsible tenant. Current employment and ren"
-    ]
-   },
-   "contactPerson": {
-    "name": "For Rent",
-    "phone": "+61488839724",
-    "phoneAlt": "+61488839724"
-   },
-   "company": {
-    "name": "Property Listings",
-    "phone": null,
-    "email": null,
-    "address": "19 William St Balaclava, VIC 3183",
-    "profileUrl": "https://www.rent.com.au/agents/12554/property-listings"
-   },
-   "feedAgentName": "For Rent",
-   "feedCompany": "Property Listings",
-   "feedEmail": "rentals@forsalebyagent.com.au",
    "emailsInText": []
   },
   {
@@ -235,67 +175,6 @@
     "email": null,
     "address": "143 Sutton Street Redcliffe, QLD 4020",
     "profileUrl": "https://www.rent.com.au/agents/374/ray-white-redcliffe"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/248618115/a01d621767803a653cc47480-b9f2e6a3_2Ddfd9_2Dce00_2D2da0_2Da0bb40d46bde-1709790247-original.jpg?1709790247",
-    "https://cdn.rent.com.au/photos/images/248618112/d1abc64980be23e3aa76dac1-f9e2e662_2D0ff6_2D7fcc_2Dbae8_2Dd744661279cd-1709790246-original.jpg?1709790246",
-    "https://cdn.rent.com.au/photos/images/248618113/4c81e6b53c3ca62aa242ab25-bf594200_2D4725_2Db29b_2D0bee_2D8e7a7896721d-1709790247-original.jpg?1709790247"
-   ],
-   "id": "rent-3180830",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/2-81-jones-st-rothwell-qld-4022-3180830",
-   "area": "Redcliffe Peninsula",
-   "address": "2/81 Jones Street",
-   "suburb": "Rothwell",
-   "postcode": "4022",
-   "type": "House",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 400,
-   "bond": 1600,
-   "available": "19th October 2026",
-   "listedAt": "2026-09-07T12:40:57.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 42,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 35,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Near shops",
-    "Great public transport",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.213329",
-   "lng": "153.037088",
-   "byline": "Spacious One Bedroom Duplex!",
-   "description": "This very well designed, spacious 1-bedroom duplex has everything. location, space, convenience, practicality and style. Located in the heart of Rothwell, this property is perfectly positioned providing fingertip access to all those sought-after conveniences.\n\nFEATURES:\n\n- Modern and functional kitchen with stainless steel appliances inc. dishwasher\n- Good size bedroom with convenient two-way bathroom\n- Ceiling fans throughout and air conditioner in main living area\n- Open plan tiled lounge/dining \n- Security screens\n- Separate laundry\n- Covered alfresco overlooking spacious and private garden\n- One undercover car park and extra driveway parking\n- Private entrance\n- Large fully fenced yard\n- Water usage included in rent \n\nThe location is close to all amenities, including supermarkets, schools, the Redcliffe Peninsula, Mango Hill train line & the iconic Westfield North Lakes.\n\nHOW TO BOOK AN INSPECTION: \nWe have a user-friendly online booking system to make it QUICK and EASY to inspect a property. Book an inspection online or leave your details if there are no suitable times available. Once you register your interest, we will keep you informed of all upcoming inspections and updates regarding this property. \n\nHOW TO APPLY: \nOur agency accepts 2Apply applications and you are welcome to apply even before viewing the property. \nIf you are on our website, you just need to click the APPLY NOW button. \nIf you are on another portal, please register for an inspection and you will receive a link.",
-   "flags": {
-    "shops": [
-     "in rent The location is close to all amenities, including supermarkets, schools, the Redcliffe Peninsula, Mango Hill train line &",
-     "supermarkets, schools, the Redcliffe Peninsula, Mango Hill train line & the iconic Westfield North Lakes. HOW TO BOOK AN IN"
-    ]
-   },
-   "contactPerson": {
-    "name": "Leasing Department",
-    "phone": "0738880098",
-    "phoneAlt": "0738880098"
-   },
-   "company": {
-    "name": "McGrath North Lakes",
-    "phone": null,
-    "email": null,
-    "address": "11 E/2 Flinders Parade North Lakes, QLD 4509",
-    "profileUrl": "https://www.rent.com.au/agents/7599/mcgrath-north-lakes"
    },
    "feedAgentName": null,
    "feedCompany": null,
