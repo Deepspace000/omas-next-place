@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-10-08T21:46+00:00",
+ "searchedAt": "2026-10-09T00:16+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 24,
@@ -147,7 +147,7 @@
    "cars": 0,
    "price": 380,
    "bond": 1520,
-   "available": "9th October 2026",
+   "available": "now",
    "listedAt": "2026-09-22T09:36:24.000+08:00",
    "petsListed": false,
    "furnished": false,
