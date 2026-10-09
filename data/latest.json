@@ -1,70 +1,10 @@
 {
- "searchedAt": "2026-10-09T00:16+00:00",
+ "searchedAt": "2026-10-09T06:02+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 24,
+ "count": 22,
  "problems": [],
  "listings": [
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/261947032/362e706e3acecb529d7d7d37-114713822__1728458398-191731-GetFile-1767750082-original.jfif?1767750082",
-    "https://cdn.rent.com.au/photos/images/261947243/f1e2d29d332771397a865d90-114713827__1728458403-191807-GetFile3-1767750432-original.jfif?1767750432",
-    "https://cdn.rent.com.au/photos/images/261947237/c51c31430ad14b3be1a32f7a-114713823__1728458400-191676-GetFile1-1767750429-original.jfif?1767750429"
-   ],
-   "id": "rent-6258001",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/256-duffield-rd-clontarf-qld-4019-6258001",
-   "area": "Redcliffe Peninsula",
-   "address": "256 Duffield Road",
-   "suburb": "Clontarf",
-   "postcode": "4019",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 126,
-   "bond": 506,
-   "available": "now",
-   "listedAt": "2026-09-29T07:35:13.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 50,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 31,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Parks and recreation",
-    "Friendly neighbourhood",
-    "Near shops",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.241222",
-   "lng": "153.082986",
-   "byline": "Secure Storage Shed - Flexible Access & Affordable Price",
-   "description": "Looking for extra space? This secure storage shed in Clontarf is ideal for storing household goods, business inventory, tools, or personal belongings.\n\n Address: 256 Duffield Road, Clontarf\n Rent: $126.50 per week (incl. GST)\n Bond / Key Deposit: $200 (refundable, conditions apply)\n Shed Size: 9m x 3m\n Parking: 1 onsite space included\n\nFeatures You'll Love:\n Fully fenced and gated facility\n Safe and secure with individual access\n Convenient 24/7 access\n Flexible rental terms - short or long term available\n Ground-level access for easy loading\n Ideal for tradies, small businesses, or personal storage\n\n**** Please note: This shed is for storage purposes only and is not suitable for residential use. ****\n\nDISCLAIMER:\n\nWe have made our best endeavours to provide accurate information. We accept no responsibility for any errors or admissions.\n\nWe do not accept 1Form applications.",
-   "flags": {
-    "ground": [
-     "cess Flexible rental terms - short or long term available Ground-level access for easy loading Ideal for tradies, small businesse"
-    ]
-   },
-   "contactPerson": {
-    "name": "Kirsty Scott",
-    "phone": "+61738838101",
-    "phoneAlt": "+61738838101"
-   },
-   "company": {
-    "name": "Ray White Woody Point",
-    "phone": null,
-    "email": null,
-    "address": "54 Oxley Avenue Woody Point, QLD 4019",
-    "profileUrl": "https://www.rent.com.au/agents/6609/ray-white-woody-point"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
   {
    "photos": [
     "https://cdn.rent.com.au/photos/images/267892345/38e606a3962f4c9154a104a1-81ac77db_2D4297_2D935f_2D64f6_2Dabf0634e2b11-1789515788-original.png?1789515788",
@@ -113,7 +53,7 @@
    },
    "contactPerson": {
     "name": "Meedz Smith",
-    "phone": "0417 595 944",
+    "phone": "+61417595944",
     "phoneAlt": "+61417595944"
    },
    "company": {
@@ -122,66 +62,6 @@
     "email": null,
     "address": "Springfield Lake Metro Level 2,1 Springfield Lakes  Bld Springfield Lakes, QLD 4300",
     "profileUrl": "https://www.rent.com.au/agents/12154/living-property-management"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/266060723/71800f2d9a5f35fd84df8c83-201158880__1778627166-20891-Screenshot2026-05-13090602-1779845644-original.jpg?1779845644",
-    "https://cdn.rent.com.au/photos/images/266060921/eb86d5492a7ea1ac44d6cc8a-201158915__1778627179-20862-Screenshot2026-05-13090615-1779845963-original.jpg?1779845963",
-    "https://cdn.rent.com.au/photos/images/266060922/245ab3751c7cc90c7b229bfc-201158999__1778627190-32460-Screenshot2026-05-13090626-1779845963-original.jpg?1779845963"
-   ],
-   "id": "rent-6388186",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/3-31-marine-pde-redcliffe-qld-4020-6388186",
-   "area": "Redcliffe Peninsula",
-   "address": "3/31 Marine Parade",
-   "suburb": "Redcliffe",
-   "postcode": "4020",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 380,
-   "bond": 1520,
-   "available": "now",
-   "listedAt": "2026-09-22T09:36:24.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 67,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 39,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Near shops",
-    "Parks and recreation",
-    "Cafes and restaurants",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.23665",
-   "lng": "153.113683",
-   "byline": "Renovated Granny Flat - Moments away from the Waterfront!",
-   "description": "Modern, fully renovated studio granny flat located at the rear of a larger property, offering privacy and comfortable low-maintenance living. Featuring a stylish open-plan layout, contemporary bathroom, and porch area, this self-contained space is perfect for singles or couples seeking a fresh and modern home.\n\nProperty Features:\n Studio granny flat\n Modern kitchen fitted with an oven \n Bathroom with shower and toilet\n Airconditioning\n Front porch\n Yard maintenance included\n\n*THIS PROPERTY HAS NO LAUNDARY*\n\nLocation Features:\n Directly across the road from Suttons Beach\n Enjoy coastal walks, cafes, and parks nearby\n Easy access to local shops and amenities\n Relaxed seaside lifestyle right at your doorstep!\n\n*Please note: The main house at the front of the property is leased as unit 1 and 2, and are fully independent*\n\nDISCLAIMER:\n\nWe have made our best endeavors to provide accurate information. We accept no responsibility for any errors or admissions.\n\nYou will be required to physically attend and complete a property inspection in order to proceed with your rental application for this property. You will be then provided with a code which will give you access to submit your application if you wish to. We do not accept 1Form applications.\n\nIt is also strongly recommended that you register online to attend one of our inspection times. Failure to do so may result in you not being notified if there is a change to the inspection or even a cancellation of the inspection.",
-   "flags": {
-    "shops": [
-     "oastal walks, cafes, and parks nearby Easy access to local shops and amenities Relaxed seaside lifestyle right at your door"
-    ]
-   },
-   "contactPerson": {
-    "name": "Tanya Sheridan",
-    "phone": "+61738838102",
-    "phoneAlt": "+61738838102"
-   },
-   "company": {
-    "name": "Ray White Woody Point",
-    "phone": null,
-    "email": null,
-    "address": "54 Oxley Avenue Woody Point, QLD 4019",
-    "profileUrl": "https://www.rent.com.au/agents/6609/ray-white-woody-point"
    },
    "feedAgentName": null,
    "feedCompany": null,
