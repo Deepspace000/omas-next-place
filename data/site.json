@@ -1,17 +1,32 @@
 {
- "generatedAt": "2026-10-09T16:02:12+10:00",
+ "generatedAt": "2026-10-09T23:10:16+10:00",
  "lastSearch": {
-  "at": "2026-10-09T16:02:12+10:00",
-  "found": 22,
-  "new": [],
+  "at": "2026-10-09T23:10:16+10:00",
+  "found": 23,
+  "new": [
+   "rent-5031957",
+   "rent-6510953"
+  ],
   "gone": [
-   "rent-6388186",
-   "rent-6258001"
+   "rent-6047267"
   ],
   "problems": [],
   "trigger": "schedule"
  },
  "runs": [
+  {
+   "at": "2026-10-09T23:10:16+10:00",
+   "found": 23,
+   "new": [
+    "rent-5031957",
+    "rent-6510953"
+   ],
+   "gone": [
+    "rent-6047267"
+   ],
+   "problems": [],
+   "trigger": "schedule"
+  },
   {
    "at": "2026-10-09T16:02:12+10:00",
    "found": 22,
@@ -86,14 +101,6 @@
   },
   {
    "at": "2026-10-07T09:46:05+10:00",
-   "found": 26,
-   "new": [],
-   "gone": [],
-   "problems": [],
-   "trigger": "schedule"
-  },
-  {
-   "at": "2026-10-07T00:11:38+10:00",
    "found": 26,
    "new": [],
    "gone": [],
@@ -185,7 +192,7 @@
     "https://cdn.rent.com.au/photos/images/267892585/0417a24a6cdd1b5ef4d982d7-2a5ef8a4_2Dcb0a_2D01f6_2D891b_2D89683ed246d2-1789515907-original.png?1789515907"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "goneAt": "2026-09-30T09:40:10+10:00",
    "reviewed": true,
@@ -483,7 +490,7 @@
     "https://cdn.rent.com.au/photos/images/244670113/9ca27a36ec757bdbb1d9e1c8-69716148__1692580251-9549-MG0654-1692580538-original.jpg?1692580538"
    ],
    "firstSeenAt": "2026-09-30T09:40:10+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -608,7 +615,7 @@
     "https://cdn.rent.com.au/photos/images/268048669/77429ca8a778af54fdc54226-9c79578921da44881fd8724913429be1-1790500045-original.?1790500045"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -656,7 +663,7 @@
     "https://cdn.rent.com.au/photos/images/267911462/9be8ff65e27602b346cc87e2-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1789599797-original.jpg?1789599797"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -696,7 +703,7 @@
     "https://cdn.rent.com.au/photos/images/267911350/eb4178a6d53332d11698d653-0b7d45ff_2D8125_2D991c_2D02b9_2D3ff26bf4851b-1789599552-original.jpg?1789599552"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -839,7 +846,7 @@
     "https://cdn.rent.com.au/photos/images/267205612/15f54b47361dc9db5cb205e0-b4970151-e867-4d5a-9680-cf174fd7f3c6-1785472879-original.png?1785472879"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -937,7 +944,7 @@
     "https://cdn.rent.com.au/photos/images/268146319/1cbd232c17042460713f5f80-10057515_21300596_8_1791004244-1791005488-original.jpg?1791005488"
    ],
    "firstSeenAt": "2026-10-03T21:36:11+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1087,7 +1094,8 @@
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
    "lastSeenAt": "2026-10-09T16:02:12+10:00",
-   "gone": false,
+   "gone": true,
+   "goneAt": "2026-10-09T23:10:16+10:00",
    "reviewed": true,
    "verdict": "no",
    "reason": "The ad says it's not suitable for pets",
@@ -1167,7 +1175,7 @@
     "https://cdn.rent.com.au/photos/images/251253900/dbcc3dfcbf949920527daaaf-10057515_21366065_7_1657065521-1720683701-original.jpg?1720683701"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1207,7 +1215,7 @@
     "https://cdn.rent.com.au/photos/images/267626016/b4a999644dab849318e23b5f-216608141__1787884549-235781-DSC8062-2NOV-1787884913-original.jpg?1787884913"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1255,7 +1263,7 @@
     "https://cdn.rent.com.au/photos/images/252680223/312d0dfdf12ddce57613541c-110679670__1726707118-45686-DSC3594NOV-1727136848-original.jpg?1727136848"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "longshot",
@@ -1322,7 +1330,7 @@
     "https://cdn.rent.com.au/photos/images/266736939/fa5cc5b2d738ce533f623b2f-3-1782754514-original.jpg?1782754514"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1362,7 +1370,7 @@
     "https://cdn.rent.com.au/photos/images/259445022/2237c7eb2ef4c686a5e83ea5-166382019__1759469854-90657-IMG8746-1759470684-original.jpg?1759470684"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -1420,6 +1428,46 @@
    ]
   },
   {
+   "id": "rent-5031957",
+   "url": "https://www.rent.com.au/property/1-22-wing-st-bald-hills-qld-4036-5031957",
+   "area": "Northern suburbs",
+   "address": "1/22 Wing Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "price": 400,
+   "bond": 1600,
+   "available": "22nd October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/237840894/f08334b9014e409c5b58cbf1-10057515_21069342_5_1663908321-1663911137-original.jpg?1663911137",
+    "https://cdn.rent.com.au/photos/images/237840999/d830899460c9dc82b32447e8-10057515_21069342_6_1663908322-1663911173-original.jpg?1663911173",
+    "https://cdn.rent.com.au/photos/images/252655881/f5f2b22b4b483c30b6cefa0d-10057515_21069342_4_1727044902-1727048942-original.jpg?1727048942"
+   ],
+   "firstSeenAt": "2026-10-09T23:10:16+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
+   "gone": false,
+   "reviewed": false,
+   "verdict": "no",
+   "reason": "The ad says no pets (not checked by Claude yet)",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Hero Karalouka",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0439 673 884",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
    "id": "rent-6447867",
    "url": "https://www.rent.com.au/property/44-griffiths-st-bald-hills-qld-4036-6447867",
    "area": "Northern suburbs",
@@ -1437,7 +1485,7 @@
     "https://cdn.rent.com.au/photos/images/267408065/27770c3b170ee9cac2ed06e0-8a83001d_2D4e55_2D7a99_2Dde80_2Dae3260076a6c-1786679823-original.jpg?1786679823"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1485,7 +1533,7 @@
     "https://cdn.rent.com.au/photos/images/255856523/4f192ddbaaa5d3ea9fb3ece2-11cf9f32_2Dc94f_2D6896_2D38a2_2D1718b79b8725-1742176101-original.jpg?1742176101"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "longshot",
@@ -1550,7 +1598,7 @@
     "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1566,6 +1614,46 @@
      "role": "Agent on the ad",
      "email": null,
      "phone": "0493 262 105",
+     "source": "rent.com.au ad",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6510953",
+   "url": "https://www.rent.com.au/property/1-36a-grand-st-bald-hills-qld-4036-6510953",
+   "area": "Northern suburbs",
+   "address": "1/36A Grand Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "27th October 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268241870/2988789c93ddda0ee47daeed-10057515_21683745_11_1791528798-1791529364-original.jpg?1791529364",
+    "https://cdn.rent.com.au/photos/images/268241873/bafbcf58037a92da06216441-10057515_21683745_9_1791528798-1791529385-original.jpg?1791529385",
+    "https://cdn.rent.com.au/photos/images/268241874/1c78734d63a42c6c7e2c0f4e-10057515_21683745_12_1791528798-1791529385-original.jpg?1791529385"
+   ],
+   "firstSeenAt": "2026-10-09T23:10:16+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
+   "gone": false,
+   "reviewed": false,
+   "verdict": "no",
+   "reason": "The ad says no pets (not checked by Claude yet)",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Hero Karalouka",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0439 673 884",
      "source": "rent.com.au ad",
      "team": false
     }
@@ -1590,7 +1678,7 @@
     "https://cdn.rent.com.au/photos/images/247324423/00dd15a5dba66509bc4fba15-10057515_21278985_9_1704346293-1704350304-original.jpg?1704350304"
    ],
    "firstSeenAt": "2026-10-03T21:36:11+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1630,7 +1718,7 @@
     "https://cdn.rent.com.au/photos/images/254597050/abea254b09690810b02df280-10057515_21452058_14_1670886742-1736213935-original.jpg?1736213935"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1670,7 +1758,7 @@
     "https://cdn.rent.com.au/photos/images/267911124/b7adab28b58f98660f002160-5cd2aec3_2D3962_2Dce17_2Dd63f_2Dd8ee3b9375cb-1789598792-original.jpg?1789598792"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1718,7 +1806,7 @@
     "https://cdn.rent.com.au/photos/images/267412505/0d7ad8af12567e6b3c007da6-0c282685_2D9727_2D2c38_2De0ab_2D907a0894a816-1786686179-original.jpg?1786686179"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1766,7 +1854,7 @@
     "https://cdn.rent.com.au/photos/images/268129855/e442d0ce08b4dae547b857fc-ec747853_2D3f1a_2D33a9_2Dcc98_2D1565a4c89c25-1790904765-original.jpg?1790904765"
    ],
    "firstSeenAt": "2026-10-02T15:29:29+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1814,7 +1902,7 @@
     "https://cdn.rent.com.au/photos/images/268146313/36213ec8c891a13244c1bb22-10057515_21682368_8_1768182774-1791005484-original.jpg?1791005484"
    ],
    "firstSeenAt": "2026-10-03T21:36:11+10:00",
-   "lastSeenAt": "2026-10-09T16:02:12+10:00",
+   "lastSeenAt": "2026-10-09T23:10:16+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",

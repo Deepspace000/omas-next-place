@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-09T06:02+00:00",
+ "searchedAt": "2026-10-09T13:10+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 22,
+ "count": 23,
  "problems": [],
  "listings": [
   {
@@ -440,68 +440,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/267780391/036a1ae1d666f1472421b2a3-10057515_21513511_14_1788844322-1788845970-original.jpg?1788845970",
-    "https://cdn.rent.com.au/photos/images/267780392/d2649cd1506c80fb16ad0f54-10057515_21513511_12_1788844322-1788845971-original.jpg?1788845971",
-    "https://cdn.rent.com.au/photos/images/267780389/6470f0662c4dc3d882e57504-10057515_21513511_13_1788844322-1788845970-original.jpg?1788845970"
-   ],
-   "id": "rent-6047267",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/5-13-queens-pde-brighton-qld-4017-6047267",
-   "area": "Sandgate / Brighton",
-   "address": "5/13 Queens Parade",
-   "suburb": "Brighton",
-   "postcode": "4017",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-09-08T13:31:06.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 51,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 33,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Parks and recreation",
-    "I feel safe here",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.303602",
-   "lng": "153.061857",
-   "byline": "BEACHSIDE STUDIO UNIT IN BRIGHTON!",
-   "description": "Check out this near new, furnished studio unit located a mere 300 meters from the beach and right across the road from EclecTea wine bar, a butcher, hair salon and cafe right in the heart of Brighton.\n\nCouncil and Fire Regulations allow single people ONLY (no couples or children and the property is not suitable for pets) \n\nLocated at the back of the building this studio is perfectly designed and tastefully furnished with fully fenced private courtyard, air conditioning, ceiling fan and security screens. Each studio having its own separated bedroom, kitchenette, bathroom and lounge plus loads of storage space. \n\nShared laundry with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent. \n\nBacking onto Apex Park gives a calm and relaxed atmosphere yet the convenience of still been close to all amenities with a Bus Stop at your door with direct access to Sandgate shopping precinct and Train Station.  Super easy access to Hornibrook Bridge, Woody Point & Redcliffe, M1,  Yacht Clubs, cafes, restaurants, pubs/clubs, bikeways and loads loads more\n\nBe Quick Book your Inspection online today!!\n\nPlease note photos are indicative only, and not of exact unit",
-   "flags": {
-    "shops": [
-     "the convenience of still been close to all amenities with a Bus Stop at your door with direct access to Sandgate shopping p",
-     "with a Bus Stop at your door with direct access to Sandgate shopping precinct and Train Station. Super easy access to Horni",
-     "r door with direct access to Sandgate shopping precinct and Train Station. Super easy access to Hornibrook Bridge, Woody Poi"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/251253611/d901961ebc74944049aab28f-10057515_21366065_1_1657065520-1720683529-original.jpg?1720683529",
     "https://cdn.rent.com.au/photos/images/251253894/885b60ba974a9fb23a23d8c0-10057515_21366065_3_1657065520-1720683700-original.jpg?1720683700",
     "https://cdn.rent.com.au/photos/images/251253900/dbcc3dfcbf949920527daaaf-10057515_21366065_7_1657065521-1720683701-original.jpg?1720683701"
@@ -810,6 +748,133 @@
     "email": null,
     "address": "528 South Pine Road Everton Park, QLD 4053",
     "profileUrl": "https://www.rent.com.au/agents/12969/harcourts-solutions-windsor"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/237840894/f08334b9014e409c5b58cbf1-10057515_21069342_5_1663908321-1663911137-original.jpg?1663911137",
+    "https://cdn.rent.com.au/photos/images/237840999/d830899460c9dc82b32447e8-10057515_21069342_6_1663908322-1663911173-original.jpg?1663911173",
+    "https://cdn.rent.com.au/photos/images/252655881/f5f2b22b4b483c30b6cefa0d-10057515_21069342_4_1727044902-1727048942-original.jpg?1727048942"
+   ],
+   "id": "rent-5031957",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/1-22-wing-st-bald-hills-qld-4036-5031957",
+   "area": "Northern suburbs",
+   "address": "1/22 Wing Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 400,
+   "bond": 1600,
+   "available": "22nd October 2026",
+   "listedAt": "2026-10-09T14:31:07.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 36,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.318248",
+   "lng": "153.011378",
+   "byline": "CONVENIENT STUDIO IN BALD HILLS",
+   "description": "Convenient ground floor studio unit, well designed and ready for occupancy in Bald Hills\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for  pets) \n\nLocated in the middle of the building with a side outdoor space, this studio is fully furnished with an open plan living and bedroom area, kitchenette, ensuite and ample storage space. Air conditioned, complete with security screens and ceiling fan.\n \nShared laundry with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe quick, book your inspection online now!!\n\n**INSPECTION NOTES: Our \"Book Inspection\" button will indicate all available inspection times as they become available. Inspections may be changed or cancelled if attendance is not confirmed via return SMS or email.**",
+   "flags": {
+    "ground": [
+     "Convenient ground floor studio unit, well designed and ready for occupancy in Bald"
+    ],
+    "shops": [
+     "ll included in the rent Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy acce",
+     "the rent Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine",
+     "iently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway a"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268241870/2988789c93ddda0ee47daeed-10057515_21683745_11_1791528798-1791529364-original.jpg?1791529364",
+    "https://cdn.rent.com.au/photos/images/268241873/bafbcf58037a92da06216441-10057515_21683745_9_1791528798-1791529385-original.jpg?1791529385",
+    "https://cdn.rent.com.au/photos/images/268241874/1c78734d63a42c6c7e2c0f4e-10057515_21683745_12_1791528798-1791529385-original.jpg?1791529385"
+   ],
+   "id": "rent-6510953",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/1-36a-grand-st-bald-hills-qld-4036-6510953",
+   "area": "Northern suburbs",
+   "address": "1/36A Grand Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 420,
+   "bond": 1680,
+   "available": "27th October 2026",
+   "listedAt": "2026-10-09T15:02:35.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 31,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 46,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.319686",
+   "lng": "153.014135",
+   "byline": "ULTRA MODERN UNFURNISHED BALD HILLS STUDIO APARTMENT!",
+   "description": "Discover this near new, architecturally designed studio apartment located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and its own private, fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\nLocated at the front of the property this studio is fully furnished with a separated living space and features air conditioning, ceiling fan, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, street parking only\n\nNo need to connect utilities as electricity, water and internet are all included in the rent\n\nPositioned for convenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
+   "flags": {
+    "shops": [
+     "onvenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
+     "thin walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Cent",
+     "d local shops, with easy access to major arterial roads and Shopping Centres Book your inspection today and enjoy low-maint"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
