@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-13T02:00+00:00",
+ "searchedAt": "2026-10-13T06:44+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 24,
+ "count": 25,
  "problems": [],
  "listings": [
   {
@@ -818,6 +818,62 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268287743/ff143819532454f2459b10a0-b4e20135-15f5-4b3a-bc06-d4e36c588223-1791872258-original.jpg?1791872258",
+    "https://cdn.rent.com.au/photos/images/268287801/62de3817e6e62be31fd77fe6-b4e20135-05cd-426e-96be-3c0a57e603b4-1791872317-original.png?1791872317",
+    "https://cdn.rent.com.au/photos/images/268287798/d08eef25506d0c5985e8bfdb-b4e20135-104c-488c-9964-63ce2cb6d484-1791872316-original.png?1791872316"
+   ],
+   "id": "rent-6513601",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/29a-spence-rd-wavell-heights-qld-4012-6513601",
+   "area": "Northern suburbs",
+   "address": "29A Spence Road",
+   "suburb": "Wavell Heights",
+   "postcode": "4012",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 350,
+   "bond": 1400,
+   "available": "30th October 2026",
+   "listedAt": "2026-10-13T14:16:31.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 66,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 42,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Near shops",
+    "I feel safe here",
+    "Friendly neighbourhood",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.394262",
+   "lng": "153.046613",
+   "byline": "Affordable semi-independent living",
+   "description": "Located in a private battleaxe block, this newly built property has one studio available, room 3. \n\nEach studio is leased separately. \n\nEach room features: \n- Spacious bedroom \n- Walk-in robe or built-in robe \n- Generous ensuite with shower and single bowl vanity -\n Kitchenette with fridge, microwave and cooking facilities \n- Air-conditioned and ceiling fans \n- Tiled throughout \n- Wall-mounted TV \n- Fully furnished option available \n\nInternet and electricity included in advertised price. All rooms have access to the communal lounge room, kitchen, dining & laundry, and private rooms with a kitchenette & ensuite.\n\nThis is a break lease and the rent will go to $375/week on 7 March 2027\n\n* Please note you MUST register for inspections to be informed about inspection time changes and cancellations.",
+   "flags": {},
+   "contactPerson": {
+    "name": "Angus Allen",
+    "phone": "+61732596560",
+    "phoneAlt": "+61732596560"
+   },
+   "company": {
+    "name": "Property Street Estate Agents - WAVELL HEIGHTS",
+    "phone": null,
+    "email": null,
+    "address": "Shop 3 277 Rode Road Wavell Heights, QLD 4012",
+    "profileUrl": "https://www.rent.com.au/agents/14556/property-street-estate-agents-wavell-heights"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/258232206/917d870d9544ffbd3e66b016-16776270__1753662154-16776270__1609813637-1322-1.52Somerset-front-1753662957-original.jpg?1753662957",
     "https://cdn.rent.com.au/photos/images/258232480/fcf31101a04fb219cc7f06af-6058802__1753662154-mydimport-1589711912-hires.20464-IMG5119-1753663307-original.JPG?1753663307",
     "https://cdn.rent.com.au/photos/images/258232481/0d0643b8f8c620c8108572d2-6058801__1753662154-mydimport-1589711912-hires.20117-P1010019-1753663307-original.JPG?1753663307"
@@ -1013,9 +1069,9 @@
    ],
    "id": "rent-6510953",
    "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/1-36a-grand-st-bald-hills-qld-4036-6510953",
+   "url": "https://www.rent.com.au/property/36a-grand-st-bald-hills-qld-4036-6510953",
    "area": "Northern suburbs",
-   "address": "1/36A Grand Street",
+   "address": "36A Grand Street",
    "suburb": "Bald Hills",
    "postcode": "4036",
    "type": "Studio",
@@ -1039,10 +1095,10 @@
     "Parks and recreation"
    ],
    "inspections": [],
-   "lat": "-27.319686",
-   "lng": "153.014135",
+   "lat": "-27.31964",
+   "lng": "153.014214",
    "byline": "ULTRA MODERN UNFURNISHED BALD HILLS STUDIO APARTMENT!",
-   "description": "Discover this near new, architecturally designed studio apartment located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and its own private, fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\nLocated at the front of the property this studio is fully furnished with a separated living space and features air conditioning, ceiling fan, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, street parking only\n\nNo need to connect utilities as electricity, water and internet are all included in the rent\n\nPositioned for convenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
+   "description": "Discover this near new, architecturally designed studio apartment located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and its own private, fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n2 to choose from one located at the front of the property and the other in the centre. this studio is fully furnished with a separated living space and features air conditioning, ceiling fan, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, 1 parking space included for $435 per week\n\nNo need to connect utilities as electricity, water and internet are all included in the rent\n\nPositioned for convenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
    "flags": {
     "shops": [
      "onvenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
@@ -1445,7 +1501,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
