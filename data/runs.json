@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-10-14T09:44:08+10:00",
+  "found": 25,
+  "new": [],
+  "gone": [],
+  "problems": [],
+  "trigger": "schedule"
+ },
+ {
   "at": "2026-10-14T01:00:05+10:00",
   "found": 25,
   "new": [],
@@ -517,16 +525,6 @@
   "at": "2026-09-29T11:25:29+10:00",
   "found": 27,
   "new": [],
-  "gone": [],
-  "problems": [],
-  "trigger": "workflow_dispatch"
- },
- {
-  "at": "2026-09-29T11:23:10+10:00",
-  "found": 27,
-  "new": [
-   "rent-6258001"
-  ],
   "gone": [],
   "problems": [],
   "trigger": "workflow_dispatch"
