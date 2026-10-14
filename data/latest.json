@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-14T15:07+00:00",
+ "searchedAt": "2026-10-14T23:09+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 26,
+ "count": 25,
  "problems": [],
  "listings": [
   {
@@ -53,7 +53,7 @@
    },
    "contactPerson": {
     "name": "Meedz Smith",
-    "phone": "0417 595 944",
+    "phone": "+61417595944",
     "phoneAlt": "+61417595944"
    },
    "company": {
@@ -165,7 +165,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "+61488839724",
+    "phone": "0488 839 724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -432,69 +432,6 @@
     "email": null,
     "address": "73 Brighton Road Sandgate, QLD 4017",
     "profileUrl": "https://www.rent.com.au/agents/10787/professionals-sandgate"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268146309/1116da897535aa5f08a7de7a-10057515_21300596_11_1791004244-1791005478-original.jpg?1791005478",
-    "https://cdn.rent.com.au/photos/images/248362822/64efff5961f2712e7b405589-10057515_21300596_17_1691734887-1708652327-original.jpg?1708652327",
-    "https://cdn.rent.com.au/photos/images/268146319/1cbd232c17042460713f5f80-10057515_21300596_8_1791004244-1791005488-original.jpg?1791005488"
-   ],
-   "id": "rent-5585863",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/3-79-high-st-brighton-qld-4017-5585863",
-   "area": "Sandgate / Brighton",
-   "address": "3/79 High Street",
-   "suburb": "Brighton",
-   "postcode": "4017",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 410,
-   "bond": 1640,
-   "available": "19th October 2026",
-   "listedAt": "2026-10-03T13:31:05.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 52,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 33,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Parks and recreation",
-    "I feel safe here",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.295464",
-   "lng": "153.057526",
-   "byline": "NEAR NEW BRIGHTON STUDIO UNIT",
-   "description": "Near new studio unit, designed and furnished to accommodate the active, stylish, tenant located in a superb Brighton location. From the contemporary fittings and colour schemes to the tranquil suburban setting these studio units are sure to please.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the property is not suitable for pets)\n\nLocated upstairs with a balcony facing the front of the property with open plan living spaces and peaceful suburban outlooks. Fully air conditioned, with a ceiling fan, security screens, kitchenette, bathroom and fully separated bedroom with spacious built in robes.\n\nShared laundry with 2 washing machines, street parking only\n\nNo need to worry with the hassle of connecting utilities as electricity, water and internet are included in the rent.\n\nPerfectly located within walking distance to local shops and cafes, a very short drive to Brighton Beach and Redcliffe. Easy access to M1 and major arterial roads and all local amenities.",
-   "flags": {
-    "stairs": [
-     "hildren and the property is not suitable for pets) Located upstairs with a balcony facing the front of the property with open p"
-    ],
-    "shops": [
-     "e rent. Perfectly located within walking distance to local shops and cafes, a very short drive to Brighton Beach and Redclif"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,

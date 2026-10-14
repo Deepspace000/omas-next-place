@@ -48,7 +48,7 @@
    },
    "contactPerson": {
     "name": "Meedz Smith",
-    "phone": "0417 595 944",
+    "phone": "+61417595944",
     "phoneAlt": "+61417595944"
    },
    "company": {
@@ -65,7 +65,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "goneAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6499010": {
@@ -375,7 +375,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "+61488839724",
+    "phone": "0488 839 724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -743,7 +743,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6488119": {
   "raw": {
@@ -1083,7 +1083,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6473629": {
   "raw": {
@@ -1152,7 +1152,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1222,7 +1222,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6410099": {
   "raw": {
@@ -1287,7 +1287,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1354,7 +1354,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6447867": {
   "raw": {
@@ -1497,7 +1497,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1636,7 +1636,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1709,7 +1709,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-15T01:07:53+10:00"
+  "lastSeenAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -1979,7 +1979,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6504264": {
@@ -2052,7 +2052,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-5585863": {
@@ -2121,7 +2121,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-10-15T01:07:53+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-10-15T09:09:25+10:00"
  },
  "rent-5531457": {
   "firstSeenAt": "2026-10-03T21:36:11+10:00",
@@ -2191,7 +2192,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2263,7 +2264,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2333,7 +2334,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6510953": {
@@ -2400,7 +2401,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6490958": {
@@ -2467,7 +2468,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2533,7 +2534,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2600,7 +2601,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-3257770": {
@@ -2668,7 +2669,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6513601": {
@@ -2729,7 +2730,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6514911": {
@@ -2796,7 +2797,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2861,7 +2862,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-15T01:07:53+10:00",
+  "lastSeenAt": "2026-10-15T09:09:25+10:00",
   "gone": false
  }
 }
