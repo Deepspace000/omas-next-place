@@ -48,7 +48,7 @@
    },
    "contactPerson": {
     "name": "Meedz Smith",
-    "phone": "+61417595944",
+    "phone": "0417 595 944",
     "phoneAlt": "+61417595944"
    },
    "company": {
@@ -65,7 +65,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "goneAt": "2026-09-30T09:40:10+10:00"
  },
  "rent-6499010": {
@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -442,7 +442,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "+61448191826",
+    "phone": "0448 191 826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -743,7 +743,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6488119": {
   "raw": {
@@ -1083,7 +1083,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6473629": {
   "raw": {
@@ -1152,7 +1152,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1222,7 +1222,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6410099": {
   "raw": {
@@ -1287,7 +1287,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1354,7 +1354,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6447867": {
   "raw": {
@@ -1479,7 +1479,7 @@
     ]
    },
    "contactPerson": {
-    "name": "Indeea  Mallett",
+    "name": "Indeea Mallett",
     "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
@@ -1497,7 +1497,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1565,7 +1565,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6179270": {
   "raw": {
@@ -1635,7 +1635,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1690,7 +1690,7 @@
     ]
    },
    "contactPerson": {
-    "name": "Indeea  Mallett",
+    "name": "Indeea Mallett",
     "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
@@ -1708,7 +1708,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-14T09:44:08+10:00"
+  "lastSeenAt": "2026-10-14T14:47:54+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -1978,7 +1978,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-6504264": {
@@ -2051,7 +2051,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-5585863": {
@@ -2119,7 +2119,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-5531457": {
@@ -2190,7 +2190,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2262,7 +2262,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2332,7 +2332,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-6510953": {
@@ -2399,22 +2399,22 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-6490958": {
   "firstSeenAt": "2026-10-12T15:50:11+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/267911425/d68e8cceec741f7b62991684-8ae2d7c8_2D5b13_2Dca3b_2D3836_2D9b13f91c4739-1789599721-original.jpg?1789599721",
-    "https://cdn.rent.com.au/photos/images/267911427/713db52c85025952a7a807fc-6d3d84f2_2Db0a8_2D9734_2D5d58_2D55c9dace2796-1789599728-original.jpg?1789599728",
-    "https://cdn.rent.com.au/photos/images/267911426/23584b619ab74388dfb6c07b-ed7477ce_2D46fd_2D8c6e_2D0c8a_2D80c6b6ea8be5-1789599727-original.jpg?1789599727"
+    "https://cdn.rent.com.au/photos/images/268303965/3a7235775cd985b08d124210-141102ce_2De1fa_2Dda80_2Dad0a_2D2f788dea7aa9-1791950818-original.jpg?1791950818",
+    "https://cdn.rent.com.au/photos/images/268304003/2a222b4ef2fa07e37e601447-a65aae50_2D4aba_2Db574_2Dced1_2D707f2f1385ef-1791950831-original.jpg?1791950831",
+    "https://cdn.rent.com.au/photos/images/268303998/14af7c9269b4866be25ab95c-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1791950831-original.jpg?1791950831"
    ],
    "id": "rent-6490958",
    "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/5-5-wirragrove-cct-kallangur-qld-4503-6490958",
+   "url": "https://www.rent.com.au/property/5-wirragrove-cct-kallangur-qld-4503-6490958",
    "area": "Deception Bay / North Lakes",
-   "address": "5/5 Wirragrove Circuit",
+   "address": "5 Wirragrove Circuit",
    "suburb": "Kallangur",
    "postcode": "4503",
    "type": "Other",
@@ -2440,8 +2440,8 @@
    "inspections": [],
    "lat": "-27.243085",
    "lng": "153.002456",
-   "byline": "MULTIPLE ROOMS AVAILABLE! PRIVATE ROOM, OWN ENSUITE & KITCHENETTE POWER, WATER & INTERNET INCLUDED!",
-   "description": "Located just minutes from Kallangur train station and Anzac Avenue's bus routes, this share house puts North Lakes Westfield shopping, local parks like Ruth Whitfield Memorial Park, and nearby gyms and cafs all within easy reach  perfect for young professionals and students who want an easy commute to Brisbane CBD without sacrificing lifestyle.\n\nRoom Features:\n- Private ensuite bathroom  no sharing required\n- Fully furnished with bed, wardrobe & workspace\n- Ceiling fan or air-conditioning for year-round comfort\n- High-speed internet included\n- Digital door lock for secure, keyless entry\n\nShared Facilities:\n- Communal kitchen available for those wanting more space to cook\n- Laundry with washing machine (no dryer provided)\n- Outdoor courtyard  perfect for relaxation\n- Regular cleaning of shared spaces for a hassle-free lifestyle\n\nAvailable rooms:\nRoom 1 - Leased \nRoom 2 - Leased \nRoom 3\nRoom 4\nRoom 5 - \nIncluded: Electricity, water and unlimited high-speed internet\nLinen: Available on request for a $60 one-off fee\nGarage parking: Two spaces available at $20 per week each, allocated on a first-come basis\nBond: Equivalent to four weeks rent\nRent in advance: Two weeks\nMinimum lease: Six months\nInspections by appointment. Call Rose to arrange a viewing and enquire about the available rooms.\n\nDisclaimer: Please note that the photographs provided are for preview purposes only. While Invida Property Management makes every effort to ensure the accuracy of the information presented in this advertisement, we cannot guarantee its complete validity. We recommend that all applicants conduct their own inspections to verify all relevant details.",
+   "byline": "MULTIPLE ROOMS AVAILABLE! PRIVATE ROOMS, OWN ENSUITE & KITCHENETTE POWER, WATER & INTERNET INCLUDED!",
+   "description": "Located just minutes from Kallangur train station and Anzac Avenue's bus routes, this share house puts North Lakes Westfield shopping, local parks like Ruth Whitfield Memorial Park, and nearby gyms and cafs all within easy reach  perfect for young professionals and students who want an easy commute to Brisbane CBD without sacrificing lifestyle.\n\nRoom Features:\n- Private ensuite bathroom  no sharing required\n- Fully furnished with bed, wardrobe & workspace\n- Ceiling fan or air-conditioning for year-round comfort\n- High-speed internet included\n- Digital door lock for secure, keyless entry\n\nShared Facilities:\n- Communal kitchen available for those wanting more space to cook\n- Laundry with washing machine (no dryer provided)\n- Outdoor courtyard  perfect for relaxation\n- Regular cleaning of shared spaces for a hassle-free lifestyle\n\nRoom 1 (orange) - leased\nRoom 2 (blue) - leased\nRoom 3 (yellow) $410 p/w single occupancy -\nRoom 4 (green) $420 p/w single occupancy - \nRoom 5 (pink) $420 p/w single occupancy - \n\nIncluded: Electricity, water and high-speed internet\nGarage parking: Two spaces available at $20 per week each, allocated on a first-come basis\nBond: Equivalent to four weeks rent\nRent in advance: Two weeks\nMinimum lease: Six months\nInspections by appointment. Call Rose to arrange a viewing and enquire about the available rooms.\n\nDisclaimer: Please note that the photographs provided are for preview purposes only. While Invida Property Management makes every effort to ensure the accuracy of the information presented in this advertisement, we cannot guarantee its complete validity. We recommend that all applicants conduct their own inspections to verify all relevant details.",
    "flags": {
     "shops": [
      "Located just minutes from Kallangur train station and Anzac Avenue's bus routes, this share house put",
@@ -2451,7 +2451,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "+61448191826",
+    "phone": "0448 191 826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -2466,7 +2466,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2532,7 +2532,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2599,7 +2599,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-3257770": {
@@ -2667,7 +2667,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  },
  "rent-6513601": {
@@ -2728,7 +2728,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-14T09:44:08+10:00",
+  "lastSeenAt": "2026-10-14T14:47:54+10:00",
   "gone": false
  }
 }

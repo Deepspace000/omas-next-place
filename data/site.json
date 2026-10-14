@@ -1,7 +1,7 @@
 {
- "generatedAt": "2026-10-14T09:44:08+10:00",
+ "generatedAt": "2026-10-14T14:47:54+10:00",
  "lastSearch": {
-  "at": "2026-10-14T09:44:08+10:00",
+  "at": "2026-10-14T14:47:54+10:00",
   "found": 25,
   "new": [],
   "gone": [],
@@ -9,6 +9,14 @@
   "trigger": "schedule"
  },
  "runs": [
+  {
+   "at": "2026-10-14T14:47:54+10:00",
+   "found": 25,
+   "new": [],
+   "gone": [],
+   "problems": [],
+   "trigger": "schedule"
+  },
   {
    "at": "2026-10-14T09:44:08+10:00",
    "found": 25,
@@ -88,14 +96,6 @@
   },
   {
    "at": "2026-10-11T15:40:10+10:00",
-   "found": 23,
-   "new": [],
-   "gone": [],
-   "problems": [],
-   "trigger": "schedule"
-  },
-  {
-   "at": "2026-10-11T09:26:57+10:00",
    "found": 23,
    "new": [],
    "gone": [],
@@ -187,7 +187,7 @@
     "https://cdn.rent.com.au/photos/images/267892585/0417a24a6cdd1b5ef4d982d7-2a5ef8a4_2Dcb0a_2D01f6_2D891b_2D89683ed246d2-1789515907-original.png?1789515907"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "goneAt": "2026-09-30T09:40:10+10:00",
    "reviewed": true,
@@ -485,7 +485,7 @@
     "https://cdn.rent.com.au/photos/images/244670113/9ca27a36ec757bdbb1d9e1c8-69716148__1692580251-9549-MG0654-1692580538-original.jpg?1692580538"
    ],
    "firstSeenAt": "2026-09-30T09:40:10+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -610,7 +610,7 @@
     "https://cdn.rent.com.au/photos/images/268048669/77429ca8a778af54fdc54226-9c79578921da44881fd8724913429be1-1790500045-original.?1790500045"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -658,7 +658,7 @@
     "https://cdn.rent.com.au/photos/images/267911462/9be8ff65e27602b346cc87e2-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1789599797-original.jpg?1789599797"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -723,9 +723,9 @@
   },
   {
    "id": "rent-6490958",
-   "url": "https://www.rent.com.au/property/5-5-wirragrove-cct-kallangur-qld-4503-6490958",
+   "url": "https://www.rent.com.au/property/5-wirragrove-cct-kallangur-qld-4503-6490958",
    "area": "Deception Bay / North Lakes",
-   "address": "5/5 Wirragrove Circuit",
+   "address": "5 Wirragrove Circuit",
    "suburb": "Kallangur",
    "postcode": "4503",
    "type": "Other",
@@ -734,12 +734,12 @@
    "bond": 1680,
    "available": "now",
    "photos": [
-    "https://cdn.rent.com.au/photos/images/267911425/d68e8cceec741f7b62991684-8ae2d7c8_2D5b13_2Dca3b_2D3836_2D9b13f91c4739-1789599721-original.jpg?1789599721",
-    "https://cdn.rent.com.au/photos/images/267911427/713db52c85025952a7a807fc-6d3d84f2_2Db0a8_2D9734_2D5d58_2D55c9dace2796-1789599728-original.jpg?1789599728",
-    "https://cdn.rent.com.au/photos/images/267911426/23584b619ab74388dfb6c07b-ed7477ce_2D46fd_2D8c6e_2D0c8a_2D80c6b6ea8be5-1789599727-original.jpg?1789599727"
+    "https://cdn.rent.com.au/photos/images/268303965/3a7235775cd985b08d124210-141102ce_2De1fa_2Dda80_2Dad0a_2D2f788dea7aa9-1791950818-original.jpg?1791950818",
+    "https://cdn.rent.com.au/photos/images/268304003/2a222b4ef2fa07e37e601447-a65aae50_2D4aba_2Db574_2Dced1_2D707f2f1385ef-1791950831-original.jpg?1791950831",
+    "https://cdn.rent.com.au/photos/images/268303998/14af7c9269b4866be25ab95c-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1791950831-original.jpg?1791950831"
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -882,7 +882,7 @@
     "https://cdn.rent.com.au/photos/images/268277728/b164d0b73e6c867e788fd4da-b4e20053-170f-4f1f-ba8b-5e8176b66270-1791855561-original.png?1791855561"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -980,7 +980,7 @@
     "https://cdn.rent.com.au/photos/images/263537885/bf847886460e1d456cf62707-1500-1791785480-original.jpeg?1791785480"
    ],
    "firstSeenAt": "2026-10-13T01:15:25+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -1037,7 +1037,7 @@
     "https://cdn.rent.com.au/photos/images/268146319/1cbd232c17042460713f5f80-10057515_21300596_8_1791004244-1791005488-original.jpg?1791005488"
    ],
    "firstSeenAt": "2026-10-03T21:36:11+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1268,7 +1268,7 @@
     "https://cdn.rent.com.au/photos/images/251253900/dbcc3dfcbf949920527daaaf-10057515_21366065_7_1657065521-1720683701-original.jpg?1720683701"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1308,7 +1308,7 @@
     "https://cdn.rent.com.au/photos/images/268258170/73c93a39eba98132bda8ca57-178529029831118449-rsd-1791774063-original.jpg?1791774063"
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1348,7 +1348,7 @@
     "https://cdn.rent.com.au/photos/images/267626016/b4a999644dab849318e23b5f-216608141__1787884549-235781-DSC8062-2NOV-1787884913-original.jpg?1787884913"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1396,7 +1396,7 @@
     "https://cdn.rent.com.au/photos/images/252680223/312d0dfdf12ddce57613541c-110679670__1726707118-45686-DSC3594NOV-1727136848-original.jpg?1727136848"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "longshot",
@@ -1463,7 +1463,7 @@
     "https://cdn.rent.com.au/photos/images/266736939/fa5cc5b2d738ce533f623b2f-3-1782754514-original.jpg?1782754514"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1503,7 +1503,7 @@
     "https://cdn.rent.com.au/photos/images/268287798/d08eef25506d0c5985e8bfdb-b4e20135-104c-488c-9964-63ce2cb6d484-1791872316-original.png?1791872316"
    ],
    "firstSeenAt": "2026-10-13T16:44:17+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1543,7 +1543,7 @@
     "https://cdn.rent.com.au/photos/images/258232481/0d0643b8f8c620c8108572d2-6058801__1753662154-mydimport-1589711912-hires.20117-P1010019-1753663307-original.JPG?1753663307"
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -1592,7 +1592,7 @@
     "https://cdn.rent.com.au/photos/images/259445022/2237c7eb2ef4c686a5e83ea5-166382019__1759469854-90657-IMG8746-1759470684-original.jpg?1759470684"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -1667,7 +1667,7 @@
     "https://cdn.rent.com.au/photos/images/252655881/f5f2b22b4b483c30b6cefa0d-10057515_21069342_4_1727044902-1727048942-original.jpg?1727048942"
    ],
    "firstSeenAt": "2026-10-09T23:10:16+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1756,7 +1756,7 @@
     "https://cdn.rent.com.au/photos/images/255856523/4f192ddbaaa5d3ea9fb3ece2-11cf9f32_2Dc94f_2D6896_2D38a2_2D1718b79b8725-1742176101-original.jpg?1742176101"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "longshot",
@@ -1821,7 +1821,7 @@
     "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1861,7 +1861,7 @@
     "https://cdn.rent.com.au/photos/images/268241874/1c78734d63a42c6c7e2c0f4e-10057515_21683745_12_1791528798-1791529385-original.jpg?1791529385"
    ],
    "firstSeenAt": "2026-10-09T23:10:16+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1901,7 +1901,7 @@
     "https://cdn.rent.com.au/photos/images/247324423/00dd15a5dba66509bc4fba15-10057515_21278985_9_1704346293-1704350304-original.jpg?1704350304"
    ],
    "firstSeenAt": "2026-10-03T21:36:11+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1941,7 +1941,7 @@
     "https://cdn.rent.com.au/photos/images/254597050/abea254b09690810b02df280-10057515_21452058_14_1670886742-1736213935-original.jpg?1736213935"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1981,7 +1981,7 @@
     "https://cdn.rent.com.au/photos/images/267911124/b7adab28b58f98660f002160-5cd2aec3_2D3962_2Dce17_2Dd63f_2Dd8ee3b9375cb-1789598792-original.jpg?1789598792"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1993,7 +1993,7 @@
    "agency": "YSH Property",
    "contacts": [
     {
-     "name": "Indeea  Mallett",
+     "name": "Indeea Mallett",
      "role": "Agent on the ad",
      "email": null,
      "phone": "0497 019 777",
@@ -2078,7 +2078,7 @@
     "https://cdn.rent.com.au/photos/images/268129855/e442d0ce08b4dae547b857fc-ec747853_2D3f1a_2D33a9_2Dcc98_2D1565a4c89c25-1790904765-original.jpg?1790904765"
    ],
    "firstSeenAt": "2026-10-02T15:29:29+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -2126,7 +2126,7 @@
     "https://cdn.rent.com.au/photos/images/268146313/36213ec8c891a13244c1bb22-10057515_21682368_8_1768182774-1791005484-original.jpg?1791005484"
    ],
    "firstSeenAt": "2026-10-03T21:36:11+10:00",
-   "lastSeenAt": "2026-10-14T09:44:08+10:00",
+   "lastSeenAt": "2026-10-14T14:47:54+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
