@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-10-17T08:47:02+10:00",
+  "found": 26,
+  "new": [],
+  "gone": [],
+  "problems": [],
+  "trigger": "schedule"
+ },
+ {
   "at": "2026-10-17T00:49:08+10:00",
   "found": 26,
   "new": [],
@@ -524,13 +532,5 @@
   "gone": [],
   "problems": [],
   "trigger": "workflow_dispatch"
- },
- {
-  "at": "2026-10-01T15:45:15+10:00",
-  "found": 24,
-  "new": [],
-  "gone": [],
-  "problems": [],
-  "trigger": "schedule"
  }
 ]
