@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-15T23:01+00:00",
+ "searchedAt": "2026-10-16T01:11+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 26,
+ "count": 25,
  "problems": [],
  "listings": [
   {
@@ -502,71 +502,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/251253611/d901961ebc74944049aab28f-10057515_21366065_1_1657065520-1720683529-original.jpg?1720683529",
-    "https://cdn.rent.com.au/photos/images/251253894/885b60ba974a9fb23a23d8c0-10057515_21366065_3_1657065520-1720683700-original.jpg?1720683700",
-    "https://cdn.rent.com.au/photos/images/251253900/dbcc3dfcbf949920527daaaf-10057515_21366065_7_1657065521-1720683701-original.jpg?1720683701"
-   ],
-   "id": "rent-5731687",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/5-36-braun-st-deagon-qld-4017-5731687",
-   "area": "Sandgate / Brighton",
-   "address": "5/36 Braun Street",
-   "suburb": "Deagon",
-   "postcode": "4017",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-09-04T15:31:05.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 64,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 45,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Friendly neighbourhood",
-    "I feel safe here"
-   ],
-   "inspections": [],
-   "lat": "-27.328198",
-   "lng": "153.057561",
-   "byline": "CONVENIENT DEAGON LOCATION",
-   "description": "Near new, well designed, furnished, ground floor studio unit, styled and ready for occupancy right in the heart of Deagon\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets) \n\nLocated at the rear of the property with a fully fenced courtyard overlooking the park. Fully furnished with an open plan living area and kitchenette, spacious bedroom area and built in robe space, ensuite bathroom. Air conditioned for your comfort, complete with security screens and ceiling fan. \n\nShared laundry with 2 washing machines, street parking only \n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located within Deagon Market Square Shopping strip, buses at your door, short walk to Deagon train station. Easy access to M1, Hornibrook Highway and other major arterial highways.\n\nBe quick book your inspection online now!!",
-   "flags": {
-    "ground": [
-     "Near new, well designed, furnished, ground floor studio unit, styled and ready for occupancy right in the he"
-    ],
-    "shops": [
-     "the rent Conveniently located within Deagon Market Square Shopping strip, buses at your door, short walk to Deagon train s",
-     "niently located within Deagon Market Square Shopping strip, buses at your door, short walk to Deagon train station. Easy acce",
-     "re Shopping strip, buses at your door, short walk to Deagon train station. Easy access to M1, Hornibrook Highway and other ma"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/267625967/5252c52e02be5f61d19b4a1e-216608138__1787884542-63118-DSC7992-2NOV-1787884850-original.jpg?1787884850",
     "https://cdn.rent.com.au/photos/images/267626015/da78face6fd6ddf1cc019cf6-216608140__1787884546-51407-DSC8055-2NOV-1787884913-original.jpg?1787884913",
     "https://cdn.rent.com.au/photos/images/267626016/b4a999644dab849318e23b5f-216608141__1787884549-235781-DSC8062-2NOV-1787884913-original.jpg?1787884913"
@@ -957,7 +892,7 @@
    "cars": 0,
    "price": 390,
    "bond": 1560,
-   "available": "16th October 2026",
+   "available": "now",
    "listedAt": "2026-09-18T12:06:17.000+08:00",
    "petsListed": false,
    "furnished": false,
