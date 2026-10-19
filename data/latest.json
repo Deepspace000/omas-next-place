@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-19T17:29+00:00",
+ "searchedAt": "2026-10-19T23:33+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 25,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -998,6 +998,70 @@
     "email": null,
     "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
     "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/256913357/61aed888cdb59f0ba1476fac-8d1ffdab_2Daa3c_2D49cf_2D82dc_2D940000c14d26-1747379189-original.jpg?1747379189",
+    "https://cdn.rent.com.au/photos/images/256913387/919dcb2d375fb6479c0e9c4e-d9185fab_2D88dc_2D6ea3_2D497c_2D3e79df34f133-1747379206-original.jpg?1747379206",
+    "https://cdn.rent.com.au/photos/images/256913386/513f6edf63c699fd19597d9d-19f05e44_2Da6dc_2D38b6_2D9d5a_2Df56c125891af-1747379205-original.jpg?1747379205"
+   ],
+   "id": "rent-6040091",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-21-pioneer-st-zillmere-qld-4034-6040091",
+   "area": "Northern suburbs",
+   "address": "3/21 Pioneer Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Apartment",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 410,
+   "bond": 1640,
+   "available": "7th December 2026",
+   "listedAt": "2026-10-20T07:04:41.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 76,
+   "walkCategory": "very_walkable",
+   "transitScore": 52,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.357839",
+   "lng": "153.03956",
+   "byline": "Fully furnished one-bedroom apartments with electricity, NBN, water included!",
+   "description": "SPACIOUS ONE BEDROOM APARTMENTS. Simply pack your bags and settle in.\n\nROOM 3: inc Balcony \n\nMICRO APARTMENT: Private bedroom, bathroom, kitchenette, living room and balcony.\n\nSOLE OCCUPANCY: Sole Occupant Only. No Couples or children.\n\nALL SERVICES INCLUDED: Electricity, water and internet all included in your rent.\n\nFULLY FURNISHED: Bed, lounge, dining setting, outdoor setting, smart TV, window furnishings.\n\nPRIVATE KITCHENETTE: Fridge, microwave, plug in cooktop, cutlery, dining ware, etc.\n\nPREMIUM EXTRAS: Air conditioning, ceiling fans.\n\nCOMMON FACILITIES: Full kitchen with oven, cooktop, rangehood. Laundry with 2 washing machines.\n\nSAFE AND SECURE: Electronic keyless access.\n\nAMENITIES: Westfield Chermside 2.9km, Boondall Shopping Centre Sue's Korner 3km, Aspley Central Shopping Centre 3.2km\n\nTRANSPORT: Bus Stop 220m, Zillmere Train Station 450m.\n\n*** TO REGISTER FOR AN INSPECTION, CLICK ON THE BOOK AN INSPECTION BUTTON BELOW IMPORTANT! \n*** YOU MUST REGISTER TO INSPECT THIS PROPERTY\n*** AN INSPECTION CODE WILL BE SENT ONCE THE PROPERTY HAS BEEN VIEWED THIS WILL BE REQUIRED BEFORE YOU WILL BE ABLE TO SUBMIT YOUR APPLICATION\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "flags": {
+    "shops": [
+     "ess access. AMENITIES: Westfield Chermside 2.9km, Boondall Shopping Centre Sue's Korner 3km, Aspley Central Shopping Centre",
+     ", Boondall Shopping Centre Sue's Korner 3km, Aspley Central Shopping Centre 3.2km TRANSPORT: Bus Stop 220m, Zillmere Train",
+     "tre Sue's Korner 3km, Aspley Central Shopping Centre 3.2km TRANSPORT: Bus Stop 220m, Zillmere Train Station 450m. *** TO REGIST",
+     "orner 3km, Aspley Central Shopping Centre 3.2km TRANSPORT: Bus Stop 220m, Zillmere Train Station 450m. *** TO REGISTER FO",
+     "l Shopping Centre 3.2km TRANSPORT: Bus Stop 220m, Zillmere Train Station 450m. *** TO REGISTER FOR AN INSPECTION, CLICK ON"
+    ]
+   },
+   "contactPerson": {
+    "name": "Annie Sweeting",
+    "phone": "+61447487173",
+    "phoneAlt": "+611300368658"
+   },
+   "company": {
+    "name": "YSH Property",
+    "phone": null,
+    "email": null,
+    "address": "P.O. Box 677 Annerley, QLD 4103",
+    "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
    },
    "feedAgentName": null,
    "feedCompany": null,
