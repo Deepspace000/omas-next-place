@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-18T22:24+00:00",
+ "searchedAt": "2026-10-19T01:05+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 26,
+ "count": 25,
  "problems": [],
  "listings": [
   {
@@ -297,7 +297,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "0493 446 309",
+    "phone": "+61493446309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -424,7 +424,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "0493 446 309",
+    "phone": "+61493446309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -830,7 +830,7 @@
    "cars": 0,
    "price": 390,
    "bond": 1560,
-   "available": "19th October 2026",
+   "available": "now",
    "listedAt": "2026-10-14T14:20:51.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -867,68 +867,6 @@
     "email": null,
     "address": "New St Bondi, NSW 2026",
     "profileUrl": "https://www.rent.com.au/agents/13605/rentbetter"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/259444729/875a333ffbb384d08fd8df29-166382015__1759469850-268282-IMG8744-1759470567-original.jpg?1759470567",
-    "https://cdn.rent.com.au/photos/images/259445015/6c9ac3179e38d145f32ec442-166382018__1759469852-90194-IMG8745-1759470682-original.jpg?1759470682",
-    "https://cdn.rent.com.au/photos/images/259445022/2237c7eb2ef4c686a5e83ea5-166382019__1759469854-90657-IMG8746-1759470684-original.jpg?1759470684"
-   ],
-   "id": "rent-6173821",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/2-10-cavendish-st-nundah-qld-4012-6173821",
-   "area": "Northern suburbs",
-   "address": "2/10 Cavendish Street",
-   "suburb": "Nundah",
-   "postcode": "4012",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 390,
-   "bond": 1560,
-   "available": "now",
-   "listedAt": "2026-09-18T12:06:17.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 84,
-   "walkCategory": "very_walkable",
-   "transitScore": 61,
-   "transitCategory": "good_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Cafes and restaurants",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.396772",
-   "lng": "153.063423",
-   "byline": "Air-Conditioned Studio in Convenient Location!",
-   "description": "Welcome to 2/10 Cavendish Street, Nundah - your ideal rental opportunity in a sought-after suburb. This apartment boasts a prime location, offering convenience and comfort in one package.\n\nFeatures: \n Living area with split system air conditioning and ceiling fan.\n Eat-in kitchen with electric cooking. \n Private bathroom with a shower and toilet.\n Additional wardrobe space in the bedroom, as well as extra storage under the house.\n\nSituated within walking distance to Nundah shopping precinct, Nundah train station, and numerous parks and playing fields.\n  8-kilomete journey will take you to Brisbane's bustling CBD, and you can reach Brisbane airport in just 10 minutes.\n School zones include Nundah State School and Aviation High.\n Access to a shared laundry with a washing machine and a large shared yard for all occupants to enjoy.\n\nDon't miss the opportunity to live in this conveniently located, air-conditioned apartment at 2/10 Cavendish Street, Nundah. With all the essentials at your doorstep and easy access to transportation, it's the perfect place for students and anyone seeking a comfortable, well-connected living space.\n\nWant to register for the next available inspection time? Simply click on the red 'Get in touch' button. Send through your property enquiry and we will reply via email with all of the available inspection times, and also keep you up to date as new times become available. It's important that you register to attend any rental inspections so that we can keep you up to date with any time changes, delays or cancellations.\n\nWhilst every care is taken in the preparation of the information contained in this marketing. Harcourts Solutions will not be held liable for any errors in typing or information including alterations made to the property, and any inclusions that may not be represented in this advertisement. All interested parties should rely upon their own enquiries to determine whether or not the property and utilities (including available internet options) are suitable for their needs.",
-   "flags": {
-    "shops": [
-     "nder the house. Situated within walking distance to Nundah shopping precinct, Nundah train station, and numerous parks and",
-     "within walking distance to Nundah shopping precinct, Nundah train station, and numerous parks and playing fields. 8-kilomet",
-     "With all the essentials at your doorstep and easy access to transportation, it's the perfect place for students and anyone seekin"
-    ]
-   },
-   "contactPerson": {
-    "name": "Dee Bloor",
-    "phone": "+61735054444",
-    "phoneAlt": "+61735054444"
-   },
-   "company": {
-    "name": "Harcourts Solutions - WINDSOR",
-    "phone": null,
-    "email": null,
-    "address": "528 South Pine Road Everton Park, QLD 4053",
-    "profileUrl": "https://www.rent.com.au/agents/12969/harcourts-solutions-windsor"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1358,7 +1296,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "0493 446 309",
+    "phone": "+61493446309",
     "phoneAlt": "+61493446309"
    },
    "company": {
