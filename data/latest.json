@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-20T04:42+00:00",
+ "searchedAt": "2026-10-20T10:00+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 27,
+ "count": 29,
  "problems": [],
  "listings": [
   {
@@ -102,7 +102,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "+61488839724",
+    "phone": "0488 839 724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -813,6 +813,69 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/264962879/cb5d98dea2e133604395723b-841d40d4_2D2607_2D7096_2D75dc_2De49bde1bbc4c-1776302367-original.jpg?1776302367",
+    "https://cdn.rent.com.au/photos/images/264963324/25e87915bd4f6f8cadad4332-905e0147_2D3dfc_2D4c8d_2D16a1_2D496a47e5bb4b-1776302633-original.jpg?1776302633",
+    "https://cdn.rent.com.au/photos/images/264963321/d280d6b617ba854a05ad0bc8-22e0204a_2D478c_2D3c56_2D7276_2D7ede6db59f7e-1776302632-original.jpg?1776302632"
+   ],
+   "id": "rent-6350788",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/1-32-gearside-st-everton-park-qld-4053-6350788",
+   "area": "Northern suburbs",
+   "address": "1/32 Gearside Street",
+   "suburb": "Everton Park",
+   "postcode": "4053",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 380,
+   "bond": 1520,
+   "available": "30th October 2026",
+   "listedAt": "2026-10-20T15:19:49.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 73,
+   "walkCategory": "very_walkable",
+   "transitScore": 46,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Near shops",
+    "Friendly neighbourhood",
+    "I feel safe here",
+    "Cafes and restaurants"
+   ],
+   "inspections": [],
+   "lat": "-27.402532",
+   "lng": "152.989251",
+   "byline": "PRIVATE ENSUITE ROOM IN COZY SHARED HOUSE WITH FIREPLACE. SAVE ON BILLS! YOUR NEXT HOME AWAITS!",
+   "description": "Discover the perfect blend of comfort, privacy, and convenience in this homey feel co- living property. This beautifully designed house offers modern, fully furnished, lockable rooms with kitchenette and ensuites- no sharing required, ideal for professionals, FIFO workers, and mature students seeking a relaxed lifestyle in community setting. \n\nRoom 1 Move-in ready! Single occupancy only \nBond: 4 weeks paid in advance + 2 weeks rent paid upfront \nFlexible lease terms available, minimum 6-month\nInclusions: electricity, water, high-speed internet. \nReverse-cycle air conditioning, smart-lock access. \nNot suitable for Couples, Children and Pets - due to Council regulations\n\nCOMMUTE FRIENDLY + EVERYTHING CLOSE, WITHOUT INNER CITY RENT - located in a convenient spot, in a quiet suburb close to parks, and walking distance to shopping centres - short stroll from the nearby shopping and dining hub at Everton Plaza (Coles, cafs, restaurants) and public transport.\n\nCall Rob to inspect.\nFor those keenly interested, prompt action is advisable  as this room remains available!\n\nDisclaimer: Please note that the photographs provided are for preview purposes only. While Invida Property Management makes every effort to ensure the accuracy of the information presented in this advertisement, we cannot guarantee its complete validity. We recommend that all applicants conduct their own inspections to verify all relevant details.",
+   "flags": {
+    "shops": [
+     ", in a quiet suburb close to parks, and walking distance to shopping centres - short stroll from the nearby shopping and din",
+     "distance to shopping centres - short stroll from the nearby shopping and dining hub at Everton Plaza (Coles, cafs, restauran",
+     "l from the nearby shopping and dining hub at Everton Plaza (Coles, cafs, restaurants) and public transport. Call Rob to insp",
+     "hub at Everton Plaza (Coles, cafs, restaurants) and public transport. Call Rob to inspect. For those keenly interested, prompt"
+    ]
+   },
+   "contactPerson": {
+    "name": "Rob  Claridge",
+    "phone": "+61448191826",
+    "phoneAlt": "+61448191826"
+   },
+   "company": {
+    "name": "Invida Property Management ",
+    "phone": null,
+    "email": null,
+    "address": "P.O Box 203, Bli Bli, QLD 4560",
+    "profileUrl": "https://www.rent.com.au/agents/15252/invida-property-management-"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/268309203/8d3118bce4c10dbdacd71bd1-f62dca94bfc24c7a087f32487a5af9e97cfa6aa5a3120b6f4c1364f042d30711-1791959067-original.jpg?1791959067",
     "https://cdn.rent.com.au/photos/images/268309240/1a16c8b56043601cc703e3b6-447a39b04aba2bf4180726635bbf2db0414062dff73710d03c88d0447a13bd6b-1791959218-original.jpg?1791959218",
     "https://cdn.rent.com.au/photos/images/268309241/2ce0a70746a6177240c44ce7-a35113520ce2097ba4aa1336925fbf0f80673929c76ec4937cf25dcc5504f124-1791959218-original.jpg?1791959218"
@@ -1300,7 +1363,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1443,6 +1506,73 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/256839341/e0ebf6f5433a4ca16d268e65-bdfa3cd3_2D7f76_2Db044_2D4d17_2D6d18507fee7e-1747176715-original.jpg?1747176715",
+    "https://cdn.rent.com.au/photos/images/256839342/31b6e67368027f84fd1ad0e2-db74c199_2D734f_2Df034_2D578b_2Dcc7f23d9dbcd-1747176715-original.jpg?1747176715",
+    "https://cdn.rent.com.au/photos/images/256839339/4d600b549feab564c5db5ced-1fdc6cda_2D7c25_2D6af7_2Dfd9d_2Ddb64072a8ecb-1747176715-original.jpg?1747176715"
+   ],
+   "id": "rent-6036286",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-18-gledson-st-zillmere-qld-4034-6036286",
+   "area": "Northern suburbs",
+   "address": "4/18 Gledson Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "16th November 2026",
+   "listedAt": "2026-10-20T15:00:48.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 71,
+   "walkCategory": "very_walkable",
+   "transitScore": 47,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.357035",
+   "lng": "153.047243",
+   "byline": "Fully furnished one-bedroom apartment with electricity, NBN, water included!",
+   "description": "Dont miss the opportunity to rent all inclusive, spacious one bedroom apartment within building of 5. This property comes fully furnished PLUS high-speed internet, electricity and water bills are included!\n\nSimply pack your bags and settle in.\n\nImportant: Single Occupancy Only\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, and overnight guests are not permitted.\n\nROOM #4 $430.00\n\nKEY FEATURES:\n- All-inclusive living expenses!\n-Fully furnished with high-quality, modern furniture throughout.\n- Air conditioning & ceiling fans. \n-Ceiling fans.\n- Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n- Secure electronic door locks for keyless entry.\n-Security System.\n- Equipped kitchenette.\n- Smart TV.\n-Private balcony.\nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\n\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \n\nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\n\nRELAX IN COMFORT: Ceiling fans and split- system A/C in every room to ensure  you enjoy a pleasant living environment. \nFULLY FURNISHED: Your apartment comes equipped with everything you need: a comfy bed, lounge, dining setting, outdoor furniture, smart TV, and kitchenware. \n\nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop, cutlery, dinnerware, and more for your convenience.\n\nPREMIUM EXTRAS: Stay comfortable year-round with air conditioning and ceiling fans.\n\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \n\nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\n\nAMENITIES: Taigum Square Shopping Mall 950m, O'Callaghan Park 800m, Boondall Shopping Centre Sue's Korner2.1km, Westfield Chermside 3.8km.\n\nTRANSPORT: Bus Stop 120m, Zillmere Train Station 1.3km.\n\n*** TO SCHEDULE AN INSPECTION, CLICK THE \"BOOK AN INSPECTION\" BUTTON BELOW. \n\n*** REGISTRATION IS REQUIRED TO VIEW THIS PROPERTY.\n\n*** AFTER THE INSPECTION, YOU WILL RECEIVE AN INSPECTION CODE, WHICH MUST BE PROVIDED BEFORE YOU CAN SUBMIT YOUR APPLICATION.\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "flags": {
+    "pets": [
+     "Designed for single occupancy only. No couples, children or pets allowed. MICRO APARTMENT: Enjoy the privacy of your own securely a"
+    ],
+    "shops": [
+     "d a security surveillance system. AMENITIES: Taigum Square Shopping Mall 950m, O'Callaghan Park 800m, Boondall Shopping Cen",
+     "Square Shopping Mall 950m, O'Callaghan Park 800m, Boondall Shopping Centre Sue's Korner2.1km, Westfield Chermside 3.8km. T",
+     "pping Centre Sue's Korner2.1km, Westfield Chermside 3.8km. TRANSPORT: Bus Stop 120m, Zillmere Train Station 1.3km. *** TO SCHED",
+     "e Sue's Korner2.1km, Westfield Chermside 3.8km. TRANSPORT: Bus Stop 120m, Zillmere Train Station 1.3km. *** TO SCHEDULE A",
+     "tfield Chermside 3.8km. TRANSPORT: Bus Stop 120m, Zillmere Train Station 1.3km. *** TO SCHEDULE AN INSPECTION, CLICK THE \"B"
+    ]
+   },
+   "contactPerson": {
+    "name": "Indeea Mallett",
+    "phone": "+61497019777",
+    "phoneAlt": "+611300368658"
+   },
+   "company": {
+    "name": "YSH Property",
+    "phone": null,
+    "email": null,
+    "address": "P.O. Box 677 Annerley, QLD 4103",
+    "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/268146308/50deff5142c9aa29ef021b81-10057515_21682368_8_1768182901-1791005471-original.jpg?1791005471",
     "https://cdn.rent.com.au/photos/images/268146311/810b31d0f0b5cd27129dbc2f-10057515_21682368_7_1768182900-1791005483-original.jpg?1791005483",
     "https://cdn.rent.com.au/photos/images/268146313/36213ec8c891a13244c1bb22-10057515_21682368_8_1768182774-1791005484-original.jpg?1791005484"
@@ -1561,7 +1691,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1690,7 +1820,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
