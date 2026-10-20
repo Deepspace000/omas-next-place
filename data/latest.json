@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-19T23:33+00:00",
+ "searchedAt": "2026-10-20T04:42+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 26,
+ "count": 27,
  "problems": [],
  "listings": [
   {
@@ -164,7 +164,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "+61448191826",
+    "phone": "0448 191 826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -226,7 +226,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "+61448191826",
+    "phone": "0448 191 826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -1570,6 +1570,67 @@
     "email": null,
     "address": "P.O. Box 677 Annerley, QLD 4103",
     "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268381724/1e37af210e8c5b0253ffa365-128493732__1734053755-147561-IMG7849-1792456827-original.jpg?1792456827",
+    "https://cdn.rent.com.au/photos/images/268381727/8d6ae13ad9bab8adf31095ea-128493733__1734053758-147628-IMG7858-1792456835-original.jpg?1792456835",
+    "https://cdn.rent.com.au/photos/images/268381726/da6fbc0d8fd64fa8b539342f-128493737__1734053766-147423-IMG7864-1792456835-original.jpg?1792456835"
+   ],
+   "id": "rent-6519190",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-28-ashbolt-st-wooloowin-qld-4030-6519190",
+   "area": "Northern suburbs",
+   "address": "4/28 Ashbolt Street",
+   "suburb": "Wooloowin",
+   "postcode": "4030",
+   "type": "Flat",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "2nd November 2026",
+   "listedAt": "2026-10-20T08:40:24.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 59,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 69,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Close to CBD",
+    "Near shops",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.417601",
+   "lng": "153.042158",
+   "byline": "Cozy Wooloowin Retreat",
+   "description": "Nestled in a peaceful complex in the highly sought-after suburb of Wooloowin, this inviting one-bedroom, one-bathroom unit offers comfortable living in a prime location. The spacious kitchen, complete with electric cooking, provides a perfect space for home cooking. \n\nConveniently situated just 900 meters from Wooloowin Train Station, with a quick 11-minute ride to Brisbane City, this unit is ideal for commuters. A range of additional public transport options are also easily accessible along Lutwyche Road, ensuring effortless travel around the area.\n\nProperty Features:\n- One spacious bedroom\n- Generously sized kitchen with electric cooking\n- Bathroom with bathtub and overhead shower\n- Quiet complex in great location\n\nDon't miss the opportunity to secure this fantastic unit in a peaceful yet accessible location.\n\n\n\n++ TO REGISTER YOUR INTEREST & RECEIVE AN APPLICATION LINK, YOU MUST ENTER YOUR CONTACT DETAILS INTO THE LISTING ++ Adding this to your plan, doesn't register you for an inspection.",
+   "flags": {
+    "shops": [
+     "ing. Conveniently situated just 900 meters from Wooloowin Train Station, with a quick 11-minute ride to Brisbane City, this",
+     "s unit is ideal for commuters. A range of additional public transport options are also easily accessible along Lutwyche Road, ens"
+    ]
+   },
+   "contactPerson": {
+    "name": "Virginia Perez",
+    "phone": "+61459990035",
+    "phoneAlt": "+61459990035"
+   },
+   "company": {
+    "name": "Ray White Ascot ",
+    "phone": null,
+    "email": null,
+    "address": "1/138 Racecourse Road Ascot, QLD 4007",
+    "profileUrl": "https://www.rent.com.au/agents/11078/ray-white-ascot-"
    },
    "feedAgentName": null,
    "feedCompany": null,
