@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-10-21T23:12+00:00",
+ "searchedAt": "2026-10-22T04:35+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 29,
@@ -164,7 +164,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -226,7 +226,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -859,7 +859,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -1021,7 +1021,7 @@
    "cars": 0,
    "price": 400,
    "bond": 1600,
-   "available": "22nd October 2026",
+   "available": "now",
    "listedAt": "2026-10-09T14:31:07.000+08:00",
    "petsListed": false,
    "furnished": false,
@@ -1195,9 +1195,9 @@
    ],
    "id": "rent-6510953",
    "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/36a-grand-st-bald-hills-qld-4036-6510953",
+   "url": "https://www.rent.com.au/property/1-36a-grand-st-bald-hills-qld-4036-6510953",
    "area": "Northern suburbs",
-   "address": "36A Grand Street",
+   "address": "1/36A Grand Street",
    "suburb": "Bald Hills",
    "postcode": "4036",
    "type": "Studio",
@@ -1221,10 +1221,10 @@
     "Parks and recreation"
    ],
    "inspections": [],
-   "lat": "-27.31964",
-   "lng": "153.014214",
+   "lat": "-27.319686",
+   "lng": "153.014135",
    "byline": "ULTRA MODERN UNFURNISHED BALD HILLS STUDIO APARTMENT!",
-   "description": "Discover this near new, architecturally designed studio apartment located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and its own private, fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n2 to choose from one located at the front of the property and the other in the centre. this studio is fully furnished with a separated living space and features air conditioning, ceiling fan, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, 1 off street parking space available for an extra $15.00 per week.\n\nNo need to connect utilities as electricity, water and internet are all included in the rent\n\nPositioned for convenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
+   "description": "Discover this near new, architecturally designed studio apartment located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and its own private, fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\nLocated at the front of the property, this studio is fully furnished with a separated living space and features air conditioning, ceiling fan, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, 1 off street parking space available for an extra $15.00 per week.\n\nNo need to connect utilities as electricity, water and internet are all included in the rent\n\nPositioned for convenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
    "flags": {
     "shops": [
      "onvenience, you'll be within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
@@ -1363,7 +1363,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1556,7 +1556,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1691,7 +1691,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1820,7 +1820,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
