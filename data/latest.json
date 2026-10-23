@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-22T23:14+00:00",
+ "searchedAt": "2026-10-23T04:41+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 28,
+ "count": 27,
  "problems": [],
  "listings": [
   {
@@ -575,6 +575,72 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268324010/60ac410c067b8c202d81fbdf-b4e400ea-58f5-4010-84b5-5374a6ab9a2f-1792037966-original.jpeg?1792037966",
+    "https://cdn.rent.com.au/photos/images/268324068/b9dd7b549166b332979d4e10-b4e400e7-0283-4fa9-8cae-9c79ed89c8f7-1792038255-original.jpg?1792038255",
+    "https://cdn.rent.com.au/photos/images/268454238/d71fc3098448ddebc3bd1a3a-b4e400ea-5790-4366-a940-1f1f9176a405-1792717850-original.jpg?1792717850"
+   ],
+   "id": "rent-6515639",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-10-ryena-st-stafford-qld-4053-6515639",
+   "area": "Northern suburbs",
+   "address": "4/10 Ryena Street",
+   "suburb": "Stafford",
+   "postcode": "4053",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 320,
+   "bond": 640,
+   "available": "now",
+   "listedAt": "2026-10-15T10:51:23.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 83,
+   "walkCategory": "very_walkable",
+   "transitScore": 50,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Near shops",
+    "Close to schools",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.40985",
+   "lng": "153.015668",
+   "byline": "Clean tidy Room Available",
+   "description": "This unique property in Stafford is in a fantastic location close to shops and public transport, located just opposite Stafford City Shopping Plaza and McDonald's on Stafford Road. Approximately a 12-minute drive to QUT Kelvin Grove campus.\nMinutes from the Airport Link tunnel and a short commute to Chermside and Brookfield Shopping centres. ** PHOTOS INDICATIVE OF ROOM FEATURES.\n\nAvailable to lease is a vacant room as part of a share-house. The top floor consists of 4 private rooms, all with split-system air conditioning and private bathrooms, with a communal kitchen, rear verandah and lounge room layout.\n\nThe room comes furnished with a double bed ensemble, mattress and side table (bedding and soft furnishings not included). The fellow flatmates are friendly and relaxed, looking for someone with similar qualities.\n\nThe room is available NOW.\n\nApplications online at http://t-app.com.au/pinnacle\n\n***BY REGISTERING FOR AN INSPECTION YOU WILL RECEIVE SMS NOTIFICATIONS AND UPDATES ON CHANGES. TO REGISTER FOR AN INSPECTION, PLEASE CLICK ON THE BOOK AN INSPECTION TIME BUTTON***\n\nPLEASE NOTE:\nYou must read the terms of the Tenancy Agreement prior to applying for the property. A copy is available at our office. We recommend you call the Property Manager prior to the inspection to confirm the appointment time, as the property may be rented. Each property is open for approx. 15 minutes only. If a property has been leased, a leasing consultant will not be attending.",
+   "flags": {
+    "stairs": [
+     "ble to lease is a vacant room as part of a share-house. The top floor consists of 4 private rooms, all with split-system air cond"
+    ],
+    "shops": [
+     "ue property in Stafford is in a fantastic location close to shops and public transport, located just opposite Stafford City S",
+     "afford is in a fantastic location close to shops and public transport, located just opposite Stafford City Shopping Plaza and McD",
+     "s and public transport, located just opposite Stafford City Shopping Plaza and McDonald's on Stafford Road. Approximately a",
+     "Link tunnel and a short commute to Chermside and Brookfield Shopping centres. ** PHOTOS INDICATIVE OF ROOM FEATURES. Availa"
+    ]
+   },
+   "contactPerson": {
+    "name": "Pinnacle Properties Property  Manager",
+    "phone": "+61423571883",
+    "phoneAlt": "+61423571883"
+   },
+   "company": {
+    "name": "Pinnacle Properties ",
+    "phone": null,
+    "email": null,
+    "address": "4/191 Wardell St Enoggera, QLD 4051",
+    "profileUrl": "https://www.rent.com.au/agents/9064/pinnacle-properties-"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/266736937/1798d4157162e6b740e7ea81-1-1782754508-original.jpg?1782754508",
     "https://cdn.rent.com.au/photos/images/266736938/8e29fa6307c5de1aad129b90-2-1782754514-original.jpg?1782754514",
     "https://cdn.rent.com.au/photos/images/266736939/fa5cc5b2d738ce533f623b2f-3-1782754514-original.jpg?1782754514"
@@ -683,72 +749,6 @@
     "email": null,
     "address": "Shop 3 277 Rode Road Wavell Heights, QLD 4012",
     "profileUrl": "https://www.rent.com.au/agents/14556/property-street-estate-agents-wavell-heights"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268324010/60ac410c067b8c202d81fbdf-b4e400ea-58f5-4010-84b5-5374a6ab9a2f-1792037966-original.jpeg?1792037966",
-    "https://cdn.rent.com.au/photos/images/268324068/b9dd7b549166b332979d4e10-b4e400e7-0283-4fa9-8cae-9c79ed89c8f7-1792038255-original.jpg?1792038255",
-    "https://cdn.rent.com.au/photos/images/268324070/dd4e65cfa15886b8dbf9661f-b4e400ea-5bfa-4182-95c1-85ace0c8b512-1792038256-original.jpg?1792038256"
-   ],
-   "id": "rent-6515639",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/4-10-ryena-st-stafford-qld-4053-6515639",
-   "area": "Northern suburbs",
-   "address": "4/10 Ryena Street",
-   "suburb": "Stafford",
-   "postcode": "4053",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 380,
-   "bond": 920,
-   "available": "now",
-   "listedAt": "2026-10-15T10:51:23.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 83,
-   "walkCategory": "very_walkable",
-   "transitScore": 50,
-   "transitCategory": "good_transit",
-   "topFeatures": [
-    "Near shops",
-    "Close to schools",
-    "Parks and recreation",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.40985",
-   "lng": "153.015668",
-   "byline": "Clean tidy Room Available",
-   "description": "This unique property in Stafford is in a fantastic location close to shops and public transport, located just opposite Stafford City Shopping Plaza and McDonald's on Stafford Road. Approximately a 12-minute drive to QUT Kelvin Grove campus.\nMinutes from the Airport Link tunnel and a short commute to Chermside and Brookfield Shopping centres. ** PHOTOS INDICATIVE OF ROOM FEATURES.\n\nAvailable to lease is a vacant room as part of a share-house. The top floor consists of 4 private rooms, all with split-system air conditioning and private bathrooms, with a communal kitchen, rear verandah and lounge room layout.\n\nThe room comes furnished with a double bed ensemble, mattress and side table (bedding and soft furnishings not included). The fellow flatmates are friendly and relaxed, looking for someone with similar qualities.\n\nThe room is available NOW.\n\nApplications online at http://t-app.com.au/pinnacle\n\n***BY REGISTERING FOR AN INSPECTION YOU WILL RECEIVE SMS NOTIFICATIONS AND UPDATES ON CHANGES. TO REGISTER FOR AN INSPECTION, PLEASE CLICK ON THE BOOK AN INSPECTION TIME BUTTON***\n\nPLEASE NOTE:\nYou must read the terms of the Tenancy Agreement prior to applying for the property. A copy is available at our office. We recommend you call the Property Manager prior to the inspection to confirm the appointment time, as the property may be rented. Each property is open for approx. 15 minutes only. If a property has been leased, a leasing consultant will not be attending.",
-   "flags": {
-    "stairs": [
-     "ble to lease is a vacant room as part of a share-house. The top floor consists of 4 private rooms, all with split-system air cond"
-    ],
-    "shops": [
-     "ue property in Stafford is in a fantastic location close to shops and public transport, located just opposite Stafford City S",
-     "afford is in a fantastic location close to shops and public transport, located just opposite Stafford City Shopping Plaza and McD",
-     "s and public transport, located just opposite Stafford City Shopping Plaza and McDonald's on Stafford Road. Approximately a",
-     "Link tunnel and a short commute to Chermside and Brookfield Shopping centres. ** PHOTOS INDICATIVE OF ROOM FEATURES. Availa"
-    ]
-   },
-   "contactPerson": {
-    "name": "Pinnacle Properties Property  Manager",
-    "phone": "+61423571883",
-    "phoneAlt": "+61423571883"
-   },
-   "company": {
-    "name": "Pinnacle Properties ",
-    "phone": null,
-    "email": null,
-    "address": "4/191 Wardell St Enoggera, QLD 4051",
-    "profileUrl": "https://www.rent.com.au/agents/9064/pinnacle-properties-"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -924,71 +924,6 @@
     ],
     "shops": [
      "ticulously designed and styled ready for occupancy close to transport in Bald Hills. Council and Fire Regulations allow single",
-     "ll included in the rent Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy acce",
-     "the rent Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine",
-     "iently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway a"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/237840894/f08334b9014e409c5b58cbf1-10057515_21069342_5_1663908321-1663911137-original.jpg?1663911137",
-    "https://cdn.rent.com.au/photos/images/237840999/d830899460c9dc82b32447e8-10057515_21069342_6_1663908322-1663911173-original.jpg?1663911173",
-    "https://cdn.rent.com.au/photos/images/252655881/f5f2b22b4b483c30b6cefa0d-10057515_21069342_4_1727044902-1727048942-original.jpg?1727048942"
-   ],
-   "id": "rent-5031957",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/1-22-wing-st-bald-hills-qld-4036-5031957",
-   "area": "Northern suburbs",
-   "address": "1/22 Wing Street",
-   "suburb": "Bald Hills",
-   "postcode": "4036",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 400,
-   "bond": 1600,
-   "available": "now",
-   "listedAt": "2026-10-09T14:31:07.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 36,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 45,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Great public transport",
-    "I feel safe here",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.318248",
-   "lng": "153.011378",
-   "byline": "CONVENIENT STUDIO IN BALD HILLS",
-   "description": "Convenient ground floor studio unit, well designed and ready for occupancy in Bald Hills\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for  pets) \n\nLocated in the middle of the building with a side outdoor space, this studio is fully furnished with an open plan living and bedroom area, kitchenette, ensuite and ample storage space. Air conditioned, complete with security screens and ceiling fan.\n \nShared laundry with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe quick, book your inspection online now!!\n\n**INSPECTION NOTES: Our \"Book Inspection\" button will indicate all available inspection times as they become available. Inspections may be changed or cancelled if attendance is not confirmed via return SMS or email.**",
-   "flags": {
-    "ground": [
-     "Convenient ground floor studio unit, well designed and ready for occupancy in Bald"
-    ],
-    "shops": [
      "ll included in the rent Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy acce",
      "the rent Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine",
      "iently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway a"
@@ -1212,7 +1147,7 @@
    "cars": 1,
    "price": 420,
    "bond": 1680,
-   "available": "10th November 2026",
+   "available": "9th November 2026",
    "listedAt": "2026-07-15T12:57:13.000+08:00",
    "petsListed": null,
    "furnished": true,
@@ -1307,7 +1242,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1500,7 +1435,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1635,7 +1570,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1764,7 +1699,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {

@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -743,7 +743,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6488119": {
   "raw": {
@@ -1153,7 +1153,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1223,7 +1223,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6410099": {
   "raw": {
@@ -1288,7 +1288,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1482,7 +1482,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1499,7 +1499,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1590,7 +1590,7 @@
    "cars": 1,
    "price": 420,
    "bond": 1680,
-   "available": "10th November 2026",
+   "available": "9th November 2026",
    "listedAt": "2026-07-15T12:57:13.000+08:00",
    "petsListed": null,
    "furnished": true,
@@ -1638,7 +1638,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1694,7 +1694,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1711,7 +1711,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-23T09:14:39+10:00"
+  "lastSeenAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -2040,7 +2040,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -2055,7 +2055,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-5585863": {
@@ -2195,7 +2195,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2267,7 +2267,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2338,7 +2338,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-10-23T09:14:39+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-10-23T14:41:29+10:00"
  },
  "rent-6510953": {
   "firstSeenAt": "2026-10-09T23:10:16+10:00",
@@ -2404,7 +2405,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6490958": {
@@ -2471,7 +2472,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2537,7 +2538,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2673,7 +2674,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6513601": {
@@ -2734,7 +2735,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6514911": {
@@ -2801,7 +2802,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2866,7 +2867,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6170544": {
@@ -2935,7 +2936,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -2944,7 +2945,7 @@
    "photos": [
     "https://cdn.rent.com.au/photos/images/268324010/60ac410c067b8c202d81fbdf-b4e400ea-58f5-4010-84b5-5374a6ab9a2f-1792037966-original.jpeg?1792037966",
     "https://cdn.rent.com.au/photos/images/268324068/b9dd7b549166b332979d4e10-b4e400e7-0283-4fa9-8cae-9c79ed89c8f7-1792038255-original.jpg?1792038255",
-    "https://cdn.rent.com.au/photos/images/268324070/dd4e65cfa15886b8dbf9661f-b4e400ea-5bfa-4182-95c1-85ace0c8b512-1792038256-original.jpg?1792038256"
+    "https://cdn.rent.com.au/photos/images/268454238/d71fc3098448ddebc3bd1a3a-b4e400ea-5790-4366-a940-1f1f9176a405-1792717850-original.jpg?1792717850"
    ],
    "id": "rent-6515639",
    "source": "rent.com.au",
@@ -2957,8 +2958,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 380,
-   "bond": 920,
+   "price": 320,
+   "bond": 640,
    "available": "now",
    "listedAt": "2026-10-15T10:51:23.000+08:00",
    "petsListed": false,
@@ -3006,7 +3007,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3067,7 +3068,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-4308361": {
@@ -3138,7 +3139,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6040091": {
@@ -3207,7 +3208,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6519190": {
@@ -3273,7 +3274,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6350788": {
@@ -3341,7 +3342,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  },
  "rent-6036286": {
@@ -3398,7 +3399,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -3413,7 +3414,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-23T09:14:39+10:00",
+  "lastSeenAt": "2026-10-23T14:41:29+10:00",
   "gone": false
  }
 }
