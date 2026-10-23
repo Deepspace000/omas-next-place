@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-23T04:41+00:00",
+ "searchedAt": "2026-10-23T10:00+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 27,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -693,62 +693,6 @@
     "email": null,
     "address": "111 Eagle St Brisbane, QLD 4000",
     "profileUrl": "https://www.rent.com.au/agents/33/the-onsite-manager"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268287743/ff143819532454f2459b10a0-b4e20135-15f5-4b3a-bc06-d4e36c588223-1791872258-original.jpg?1791872258",
-    "https://cdn.rent.com.au/photos/images/268287801/62de3817e6e62be31fd77fe6-b4e20135-05cd-426e-96be-3c0a57e603b4-1791872317-original.png?1791872317",
-    "https://cdn.rent.com.au/photos/images/268287798/d08eef25506d0c5985e8bfdb-b4e20135-104c-488c-9964-63ce2cb6d484-1791872316-original.png?1791872316"
-   ],
-   "id": "rent-6513601",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/29a-spence-rd-wavell-heights-qld-4012-6513601",
-   "area": "Northern suburbs",
-   "address": "29A Spence Road",
-   "suburb": "Wavell Heights",
-   "postcode": "4012",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 350,
-   "bond": 1400,
-   "available": "30th October 2026",
-   "listedAt": "2026-10-13T14:16:31.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 66,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 42,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Near shops",
-    "I feel safe here",
-    "Friendly neighbourhood",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.394262",
-   "lng": "153.046613",
-   "byline": "Affordable semi-independent living",
-   "description": "Located in a private battleaxe block, this newly built property has one studio available, room 3. \n\nEach studio is leased separately. \n\nEach room features: \n- Spacious bedroom \n- Walk-in robe or built-in robe \n- Generous ensuite with shower and single bowl vanity -\n Kitchenette with fridge, microwave and cooking facilities \n- Air-conditioned and ceiling fans \n- Tiled throughout \n- Wall-mounted TV \n- Fully furnished option available \n\nInternet and electricity included in advertised price. All rooms have access to the communal lounge room, kitchen, dining & laundry, and private rooms with a kitchenette & ensuite.\n\nThis is a break lease and the rent will go to $375/week on 7 March 2027\n\n* Please note you MUST register for inspections to be informed about inspection time changes and cancellations.",
-   "flags": {},
-   "contactPerson": {
-    "name": "Angus Allen",
-    "phone": "+61732596560",
-    "phoneAlt": "+61732596560"
-   },
-   "company": {
-    "name": "Property Street Estate Agents - WAVELL HEIGHTS",
-    "phone": null,
-    "email": null,
-    "address": "Shop 3 277 Rode Road Wavell Heights, QLD 4012",
-    "profileUrl": "https://www.rent.com.au/agents/14556/property-street-estate-agents-wavell-heights"
    },
    "feedAgentName": null,
    "feedCompany": null,
