@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-10-28T05:31+00:00",
+ "searchedAt": "2026-10-28T12:44+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 23,
@@ -311,9 +311,9 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/259382305/6f402d3bbb4cde9a69afb730-b36804fe-6eba-4817-a494-3df244249ae0-1788391988-original.jpg?1788391988",
     "https://cdn.rent.com.au/photos/images/259382224/33cae125bec1e6bc4b27ac71-b36804fe-7558-40b5-972d-8196d3832ec8-1788391972-original.jpg?1788391972",
-    "https://cdn.rent.com.au/photos/images/259382298/11559cc9c3593d65844f8d5b-b36804fe-7423-4508-8cb8-b41dadaac3f6-1788391974-original.jpg?1788391974",
-    "https://cdn.rent.com.au/photos/images/259382299/aa6476d46704fc3b6dbbc3d3-b36804fe-7674-4b98-88cb-664f365f0b14-1788391975-original.jpg?1788391975"
+    "https://cdn.rent.com.au/photos/images/259382298/11559cc9c3593d65844f8d5b-b36804fe-7423-4508-8cb8-b41dadaac3f6-1788391974-original.jpg?1788391974"
    ],
    "id": "rent-6170544",
    "source": "rent.com.au",
