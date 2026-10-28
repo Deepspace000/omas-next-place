@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-27T23:43+00:00",
+ "searchedAt": "2026-10-28T05:31+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 25,
+ "count": 23,
  "problems": [],
  "listings": [
   {
@@ -63,9 +63,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/267911460/27f8a3322de5d70831c3391c-75b92763_2Df27f_2Def07_2Df6c9_2D4811514f3ba9-1789599788-original.jpg?1789599788",
-    "https://cdn.rent.com.au/photos/images/267911463/1347be7475b9f0c2b4ad6d14-7b46b82e_2D18f9_2D29cc_2D4dba_2D2a915f127369-1789599798-original.jpg?1789599798",
-    "https://cdn.rent.com.au/photos/images/267911462/9be8ff65e27602b346cc87e2-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1789599797-original.jpg?1789599797"
+    "https://cdn.rent.com.au/photos/images/267911460/e780effea315bb4544e14cf8-75b92763_2Df27f_2Def07_2Df6c9_2D4811514f3ba9-1793151627-original.jpg?1793151627",
+    "https://cdn.rent.com.au/photos/images/267911463/69b29f272f9a477ab4d02ea1-7b46b82e_2D18f9_2D29cc_2D4dba_2D2a915f127369-1793151634-original.jpg?1793151634",
+    "https://cdn.rent.com.au/photos/images/267911462/8a00742c7c827f48754cf362-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1793151636-original.jpg?1793151636"
    ],
    "id": "rent-6490961",
    "source": "rent.com.au",
@@ -125,9 +125,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268303965/3a7235775cd985b08d124210-141102ce_2De1fa_2Dda80_2Dad0a_2D2f788dea7aa9-1791950818-original.jpg?1791950818",
-    "https://cdn.rent.com.au/photos/images/268304003/2a222b4ef2fa07e37e601447-a65aae50_2D4aba_2Db574_2Dced1_2D707f2f1385ef-1791950831-original.jpg?1791950831",
-    "https://cdn.rent.com.au/photos/images/268303998/14af7c9269b4866be25ab95c-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1791950831-original.jpg?1791950831"
+    "https://cdn.rent.com.au/photos/images/268303965/ca0cbf3918483c77902c0e8d-141102ce_2De1fa_2Dda80_2Dad0a_2D2f788dea7aa9-1793151627-original.jpg?1793151627",
+    "https://cdn.rent.com.au/photos/images/268304003/e6c2c983109d1e91fe89f233-a65aae50_2D4aba_2Db574_2Dced1_2D707f2f1385ef-1793151632-original.jpg?1793151632",
+    "https://cdn.rent.com.au/photos/images/268303998/c26a6df1bf8f2b6bb391bd14-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1793151636-original.jpg?1793151636"
    ],
    "id": "rent-6490958",
    "source": "rent.com.au",
@@ -250,6 +250,67 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268549310/34895b591b80c1159f4cc2bc-178529031251494662-1793149094-original.jpg?1793149094",
+    "https://cdn.rent.com.au/photos/images/268549523/224f0b5aa67d93fd2f3dad27-178529029758811792-1793149371-original.jpg?1793149371",
+    "https://cdn.rent.com.au/photos/images/268549522/ab5856605bf7f6961f3e33cc-178529029831118449-1793149371-original.jpg?1793149371"
+   ],
+   "id": "rent-6511808",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-15-norman-st-deagon-qld-4017-6511808",
+   "area": "Sandgate / Brighton",
+   "address": "2/15 Norman Street",
+   "suburb": "Deagon",
+   "postcode": "4017",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 400,
+   "bond": 1600,
+   "available": "now",
+   "listedAt": "2026-10-12T11:00:38.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 63,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Friendly neighbourhood",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.332046",
+   "lng": "153.060604",
+   "byline": "Beautifully Renovated Studio: All Utilities Included in Prime Deagon Location!",
+   "description": "Looking for a low-maintenance home in a highly convenient location? This beautifully renovated studio apartment offers the perfect blend of privacy, comfort, and outstanding value. Thoughtfully designed to maximize both space and functionality, this unfurnished studio acts as a blank canvas, ready for you to personalize and make your own. With electricity, water, Wi-Fi, and garden maintenance all included in the weekly rent, this is an exceptional choice for a single professional, FIFO worker, or student looking for a stress-free lifestyle.\n\nImportant Information: Please note that Brisbane City Council regulations and fire safety requirements permit a maximum of one occupant per studio. As such, the property is not suitable for couples, families, or children. Pets are not permitted.\n\nProperty Features\n\n- All-Inclusive Living: Enjoy ultimate peace of mind with electricity, water, Wi-Fi, and garden maintenance all included in the rent!\n\n- Newly Renovated: Beautifully updated throughout with brand-new carpet and reverse-cycle air-conditioning for year-round comfort.\n\n- Modern Kitchenette & Storage: Features a modern kitchenette with generous storage and a pantry, plus a built-in mirrored wardrobe in the main living space.\n\n- Stylish Bathroom: A contemporary, well-appointed bathroom featuring quality fittings and a modern vanity.\n\n- Private Outdoor Space: Relax and unwind on your own private covered patio, complete with a small garden area.\n\n- Premium Shared Amenities: Residents enjoy access to a spacious shared backyard with a covered entertaining area, a fully equipped communal kitchen with a dishwasher, and a shared laundry featuring two front-loading washing machines.\n\nLocation Features\n\n- Exceptional Transit: Commuting is a breeze, located just 650m (approx.) from Deagon Train Station.\n\n- Everyday Convenience: Only 850m to the local grocery store for all your daily essentials.\n\n- Cafes & Dining: A quick 600m stroll to local cafes and fast-food outlets.\n\n- Easy Commutes: Superb, straightforward access to the Gateway Motorway, plus close proximity to local parks and public transport routes.\n\nIf you are looking for an affordable, move-in-ready home in a fantastic and well-connected location, this renovated studio is one you won't want to miss!",
+   "flags": {
+    "shops": [
+     "muting is a breeze, located just 650m (approx.) from Deagon Train Station. - Everyday Convenience: Only 850m to the local gr",
+     "ay Motorway, plus close proximity to local parks and public transport routes. If you are looking for an affordable, move-in-read"
+    ]
+   },
+   "contactPerson": {
+    "name": "Jay Wu",
+    "phone": "+61402686929",
+    "phoneAlt": "+61730612937"
+   },
+   "company": {
+    "name": "Jay Wu Estate Agents",
+    "phone": null,
+    "email": null,
+    "address": "Suite 40, Mezzanine Level, Aspley Hypermarket, 59 Albany Creek Road Aspley, QLD 4034",
+    "profileUrl": "https://www.rent.com.au/agents/14759/jay-wu-estate-agents"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/259382224/33cae125bec1e6bc4b27ac71-b36804fe-7558-40b5-972d-8196d3832ec8-1788391972-original.jpg?1788391972",
     "https://cdn.rent.com.au/photos/images/259382298/11559cc9c3593d65844f8d5b-b36804fe-7423-4508-8cb8-b41dadaac3f6-1788391974-original.jpg?1788391974",
     "https://cdn.rent.com.au/photos/images/259382299/aa6476d46704fc3b6dbbc3d3-b36804fe-7674-4b98-88cb-664f365f0b14-1788391975-original.jpg?1788391975"
@@ -306,67 +367,6 @@
     "email": null,
     "address": "27 Stanley Road Camp Hill, QLD 4152",
     "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268258142/2f80b4c80de4fdf812e95ec7-178529031251494662-rsd-1791774056-original.jpg?1791774056",
-    "https://cdn.rent.com.au/photos/images/268258171/7f9fa4119e90e2296d6915db-178529029758811792-rsd-1791774063-original.jpg?1791774063",
-    "https://cdn.rent.com.au/photos/images/268258170/73c93a39eba98132bda8ca57-178529029831118449-rsd-1791774063-original.jpg?1791774063"
-   ],
-   "id": "rent-6511808",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/2-15-norman-st-deagon-qld-4017-6511808",
-   "area": "Sandgate / Brighton",
-   "address": "2/15 Norman Street",
-   "suburb": "Deagon",
-   "postcode": "4017",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-10-12T11:00:38.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 63,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 45,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Friendly neighbourhood",
-    "I feel safe here"
-   ],
-   "inspections": [],
-   "lat": "-27.332046",
-   "lng": "153.060604",
-   "byline": "Beautifully Renovated Studio: All Utilities Included in Prime Deagon Location!",
-   "description": "Looking for a low-maintenance home in a highly convenient location? This beautifully renovated studio apartment offers the perfect blend of privacy, comfort, and outstanding value. Thoughtfully designed to maximize both space and functionality, this unfurnished studio acts as a blank canvas, ready for you to personalize and make your own. With electricity, water, Wi-Fi, and garden maintenance all included in the weekly rent, this is an exceptional choice for a single professional, FIFO worker, or student looking for a stress-free lifestyle.\n\nImportant Information: Please note that Brisbane City Council regulations and fire safety requirements permit a maximum of one occupant per studio. As such, the property is not suitable for couples, families, or children. Pets are not permitted.\n\nProperty Features\n\n- All-Inclusive Living: Enjoy ultimate peace of mind with electricity, water, Wi-Fi, and garden maintenance all included in the rent!\n\n- Newly Renovated: Beautifully updated throughout with brand-new carpet and reverse-cycle air-conditioning for year-round comfort.\n\n- Modern Kitchenette & Storage: Features a modern kitchenette with generous storage and a pantry, plus a built-in mirrored wardrobe in the main living space.\n\n- Stylish Bathroom: A contemporary, well-appointed bathroom featuring quality fittings and a modern vanity.\n\n- Private Outdoor Space: Relax and unwind on your own private covered patio, complete with a small garden area.\n\n- Premium Shared Amenities: Residents enjoy access to a spacious shared backyard with a covered entertaining area, a fully equipped communal kitchen with a dishwasher, and a shared laundry featuring two front-loading washing machines.\n\nLocation Features\n\n- Exceptional Transit: Commuting is a breeze, located just 650m (approx.) from Deagon Train Station.\n\n- Everyday Convenience: Only 850m to the local grocery store for all your daily essentials.\n\n- Cafes & Dining: A quick 600m stroll to local cafes and fast-food outlets.\n\n- Easy Commutes: Superb, straightforward access to the Gateway Motorway, plus close proximity to local parks and public transport routes.\n\nIf you are looking for an affordable, move-in-ready home in a fantastic and well-connected location, this renovated studio is one you won't want to miss!",
-   "flags": {
-    "shops": [
-     "muting is a breeze, located just 650m (approx.) from Deagon Train Station. - Everyday Convenience: Only 850m to the local gr",
-     "ay Motorway, plus close proximity to local parks and public transport routes. If you are looking for an affordable, move-in-read"
-    ]
-   },
-   "contactPerson": {
-    "name": "Jay Wu",
-    "phone": "+61402686929",
-    "phoneAlt": "+61730612937"
-   },
-   "company": {
-    "name": "Jay Wu Estate Agents",
-    "phone": null,
-    "email": null,
-    "address": "Suite 40, Mezzanine Level, Aspley Hypermarket, 59 Albany Creek Road Aspley, QLD 4034",
-    "profileUrl": "https://www.rent.com.au/agents/14759/jay-wu-estate-agents"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -485,71 +485,6 @@
     "shops": [
      "ose: - Nundah Village is a short 10 mins walk away while - Train station is only 700m away, offering services to and from th",
      "offering services to and from the city every 15 minutes. - Bus stops just 500m away -No Pets -Parking is first in best dre"
-    ]
-   },
-   "contactPerson": {
-    "name": "Rent My Property",
-    "phone": "+6131933450",
-    "phoneAlt": "+6131933450"
-   },
-   "company": {
-    "name": "Rent my Property Redcliffe",
-    "phone": null,
-    "email": null,
-    "address": "545 Oxley Avenue Redcliffe, QLD 4020",
-    "profileUrl": "https://www.rent.com.au/agents/7780/rent-my-property-redcliffe"
-   },
-   "feedAgentName": "Rent My Property",
-   "feedCompany": "Rent my Property Redcliffe",
-   "feedEmail": "rentals@rentmyproperty.com.au",
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/252680122/ac7fffe7da6d29f40ee281b7-110681663__1726707543-46916-DSC7992-2NOV-1727135604-original.jpg?1727135604",
-    "https://cdn.rent.com.au/photos/images/252680224/0c3c7a8ca3be0ec7a14f7498-110679666__1726707115-35814-DSC3587NOV-1727136848-original.jpg?1727136848",
-    "https://cdn.rent.com.au/photos/images/252680223/312d0dfdf12ddce57613541c-110679670__1726707118-45686-DSC3594NOV-1727136848-original.jpg?1727136848"
-   ],
-   "id": "rent-3742596",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/7-17-thomas-st-nundah-qld-4012-3742596",
-   "area": "Northern suburbs",
-   "address": "7/17 Thomas Street",
-   "suburb": "Nundah",
-   "postcode": "4012",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 320,
-   "bond": 1280,
-   "available": "now",
-   "listedAt": "2026-07-27T12:58:41.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 62,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 85,
-   "transitCategory": "excellent_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Cafes and restaurants",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.396809",
-   "lng": "153.062939",
-   "byline": "RENOVATED STUDIO - IN THE HEART OF NUNDAH",
-   "description": "Cosy studios located in a unique property nestled on a quiet street in Nundah close to shops, public transport and only 9km from the CBD. This remarkable block of units houses a combination of studios and one bedroom units being offered the first time for long term rental. All studios are unfurnished with a private balcony or courtyard. The property is perfect for students studying at Australian Catholic University or Aviation Australia and young professionals working in the nearby area or the CBD. Most of the units have great external living areas with excellent view of the park adjacent to the property.\n\nNundah Village  is a short 10 mins walk away while the train station is only 700m away offering services to a from the city every 15 minutes.  The bus stop is also just 500m from the property with a city express every half hour with services operating from 6am to m t everyone else who has seen it has loved it. We are encouraging everyone to come out and have a look.\n\nExcellent layout with the following features:\n\nSpacious studios with a kitchen & bathroom\n\nElectricity is a your expense\n\nLaundry facility on site by use of gold coins.\n\nEducation Facilities Close by:\nAustralia Catholic University (Nudgee Road, Banyo) - 5km\nAviation Australia (Boronia Road, Brisbane Airport) - 4.6km\nQUT (Victoria Park Rd, Kelvin Grove) - 10km\nUQ Medical School Herston - 9km, JCU (349 Queen Street) - 8 km\nQUT Gardens Point (2 George Street) 13km\nSouth Bank Institute of Technology (Ernest St, South Bank) - 10.1km,\nGriffith South Bank Campus - 10.2km\n\nShopping Close by:\nNundah Village - 800m or a 10 mins walk\n\nPublic Transport: Zones Traveled In: 1-2.  Approximately 20-30  minutes to CBD\nClosest Bus Stop approximately 600 metres with a bus service to and from the CBD every 30 minutes running from 6am - 8.30pm; Bus Route 300, 310 (City express)\n\nOtherwise catch the train at Nundah Train Station from the property with train services running every 15 minutes to a from the CBD from 4:30 am to midnight daily.\n\nClick the \"Book Inspection\" button now to book your viewing - you MUST register and confirm in order to finalise a viewing time\n\nWhilst all care is taken in the preparation of the information contained in this advertisement, Rent My Property Pty Ltd will not be held liable for any errors/omissions in typing or information.  All information is deemed to be correct at the time of printing.",
-   "flags": {
-    "shops": [
-     "nique property nestled on a quiet street in Nundah close to shops, public transport and only 9km from the CBD. This remarkabl",
-     "nestled on a quiet street in Nundah close to shops, public transport and only 9km from the CBD. This remarkable block of units h",
-     "ty. Nundah Village is a short 10 mins walk away while the train station is only 700m away offering services to a from the c",
-     "offering services to a from the city every 15 minutes. The bus stop is also just 500m from the property with a city expres",
-     "ort) - 4.6km QUT (Victoria Park Rd, Kelvin Grove) - 10km UQ Medical School Herston - 9km, JCU (349 Queen Street) - 8 km QUT Gar",
-     "South Bank) - 10.1km, Griffith South Bank Campus - 10.2km Shopping Close by: Nundah Village - 800m or a 10 mins walk Publ"
     ]
    },
    "contactPerson": {
@@ -1456,67 +1391,6 @@
     "email": null,
     "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
     "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268506818/3a366ed689c0cd3464af793d-225366834__1792989810-218162-GeminiGeneratedImagejeqi5gjeqi5gjeqi-1792990280-original.jpeg?1792990280",
-    "https://cdn.rent.com.au/photos/images/268381725/c7ca74ef0bc06021d24bf379-128494228__1734053872-136360-Complex-1792456828-original.jpg?1792456828",
-    "https://cdn.rent.com.au/photos/images/268381726/da6fbc0d8fd64fa8b539342f-128493737__1734053766-147423-IMG7864-1792456835-original.jpg?1792456835"
-   ],
-   "id": "rent-6519190",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/4-28-ashbolt-st-wooloowin-qld-4030-6519190",
-   "area": "Northern suburbs",
-   "address": "4/28 Ashbolt Street",
-   "suburb": "Wooloowin",
-   "postcode": "4030",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "2nd November 2026",
-   "listedAt": "2026-10-20T08:40:24.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 59,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 69,
-   "transitCategory": "good_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Close to CBD",
-    "Near shops",
-    "I feel safe here"
-   ],
-   "inspections": [],
-   "lat": "-27.417601",
-   "lng": "153.042158",
-   "byline": "Cozy Wooloowin Retreat",
-   "description": "Nestled in a peaceful complex in the highly sought-after suburb of Wooloowin, this inviting one-bedroom, one-bathroom unit offers comfortable living in a prime location. The spacious kitchen, complete with electric cooking, provides a perfect space for home cooking. \n\nConveniently situated just 900 meters from Wooloowin Train Station, with a quick 11-minute ride to Brisbane City, this unit is ideal for commuters. A range of additional public transport options are also easily accessible along Lutwyche Road, ensuring effortless travel around the area.\n\nProperty Features:\n- One spacious bedroom\n- Generously sized kitchen with electric cooking\n- Bathroom with bathtub and overhead shower\n- Quiet complex in great location\n\nDon't miss the opportunity to secure this fantastic unit in a peaceful yet accessible location.\n\n*The styling of these photos have been digitally enhanced by AI*\n\n++ TO REGISTER YOUR INTEREST & RECEIVE AN APPLICATION LINK, YOU MUST ENTER YOUR CONTACT DETAILS INTO THE LISTING ++ Adding this to your plan, doesn't register you for an inspection.",
-   "flags": {
-    "shops": [
-     "ing. Conveniently situated just 900 meters from Wooloowin Train Station, with a quick 11-minute ride to Brisbane City, this",
-     "s unit is ideal for commuters. A range of additional public transport options are also easily accessible along Lutwyche Road, ens"
-    ]
-   },
-   "contactPerson": {
-    "name": "Virginia Perez",
-    "phone": "+61459990035",
-    "phoneAlt": "+61459990035"
-   },
-   "company": {
-    "name": "Ray White Ascot ",
-    "phone": null,
-    "email": null,
-    "address": "1/138 Racecourse Road Ascot, QLD 4007",
-    "profileUrl": "https://www.rent.com.au/agents/11078/ray-white-ascot-"
    },
    "feedAgentName": null,
    "feedCompany": null,
