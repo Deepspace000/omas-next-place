@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1152,9 +1152,10 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "gone": false,
+  "gone": true,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "goneAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-3742596": {
   "raw": {
@@ -1290,7 +1291,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1484,7 +1485,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1501,7 +1502,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1640,7 +1641,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1696,7 +1697,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1713,7 +1714,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-29T10:00:27+10:00"
+  "lastSeenAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -2042,7 +2043,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -2057,7 +2058,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-5585863": {
@@ -2197,7 +2198,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2269,7 +2270,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2475,7 +2476,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2541,7 +2542,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2677,7 +2678,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6513601": {
@@ -2806,7 +2807,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2856,7 +2857,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "+61493446309",
+    "phone": "0493 446 309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -2871,7 +2872,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6170544": {
@@ -2912,8 +2913,8 @@
    "inspections": [],
    "lat": "-27.30334",
    "lng": "153.055686",
-   "byline": "Fully Furnished Spacious Unit- All Inclusive",
-   "description": "**IMPORTANT INFORMATION** \n\n\n- Brisbane City Council Laws and Fire Safety Regulations limit One (1) occupant per unit. No couples or dependents\n\n- Once you have viewed the Virtual 3D tour, this officially counts as having inspected the property and you can submit an online application.\n\n- TO REGISTER FOR AN INSPECTION, CLICK ON THE \"BOOK AN INSPECTION\" BUTTON\nBELOW. You must register to inspect this property. By registering your details, you will be\ninstantly informed of any updates, changes, or cancellations for your scheduled\ninspection. If no one registers for an inspection time, then that inspection may be\ncancelled at short notice.\n\nWelcome to your very own spacious studio oasis, situated in a quiet street just minutes from the beautiful Brighton Beach Foreshore!\nThis near- new studio unit  boast impeccable finishes, functional layouts and present unmissable value for the single working professional.\n\nMain features include:\n\n- Spacious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenance finishes and excellent separation between living and bedroom spaces\n\n- Fully Equipped Kitchenette: Enjoy the freedom to create culinary delights with your own kitchenette complete with luxury appliances including dual induction cooktop, air fryer, coffee machine, kettle, toaster, microwave, fridge, and all cooking equipment and utensils provided.\n\n- Fully Furnished: Relax and unwind with top-tier furniture items including a queen-size bed, comfy 2-seater sofa, stylish dining suite and a 50 smart TV for your entertainment.\n\n- All-Inclusive Living: Experience the ease of living and extra savings with all utilities includedwater, electricity and unlimited superfast Wi-Fi are all included in the rental price!\n\n- Secure Living: Experience the convenience of key-less, digital entry locks, providing maximum security for your peace of mind.\n\n- Private Bathroom: Freshen up in your own well appointed bathroom with large shower\n\n- Private Outdoor Area: Relax and enjoy fresh air in your private courtyard area with a large tranquil garden and a screen door for added convenience\n\n- Modern Amenities: Enjoy the benefits of a ceiling fan and reverse cycle air conditioning for year-round comfort.\n\n- Communal Convenience: Access a shared communal area with a fully equipped kitchen, laundry with 2 washing machines, and a secure clothesline area.\n\n- Plenty of street parking available\n\n\n**Location Benefits**\n- 200m to nearest Bus Stop\n- 1.8km (4 mins) to Brighton Beach Foreshore\n- 1.5 km (3mins) to Brighton Hotel\n- 4km (7 mins) to Sandgate Station\n- 6km (10 mins) to 2 Local Shopping Plazas\n- 9km (11 mins) to Brisbane Entertainment Centre\n- 20km (18 mins) to Brisbane International Airport\n- 28km (30 mins) to Brisbane CBD\n- Super convenient access to the MI North and South",
+   "byline": "Fully Furnished Spacious Unit- All Inclusive- 1 Week RENT FREE!",
+   "description": "Welcome to your very own spacious studio oasis, situated in a quiet street just minutes from the beautiful Brighton Beach Foreshore!\nThis near- new studio unit  boast impeccable finishes, functional layouts and present unmissable value for the single working professional.\n\n\nA SPECIAL WELCOME OFFER -  ENJOY 1 WEEK RENT FREE!\n\nWe're offering an exclusive move-in bonus!\n\n6-month & 12 month lease: Enjoy 1 week RENT FREE!\n\nIt's our way of welcoming you home and making your move even more rewarding.\n**IMPORTANT INFORMATION** \n\n\n- Brisbane City Council Laws and Fire Safety Regulations limit One (1) occupant per unit. No couples or dependents\n\n- Once you have viewed the Virtual 3D tour, this officially counts as having inspected the property and you can submit an online application.\n\n- TO REGISTER FOR AN INSPECTION, CLICK ON THE \"BOOK AN INSPECTION\" BUTTON\nBELOW. You must register to inspect this property. By registering your details, you will be\ninstantly informed of any updates, changes, or cancellations for your scheduled\ninspection. If no one registers for an inspection time, then that inspection may be\ncancelled at short notice.\n\n\n\nMain features include:\n\n- Spacious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenance finishes and excellent separation between living and bedroom spaces\n\n- Fully Equipped Kitchenette: Enjoy the freedom to create culinary delights with your own kitchenette complete with luxury appliances including dual induction cooktop, air fryer, coffee machine, kettle, toaster, microwave, fridge, and all cooking equipment and utensils provided.\n\n- Fully Furnished: Relax and unwind with top-tier furniture items including a queen-size bed, comfy 2-seater sofa, stylish dining suite and a 50 smart TV for your entertainment.\n\n- All-Inclusive Living: Experience the ease of living and extra savings with all utilities includedwater, electricity and unlimited superfast Wi-Fi are all included in the rental price!\n\n- Secure Living: Experience the convenience of key-less, digital entry locks, providing maximum security for your peace of mind.\n\n- Private Bathroom: Freshen up in your own well appointed bathroom with large shower\n\n- Private Outdoor Area: Relax and enjoy fresh air in your private courtyard area with a large tranquil garden and a screen door for added convenience\n\n- Modern Amenities: Enjoy the benefits of a ceiling fan and reverse cycle air conditioning for year-round comfort.\n\n- Communal Convenience: Access a shared communal area with a fully equipped kitchen, laundry with 2 washing machines, and a secure clothesline area.\n\n- Plenty of street parking available\n\n\n**Location Benefits**\n- 200m to nearest Bus Stop\n- 1.8km (4 mins) to Brighton Beach Foreshore\n- 1.5 km (3mins) to Brighton Hotel\n- 4km (7 mins) to Sandgate Station\n- 6km (10 mins) to 2 Local Shopping Plazas\n- 9km (11 mins) to Brisbane Entertainment Centre\n- 20km (18 mins) to Brisbane International Airport\n- 28km (30 mins) to Brisbane CBD\n- Super convenient access to the MI North and South",
    "flags": {
     "ground": [
      "acious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenanc"
@@ -2925,7 +2926,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "+61493446309",
+    "phone": "0493 446 309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -2940,7 +2941,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3011,7 +3012,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3072,7 +3073,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-4308361": {
@@ -3213,7 +3214,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6519190": {
@@ -3349,7 +3350,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-10-29T10:00:27+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-10-29T15:40:28+10:00"
  },
  "rent-6036286": {
   "firstSeenAt": "2026-10-20T20:00:42+10:00",
@@ -3405,7 +3407,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -3420,7 +3422,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3490,7 +3492,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  },
  "rent-6511173": {
@@ -3562,7 +3564,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-10-29T10:00:27+10:00",
+  "lastSeenAt": "2026-10-29T15:40:28+10:00",
   "gone": false
  }
 }
