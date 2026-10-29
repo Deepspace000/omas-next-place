@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-29T12:54+00:00",
+ "searchedAt": "2026-10-29T23:56+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 22,
+ "count": 20,
  "problems": [],
  "listings": [
   {
@@ -46,7 +46,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "0488 839 724",
+    "phone": "+61488839724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -187,69 +187,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/263537884/d80a321764709b552a7faa20-1500-1791785474-original.jpeg?1791785474",
-    "https://cdn.rent.com.au/photos/images/263537887/3be92bb1cd7b75a576fcaf09-1500-1791785477-original.jpeg?1791785477",
-    "https://cdn.rent.com.au/photos/images/263537885/bf847886460e1d456cf62707-1500-1791785480-original.jpeg?1791785480"
-   ],
-   "id": "rent-3257770",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/4-47-fifth-ave-sandgate-qld-4017-3257770",
-   "area": "Sandgate / Brighton",
-   "address": "4/47 Fifth Avenue",
-   "suburb": "Sandgate",
-   "postcode": "4017",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 400,
-   "bond": 1600,
-   "available": "now",
-   "listedAt": "2026-10-12T14:11:10.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 80,
-   "walkCategory": "very_walkable",
-   "transitScore": 46,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Parks and recreation",
-    "Friendly neighbourhood",
-    "Near shops",
-    "Great public transport"
-   ],
-   "inspections": [],
-   "lat": "-27.316874",
-   "lng": "153.070521",
-   "byline": "4/47 FIFTH AVENUE - Avail. 26.10.2026",
-   "description": "* Updated lowset studio flat\n* Handy to all Amenities\n* Off Street Parking\n\nINSPECTION TIMES: In order to be advised of any upcoming inspections, please submit an email enquiry so that your contact details are added to the property contact list. As inspection times become available, you will be notified via email and we ask that you please also keep an eye out for any open homes listed online. You must register for all inspections so that we can monitor numbers and advise you of any changes or cancellations should they occur. Should there be no confirmed attendees 1 hour prior to the inspection time, please note this inspection may be cancelled without notice.\n\nAPPLICATIONS (Copy and paste link into web browser): http://www.professionalssandgate.com.au/wp-content/uploads/sites/94/2025/07/General-Tenancy-Application-Form.pdf\n\nDisclaimer: Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisement is true and correct but accept no responsibility and disclaim all liability in respect to any errors, omissions, inaccuracies or misstatements contained. Prospective tenants should make their own enquiries to verify the information contained in this advertisement.",
-   "flags": {
-    "ground": [
-     "* Updated lowset studio flat * Handy to all Amenities * Off Street Parking"
-    ],
-    "stairs": [
-     "Disclaimer: Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisem"
-    ]
-   },
-   "contactPerson": {
-    "name": "Rental Department",
-    "phone": "(07) 3869 9999",
-    "phoneAlt": "+61738699999"
-   },
-   "company": {
-    "name": "Professionals Sandgate",
-    "phone": null,
-    "email": null,
-    "address": "73 Brighton Road Sandgate, QLD 4017",
-    "profileUrl": "https://www.rent.com.au/agents/10787/professionals-sandgate"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/268549310/34895b591b80c1159f4cc2bc-178529031251494662-1793149094-original.jpg?1793149094",
     "https://cdn.rent.com.au/photos/images/268549523/224f0b5aa67d93fd2f3dad27-178529029758811792-1793149371-original.jpg?1793149371",
     "https://cdn.rent.com.au/photos/images/268549522/ab5856605bf7f6961f3e33cc-178529029831118449-1793149371-original.jpg?1793149371"
@@ -358,7 +295,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "0493 446 309",
+    "phone": "+61493446309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -759,62 +696,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268315923/2da3969b0b3709e7f964ed75-uefk74ueryi7be65g66r_8106-cd02-4d6c-ab97-d979-7cb2-6190-7b2d_20261013123524-1792023188-original.jpg?1792023188",
-    "https://cdn.rent.com.au/photos/images/268315928/3e1942896288f35509948a86-uefk744eryi7be65g66r_080d-0b42-c9f7-82b0-e287-beff-0509-4ef0_20261013123532-1792023190-original.jpg?1792023190",
-    "https://cdn.rent.com.au/photos/images/268315924/75feb2a5fc045d31836f5f60-uefk75meryi7be65g66r_eed3-038b-89f7-f826-650e-e7a7-fabd-26dd_20261013123501-1792023189-original.jpg?1792023189"
-   ],
-   "id": "rent-6515327",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/2-5-woodlands-ave-petrie-qld-4502-6515327",
-   "area": "Northern suburbs",
-   "address": "2/5 Woodlands Avenue",
-   "suburb": "Petrie",
-   "postcode": "4502",
-   "type": "Duplex Semi",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 410,
-   "bond": 1640,
-   "available": "2nd November 2026",
-   "listedAt": "2026-10-15T08:13:06.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 41,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 22,
-   "transitCategory": "minimal_transit",
-   "topFeatures": [
-    "Close to schools",
-    "Great public transport",
-    "Friendly neighbourhood",
-    "Near shops"
-   ],
-   "inspections": [],
-   "lat": "-27.257887",
-   "lng": "152.968387",
-   "byline": "Discover Comfort and Style in Petrie",
-   "description": "Enjoy comfortable, low-maintenance living in this spacious one-bedroom duplex, featuring a modern interior with quality fixtures and fittings throughout. Ideally located in Petrie, this property is perfect for those seeking a stylish and convenient lifestyle.\n\nProperty Features:\n\nAir-conditioned, open-plan living and dining area\nModern kitchen with dishwasher and ample cupboard space\nGenerously sized bedroom with ceiling fan and built-in wardrobe\nSpacious, contemporary bathroom\nSecurity screens for added peace of mind\n\nThis well-presented duplex offers a comfortable and relaxed lifestyle in a convenient location, making it an ideal place to call home.\n\n\n\nHow to Apply\n\nSubmit your application through 2Apply using the link below:\n\nhttps://app.2apply.com.au/Agency/LJHRedCliffe\n\nPlease note that applications will not be processed until you or someone acting on your behalf has inspected the property.\n\n\n\nBooking an Inspection\n\nPlease click the Book Now link to view available inspection times, or contact our office on 07 3897 5000 to arrange an inspection.\n\n\nImportant Information\n\nWhilst every care has been taken in preparing this advertisement, LJ Hooker Redcliffe accepts no responsibility for any errors or omissions. All information is considered correct at the time of advertising.\n\nBefore applying, please ensure you have discussed any specific service requirements with your preferred providers, including NBN availability and connection options.",
-   "flags": {},
-   "contactPerson": {
-    "name": "LJ Hooker Redcliffe",
-    "phone": "+61738975000",
-    "phoneAlt": "+61738975000"
-   },
-   "company": {
-    "name": "LJ Hooker Redcliffe",
-    "phone": null,
-    "email": null,
-    "address": "45 Redcliffe Parade Redcliffe, QLD 4020",
-    "profileUrl": "https://www.rent.com.au/agents/2416/lj-hooker-redcliffe"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/259548778/17ff74a44a908bc125865807-agent923_rental_extra_4640353-1760056532-original.jpg?1760056532",
     "https://cdn.rent.com.au/photos/images/259549307/c8ea2bdf43602afe24b6cf8d-agent923_rental_extra_4640340-1760056650-original.jpg?1760056650",
     "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
@@ -931,7 +812,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -995,7 +876,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1004,66 +885,6 @@
     "email": null,
     "address": "P.O. Box 677 Annerley, QLD 4103",
     "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/267598726/d544c3e86a158fdc31dc8d69-b4b201a7-b7ae-4992-bae3-a39f2138ed80-1787730583-original.jpg?1787730583",
-    "https://cdn.rent.com.au/photos/images/267598733/19fd47a62b5597b437910e4a-b4b201a7-810e-4819-81fa-e5f6b67c7695-1787730618-original.jpg?1787730618",
-    "https://cdn.rent.com.au/photos/images/267598732/97acb2f9d0b3e6b96f016cf9-b4b201a7-b4bd-411d-b230-cbf5c856f79c-1787730618-original.jpg?1787730618"
-   ],
-   "id": "rent-6471985",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/29-high-st-geebung-qld-4034-6471985",
-   "area": "Northern suburbs",
-   "address": "29 High Street",
-   "suburb": "Geebung",
-   "postcode": "4034",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 420,
-   "bond": 1680,
-   "available": "now",
-   "listedAt": "2026-08-26T15:49:23.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 70,
-   "walkCategory": "very_walkable",
-   "transitScore": 47,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Friendly neighbourhood",
-    "Near shops",
-    "I feel safe here"
-   ],
-   "inspections": [],
-   "lat": "-27.372244",
-   "lng": "153.048803",
-   "byline": "Brand New Boutique One-Bedroom Apartments with Utilities Included!",
-   "description": "Step into modern, easy living with this newly completed complex of sleek micro-apartments, purpose-built for privacy, convenience, and style!\n\nThis brand-new boutique complex features a limited selection of meticulously designed, unfurnished one-bedroom micro-apartments, each tailored for comfort, style, and independence. Thoughtfully created with the discerning single professional in mind, these residences offer a fresh, designer living experience.\n\n- PLEASE NOTE: Due to Brisbane City Council laws and fire safety regulations, only ONE occupant is allowed per unit. These units are not suitable for couples, families, or pets, and no overnight guests are permitted.\n\n- All units are UNFURNISHED but do come with a wall mounted Smart TV for your entertainment.\nPhotos and 3D Virtual Tour depict similar style units with identical layouts - furniture is for marketing purposes only!\n\n\nWith 5 fresh, never-before-lived-in units available, you have the chance to be among the first to experience this exclusive, hassle-free living option, where all utilities are included for total convenience!\n\nAvailable For You:\n\n\n- Apartment 1- LEASED\n- Apartment 2- $420 per week\n- Apartment 3- $450 per week (Larger courtyard with garden)\n- Apartment 4- LEASED\n- Apartment 5- LEASED\n\n\nKey Features:\n Spacious Layouts: Enjoy the perfect balance between functionality and comfort, with ample space and clever separation between living and sleeping areas in these high-quality, low-maintenance homes.\n\n Built-In Storage - Large floor-to-ceiling wardrobes help keep your space clean and organised.\n\n Private Meal Prep Zone: A thoughtfully designed area equipped with modern finishes and high end touches\n\n Secure & Private: Rest easy with keyless digital entry & CCTV on exterior areas - offering security, peace of mind and convenience\n\n Private Ensuite Bathroom - Contemporary and completely your own.\n\n Outdoor Escape: Step outside to your own exclusive patio space (some units with larger mulched gardens), complete with a screen door for an effortless indoor-outdoor flow.\n\n Year-Round Comfort: Stay cool in summer and warm in winter with reverse-cycle air conditioning and ceiling fans at your fingertips.\n\n All-Inclusive Living: No need to worry about extra billswater, electricity, and unlimited Wi-Fi are all covered in the rent.\n\n Shared Amenity Area: Onsite shared laundry facilities with washing machines. Each unit has their own outdoor drying areas, with extra outdoor drying spaces in the common spaces. A Communal oven and full-sized kitchen is available for larger cooking needs.\n\n Uncovered onsite parking is available for an additional $15 per week (2 spaces only, subject to availability).\n\n\n\n\n\n\nLocation Highlights:\n Minutes to the nearest bus stop\n 400m to Geebung Station- a quick 6 minute stroll\n 2.5km to Westfield Chermside\n 7km to Brisbane Entertainment Centre\n 12km to Brisbane International Airport\n 15km to Brisbane CBD\n\n\n\n- After viewing the 3D Virtual Tour, you are invited to take the next step and submit your application online. While our virtual tour provides a comprehensive view of the property, a physical viewing is still required before we can process your application or offer formal approval for these units. This ensures you feel completely confident in choosing your new home!\n\n- To book a physical viewing, simply click on the \"BOOK AN INSPECTION\" button. You must register to secure your spot. By registering your details, you will be instantly informed of any updates, changes, or cancellations for your scheduled inspection. Unregistered inspections may be cancelled without notice.\n\n\n\nThese beautiful apartments and convenient location are ideal for professionals seeking convenience and lifestyle. Don't miss out on this unique opportunityapply today and enjoy stress-free living.",
-   "flags": {
-    "shops": [
-     "bility). Location Highlights: Minutes to the nearest bus stop 400m to Geebung Station- a quick 6 minute stroll 2.5"
-    ]
-   },
-   "contactPerson": {
-    "name": "Leasing Team",
-    "phone": "0493 446 309",
-    "phoneAlt": "+61493446309"
-   },
-   "company": {
-    "name": "Upside Ave",
-    "phone": null,
-    "email": null,
-    "address": "27 Stanley Road Camp Hill, QLD 4152",
-    "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1204,6 +1025,73 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268073984/a005f658c3bc14728483eac0-10057515_21681185_25_1790648686-1790649741-original.jpg?1790649741",
+    "https://cdn.rent.com.au/photos/images/268073982/c2b09b4c1ed7d91e610112f9-10057515_21681185_20_1790648684-1790649740-original.jpg?1790649740",
+    "https://cdn.rent.com.au/photos/images/268073990/861e5d31319852b2626da97f-10057515_21681185_31_1790648697-1790649742-original.jpg?1790649742"
+   ],
+   "id": "rent-6500883",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/103-kirby-rd-aspley-qld-4034-6500883",
+   "area": "Northern suburbs",
+   "address": "103 Kirby Road",
+   "suburb": "Aspley",
+   "postcode": "4034",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "30th October 2026",
+   "listedAt": "2026-09-29T10:31:06.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 71,
+   "walkCategory": "very_walkable",
+   "transitScore": 48,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Near shops",
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.364241",
+   "lng": "153.026329",
+   "byline": "BRAND NEW ROOMY ASPLEY STUDIOS - SUPERB LOCATION!",
+   "description": "Well designed brand new studio units located in a quiet yet very convenient Aspley location.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\nWith a mixture of furnished and unfurnished studio units all different shapes and sizes. The 2 upstairs studios are furnished with enclosed balconies, downstairs one is furnished and 2 are unfurnished opening out to fully fenced courtyards and garden areas\n\nSpacious and roomy in design, fully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, large bathroom, separated bedroom with spacious extra large built in robes\n\nShared laundry with 2 washing machines. Designated off street parking space available \n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other major arterial highways.",
+   "flags": {
+    "stairs": [
+     "urnished studio units all different shapes and sizes. The 2 upstairs studios are furnished with enclosed balconies, downstairs o",
+     "e 2 upstairs studios are furnished with enclosed balconies, downstairs one is furnished and 2 are unfurnished opening out to fully"
+    ],
+    "shops": [
+     "the rent Conveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, As",
+     "Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train",
+     "e Shopping Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other",
+     "Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other major art"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/256839341/e0ebf6f5433a4ca16d268e65-bdfa3cd3_2D7f76_2Db044_2D4d17_2D6d18507fee7e-1747176715-original.jpg?1747176715",
     "https://cdn.rent.com.au/photos/images/256839342/31b6e67368027f84fd1ad0e2-db74c199_2D734f_2Df034_2D578b_2Dcc7f23d9dbcd-1747176715-original.jpg?1747176715",
     "https://cdn.rent.com.au/photos/images/256839339/4d600b549feab564c5db5ced-1fdc6cda_2D7c25_2D6af7_2Dfd9d_2Ddb64072a8ecb-1747176715-original.jpg?1747176715"
@@ -1254,7 +1142,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1389,7 +1277,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
