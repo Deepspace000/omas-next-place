@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-29T23:56+00:00",
+ "searchedAt": "2026-10-30T05:39+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 20,
+ "count": 21,
  "problems": [],
  "listings": [
   {
@@ -1042,7 +1042,7 @@
    "cars": 0,
    "price": 430,
    "bond": 1720,
-   "available": "30th October 2026",
+   "available": "now",
    "listedAt": "2026-09-29T10:31:06.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -1151,6 +1151,68 @@
     "email": null,
     "address": "P.O. Box 677 Annerley, QLD 4103",
     "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/263260683/66b4adcd6703905fa93eb810-10057515_21434106_7_1770860517-1770863530-original.jpg?1770863530",
+    "https://cdn.rent.com.au/photos/images/263260728/55aac40c1ba6e3ad45c34fa5-10057515_21434106_7_1770860599-1770863610-original.jpg?1770863610",
+    "https://cdn.rent.com.au/photos/images/263260727/d67ee8b3ad775e94472d394c-10057515_21434106_7_1770860540-1770863609-original.jpg?1770863609"
+   ],
+   "id": "rent-5847889",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-35-church-rd-zillmere-qld-4034-5847889",
+   "area": "Northern suburbs",
+   "address": "4/35 Church Road",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "listedAt": "2026-10-13T13:31:06.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 78,
+   "walkCategory": "very_walkable",
+   "transitScore": 48,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.358611",
+   "lng": "153.045103",
+   "byline": "NEAR NEW ZILLMERE STUDIOS",
+   "description": "Fantastic, near new, well designed studio apartments in a brilliant location right in the heart of Zillmere. Furnished with contemporary fittings and colour schemes this studio unit is sure to please.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\nFacing the rear of the property this studio is spacious and roomy in design leading out to a large, private fully fenced courtyard area and rear entry from the parking area. \n\nFully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, bathroom and separated bedroom with spacious built in robes.\n\nShared laundry with 2 washing machines. Street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located within walking distance to Taigum Shopping Centre and Zillmere Village, train and buses at your door. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe Quick, book your inspection online today!",
+   "flags": {
+    "shops": [
+     "ent Conveniently located within walking distance to Taigum Shopping Centre and Zillmere Village, train and buses at your do",
+     "ng distance to Taigum Shopping Centre and Zillmere Village, train and buses at your door. Easy access to Sunshine Coast motor",
+     "e to Taigum Shopping Centre and Zillmere Village, train and buses at your door. Easy access to Sunshine Coast motorway and ot"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
