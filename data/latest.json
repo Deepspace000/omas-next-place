@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-10-30T05:39+00:00",
+ "searchedAt": "2026-10-30T12:45+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 21,
+ "count": 23,
  "problems": [],
  "listings": [
   {
@@ -179,6 +179,71 @@
     "email": null,
     "address": "P.O Box 203, Bli Bli, QLD 4560",
     "profileUrl": "https://www.rent.com.au/agents/15252/invida-property-management-"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268625553/afd6182721fd0603be368033-1500-1793339480-original.jpeg?1793339480",
+    "https://cdn.rent.com.au/photos/images/268625554/91bbe9693d65bf0f2326a7d4-1500-1793339482-original.jpeg?1793339482",
+    "https://cdn.rent.com.au/photos/images/268625557/4f151c2690781da6879fc5c5-1500-1793339486-original.jpeg?1793339486"
+   ],
+   "id": "rent-3257614",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-141-brighton-rd-sandgate-qld-4017-3257614",
+   "area": "Sandgate / Brighton",
+   "address": "2/141 Brighton Road",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Flat",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 330,
+   "bond": 1320,
+   "available": "now",
+   "listedAt": "2026-10-30T13:51:17.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 87,
+   "walkCategory": "very_walkable",
+   "transitScore": 48,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Parks and recreation",
+    "Friendly neighbourhood",
+    "Near shops",
+    "Great public transport"
+   ],
+   "inspections": [],
+   "lat": "-27.316742",
+   "lng": "153.067266",
+   "byline": "LOW MAINTENANCE STUDIO UNIT",
+   "description": "* Studio unit - combined living, dining, bedroom all in one room. \n* Self Contained\n* Close to amenities\n* Walk to Sandgate shops and waterfront \n* Close to train and bus\n\nINSPECTION TIMES: In order to be advised of any upcoming inspections, please submit an email enquiry so that your contact details are added to the property contact list. As inspection times become available, you will be notified via email and we ask that you please also keep an eye out for any open homes listed online. You must register for all inspections so that we can monitor numbers and advise you of any changes or cancellations should they occur. Should there be no confirmed attendees 1 hour prior to the inspection time, please note this inspection may be cancelled without notice.\n\nAPPLICATIONS: http://www.professionalssandgate.com.au/wp-content/uploads/sites/94/2025/07/General-Tenancy-Application-Form.pdf\n\nDisclaimer: Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisement is true and correct but accept no responsibility and disclaim all liability in respect to any errors, omissions, inaccuracies or misstatements contained. Prospective tenants should make their own enquiries to verify the information contained in this advertisement.",
+   "flags": {
+    "stairs": [
+     "Disclaimer: Professionals Sandgate has taken all reasonable steps to ensure that the information contained in this advertisem"
+    ],
+    "shops": [
+     ". * Self Contained * Close to amenities * Walk to Sandgate shops and waterfront * Close to train and bus INSPECTION TIMES:",
+     "enities * Walk to Sandgate shops and waterfront * Close to train and bus INSPECTION TIMES: In order to be advised of any up",
+     "Walk to Sandgate shops and waterfront * Close to train and bus INSPECTION TIMES: In order to be advised of any upcoming i"
+    ]
+   },
+   "contactPerson": {
+    "name": "Rental Department",
+    "phone": "+61738699999",
+    "phoneAlt": "+61738699999"
+   },
+   "company": {
+    "name": "Professionals Sandgate",
+    "phone": null,
+    "email": null,
+    "address": "73 Brighton Road Sandgate, QLD 4017",
+    "profileUrl": "https://www.rent.com.au/agents/10787/professionals-sandgate"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -688,6 +753,66 @@
     "email": null,
     "address": "P.O. Box 677 Annerley, QLD 4103",
     "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268625915/94304a56ac42a7659dce69a9-226362335__1793338120-226362335__1793337661-276144-Externals1-Copy-1793340074-original.jpg?1793340074",
+    "https://cdn.rent.com.au/photos/images/268625961/075e562c18b086cf7406b125-226362357__1793338121-226362357__1793337670-87553-Tastefullystyledkitchenwithherbsandlemons-1793340109-original.png?1793340109",
+    "https://cdn.rent.com.au/photos/images/268625959/11b8b2ab1692b28c15776730-226362597__1793338121-226362597__1793337921-277016-Airyloungewithbeigesofaandgreenery-1793340109-original.png?1793340109"
+   ],
+   "id": "rent-6529673",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-57-ryans-rd-northgate-qld-4013-6529673",
+   "area": "Northern suburbs",
+   "address": "4/57 Ryans Road",
+   "suburb": "Northgate",
+   "postcode": "4013",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 410,
+   "bond": 1640,
+   "available": "2nd November 2026",
+   "listedAt": "2026-10-30T14:00:42.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 66,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 61,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Friendly neighbourhood",
+    "Near shops",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.394863",
+   "lng": "153.066442",
+   "byline": "Stylishly Renovated 1 Bedroom Unit, Northgate",
+   "description": "****CURRENT RENT IS $410 PER WEEK INCREASING TO $560 PER WEEK FROM 23/06/2027****\n\nThis stylish and contemporary 1-bedroom unit offers the perfect blend of comfort and convenience, making it an ideal choice for professionals or couples seeking a fresh unit within budget.\n* All new interior with stylish timber laminate flooring & air con to the living space, fresh paint, fans & new window coverings throughout.  \n* Large kitchen with all new cabinetry and appliances\n* Spacious bedroom with ceiling fan and plush carpet.\n* Bright fully tiled bathroom makes cleaning a breeze\n* Security screens\n* 1 car under building garage with laundry combo\n* Easy walk to Nundah Village or Northgate Bus & Rail  \n\n*TO INSPECT THIS PROPERTY CLICK ON THE INSPECTIONS LINK TO REGISTER*\nWe only accept RTA Form 22 application forms. Applications from other platforms (1form, Ignite, Snug etc) are not accepted or monitored.\nhttps://www.prd.com.au/nundah/sell-buy-rent-more/rent-smarter/rental-forms-docs/\n\nMarketing Image Disclaimer-\nMarketing images may include virtual furniture, digital staging, digital enhancements or AI-generated content for illustrative purposes only and may not accurately represent the property, its features, furnishings, condition, layout, dimensions or views. Buyers should rely on their own inspection, enquiries and independent advice.",
+   "flags": {
+    "shops": [
+     "th laundry combo * Easy walk to Nundah Village or Northgate Bus & Rail *TO INSPECT THIS PROPERTY CLICK ON THE INSPECTION"
+    ]
+   },
+   "contactPerson": {
+    "name": "Property Management Team Nundah",
+    "phone": "+61732665166",
+    "phoneAlt": "+61732665166"
+   },
+   "company": {
+    "name": "PRDnationwide Nundah",
+    "phone": null,
+    "email": null,
+    "address": "1162 Sandgate Road Nundah, QLD 4012",
+    "profileUrl": "https://www.rent.com.au/agents/4849/prdnationwide-nundah"
    },
    "feedAgentName": null,
    "feedCompany": null,
