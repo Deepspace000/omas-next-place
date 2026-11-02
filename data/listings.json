@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-02T09:31:04+10:00"
+  "lastSeenAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-02T09:31:04+10:00"
+  "lastSeenAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1291,7 +1291,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-02T09:31:04+10:00"
+  "lastSeenAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1502,7 +1502,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-02T09:31:04+10:00"
+  "lastSeenAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1638,7 +1638,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-02T09:31:04+10:00"
+  "lastSeenAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1711,7 +1711,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-02T09:31:04+10:00"
+  "lastSeenAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -2056,7 +2056,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-02T09:31:04+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-02T15:55:15+10:00"
  },
  "rent-5585863": {
   "firstSeenAt": "2026-10-03T21:36:11+10:00",
@@ -2195,7 +2196,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6505210": {
@@ -2217,8 +2218,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 430,
-   "bond": 1720,
+   "price": 420,
+   "bond": 1640,
    "available": "now",
    "listedAt": "2026-10-03T13:31:05.000+08:00",
    "petsListed": false,
@@ -2267,7 +2268,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2473,7 +2474,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2539,7 +2540,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2805,7 +2806,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2940,7 +2941,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3011,7 +3012,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3214,7 +3215,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6519190": {
@@ -3422,7 +3423,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3492,7 +3493,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6511173": {
@@ -3564,7 +3565,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3635,7 +3636,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6500883": {
@@ -3707,7 +3708,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3774,7 +3775,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-3257614": {
@@ -3844,7 +3845,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  },
  "rent-6529673": {
@@ -3868,7 +3869,7 @@
    "cars": 1,
    "price": 410,
    "bond": 1640,
-   "available": "2nd November 2026",
+   "available": "now",
    "listedAt": "2026-10-30T14:00:42.000+08:00",
    "petsListed": false,
    "furnished": false,
@@ -3909,7 +3910,78 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-02T09:31:04+10:00",
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
+  "gone": false
+ },
+ "rent-6510954": {
+  "firstSeenAt": "2026-11-02T15:55:15+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268241872/d8fc28602e47efe486826ae7-10057515_21683738_8_1663909820-1791529381-original.jpg?1791529381",
+    "https://cdn.rent.com.au/photos/images/268241900/90ab2c0f87b4cc4cff1ea3f8-10057515_21683738_9_1663909820-1791529397-original.jpg?1791529397",
+    "https://cdn.rent.com.au/photos/images/268241901/55e8a8125f17ccb166c0ead8-10057515_21683738_7_1663909820-1791529397-original.jpg?1791529397"
+   ],
+   "id": "rent-6510954",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-71-handford-rd-zillmere-qld-4034-6510954",
+   "area": "Northern suburbs",
+   "address": "4/71 Handford Road",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "now",
+   "listedAt": "2026-10-09T15:02:36.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 75,
+   "walkCategory": "very_walkable",
+   "transitScore": 52,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.356913",
+   "lng": "153.038965",
+   "byline": "CONVENIENT ZILLMERE LOCATION",
+   "description": "Well designed, ground floor studio apartment styled and ready for occupancy in the heart of Zillmere\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets) \n\nLocated at the back of the property leading out to private fenced courtyard. Fully furnished with an open plan living area and kitchenette, spacious bedroom area and bathroom. Air conditioned, complete with security screens and ceiling fan. \n\nShared laundry with washing machine, designated parking space available for an extra $15 per week\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located within a few meters to Zillmere shops, bus and train stops at your door. Short drive to Chermside Shopping Centre and local amenities. Easy access to M1 and other major arterial highways.\n\nBe quick book your inspection online now!!",
+   "flags": {
+    "ground": [
+     "Well designed, ground floor studio apartment styled and ready for occupancy in the hear"
+    ],
+    "shops": [
+     "rent Conveniently located within a few meters to Zillmere shops, bus and train stops at your door. Short drive to Chermside",
+     "Conveniently located within a few meters to Zillmere shops, bus and train stops at your door. Short drive to Chermside Shop",
+     "ntly located within a few meters to Zillmere shops, bus and train stops at your door. Short drive to Chermside Shopping Centr",
+     "bus and train stops at your door. Short drive to Chermside Shopping Centre and local amenities. Easy access to M1 and other"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-02T15:55:15+10:00",
   "gone": false
  }
 }
