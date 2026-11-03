@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-11-03T02:12+00:00",
+ "searchedAt": "2026-11-03T06:40+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 24,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -697,6 +697,70 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268679127/2a4a7f1662dd2a04cc86a96d-c3714b88_2Db5c4_2D66aa_2D714c_2Dd8a6d6987876-1793686765-original.png?1793686765",
+    "https://cdn.rent.com.au/photos/images/268679227/cac8c18758656d33bf5ca478-402bfac4_2Db678_2D558c_2D2720_2D80cb867b1b44-1793686984-original.png?1793686984",
+    "https://cdn.rent.com.au/photos/images/268679226/1911829f6659880ac735a827-57368080_2D47ca_2Dfad0_2D23d6_2D3915df360e90-1793686984-original.png?1793686984"
+   ],
+   "id": "rent-6532240",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-55-adamson-st-wooloowin-qld-4030-6532240",
+   "area": "Northern suburbs",
+   "address": "3/55 Adamson Street",
+   "suburb": "Wooloowin",
+   "postcode": "4030",
+   "type": "Flat",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 400,
+   "bond": 1600,
+   "available": "now",
+   "listedAt": "2026-11-03T14:15:06.000+08:00",
+   "petsListed": true,
+   "furnished": false,
+   "walkScore": 64,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 68,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Close to CBD",
+    "Near shops",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.417205",
+   "lng": "153.045118",
+   "byline": "NEAT ONE-BEDROOM UNIT IN A CONVENIENT LOCATION!",
+   "description": "Rent increasing to $410 per week from 13 February 2027.\n\nEnjoy comfortable, low-maintenance living in this well-maintained one-bedroom unit, ideally located in the sought-after suburb of Wooloowin. Situated in a small complex of just three flats, this property offers a simple and convenient lifestyle in a peaceful setting.\n\nThe unit features a comfortable bedroom, air conditioning and a dedicated off-street car space. With a shared driveway and a small residential complex, this is an excellent option for those seeking practical living close to everyday amenities.\n\nProperty features include:\n\n-One comfortable bedroom\n\n-Air conditioning\n\n-One off-street car space\n\n-Shared driveway\n\n-Small complex of only three flats\n\n-Convenient Wooloowin location\n\n-Walking distance to Eagle Junction train station\n\n-Close to Eagle Junction shops and local amenities\n\nEnjoy the convenience of having public transport, shopping and everyday essentials within easy reach, making commuting and daily errands a breeze.\n\nIf you are looking for a neat and conveniently located home with easy access to transport and local amenities, this property is well worth inspecting.\n\nPLEASE NOTE: if you do not register online, we cannot notify you of any time changes or cancellations to inspections.\n\nAll information contained herein is gathered from sources we consider to be reliable. However, we cannot guarantee or give any warranty about the information provided. Interested parties must solely rely on their own enquiries.",
+   "flags": {
+    "shops": [
+     "ent Wooloowin location -Walking distance to Eagle Junction train station -Close to Eagle Junction shops and local amenities",
+     "e to Eagle Junction train station -Close to Eagle Junction shops and local amenities Enjoy the convenience of having public",
+     "and local amenities Enjoy the convenience of having public transport, shopping and everyday essentials within easy reach, making",
+     "menities Enjoy the convenience of having public transport, shopping and everyday essentials within easy reach, making commu",
+     "or a neat and conveniently located home with easy access to transport and local amenities, this property is well worth inspecting"
+    ]
+   },
+   "contactPerson": {
+    "name": "LJH Aspley   Chermside",
+    "phone": "0732636022",
+    "phoneAlt": "0732636022"
+   },
+   "company": {
+    "name": "LJ Hooker Aspley|Chermside",
+    "phone": null,
+    "email": null,
+    "address": "Shop 5/1374 Gympie Road Aspley, QLD 4034",
+    "profileUrl": "https://www.rent.com.au/agents/369/lj-hooker-aspley-chermside"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/256913357/61aed888cdb59f0ba1476fac-8d1ffdab_2Daa3c_2D49cf_2D82dc_2D940000c14d26-1747379189-original.jpg?1747379189",
     "https://cdn.rent.com.au/photos/images/256913387/919dcb2d375fb6479c0e9c4e-d9185fab_2D88dc_2D6ea3_2D497c_2D3e79df34f133-1747379206-original.jpg?1747379206",
     "https://cdn.rent.com.au/photos/images/256913386/513f6edf63c699fd19597d9d-19f05e44_2Da6dc_2D38b6_2D9d5a_2Df56c125891af-1747379205-original.jpg?1747379205"
@@ -1063,7 +1127,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1212,6 +1276,77 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268678969/2dac7126b4d56741d91cf141-1-1793686400-original.jpg?1793686400",
+    "https://cdn.rent.com.au/photos/images/268679030/b643b8cb373efb898e55def5-2-1793686552-original.jpg?1793686552",
+    "https://cdn.rent.com.au/photos/images/268679032/e4268a68820e1309a5782cb3-3-1793686553-original.jpg?1793686553"
+   ],
+   "id": "rent-6532225",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/217-lutwyche-rd-windsor-qld-4030-6532225",
+   "area": "Northern suburbs",
+   "address": "217 Lutwyche Road",
+   "suburb": "Windsor",
+   "postcode": "4030",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 425,
+   "bond": 1700,
+   "available": "14th November 2026",
+   "listedAt": "2026-11-03T14:10:22.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 77,
+   "walkCategory": "very_walkable",
+   "transitScore": 68,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Close to CBD",
+    "Near shops",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.435867",
+   "lng": "153.032048",
+   "byline": "Furnished Studio-Utilities Included",
+   "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/21205147\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/21205147\n\nStudio apartment is conveniently located less than 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the complex, cafe on ground floor for that convenient\n*Furnished\n*Ducted Air Conditioning and ceiling fan\n*42 inch TV\n*Microwave, Washing machine, Small Fridge\n*Single Bed with mattress, students desk\n*Rooftop relax area\n*CCTV, Secure lifts, Intercom, Secure building with fob access \n*Electricity: included in rental \n# no pets\nPLEASE NOTE if you do not register we cannot notify you of any time changes or cancellations\nApplications are subject to inspection, please do not submit applications before inspecting the property. Please ensure applications are complete when submitting to ensure no delays in processing for you.\nWhile care has been taken in the preparation of these particulars no responsibility is accepted for the accuracy of the whole or any part and interested persons are advised to make their own enquiries and satisfy themselves in all respects.\n\n(Listing ID: 21205147 )",
+   "flags": {
+    "ground": [
+     "bus stop directly at the front door of the complex, cafe on ground floor for that convenient *Furnished *Ducted Air Conditioning and"
+    ],
+    "lift": [
+     "h mattress, students desk *Rooftop relax area *CCTV, Secure lifts, Intercom, Secure building with fob access *Electricity: i"
+    ],
+    "pets": [
+     "ilding with fob access *Electricity: included in rental # no pets PLEASE NOTE if you do not register we cannot notify you of"
+    ],
+    "shops": [
+     "n 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as",
+     "nce to Windsor Train station, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the com",
+     "tation, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the complex, cafe on gro"
+    ]
+   },
+   "contactPerson": {
+    "name": "Jeremy Szymanski",
+    "phone": "+61418856487",
+    "phoneAlt": "+61418856487"
+   },
+   "company": {
+    "name": "The Onsite Manager",
+    "phone": null,
+    "email": null,
+    "address": "111 Eagle St Brisbane, QLD 4000",
+    "profileUrl": "https://www.rent.com.au/agents/33/the-onsite-manager"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/268073984/a005f658c3bc14728483eac0-10057515_21681185_25_1790648686-1790649741-original.jpg?1790649741",
     "https://cdn.rent.com.au/photos/images/268073982/c2b09b4c1ed7d91e610112f9-10057515_21681185_20_1790648684-1790649740-original.jpg?1790649740",
     "https://cdn.rent.com.au/photos/images/268073990/861e5d31319852b2626da97f-10057515_21681185_31_1790648697-1790649742-original.jpg?1790649742"
@@ -1329,7 +1464,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1455,7 +1590,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1523,7 +1658,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
