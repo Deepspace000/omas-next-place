@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-11-05T00:52+00:00",
+ "searchedAt": "2026-11-05T06:36+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 30,
@@ -334,7 +334,7 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 400,
+   "price": 390,
    "bond": 1600,
    "available": "now",
    "listedAt": "2026-10-12T11:00:38.000+08:00",
@@ -1202,9 +1202,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268241872/d8fc28602e47efe486826ae7-10057515_21683738_8_1663909820-1791529381-original.jpg?1791529381",
-    "https://cdn.rent.com.au/photos/images/268241900/90ab2c0f87b4cc4cff1ea3f8-10057515_21683738_9_1663909820-1791529397-original.jpg?1791529397",
-    "https://cdn.rent.com.au/photos/images/268241901/55e8a8125f17ccb166c0ead8-10057515_21683738_7_1663909820-1791529397-original.jpg?1791529397"
+    "https://cdn.rent.com.au/photos/images/268241901/55e8a8125f17ccb166c0ead8-10057515_21683738_7_1663909820-1791529397-original.jpg?1791529397",
+    "https://cdn.rent.com.au/photos/images/268241904/e80cd742a8f75f235dfde2d0-10057515_21683738_6_1663909820-1791529398-original.jpg?1791529398",
+    "https://cdn.rent.com.au/photos/images/268241872/d8fc28602e47efe486826ae7-10057515_21683738_8_1663909820-1791529381-original.jpg?1791529381"
    ],
    "id": "rent-6510954",
    "source": "rent.com.au",
@@ -1268,9 +1268,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268146308/50deff5142c9aa29ef021b81-10057515_21682368_8_1768182901-1791005471-original.jpg?1791005471",
+    "https://cdn.rent.com.au/photos/images/268146313/36213ec8c891a13244c1bb22-10057515_21682368_8_1768182774-1791005484-original.jpg?1791005484",
     "https://cdn.rent.com.au/photos/images/268146311/810b31d0f0b5cd27129dbc2f-10057515_21682368_7_1768182900-1791005483-original.jpg?1791005483",
-    "https://cdn.rent.com.au/photos/images/268146313/36213ec8c891a13244c1bb22-10057515_21682368_8_1768182774-1791005484-original.jpg?1791005484"
+    "https://cdn.rent.com.au/photos/images/268146308/50deff5142c9aa29ef021b81-10057515_21682368_8_1768182901-1791005471-original.jpg?1791005471"
    ],
    "id": "rent-6505210",
    "source": "rent.com.au",
@@ -1531,9 +1531,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268678969/2dac7126b4d56741d91cf141-1-1793686400-original.jpg?1793686400",
-    "https://cdn.rent.com.au/photos/images/268679030/b643b8cb373efb898e55def5-2-1793686552-original.jpg?1793686552",
-    "https://cdn.rent.com.au/photos/images/268679032/e4268a68820e1309a5782cb3-3-1793686553-original.jpg?1793686553"
+    "https://cdn.rent.com.au/photos/images/268721512/f67bd2306538956f726a2e15-1-1793848510-original.jpg?1793848510",
+    "https://cdn.rent.com.au/photos/images/268721517/f46ea1215decc6a080b4d663-2-1793848511-original.jpg?1793848511",
+    "https://cdn.rent.com.au/photos/images/268721519/2f25c7db3d54ddd2f819d706-3-1793848512-original.jpg?1793848512"
    ],
    "id": "rent-6532225",
    "source": "rent.com.au",
@@ -1800,9 +1800,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268709335/8e7170af2ba76fde10c5794b-10057515_20702364_1_1620359379-1793831517-original.jpg?1793831517",
     "https://cdn.rent.com.au/photos/images/268709364/bd46efb822977296875fba2d-10057515_20702364_6_1620359381-1793831644-original.jpg?1793831644",
-    "https://cdn.rent.com.au/photos/images/268709365/f8895b7a6a390c40436621ec-10057515_20702364_7_1620359864-1793831644-original.jpg?1793831644"
+    "https://cdn.rent.com.au/photos/images/268709365/f8895b7a6a390c40436621ec-10057515_20702364_7_1620359864-1793831644-original.jpg?1793831644",
+    "https://cdn.rent.com.au/photos/images/268709367/f1437f275dae5df544f4a81c-10057515_20702364_5_1620359381-1793831645-original.jpg?1793831645"
    ],
    "id": "rent-4409237",
    "source": "rent.com.au",
@@ -1844,8 +1844,8 @@
     ]
    },
    "contactPerson": {
-    "name": "Cooper Mooney",
-    "phone": "+61411563401",
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
