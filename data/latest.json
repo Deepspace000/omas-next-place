@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-11-06T06:31+00:00",
+ "searchedAt": "2026-11-06T14:59+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 29,
@@ -113,7 +113,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "+61488839724",
+    "phone": "0488 839 724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -621,7 +621,7 @@
    },
    "contactPerson": {
     "name": "Pinnacle Properties Property  Manager",
-    "phone": "+61423571883",
+    "phone": "0423 571 883",
     "phoneAlt": "+61423571883"
    },
    "company": {
