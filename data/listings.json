@@ -375,7 +375,7 @@
    "flags": {},
    "contactPerson": {
     "name": "For Rent",
-    "phone": "0488 839 724",
+    "phone": "+61488839724",
     "phoneAlt": "+61488839724"
    },
    "company": {
@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-06T01:26:48+10:00"
+  "lastSeenAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -442,7 +442,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-06T01:26:48+10:00"
+  "lastSeenAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1291,7 +1291,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-06T01:26:48+10:00"
+  "lastSeenAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1502,7 +1502,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-06T01:26:48+10:00"
+  "lastSeenAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1638,7 +1638,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-06T01:26:48+10:00"
+  "lastSeenAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -1709,9 +1709,10 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "gone": false,
+  "gone": true,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-06T01:26:48+10:00"
+  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "goneAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-6458671": {
   "raw": {
@@ -2197,7 +2198,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-06T01:26:48+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-06T10:57:35+10:00"
  },
  "rent-6505210": {
   "firstSeenAt": "2026-10-03T21:36:11+10:00",
@@ -2253,7 +2255,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -2268,7 +2270,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2459,7 +2461,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -2474,7 +2476,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2540,7 +2542,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2806,7 +2808,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2941,7 +2943,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3012,7 +3014,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3170,7 +3172,7 @@
    "cars": 0,
    "price": 410,
    "bond": 1640,
-   "available": "7th December 2026",
+   "available": "26th November 2026",
    "listedAt": "2026-10-20T07:04:41.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3215,7 +3217,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6519190": {
@@ -3423,7 +3425,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3551,7 +3553,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3566,7 +3568,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3622,7 +3624,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3637,7 +3639,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6500883": {
@@ -3694,7 +3696,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3709,7 +3711,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3761,7 +3763,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3776,7 +3778,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-3257614": {
@@ -3846,7 +3848,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6529673": {
@@ -3911,7 +3913,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6510954": {
@@ -3967,7 +3969,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3982,7 +3984,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-5993027": {
@@ -4051,7 +4053,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6532240": {
@@ -4120,7 +4122,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6532225": {
@@ -4196,7 +4198,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4266,7 +4268,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4332,7 +4334,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4404,7 +4406,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4474,7 +4476,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4526,7 +4528,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -4541,7 +4543,73 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-06T01:26:48+10:00",
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
+  "gone": false
+ },
+ "rent-2727769": {
+  "firstSeenAt": "2026-11-06T10:57:35+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/260700674/062e196df42af3c00c025c4b-127839216__1733798426-161424-DSC7992-2NOV-1764047705-original.jpg?1764047705",
+    "https://cdn.rent.com.au/photos/images/260700689/fc2857e0aea9f14d13308dfd-127839101__1733798407-149956-DSC6442FW2024-1764047739-original.jpg?1764047739",
+    "https://cdn.rent.com.au/photos/images/260700685/b99083e8bef6c6f9867fd4e9-127839142__1733798417-149978-DSC6470FW2024-1764047737-original.jpg?1764047737"
+   ],
+   "id": "rent-2727769",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-17-thomas-st-nundah-qld-4012-2727769",
+   "area": "Northern suburbs",
+   "address": "3/17 Thomas Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 320,
+   "bond": 1280,
+   "available": "16th December 2026",
+   "listedAt": "2026-11-06T07:19:28.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 85,
+   "walkCategory": "very_walkable",
+   "transitScore": 62,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Cafes and restaurants",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.396809",
+   "lng": "153.062939",
+   "byline": "RENOVATED STUDIO IN THE HEART OF NUNDAH ( Single living only)",
+   "description": "STYLISH studio located in a unique property nestled on a quiet street in Nundah - joining into a small park behind the complex.\n\nThe following items are close:\n- Nundah Village is a short 10 mins walk away while \n- Train station is only 700m away, offering services to and from the city every 15 minutes. \n- Bus stops just 500m away\n\nExcellent layout with the following features:\n\nStudio apartment with a kitchen and bathroom.\nCoins Operated Washer in Common Area $3 per load\n\nClick the \"Book Inspection\" button now to book your viewing - you MUST register and confirm in order to finalise a viewing time\".\n\nWhilst every effort has been made to ensure the accuracy of the information herein, no warranty is given by the vendor or the agent/agency as to their accuracy. Interested parties should not rely on these as representations of fact but must instead satisfy themselves by inspection or otherwise.",
+   "flags": {
+    "shops": [
+     "ose: - Nundah Village is a short 10 mins walk away while - Train station is only 700m away, offering services to and from th",
+     "offering services to and from the city every 15 minutes. - Bus stops just 500m away Excellent layout with the following f"
+    ]
+   },
+   "contactPerson": {
+    "name": "Rent My Property",
+    "phone": "+6131933450",
+    "phoneAlt": "+6131933450"
+   },
+   "company": {
+    "name": "Rent my Property Redcliffe",
+    "phone": null,
+    "email": null,
+    "address": "545 Oxley Avenue Redcliffe, QLD 4020",
+    "profileUrl": "https://www.rent.com.au/agents/7780/rent-my-property-redcliffe"
+   },
+   "feedAgentName": "Rent My Property",
+   "feedCompany": "Rent my Property Redcliffe",
+   "feedEmail": "rentals@rentmyproperty.com.au",
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-06T10:57:35+10:00",
   "gone": false
  }
 }
