@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-10T03:27:16+10:00"
+  "lastSeenAt": "2026-11-10T12:40:58+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-10T03:27:16+10:00"
+  "lastSeenAt": "2026-11-10T12:40:58+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1291,7 +1291,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-10T03:27:16+10:00"
+  "lastSeenAt": "2026-11-10T12:40:58+10:00"
  },
  "rent-6173821": {
   "raw": {
@@ -1453,8 +1453,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 1,
-   "price": 420,
-   "bond": 1680,
+   "price": 410,
+   "bond": 1640,
    "available": "16th November 2026",
    "listedAt": "2026-09-24T07:39:16.000+08:00",
    "petsListed": false,
@@ -1502,7 +1502,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-10T03:27:16+10:00"
+  "lastSeenAt": "2026-11-10T12:40:58+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1638,7 +1638,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-10T03:27:16+10:00"
+  "lastSeenAt": "2026-11-10T12:40:58+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2270,7 +2270,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-5031957": {
@@ -2476,7 +2476,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2542,7 +2542,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2808,7 +2808,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2943,7 +2943,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3014,7 +3014,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3217,7 +3217,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6519190": {
@@ -3425,7 +3425,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3503,9 +3503,9 @@
   "firstSeenAt": "2026-10-27T09:46:24+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668",
-    "https://cdn.rent.com.au/photos/images/268246838/ee42173fedb0950660c9e083-10057515_21683806_1_1791675639-1791678693-original.jpg?1791678693",
-    "https://cdn.rent.com.au/photos/images/268246840/41f2b35f5badfdfd2d1a612f-10057515_21683806_2_1791675640-1791678693-original.jpg?1791678693"
+    "https://cdn.rent.com.au/photos/images/268246863/f5472998338e1affedeee678-10057515_21683806_21_1791675689-1791678709-original.jpg?1791678709",
+    "https://cdn.rent.com.au/photos/images/268246840/41f2b35f5badfdfd2d1a612f-10057515_21683806_2_1791675640-1791678693-original.jpg?1791678693",
+    "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
    ],
    "id": "rent-6511173",
    "source": "rent.com.au",
@@ -3568,7 +3568,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3639,7 +3639,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6500883": {
@@ -3663,7 +3663,7 @@
    "cars": 0,
    "price": 420,
    "bond": 1680,
-   "available": "10th November 2026",
+   "available": "now",
    "listedAt": "2026-09-29T10:31:06.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3711,7 +3711,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3778,7 +3778,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-3257614": {
@@ -3848,7 +3848,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6529673": {
@@ -3913,15 +3913,15 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6510954": {
   "firstSeenAt": "2026-11-02T15:55:15+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268241901/55e8a8125f17ccb166c0ead8-10057515_21683738_7_1663909820-1791529397-original.jpg?1791529397",
     "https://cdn.rent.com.au/photos/images/268241904/e80cd742a8f75f235dfde2d0-10057515_21683738_6_1663909820-1791529398-original.jpg?1791529398",
+    "https://cdn.rent.com.au/photos/images/268241901/55e8a8125f17ccb166c0ead8-10057515_21683738_7_1663909820-1791529397-original.jpg?1791529397",
     "https://cdn.rent.com.au/photos/images/268241872/d8fc28602e47efe486826ae7-10057515_21683738_8_1663909820-1791529381-original.jpg?1791529381"
    ],
    "id": "rent-6510954",
@@ -3984,7 +3984,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-5993027": {
@@ -4053,7 +4053,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6532240": {
@@ -4123,7 +4123,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-10T03:27:16+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-10T12:40:58+10:00"
  },
  "rent-6532225": {
   "firstSeenAt": "2026-11-03T16:40:03+10:00",
@@ -4198,7 +4199,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4268,7 +4269,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4334,7 +4335,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4406,7 +4407,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4461,7 +4462,7 @@
    },
    "contactPerson": {
     "name": "Kelsi Weeks",
-    "phone": "0405 052 517",
+    "phone": "+61405052517",
     "phoneAlt": "+61405052517"
    },
    "company": {
@@ -4476,7 +4477,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4543,7 +4544,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-2727769": {
@@ -4609,7 +4610,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4670,7 +4671,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-10T03:27:16+10:00",
+  "lastSeenAt": "2026-11-10T12:40:58+10:00",
   "gone": false
  }
 }
