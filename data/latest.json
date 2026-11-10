@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-11-10T07:09+00:00",
+ "searchedAt": "2026-11-10T16:25+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 30,
@@ -436,6 +436,73 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268246863/f5472998338e1affedeee678-10057515_21683806_21_1791675689-1791678709-original.jpg?1791678709",
+    "https://cdn.rent.com.au/photos/images/268246840/41f2b35f5badfdfd2d1a612f-10057515_21683806_2_1791675640-1791678693-original.jpg?1791678693",
+    "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
+   ],
+   "id": "rent-6511173",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/262-barrett-st-bracken-ridge-qld-4017-6511173",
+   "area": "Sandgate / Brighton",
+   "address": "262 Barrett Street",
+   "suburb": "Bracken Ridge",
+   "postcode": "4017",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 420,
+   "bond": 1680,
+   "available": "now",
+   "listedAt": "2026-10-11T08:31:06.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 60,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 37,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Near shops",
+    "Close to schools",
+    "Great public transport"
+   ],
+   "inspections": [],
+   "lat": "-27.319653",
+   "lng": "153.032077",
+   "byline": "FURNISHED STUDIO UNITS WITH A POOL",
+   "description": "New to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices range from $420 to $440 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use, single remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
+   "flags": {
+    "stairs": [
+     "s, no children, not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are",
+     "not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others"
+    ],
+    "shops": [
+     "ent Conveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk t",
+     "sy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald",
+     "ng Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stati",
+     "walk to bus stops, short drive to Bald Hills and Carseldine Train Stations Be Quick Book your Inspection Online Today!!"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/259382305/6f402d3bbb4cde9a69afb730-b36804fe-6eba-4817-a494-3df244249ae0-1788391988-original.jpg?1788391988",
     "https://cdn.rent.com.au/photos/images/259382224/33cae125bec1e6bc4b27ac71-b36804fe-7558-40b5-972d-8196d3832ec8-1788391972-original.jpg?1788391972",
     "https://cdn.rent.com.au/photos/images/259382298/11559cc9c3593d65844f8d5b-b36804fe-7423-4508-8cb8-b41dadaac3f6-1788391974-original.jpg?1788391974"
@@ -492,73 +559,6 @@
     "email": null,
     "address": "27 Stanley Road Camp Hill, QLD 4152",
     "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268246863/f5472998338e1affedeee678-10057515_21683806_21_1791675689-1791678709-original.jpg?1791678709",
-    "https://cdn.rent.com.au/photos/images/268246840/41f2b35f5badfdfd2d1a612f-10057515_21683806_2_1791675640-1791678693-original.jpg?1791678693",
-    "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
-   ],
-   "id": "rent-6511173",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/262-barrett-st-bracken-ridge-qld-4017-6511173",
-   "area": "Sandgate / Brighton",
-   "address": "262 Barrett Street",
-   "suburb": "Bracken Ridge",
-   "postcode": "4017",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-10-11T08:31:06.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 60,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 37,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Near shops",
-    "Close to schools",
-    "Great public transport"
-   ],
-   "inspections": [],
-   "lat": "-27.319653",
-   "lng": "153.032077",
-   "byline": "FURNISHED STUDIO UNITS WITH A POOL",
-   "description": "New to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices ranges from $430 to $450 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use, single remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
-   "flags": {
-    "stairs": [
-     "s, no children, not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are",
-     "not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others"
-    ],
-    "shops": [
-     "ent Conveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk t",
-     "sy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald",
-     "ng Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stati",
-     "walk to bus stops, short drive to Bald Hills and Carseldine Train Stations Be Quick Book your Inspection Online Today!!"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -990,7 +990,7 @@
    },
    "contactPerson": {
     "name": "Kelsi Weeks",
-    "phone": "0405 052 517",
+    "phone": "+61405052517",
     "phoneAlt": "+61405052517"
    },
    "company": {
@@ -1301,7 +1301,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "+61439673884",
+    "phone": "0439 673 884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -1425,7 +1425,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "+61439673884",
+    "phone": "0439 673 884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -1491,7 +1491,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "+61439673884",
+    "phone": "0439 673 884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -1558,7 +1558,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "+61439673884",
+    "phone": "0439 673 884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -1624,7 +1624,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "+61439673884",
+    "phone": "0439 673 884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -1888,7 +1888,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "+61439673884",
+    "phone": "0439 673 884",
     "phoneAlt": "+6131712230"
    },
    "company": {
