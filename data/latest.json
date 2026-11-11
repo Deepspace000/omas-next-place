@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-11-10T16:25+00:00",
+ "searchedAt": "2026-11-11T00:35+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 30,
+ "count": 28,
  "problems": [],
  "listings": [
   {
@@ -57,7 +57,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "+61493446309",
+    "phone": "0493 446 309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -169,7 +169,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Pike Property Rental Team",
-    "phone": "+61754955466",
+    "phone": "07 5495 5466",
     "phoneAlt": "+61754955466"
    },
    "company": {
@@ -550,7 +550,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "+61493446309",
+    "phone": "0493 446 309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -990,7 +990,7 @@
    },
    "contactPerson": {
     "name": "Kelsi Weeks",
-    "phone": "+61405052517",
+    "phone": "0405 052 517",
     "phoneAlt": "+61405052517"
    },
    "company": {
@@ -1372,68 +1372,6 @@
     "email": null,
     "address": "Po Box 230 Waterford, QLD 4133",
     "profileUrl": "https://www.rent.com.au/agents/649/onsite-property"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/263260683/66b4adcd6703905fa93eb810-10057515_21434106_7_1770860517-1770863530-original.jpg?1770863530",
-    "https://cdn.rent.com.au/photos/images/263260728/55aac40c1ba6e3ad45c34fa5-10057515_21434106_7_1770860599-1770863610-original.jpg?1770863610",
-    "https://cdn.rent.com.au/photos/images/263260727/d67ee8b3ad775e94472d394c-10057515_21434106_7_1770860540-1770863609-original.jpg?1770863609"
-   ],
-   "id": "rent-5847889",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/4-35-church-rd-zillmere-qld-4034-5847889",
-   "area": "Northern suburbs",
-   "address": "4/35 Church Road",
-   "suburb": "Zillmere",
-   "postcode": "4034",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 420,
-   "bond": 1680,
-   "available": "now",
-   "listedAt": "2026-10-13T13:31:06.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 78,
-   "walkCategory": "very_walkable",
-   "transitScore": 48,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Parks and recreation",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.358611",
-   "lng": "153.045103",
-   "byline": "NEAR NEW ZILLMERE STUDIOS",
-   "description": "Fantastic, near new, well designed studio apartments in a brilliant location right in the heart of Zillmere. Furnished with contemporary fittings and colour schemes this studio unit is sure to please.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\nFacing the rear of the property this studio is spacious and roomy in design leading out to a large, private fully fenced courtyard area and rear entry from the parking area. \n\nFully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, bathroom and separated bedroom with spacious built in robes.\n\nDesignated parking space included in the rent. Shared laundry with 2 washing machines. \n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located within walking distance to Taigum Shopping Centre and Zillmere Village, train and buses at your door. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe Quick, book your inspection online today!",
-   "flags": {
-    "shops": [
-     "ent Conveniently located within walking distance to Taigum Shopping Centre and Zillmere Village, train and buses at your do",
-     "ng distance to Taigum Shopping Centre and Zillmere Village, train and buses at your door. Easy access to Sunshine Coast motor",
-     "e to Taigum Shopping Centre and Zillmere Village, train and buses at your door. Easy access to Sunshine Coast motorway and ot"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "0439 673 884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1835,68 +1773,6 @@
     "email": null,
     "address": "P.O. Box 677 Annerley, QLD 4103",
     "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268779015/c501437fa7e45e0ab9a3a0d5-10057515_20702364_6_1794200633-1794202433-original.jpg?1794202433",
-    "https://cdn.rent.com.au/photos/images/268779159/ecffe3afd65edcb4c25308fd-10057515_20702364_6_1794200721-1794202524-original.jpg?1794202524",
-    "https://cdn.rent.com.au/photos/images/268777711/a23d0d455e39f52ea5e43289-10057515_20702364_8_1794200600-1794201239-original.jpg?1794201239"
-   ],
-   "id": "rent-4409237",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/5-1034-gympie-rd-chermside-qld-4032-4409237",
-   "area": "Northern suburbs",
-   "address": "5/1034 Gympie Road",
-   "suburb": "Chermside",
-   "postcode": "4032",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-11-05T06:31:08.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 72,
-   "walkCategory": "very_walkable",
-   "transitScore": 55,
-   "transitCategory": "good_transit",
-   "topFeatures": [
-    "Near shops",
-    "Great public transport",
-    "Cafes and restaurants",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.376975",
-   "lng": "153.027391",
-   "byline": "PERFECT CHERMSIDE LOCATION",
-   "description": "Well designed studio apartment meticulously designed and styled ready for occupancy in the heart of Chermside\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets)\n\nFully furnished studio with a private fenced courtyard, spacious open plan living and bedroom area, a kitchenette, ensuite and loads of storage space. Air conditioned, complete with security screens and ceiling fan.\n\nShared laundry facilities with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and internet are all included in the rent. \n\nPerfectly located close to Chermside Shopping Centre, Aspley Shopping Centre, buses and parks at your door. All amenities at your finger tips. Quick access to major arterial roads and amenities.\n \nBe quick, book your inspection online now!!",
-   "flags": {
-    "shops": [
-     "ncluded in the rent. Perfectly located close to Chermside Shopping Centre, Aspley Shopping Centre, buses and parks at your",
-     "erfectly located close to Chermside Shopping Centre, Aspley Shopping Centre, buses and parks at your door. All amenities at",
-     "close to Chermside Shopping Centre, Aspley Shopping Centre, buses and parks at your door. All amenities at your finger tips."
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "0439 673 884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
