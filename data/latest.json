@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-11-11T06:02+00:00",
+ "searchedAt": "2026-11-11T14:09+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 29,
+ "count": 31,
  "problems": [],
  "listings": [
   {
@@ -439,6 +439,62 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/268830804/c9ebcf430f8337a85244195f-uploads_2F1794349113717-lqmw53251t-2e3488f93104cd08893d9765e8162fd7_2FIMG_5292-1794378854-original.jpeg?1794378854",
+    "https://cdn.rent.com.au/photos/images/268830817/dc0896f6c91013d3c4c01b44-uploads_2F1794349113730-8ke3eoj7z0r-2e3488f93104cd08893d9765e8162fd7_2FIMG_5297-1794378863-original.jpeg?1794378863",
+    "https://cdn.rent.com.au/photos/images/268830816/87ee1c9f39af2788231b460f-uploads_2F1794349113738-5zndgzcneog-2e3488f93104cd08893d9765e8162fd7_2FIMG_5300-1794378863-original.jpeg?1794378863"
+   ],
+   "id": "rent-6540950",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-201-rainbow-st-sandgate-qld-4017-6540950",
+   "area": "Sandgate / Brighton",
+   "address": "4/201 Rainbow Street",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Flat",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 370,
+   "bond": 1480,
+   "available": "now",
+   "listedAt": "2026-11-11T14:34:04.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 70,
+   "walkCategory": "very_walkable",
+   "transitScore": 47,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Parks and recreation",
+    "Friendly neighbourhood",
+    "Near shops",
+    "Great public transport"
+   ],
+   "inspections": [],
+   "lat": "-27.323024",
+   "lng": "153.076143",
+   "byline": "Large One-Bedroom Flat in Secure Property",
+   "description": "This spacious one-bedroom flat offers comfortable living in a secure property, comprising just four flats.\n\nThe property features a good-sized kitchen with a meals area, a good sized lounge room, and main bedroom complete with air conditioning. A modern bathroom, while a shared laundry area is conveniently located underneath the house.\n\nAdditional features include:\n\n Large one-bedroom flat\n Good-sized kitchen with meals area\n Good sized lounge room\n Main bedroom with air conditioning\n Modern bathroom\n Laundry area underneath the house\n Street parking available\n One of only four flats in a secure property\n\nIdeally suited to a single person.\n\nRent:\n $370 per week until 06/09/2027\n Increasing to $435 per week from 07/09/2027 for the remainder of the tenancy.\n\nDate of last rent increase: 06/09/2026\n\nPlease contact agent for inspection.",
+   "flags": {},
+   "contactPerson": {
+    "name": "Brenda Pearson",
+    "phone": "+61455260728",
+    "phoneAlt": "+61732691276"
+   },
+   "company": {
+    "name": "Jim McKeering Real Estate - Sandgate",
+    "phone": null,
+    "email": null,
+    "address": "200 Seymour Street Sandgate, QLD 4017",
+    "profileUrl": "https://www.rent.com.au/agents/10464/jim-mckeering-real-estate-sandgate"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/268549310/34895b591b80c1159f4cc2bc-178529031251494662-1793149094-original.jpg?1793149094",
     "https://cdn.rent.com.au/photos/images/268549523/224f0b5aa67d93fd2f3dad27-178529029758811792-1793149371-original.jpg?1793149371",
     "https://cdn.rent.com.au/photos/images/268549522/ab5856605bf7f6961f3e33cc-178529029831118449-1793149371-original.jpg?1793149371"
@@ -623,6 +679,68 @@
     "email": null,
     "address": "27 Stanley Road Camp Hill, QLD 4152",
     "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268830786/3b232ff05f9fce6e1f9129b5-uploads_2F1794350358945-lvnjtcaj2fm-45e606fbd8751b3d317a0fcd00464c39_2FIMG_5226-1794378839-original.jpeg?1794378839",
+    "https://cdn.rent.com.au/photos/images/268830788/eb03d22e74387cb6589d60fc-uploads_2F1794350358959-nz68jslxmc-45e606fbd8751b3d317a0fcd00464c39_2FIMG_5233-1794378851-original.jpeg?1794378851",
+    "https://cdn.rent.com.au/photos/images/268830793/8459e6d6cfc7908a877e6f04-uploads_2F1794350358963-w5o0229urjj-45e606fbd8751b3d317a0fcd00464c39_2FIMG_5235-1794378851-original.jpeg?1794378851"
+   ],
+   "id": "rent-6540948",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-15-sixth-ave-sandgate-qld-4017-6540948",
+   "area": "Sandgate / Brighton",
+   "address": "2/15 Sixth Avenue",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Flat",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "listedAt": "2026-11-11T14:33:57.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 84,
+   "walkCategory": "very_walkable",
+   "transitScore": 48,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Parks and recreation",
+    "Friendly neighbourhood",
+    "Near shops",
+    "Great public transport"
+   ],
+   "inspections": [],
+   "lat": "-27.317194",
+   "lng": "153.068475",
+   "byline": "Refurbished 1 Bedroom Flat in a Convenient Sandgate Location",
+   "description": "This refurbished flat offers refreshed interiors and practical living in a small complex of four flats. Featuring a new kitchen and updated finishes, it provides a comfortable option for a single occupant seeking convenience close to local amenities.\n\nProperty Features\n\n Refurbished flat with a new kitchen\n New flooring, paint and blinds\n Bathroom with separate toilet\n Rear deck\n Shared front sunroom\n Carport\n One of four flats on the property\n\nLocation Highlights\n\n Walking distance to Sandgate shops, cafs and local amenities\n Convenient access to the Sandgate waterfront and foreshore\n Close to bus services and Sandgate train station, providing connections to Brisbane and surrounding suburbs\n\nImportant Notes\n\n Suitable for a single person",
+   "flags": {
+    "shops": [
+     "roperty Location Highlights Walking distance to Sandgate shops, cafs and local amenities Convenient access to the Sandgat",
+     "t access to the Sandgate waterfront and foreshore Close to bus services and Sandgate train station, providing connections",
+     "aterfront and foreshore Close to bus services and Sandgate train station, providing connections to Brisbane and surrounding"
+    ]
+   },
+   "contactPerson": {
+    "name": "Brenda Pearson",
+    "phone": "+61455260728",
+    "phoneAlt": "+61732691276"
+   },
+   "company": {
+    "name": "Jim McKeering Real Estate - Sandgate",
+    "phone": null,
+    "email": null,
+    "address": "200 Seymour Street Sandgate, QLD 4017",
+    "profileUrl": "https://www.rent.com.au/agents/10464/jim-mckeering-real-estate-sandgate"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1054,7 +1172,7 @@
    },
    "contactPerson": {
     "name": "Kelsi Weeks",
-    "phone": "0405 052 517",
+    "phone": "+61405052517",
     "phoneAlt": "+61405052517"
    },
    "company": {
@@ -1182,7 +1300,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1643,9 +1761,9 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268721512/f67bd2306538956f726a2e15-1-1793848510-original.jpg?1793848510",
-    "https://cdn.rent.com.au/photos/images/268721517/f46ea1215decc6a080b4d663-2-1793848511-original.jpg?1793848511",
-    "https://cdn.rent.com.au/photos/images/268721519/2f25c7db3d54ddd2f819d706-3-1793848512-original.jpg?1793848512"
+    "https://cdn.rent.com.au/photos/images/268831787/858cdd4f87b05a657ce97fad-1-1794381761-original.jpg?1794381761",
+    "https://cdn.rent.com.au/photos/images/268831805/353476e20edcb45b4711d10c-2-1794381906-original.jpg?1794381906",
+    "https://cdn.rent.com.au/photos/images/268831812/3824ab09a7b2372afffdbe41-2-1794381911-original.jpg?1794381911"
    ],
    "id": "rent-6532225",
    "source": "rent.com.au",
@@ -1677,7 +1795,7 @@
    "inspections": [],
    "lat": "-27.435867",
    "lng": "153.032048",
-   "byline": "Furnished Studio-Utilities Included",
+   "byline": "Furnished Studio-Utilities Included- WiFi Included",
    "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/21205147\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/21205147\n\nStudio apartment is conveniently located less than 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the complex, cafe on ground floor for that convenient\n*Furnished\n*Ducted Air Conditioning and ceiling fan\n*42 inch TV\n*Microwave, Washing machine, Small Fridge\n*Single Bed with mattress, students desk\n*Rooftop relax area\n*CCTV, Secure lifts, Intercom, Secure building with fob access \n*Electricity: included in rental \n# no pets\nPLEASE NOTE if you do not register we cannot notify you of any time changes or cancellations\nApplications are subject to inspection, please do not submit applications before inspecting the property. Please ensure applications are complete when submitting to ensure no delays in processing for you.\nWhile care has been taken in the preparation of these particulars no responsibility is accepted for the accuracy of the whole or any part and interested persons are advised to make their own enquiries and satisfy themselves in all respects.\n\n(Listing ID: 21205147 )",
    "flags": {
     "ground": [
@@ -1764,7 +1882,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1828,7 +1946,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "0497 019 777",
+    "phone": "+61497019777",
     "phoneAlt": "+611300368658"
    },
    "company": {
