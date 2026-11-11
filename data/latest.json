@@ -1,10 +1,74 @@
 {
- "searchedAt": "2026-11-11T00:35+00:00",
+ "searchedAt": "2026-11-11T06:02+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 28,
+ "count": 29,
  "problems": [],
  "listings": [
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268816421/7cbf11681530298970e2da64-228230353__1794358257-60088-1-1794358916-original.jpg?1794358916",
+    "https://cdn.rent.com.au/photos/images/268816563/f03867d24d9cd12b5872b2a0-228230389__1794358259-48027-2-1794358993-original.jpg?1794358993",
+    "https://cdn.rent.com.au/photos/images/268816569/1d3074adee75d22835472a49-228230545__1794358262-47893-3-1794358995-original.jpg?1794358995"
+   ],
+   "id": "rent-5054450",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/5-28-hornibrook-esp-clontarf-qld-4019-5054450",
+   "area": "Redcliffe Peninsula",
+   "address": "5/28 Hornibrook Esplanade",
+   "suburb": "Clontarf",
+   "postcode": "4019",
+   "type": "Flat",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 380,
+   "bond": 1520,
+   "available": "24th November 2026",
+   "listedAt": "2026-11-11T08:59:45.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 64,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 32,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Parks and recreation",
+    "Friendly neighbourhood",
+    "Near shops",
+    "Close to schools"
+   ],
+   "inspections": [],
+   "lat": "-27.259952",
+   "lng": "153.081296",
+   "byline": "Lovely Flat Across the Bay!",
+   "description": "Welcome to 5/28 Hornibrook Esplanade Clontarf! This charming flat is now available for lease and offers a comfortable and convenient living experience. \n\nFeaturing 1 bedroom, 1 bathroom, and 1 toilet, this property is perfect for individuals or couples looking for a cozy space to call home. With a carport space included, parking will never be an issue. \n\nLocated in a sought-after area, this property is conveniently close to various amenities such as shops, restaurants, and public transportation. Enjoy the convenience of having everything you need within reach. Just a small walk over the road to the bay!\n\nDon't miss out on the opportunity to lease this fantastic property. With a price guide of $380 per week, it offers great value for money. \n\nFeatures Include:\n\n Property has security screens throughout\n Single bedroom with brand- new carpet\n Open lounge/dining area, brand- new carpet to lounge\n Kitchen has ample storage; a convection oven with 2 x hobs is provided and range hood\n Bathroom with shower, toilet and brand-new vanity\n Secure communal laundry area, must supply own washing machine\n Carport space provided\n* Water included\n* Please note there are at least 15 stairs to the unit\n\nDISCLAIMER:\nWe have made our best endeavours to provide accurate information. We accept no responsibility for any errors or admissions.\n\nYou will be required to physically attend and complete a property inspection in order to proceed with your rental application for this property. You will be then provided with a code which will give you access to submit your application if you wish to.  We do not accept 1Form applications.\n\nIt is also strongly recommended that you register online to attend one of our inspection times.  Failure to do so may result in you not being notified if there is a change to the inspection or even a cancellation of the inspection.",
+   "flags": {
+    "stairs": [
+     "ovided * Water included * Please note there are at least 15 stairs to the unit DISCLAIMER: We have made our best endeavours t"
+    ],
+    "shops": [
+     "property is conveniently close to various amenities such as shops, restaurants, and public transportation. Enjoy the convenie",
+     "to various amenities such as shops, restaurants, and public transportation. Enjoy the convenience of having everything you need w"
+    ]
+   },
+   "contactPerson": {
+    "name": "Kim Ellis",
+    "phone": "+61738838109",
+    "phoneAlt": "+61738838109"
+   },
+   "company": {
+    "name": "Ray White Woody Point",
+    "phone": null,
+    "email": null,
+    "address": "54 Oxley Avenue Woody Point, QLD 4019",
+    "profileUrl": "https://www.rent.com.au/agents/6609/ray-white-woody-point"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
   {
    "photos": [
     "https://cdn.rent.com.au/photos/images/258349746/a1478c11c46ecd3ab7e5d968-b32c018e-0100-4850-a7cf-3057b48e3bcb-1793774495-original.jpg?1793774495",
@@ -1118,7 +1182,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1700,7 +1764,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
@@ -1764,7 +1828,7 @@
    },
    "contactPerson": {
     "name": "Indeea Mallett",
-    "phone": "+61497019777",
+    "phone": "0497 019 777",
     "phoneAlt": "+611300368658"
    },
    "company": {
