@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-13T11:01:30+10:00"
+  "lastSeenAt": "2026-11-13T16:32:30+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-13T11:01:30+10:00"
+  "lastSeenAt": "2026-11-13T16:32:30+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1503,7 +1503,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-13T11:01:30+10:00"
+  "lastSeenAt": "2026-11-13T16:32:30+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1639,7 +1639,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-13T11:01:30+10:00"
+  "lastSeenAt": "2026-11-13T16:32:30+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2478,7 +2478,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2544,7 +2544,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2810,7 +2810,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2945,7 +2945,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3016,7 +3016,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3219,7 +3219,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6519190": {
@@ -3427,7 +3427,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3570,7 +3570,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3641,7 +3641,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6500883": {
@@ -3713,7 +3713,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3917,7 +3917,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6510954": {
@@ -3939,9 +3939,9 @@
    "beds": 1,
    "baths": 1,
    "cars": 1,
-   "price": 420,
-   "bond": 1680,
-   "available": "now",
+   "price": 410,
+   "bond": 1640,
+   "available": "16th November 2026",
    "listedAt": "2026-10-09T15:02:36.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3988,7 +3988,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-5993027": {
@@ -4057,7 +4057,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6532240": {
@@ -4203,7 +4203,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4273,7 +4273,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4339,7 +4339,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4411,7 +4411,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4481,7 +4481,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4615,7 +4615,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4676,7 +4676,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6539032": {
@@ -4717,8 +4717,8 @@
    "inspections": [],
    "lat": "-27.2495",
    "lng": "152.997137",
-   "byline": "COMFORTABLE AND CONVENIENT LIVING IN KALLANGUR  FRESH UPDATES UNDERWAY!",
-   "description": "Positioned in a convenient Kallangur location, this neat and comfortable one-bedroom unit offers an excellent opportunity for those seeking low-maintenance living with everyday conveniences close at hand.\n\nFeaturing a practical layout, one bedroom, a central bathroom and a dedicated car space, this property is ideal for singles or couples looking for an easy-care home in a well-connected location.\n\nProperty Features:\n\nOne comfortable bedroom.\nOne bathroom.\nOne allocated car space.\nPractical and easy-to-maintain layout.\nConvenient position along Anzac Avenue.\nLow-maintenance unit living.\nFresh paint and new blinds being completed.\n\nThe property is currently receiving some fresh updates, including:\n\n- Fresh new paint throughout.\n- New blinds being installed.\n\n*MORE PHOTOS TO COME*\n\nThis property is Available 4th December 2026!\nCall now for more information | 1300 933 733\nWe are Accepting Applications for Pre-Approval NOW!\nApplication forms can be obtained from our office or by visiting our website:\nhttps://pikeproperty.com.au/tenant-forms",
+   "byline": "Comfortable & Convenient Living in Kallangur - Fresh Updates Underway!",
+   "description": "Positioned in a convenient Kallangur location, this neat and comfortable 1 bedroom unit offers an excellent opportunity for those seeking low maintenance living with everyday conveniences close at hand.\n\nFeaturing a practical layout, 1 bedroom, central bathroom and a dedicated car space, this property is ideal for singles or couples looking for an easy care home in a well connected location.\n\nProperty Features:\n1 comfortable bedroom\n1 bathroom\n1 allocated car space\nPractical and easy to maintain layout\nConvenient position along Anzac Avenue\nLow maintenance unit living\n\nThe property is currently receiving some fresh updates, including:\n\nFresh new paint throughout before you move in \nNew blinds before you move in \n\n*MORE PHOTOS TO COME*\n\nThis property is Available 4th December 2026!\nCall now for more information | 1300 933 733\nWe are Accepting Applications for Pre-Approval NOW!\nApplication forms can be obtained from our office or by visiting our website:\nhttps://pikeproperty.com.au/tenant-forms",
    "flags": {},
    "contactPerson": {
     "name": "Pike Property Rental Team",
@@ -4737,7 +4737,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4806,7 +4806,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -4867,7 +4867,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6540948": {
@@ -4934,7 +4934,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  },
  "rent-6531118": {
@@ -4986,7 +4986,7 @@
    },
    "contactPerson": {
     "name": "LJ Hooker Stafford Rental Team",
-    "phone": "+61405659437",
+    "phone": "0405659437",
     "phoneAlt": "+61405659437"
    },
    "company": {
@@ -5001,7 +5001,150 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-13T11:01:30+10:00",
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
+  "gone": false
+ },
+ "rent-6542985": {
+  "firstSeenAt": "2026-11-13T16:32:30+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268864789/707416300a01a1ed3b016ac6-cox-road-main-photo-_3ce5-1138-eeef-7c7e-a33f-d372-8fd7-c425_20261105083149-1794537958-original.jpg?1794537958",
+    "https://cdn.rent.com.au/photos/images/268865002/a8b087d7841d9052b4d37397-7-cox-road-windsor-q_cb47-9471-4aec-572c-543b-4d38-0532-cefc_20261105083150-1794538188-original.jpg?1794538188",
+    "https://cdn.rent.com.au/photos/images/268865003/e0fe1d13b5b740ed36a824f4-7-cox-road-windsor-q_04bf-1f76-409d-5eae-8d34-186d-4367-4f93_20261105083151-1794538188-original.jpg?1794538188"
+   ],
+   "id": "rent-6542985",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/7-cox-rd-windsor-qld-4030-6542985",
+   "area": "Northern suburbs",
+   "address": "7 Cox Road",
+   "suburb": "Windsor",
+   "postcode": "4030",
+   "type": "Other",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 270,
+   "bond": 1080,
+   "available": "23rd November 2026",
+   "listedAt": "2026-11-13T10:38:16.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 83,
+   "walkCategory": "very_walkable",
+   "transitScore": 61,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Close to CBD",
+    "Near shops",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.437153",
+   "lng": "153.02738",
+   "byline": "Private Furnished Room with Airconditioning - 4km from the Brisbane CBD",
+   "description": "Please take a moment to read the below thoroughly as many frequently asked questions are answered below: All approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage. \n\nLocated in the convenient suburb of Windsor, this property offers easy access to shops, cafes, and local amenities. Each room is private, lockable, and fully furnished, providing both comfort and security. \n\nAVAILABLE ROOM \nRoom 3 : Available 23/11/2026 at $270 Per Week \nYour electricity, internet and water are included within your weekly rental price. Due to Brisbane City Council and Queensland Fire Compliance, all rooms are single occupancy only (i.e. no couples, no children). \n\nAs this is a Rooming Accommodation house, it is not suitable for pets. \n\nAPPLICATIONS \nWe strongly encourage people to pre-submit their tenancy application prior to inspecting as this will allow us to contact your references. \n\nLOCATION & TRANSPORT \nWindsor is located just 10 minutes from Brisbane City, making it an ideal location for commuters and students alike. Bus routes 333, 340 and 375 service the area, providing quick and easy access to the CBD and surrounding suburbs. Windsor Train Station is also nearby, offering an additional transport option. With local shops, cafes, and parks all within walking distance, Windsor offers a comfortable and convenient lifestyle. \n\n- Electricity, internet, and water included in weekly rent \n- Furnished private, lockable room \n- Single occupancy only \n- Flexible lease options (6- or 12-months) \n- Close to public transport, shops, and amenities \n- Virtual tours and photos available\n\nContact Angelo Karalis on 0421 242 645\n\nAll approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage.\n\nApply through REA Ignite:\nREA Ignite is a smart, user-friendly platform that is used for submitting online rental applications. Click the red APPLY button on a property advertisement to seamlessly fill and submit your completed application directly to the respective agency or property manager. We process applications prior to viewings allowing for faster turnaround times in finalising your application.\n\nDisclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and correct. However, we disclaim all liability for any errors, omissions, inaccuracies, or misstatements. We encourage prospective tenants to make their own enquiries to verify the information contained in this advertisement.\n\nDisclaimer: \n Karalis Real Estate Agents also offer a property management service. If youre considering renting your property,  are looking to buy or would like a free review of your current portfolio, please call our main office on (07) 3343 8000 ",
+   "flags": {
+    "stairs": [
+     "ing your application. Disclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and"
+    ],
+    "shops": [
+     "ient suburb of Windsor, this property offers easy access to shops, cafes, and local amenities. Each room is private, lockable",
+     "this will allow us to contact your references. LOCATION & TRANSPORT Windsor is located just 10 minutes from Brisbane City, mak",
+     "king it an ideal location for commuters and students alike. Bus routes 333, 340 and 375 service the area, providing quick a",
+     "and easy access to the CBD and surrounding suburbs. Windsor Train Station is also nearby, offering an additional transport op",
+     "indsor Train Station is also nearby, offering an additional transport option. With local shops, cafes, and parks all within walki",
+     "nearby, offering an additional transport option. With local shops, cafes, and parks all within walking distance, Windsor offe"
+    ]
+   },
+   "contactPerson": {
+    "name": "Angelo Karalis",
+    "phone": "+61421242645",
+    "phoneAlt": "+61421242645"
+   },
+   "company": {
+    "name": "Karalis Real Estate",
+    "phone": null,
+    "email": null,
+    "address": "1389 Logan Road Mount Gravatt, QLD 4122",
+    "profileUrl": "https://www.rent.com.au/agents/12981/karalis-real-estate"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
+  "gone": false
+ },
+ "rent-4464501": {
+  "firstSeenAt": "2026-11-13T16:32:30+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/234410004/10e88d6afd48b60d9ff823c5-10057515_20750597_13_1612315620-1650519581-original.jpg?1650519581",
+    "https://cdn.rent.com.au/photos/images/265963818/490e94b495798d670ce2499f-10057515_20750597_5_1779427099-1779428487-original.jpg?1779428487",
+    "https://cdn.rent.com.au/photos/images/234410006/5984936a6d007bc0e2d51a1b-10057515_20750597_10_1612315619-1650519581-original.jpg?1650519581"
+   ],
+   "id": "rent-4464501",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-184a-church-rd-taigum-qld-4018-4464501",
+   "area": "Northern suburbs",
+   "address": "4/184A Church Road",
+   "suburb": "Taigum",
+   "postcode": "4018",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "1st December 2026",
+   "listedAt": "2026-11-13T10:05:58.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 78,
+   "walkCategory": "very_walkable",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Near shops",
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.350706",
+   "lng": "153.045936",
+   "byline": "NEAR NEW GROUND FLOOR STUDIO UNIT",
+   "description": "Near new, well designed studio apartment styled and ready for occupancy in the heart of Taigum\n\nPerfectly located ground floor studio with fully fenced private courtyard and garden facing the rear of the property. \n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets) \n\nFully furnished studio with spacious, open plan living area, spacious bedroom area, kitchenette, ensuite and loads of storage space. Air conditioned, complete with security screens and ceiling fan. \n\nShared laundry with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located across the road from Taigum Shopping Centre. Equal distances to Carseldine and Zillmere train stations, buses at your door. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe Quick book your inspection online today!!",
+   "flags": {
+    "ground": [
+     "ady for occupancy in the heart of Taigum Perfectly located ground floor studio with fully fenced private courtyard and garden facin"
+    ],
+    "shops": [
+     "the rent Conveniently located across the road from Taigum Shopping Centre. Equal distances to Carseldine and Zillmere trai",
+     "Shopping Centre. Equal distances to Carseldine and Zillmere train stations, buses at your door. Easy access to Sunshine Coast",
+     "Equal distances to Carseldine and Zillmere train stations, buses at your door. Easy access to Sunshine Coast motorway and ot"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-13T16:32:30+10:00",
   "gone": false
  }
 }
