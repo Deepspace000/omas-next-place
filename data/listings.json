@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-15T16:18:44+10:00"
+  "lastSeenAt": "2026-11-17T12:54:04+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-15T16:18:44+10:00"
+  "lastSeenAt": "2026-11-17T12:54:04+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1501,9 +1501,10 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "gone": false,
+  "gone": true,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-15T16:18:44+10:00"
+  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "goneAt": "2026-11-17T12:54:04+10:00"
  },
  "rent-5908714": {
   "raw": {
@@ -1639,7 +1640,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-15T16:18:44+10:00"
+  "lastSeenAt": "2026-11-17T12:54:04+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2478,7 +2479,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2544,7 +2545,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2810,7 +2811,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2945,7 +2946,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3016,7 +3017,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3220,7 +3221,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-15T16:18:44+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-17T12:54:04+10:00"
  },
  "rent-6519190": {
   "firstSeenAt": "2026-10-20T14:42:40+10:00",
@@ -3379,7 +3381,7 @@
    "cars": 0,
    "price": 430,
    "bond": 1720,
-   "available": "16th November 2026",
+   "available": "now",
    "listedAt": "2026-10-20T15:00:48.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3427,7 +3429,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3520,8 +3522,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 420,
-   "bond": 1680,
+   "price": 410,
+   "bond": 1640,
    "available": "now",
    "listedAt": "2026-10-11T08:31:06.000+08:00",
    "petsListed": false,
@@ -3540,7 +3542,7 @@
    "lat": "-27.319653",
    "lng": "153.032077",
    "byline": "FURNISHED STUDIO UNITS WITH A POOL",
-   "description": "New to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices range from $420 to $440 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use, single remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
+   "description": "New to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices range from $420 to $440 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
    "flags": {
     "stairs": [
      "s, no children, not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are",
@@ -3570,7 +3572,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3641,7 +3643,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6500883": {
@@ -3713,7 +3715,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3918,7 +3920,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-15T16:18:44+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-17T12:54:04+10:00"
  },
  "rent-6510954": {
   "firstSeenAt": "2026-11-02T15:55:15+10:00",
@@ -3941,7 +3944,7 @@
    "cars": 1,
    "price": 410,
    "bond": 1640,
-   "available": "16th November 2026",
+   "available": "now",
    "listedAt": "2026-10-09T15:02:36.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3988,7 +3991,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-5993027": {
@@ -4057,7 +4060,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6532240": {
@@ -4134,9 +4137,9 @@
   "firstSeenAt": "2026-11-03T16:40:03+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268831787/858cdd4f87b05a657ce97fad-1-1794381761-original.jpg?1794381761",
-    "https://cdn.rent.com.au/photos/images/268831805/353476e20edcb45b4711d10c-2-1794381906-original.jpg?1794381906",
-    "https://cdn.rent.com.au/photos/images/268831812/3824ab09a7b2372afffdbe41-2-1794381911-original.jpg?1794381911"
+    "https://cdn.rent.com.au/photos/images/268906153/888fcd5b5d0caf7c6d17d468-1-1794869762-original.jpg?1794869762",
+    "https://cdn.rent.com.au/photos/images/268906319/076d6fad59a083c07f750648-2-1794870251-original.jpg?1794870251",
+    "https://cdn.rent.com.au/photos/images/268906320/52ee887f9282e8c8385e35dd-3-1794870251-original.jpg?1794870251"
    ],
    "id": "rent-6532225",
    "source": "rent.com.au",
@@ -4169,16 +4172,16 @@
    "lat": "-27.435867",
    "lng": "153.032048",
    "byline": "Furnished Studio-Utilities Included- WiFi Included",
-   "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/21205147\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/21205147\n\nStudio apartment is conveniently located less than 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the complex, cafe on ground floor for that convenient\n*Furnished\n*Ducted Air Conditioning and ceiling fan\n*42 inch TV\n*Microwave, Washing machine, Small Fridge\n*Single Bed with mattress, students desk\n*Rooftop relax area\n*CCTV, Secure lifts, Intercom, Secure building with fob access \n*Electricity: included in rental \n# no pets\nPLEASE NOTE if you do not register we cannot notify you of any time changes or cancellations\nApplications are subject to inspection, please do not submit applications before inspecting the property. Please ensure applications are complete when submitting to ensure no delays in processing for you.\nWhile care has been taken in the preparation of these particulars no responsibility is accepted for the accuracy of the whole or any part and interested persons are advised to make their own enquiries and satisfy themselves in all respects.\n\n(Listing ID: 21205147 )",
+   "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/21205147\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/21205147\n\nStudio apartment is conveniently located less than 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the complex, cafe on ground floor for that convenient\n*Furnished\n*Ducted Air Conditioning and ceiling fan\n*42 inch TV\n*Microwave, Washing machine, Small Fridge\n*Single Bed with mattress, students desk\n*Rooftop relax area\n*CCTV, Secure lifts, Intercom, Secure building with fob access \n*WiFi and Electricity usage: included in rental \n# no pets\nPLEASE NOTE if you do not register we cannot notify you of any time changes or cancellations\nApplications are subject to inspection, please do not submit applications before inspecting the property. Please ensure applications are complete when submitting to ensure no delays in processing for you.\nWhile care has been taken in the preparation of these particulars no responsibility is accepted for the accuracy of the whole or any part and interested persons are advised to make their own enquiries and satisfy themselves in all respects.\n\n(Listing ID: 21205147 )",
    "flags": {
     "ground": [
      "bus stop directly at the front door of the complex, cafe on ground floor for that convenient *Furnished *Ducted Air Conditioning and"
     ],
     "lift": [
-     "h mattress, students desk *Rooftop relax area *CCTV, Secure lifts, Intercom, Secure building with fob access *Electricity: i"
+     "h mattress, students desk *Rooftop relax area *CCTV, Secure lifts, Intercom, Secure building with fob access *WiFi and Elect"
     ],
     "pets": [
-     "ilding with fob access *Electricity: included in rental # no pets PLEASE NOTE if you do not register we cannot notify you of"
+     "access *WiFi and Electricity usage: included in rental # no pets PLEASE NOTE if you do not register we cannot notify you of"
     ],
     "shops": [
      "n 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as",
@@ -4203,7 +4206,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4273,7 +4276,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4339,7 +4342,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4411,7 +4414,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4481,7 +4484,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4615,7 +4618,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4676,7 +4679,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6539032": {
@@ -4737,7 +4740,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4806,7 +4809,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -4867,7 +4870,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6540948": {
@@ -4934,7 +4937,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6531118": {
@@ -4986,7 +4989,7 @@
    },
    "contactPerson": {
     "name": "LJ Hooker Stafford Rental Team",
-    "phone": "0405659437",
+    "phone": "+61405659437",
     "phoneAlt": "+61405659437"
    },
    "company": {
@@ -5001,7 +5004,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5043,7 +5046,7 @@
    "lat": "-27.437153",
    "lng": "153.02738",
    "byline": "Private Furnished Room with Airconditioning - 4km from the Brisbane CBD",
-   "description": "Please take a moment to read the below thoroughly as many frequently asked questions are answered below: All approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage. \n\nLocated in the convenient suburb of Windsor, this property offers easy access to shops, cafes, and local amenities. Each room is private, lockable, and fully furnished, providing both comfort and security. \n\nAVAILABLE ROOM \nRoom 3 : Available 23/11/2026 at $270 Per Week \nYour electricity, internet and water are included within your weekly rental price. Due to Brisbane City Council and Queensland Fire Compliance, all rooms are single occupancy only (i.e. no couples, no children). \n\nAs this is a Rooming Accommodation house, it is not suitable for pets. \n\nAPPLICATIONS \nWe strongly encourage people to pre-submit their tenancy application prior to inspecting as this will allow us to contact your references. \n\nLOCATION & TRANSPORT \nWindsor is located just 10 minutes from Brisbane City, making it an ideal location for commuters and students alike. Bus routes 333, 340 and 375 service the area, providing quick and easy access to the CBD and surrounding suburbs. Windsor Train Station is also nearby, offering an additional transport option. With local shops, cafes, and parks all within walking distance, Windsor offers a comfortable and convenient lifestyle. \n\n- Electricity, internet, and water included in weekly rent \n- Furnished private, lockable room \n- Single occupancy only \n- Flexible lease options (6- or 12-months) \n- Close to public transport, shops, and amenities \n- Virtual tours and photos available\n\nContact Angelo Karalis on 0421 242 645\n\nAll approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage.\n\nApply through REA Ignite:\nREA Ignite is a smart, user-friendly platform that is used for submitting online rental applications. Click the red APPLY button on a property advertisement to seamlessly fill and submit your completed application directly to the respective agency or property manager. We process applications prior to viewings allowing for faster turnaround times in finalising your application.\n\nDisclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and correct. However, we disclaim all liability for any errors, omissions, inaccuracies, or misstatements. We encourage prospective tenants to make their own enquiries to verify the information contained in this advertisement.\n\nDisclaimer: \n Karalis Real Estate Agents also offer a property management service. If youre considering renting your property,  are looking to buy or would like a free review of your current portfolio, please call our main office on (07) 3343 8000 ",
+   "description": "Please take a moment to read the below thoroughly as many frequently asked questions are answered below: All approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage. \n\nLocated in the convenient suburb of Windsor, this property offers easy access to shops, cafes, and local amenities. Each room is private, lockable, and fully furnished, providing both comfort and security. \n\nAVAILABLE ROOM \nRoom 2 : Available 23/11/2026 at $270 Per Week \nYour electricity, internet and water are included within your weekly rental price. Due to Brisbane City Council and Queensland Fire Compliance, all rooms are single occupancy only (i.e. no couples, no children). \n\nAs this is a Rooming Accommodation house, it is not suitable for pets. \n\nAPPLICATIONS \nWe strongly encourage people to pre-submit their tenancy application prior to inspecting as this will allow us to contact your references. \n\nLOCATION & TRANSPORT \nWindsor is located just 10 minutes from Brisbane City, making it an ideal location for commuters and students alike. Bus routes 333, 340 and 375 service the area, providing quick and easy access to the CBD and surrounding suburbs. Windsor Train Station is also nearby, offering an additional transport option. With local shops, cafes, and parks all within walking distance, Windsor offers a comfortable and convenient lifestyle. \n\n- Electricity, internet, and water included in weekly rent \n- Furnished private, lockable room \n- Single occupancy only \n- Flexible lease options (6- or 12-months) \n- Close to public transport, shops, and amenities \n- Virtual tours and photos available\n\nContact Angelo Karalis on 0421 242 645\n\nAll approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage.\n\nApply through REA Ignite:\nREA Ignite is a smart, user-friendly platform that is used for submitting online rental applications. Click the red APPLY button on a property advertisement to seamlessly fill and submit your completed application directly to the respective agency or property manager. We process applications prior to viewings allowing for faster turnaround times in finalising your application.\n\nDisclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and correct. However, we disclaim all liability for any errors, omissions, inaccuracies, or misstatements. We encourage prospective tenants to make their own enquiries to verify the information contained in this advertisement.\n\nDisclaimer: \n Karalis Real Estate Agents also offer a property management service. If youre considering renting your property,  are looking to buy or would like a free review of your current portfolio, please call our main office on (07) 3343 8000 ",
    "flags": {
     "stairs": [
      "ing your application. Disclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and"
@@ -5074,7 +5077,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5144,7 +5147,145 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-15T16:18:44+10:00",
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "gone": false
+ },
+ "rent-5535940": {
+  "firstSeenAt": "2026-11-17T12:54:04+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268646094/9b0c42522ad1f3f000f399e2-168248288626934082-1793585845-original.jpg?1793585845",
+    "https://cdn.rent.com.au/photos/images/268646390/d2e37690aff617de2987b7b6-168248288625298693-1793586007-original.jpg?1793586007",
+    "https://cdn.rent.com.au/photos/images/268646391/6af3387970bc5e562e491af7-168248288524546291-1793586007-original.jpg?1793586007"
+   ],
+   "id": "rent-5535940",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/1-12-westacott-st-nundah-qld-4012-5535940",
+   "area": "Northern suburbs",
+   "address": "1/12 Westacott Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 390,
+   "bond": 0,
+   "available": "now",
+   "listedAt": "2026-11-02T10:13:50.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 91,
+   "walkCategory": "walkers_paradise",
+   "transitScore": 64,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Cafes and restaurants",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.406474",
+   "lng": "153.058776",
+   "byline": "Low Maintenance in a Great Location",
+   "description": "This low maintenance unit is positioned perfectly - park the car in the large garage and walk to the train station, shops, or a very short drive to Nundah Village where you will find an array of cafes, shops & parks.\n\nProperty features:\n\n* Combined living and dining area\n* 1 Bedroom\n* 1 Bathroom \n* Tiled throughout\n* Laundry in garage\n* Large lock up garage\n\nNote: historic images used to protect tenants privacy",
+   "flags": {
+    "shops": [
+     "erfectly - park the car in the large garage and walk to the train station, shops, or a very short drive to Nundah Village whe",
+     "the car in the large garage and walk to the train station, shops, or a very short drive to Nundah Village where you will fin",
+     "ve to Nundah Village where you will find an array of cafes, shops & parks. Property features: * Combined living and dining"
+    ]
+   },
+   "contactPerson": {
+    "name": "Leasing Team",
+    "phone": "+61738763744",
+    "phoneAlt": "+61738763744"
+   },
+   "company": {
+    "name": "Elders Real Estate Paddington",
+    "phone": null,
+    "email": null,
+    "address": "50/283 Given Terrace Paddington, QLD 4064",
+    "profileUrl": "https://www.rent.com.au/agents/9460/elders-real-estate-paddington"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "gone": false
+ },
+ "rent-6544964": {
+  "firstSeenAt": "2026-11-17T12:54:04+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268899267/e9167bcdf5a389cba6fbc06a-1-1794807986-original.jpg?1794807986",
+    "https://cdn.rent.com.au/photos/images/268899420/9c692a3e6b105083ab3cc04c-2-1794808012-original.jpg?1794808012",
+    "https://cdn.rent.com.au/photos/images/268899434/306683a671d1f65046b5f86a-2-1794808012-original.jpg?1794808012"
+   ],
+   "id": "rent-6544964",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/id99919093-42-griffiths-st-bald-hills-qld-4036-6544964",
+   "area": "Northern suburbs",
+   "address": "ID:99919093/42 Griffiths Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Apartment",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 425,
+   "bond": 1700,
+   "available": "21st November 2026",
+   "listedAt": "2026-11-16T13:45:10.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 45,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.322957",
+   "lng": "153.011369",
+   "byline": "Furnished with Bills + WiFi Incl",
+   "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/99919093\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/99919093\n\nAVAILABLE NOW - Spacious 1 bedroom furnished apartment. This rental option is air conditioned with ceiling fans and features a large bathroom with over-sized shower as well as a kitchenette equipped with all your appliance needs. \n\nLocated on the ground floor, private living space opens onto a small courtyard and exclusive use clothesline. Security is assured with electronic locks and security screens throughout. In addition, there is a full kitchen and laundry facilities (2 x washing machines) available for use in common areas of the building. The rental rate is inclusive of utilities + access to free unlimited WiFi is provided.\n\nThis type of accommodation is strictly only available for one person to occupy. No Couples or children. Sorry no pets.\n\nIdeally positioned within 4 mins drive or 10 mins walk from the train station and close to local amenities. All enquiries welcome.\n\n(Listing ID: 99919093 )",
+   "flags": {
+    "ground": [
+     "te equipped with all your appliance needs. Located on the ground floor, private living space opens onto a small courtyard and excl"
+    ],
+    "pets": [
+     "ble for one person to occupy. No Couples or children. Sorry no pets. Ideally positioned within 4 mins drive or 10 mins walk fr"
+    ],
+    "shops": [
+     "lly positioned within 4 mins drive or 10 mins walk from the train station and close to local amenities. All enquiries welcome"
+    ]
+   },
+   "contactPerson": {
+    "name": "Shay Harrison",
+    "phone": "+61411203377",
+    "phoneAlt": "+61411203377"
+   },
+   "company": {
+    "name": "The Onsite Manager",
+    "phone": null,
+    "email": null,
+    "address": "111 Eagle St Brisbane, QLD 4000",
+    "profileUrl": "https://www.rent.com.au/agents/33/the-onsite-manager"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-17T12:54:04+10:00",
   "gone": false
  }
 }
