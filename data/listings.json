@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-17T12:54:04+10:00"
+  "lastSeenAt": "2026-11-17T17:49:15+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-17T12:54:04+10:00"
+  "lastSeenAt": "2026-11-17T17:49:15+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1640,7 +1640,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-17T12:54:04+10:00"
+  "lastSeenAt": "2026-11-17T17:49:15+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2479,7 +2479,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2545,7 +2545,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2811,7 +2811,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2946,7 +2946,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3002,7 +3002,7 @@
    },
    "contactPerson": {
     "name": "Pinnacle Properties Property  Manager",
-    "phone": "0423 571 883",
+    "phone": "+61423571883",
     "phoneAlt": "+61423571883"
    },
    "company": {
@@ -3017,7 +3017,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3429,7 +3429,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3522,8 +3522,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 410,
-   "bond": 1640,
+   "price": 390,
+   "bond": 1560,
    "available": "now",
    "listedAt": "2026-10-11T08:31:06.000+08:00",
    "petsListed": false,
@@ -3542,7 +3542,7 @@
    "lat": "-27.319653",
    "lng": "153.032077",
    "byline": "FURNISHED STUDIO UNITS WITH A POOL",
-   "description": "New to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices range from $420 to $440 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
+   "description": "Studios range from $390 to $410/week.\n\nNew to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices range from $420 to $440 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
    "flags": {
     "stairs": [
      "s, no children, not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are",
@@ -3572,7 +3572,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3643,16 +3643,16 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6500883": {
   "firstSeenAt": "2026-10-30T09:56:19+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268073987/abe19af0f786859b7b76e1ec-10057515_21681185_27_1790648692-1790649742-original.jpg?1790649742",
-    "https://cdn.rent.com.au/photos/images/268073985/e883ed276051b8e1712c8af4-10057515_21681185_28_1790648695-1790649741-original.jpg?1790649741",
-    "https://cdn.rent.com.au/photos/images/268073984/a005f658c3bc14728483eac0-10057515_21681185_25_1790648686-1790649741-original.jpg?1790649741"
+    "https://cdn.rent.com.au/photos/images/268073966/8265156a4ccc2ced5d301658-10057515_21681185_7_1790648657-1790649738-original.jpg?1790649738",
+    "https://cdn.rent.com.au/photos/images/268073644/c40b4582474073b34386975a-10057515_21681185_6_1790648653-1790649479-original.jpg?1790649479",
+    "https://cdn.rent.com.au/photos/images/268073970/a3b8254fa65bc2e556be04a6-10057515_21681185_8_1790648665-1790649739-original.jpg?1790649739"
    ],
    "id": "rent-6500883",
    "source": "rent.com.au",
@@ -3665,9 +3665,9 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 420,
-   "bond": 1680,
-   "available": "now",
+   "price": 400,
+   "bond": 1600,
+   "available": "18th November 2026",
    "listedAt": "2026-09-29T10:31:06.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3684,13 +3684,9 @@
    "inspections": [],
    "lat": "-27.364241",
    "lng": "153.026329",
-   "byline": "BRAND NEW ROOMY ASPLEY STUDIOS - ONLY 5 REMAIN!",
-   "description": "Studios range from $420 to $450 per week\n\nWell designed, BRAND-NEW selection of both furnished and unfurnished studio units located in a  very convenient Aspley location.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\nWith a mixture of furnished and unfurnished studio units all different shapes and sizes. The 2 upstairs studios are furnished with enclosed balconies, downstairs one is furnished and 2 are unfurnished opening out to fully fenced courtyards and garden areas\n\nSpacious and roomy in design, fully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, large bathroom, separated bedroom with spacious extra large built in robes\n\nShared laundry with 2 washing machines provided and free to use. Designated off street parking space available for an additional weekly cost.\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other major arterial highways.",
+   "byline": "BRAND NEW UNFURNISHED STUDIO UNITS - ONLY 3 REMAIN!",
+   "description": "Studios range from $400 to $440 per week\n\nWell designed, BRAND-NEW unfurnished studio units located in a very convenient Aspley location.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\n2 designs to choose from, an open-plan combined bedroom and dining area, or a separated bedroom from the living/dining area, both opening out to fully fenced courtyards with designated clotheslines.\n\nSpacious and roomy in design, fully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, large bathroom, separated bedroom with spacious extra large built in robes\n\nShared laundry with 2 washing machines provided and free to use. Street parking only available.\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other major arterial highways.",
    "flags": {
-    "stairs": [
-     "urnished studio units all different shapes and sizes. The 2 upstairs studios are furnished with enclosed balconies, downstairs o",
-     "e 2 upstairs studios are furnished with enclosed balconies, downstairs one is furnished and 2 are unfurnished opening out to fully"
-    ],
     "shops": [
      "the rent Conveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, As",
      "Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train",
@@ -3715,7 +3711,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3991,7 +3987,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-5993027": {
@@ -4060,7 +4056,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6532240": {
@@ -4206,7 +4202,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4276,7 +4272,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4342,7 +4338,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4414,7 +4410,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4484,7 +4480,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4618,7 +4614,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4664,7 +4660,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Rental Perspective Rental Team",
-    "phone": "+61448278288",
+    "phone": "0448 278 288",
     "phoneAlt": "+61448278288"
    },
    "company": {
@@ -4679,7 +4675,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6539032": {
@@ -4740,7 +4736,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4809,7 +4805,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -4870,7 +4866,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6540948": {
@@ -4937,7 +4933,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6531118": {
@@ -5004,7 +5000,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5077,7 +5073,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5147,7 +5143,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-5535940": {
@@ -5214,7 +5210,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  },
  "rent-6544964": {
@@ -5285,7 +5281,210 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-17T12:54:04+10:00",
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
+  "gone": false
+ },
+ "rent-6546396": {
+  "firstSeenAt": "2026-11-17T17:49:15+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268922786/119a87230b69527cd122f021-zliving-a64b-d8c2-5b_0632-07b5-95b6-2bac-6e4c-57b7-af77-3c50_20261117051527-1794892726-original.jpg?1794892726",
+    "https://cdn.rent.com.au/photos/images/268922789/0908ec846e890f7309d7b327-zkitchen-f6e3-4fd4-d_faf2-2214-abb3-d41e-1f6c-214c-ba3f-11b7_20261117051527-1794892727-original.jpg?1794892727",
+    "https://cdn.rent.com.au/photos/images/268922790/4332754d5adbb0c570534e39-zbed-cda4-b86d-0a39-_f2af-4d76-42ed-264a-ba21-2186-5e8f-cfdb_20261117051528-1794892728-original.jpg?1794892728"
+   ],
+   "id": "rent-6546396",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/35b-samrill-st-boondall-qld-4034-6546396",
+   "area": "Northern suburbs",
+   "address": "35B Samrill Street",
+   "suburb": "Boondall",
+   "postcode": "4034",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 400,
+   "bond": 1600,
+   "available": "12th December 2026",
+   "listedAt": "2026-11-17T13:18:45.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 47,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 33,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.359205",
+   "lng": "153.057658",
+   "byline": "Spacious Self Contained Unit in Quiet Street",
+   "description": "This is very rare - a large self-contained one bedroom unit in a quiet cul-de-sac. Very private and close to all amenities, with it's own covered entertaining area and grassy backyard. \n\nFeatures Include: \n* 1 Large Bedroom with Wardrobe \n* Huge Bathroom with Separate Shower \n* Large Bright Kitchen \n* Large Air Conditioned Living area \n* Internal Laundry with Lots of Cupboards \n* Large Storage area \n* Covered Entertaining area \n* Grassy Backyard \n* Single Carport \n* Power and Water Included \n\nContact Go Gecko Real Estate today to arrange an inspection",
+   "flags": {},
+   "contactPerson": {
+    "name": "Angela Bryer",
+    "phone": "+61731224198",
+    "phoneAlt": "+61731224198"
+   },
+   "company": {
+    "name": "Go Gecko Inner North",
+    "phone": null,
+    "email": null,
+    "address": "1471 Sandgate Rd Nundah, QLD 4012",
+    "profileUrl": "https://www.rent.com.au/agents/2462/go-gecko-inner-north"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
+  "gone": false
+ },
+ "rent-5917799": {
+  "firstSeenAt": "2026-11-17T17:49:15+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/254750704/37f18d116de44563a9626d9e-10057515_20486527_3_1591669606-1736815105-original.jpg?1736815105",
+    "https://cdn.rent.com.au/photos/images/254751170/19f287d28a0e4fe6d185b956-10057515_20486527_1_1591669606-1736815375-original.jpg?1736815375",
+    "https://cdn.rent.com.au/photos/images/254751168/77e9b9edbcd324ab18dc0d61-10057515_20486527_10_1591669609-1736815375-original.jpg?1736815375"
+   ],
+   "id": "rent-5917799",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/5-147-wakefield-st-bald-hills-qld-4036-5917799",
+   "area": "Northern suburbs",
+   "address": "5/147 Wakefield Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 410,
+   "bond": 1640,
+   "available": "now",
+   "listedAt": "2026-11-17T13:02:39.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 45,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.321809",
+   "lng": "153.011479",
+   "byline": "EXCELLENT STUDIO APARTMENT",
+   "description": "Ground floor studio well designed studio apartment meticulously designed and styled ready for occupancy with a private fenced courtyard\n\nCouncil and Fire Regulations allow single people ONLY (ie no couples or children and the property is not suitable for pets)\n\nLocated on ground level facing the rear of the property opening out to fully fenced courtyard and garden area. Fully furnished with a spacious, open plan living and bedroom areas, kitchenette, ensuite and loads of storage space. Air conditioned, complete with security screens and ceiling fan\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nShared laundry with 2 washing machines, street parking only\n\nConveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe quick, book your inspection online now!!\n\n**INSPECTION NOTES: Our \"Book Inspection\" button will indicate all available inspection times as they become available. Inspections may be changed or cancelled if attendance is not confirmed via return SMS or email.**",
+   "flags": {
+    "ground": [
+     "Ground floor studio well designed studio apartment meticulously designed",
+     "dren and the property is not suitable for pets) Located on ground level facing the rear of the property opening out to fully fenced"
+    ],
+    "shops": [
+     "es, street parking only Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy acce",
+     "ing only Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine",
+     "iently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway a"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
+  "gone": false
+ },
+ "rent-5848978": {
+  "firstSeenAt": "2026-11-17T17:49:15+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/253486937/4cf07bd6fab8b789b1326a35-10057515_21434588_7_1698966423-1730774108-original.jpg?1730774108",
+    "https://cdn.rent.com.au/photos/images/253487207/09d806bb952c86ae6bab8e01-10057515_21434588_9_1698966423-1730774208-original.jpg?1730774208",
+    "https://cdn.rent.com.au/photos/images/253487209/efbfaa486b011410e7e2074d-10057515_21434588_5_1692678243-1730774208-original.jpg?1730774208"
+   ],
+   "id": "rent-5848978",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/1-199-lyndhurst-rd-boondall-qld-4034-5848978",
+   "area": "Northern suburbs",
+   "address": "1/199 Lyndhurst Road",
+   "suburb": "Boondall",
+   "postcode": "4034",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "24th November 2026",
+   "listedAt": "2026-11-17T13:02:38.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 53,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 45,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.349103",
+   "lng": "153.061028",
+   "byline": "NEAR NEW STUDIO UNITS",
+   "description": "Near new, fantastic studio unit tastefully styled and designed ready for the discerning tenant to move in immediately. Magic location in a quiet street in the heart of Boondall\n\nPlease note Council and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets).\n\nLocated upstairs facing the front of the building with a balcony, open plan living and kitchenette areas, separate bedroom with roomy walk in robes, ensuite, air conditioning throughout, screens and, ceiling fan. \n\nShared laundry with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and communal internet are all included in the rent.\n\nPerfectly located close to Boondall train station, bus stops and local shops. Short drive to Boondall Entertainment Centre, Toombul and Chermside Shopping Centres. Easy access to bike ways, Wetlands, Gateway M1 and all major arterial roads and amenities.\n\nBe quick, book your inspection online now!!",
+   "flags": {
+    "stairs": [
+     "ildren and the property is not suitable for pets). Located upstairs facing the front of the building with a balcony, open plan"
+    ],
+    "shops": [
+     "included in the rent. Perfectly located close to Boondall train station, bus stops and local shops. Short drive to Boondall",
+     "e rent. Perfectly located close to Boondall train station, bus stops and local shops. Short drive to Boondall Entertainmen",
+     "ocated close to Boondall train station, bus stops and local shops. Short drive to Boondall Entertainment Centre, Toombul and",
+     "ive to Boondall Entertainment Centre, Toombul and Chermside Shopping Centres. Easy access to bike ways, Wetlands, Gateway M1"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-17T17:49:15+10:00",
   "gone": false
  }
 }
