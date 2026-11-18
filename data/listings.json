@@ -392,7 +392,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-18T03:36:33+10:00"
+  "lastSeenAt": "2026-11-18T17:16:51+10:00"
  },
  "rent-6490961": {
   "raw": {
@@ -459,7 +459,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-18T03:36:33+10:00"
+  "lastSeenAt": "2026-11-18T17:16:51+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1640,7 +1640,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-18T03:36:33+10:00"
+  "lastSeenAt": "2026-11-18T17:16:51+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2479,7 +2479,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2545,7 +2545,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2811,7 +2811,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2946,7 +2946,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6515639": {
@@ -3017,7 +3017,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3429,7 +3429,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-2947762": {
@@ -3542,7 +3542,7 @@
    "lat": "-27.319653",
    "lng": "153.032077",
    "byline": "FURNISHED STUDIO UNITS WITH A POOL",
-   "description": "Studios range from $390 to $410/week.\n\nNew to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park. Studio prices range from $420 to $440 per week.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
+   "description": "Studios range from $390 to $410/week.\n\nNew to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
    "flags": {
     "stairs": [
      "s, no children, not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are",
@@ -3572,7 +3572,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3644,7 +3644,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-18T03:36:33+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-18T17:16:51+10:00"
  },
  "rent-6500883": {
   "firstSeenAt": "2026-10-30T09:56:19+10:00",
@@ -3665,9 +3666,9 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 400,
-   "bond": 1600,
-   "available": "18th November 2026",
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
    "listedAt": "2026-09-29T10:31:06.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -3685,7 +3686,7 @@
    "lat": "-27.364241",
    "lng": "153.026329",
    "byline": "BRAND NEW UNFURNISHED STUDIO UNITS - ONLY 3 REMAIN!",
-   "description": "Studios range from $400 to $440 per week\n\nWell designed, BRAND-NEW unfurnished studio units located in a very convenient Aspley location.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\n2 designs to choose from, an open-plan combined bedroom and dining area, or a separated bedroom from the living/dining area, both opening out to fully fenced courtyards with designated clotheslines.\n\nSpacious and roomy in design, fully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, large bathroom, separated bedroom with spacious extra large built in robes\n\nShared laundry with 2 washing machines provided and free to use. Street parking only available.\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other major arterial highways.",
+   "description": "Studios range from $430 to $440 per week\n\nWell designed, BRAND-NEW unfurnished studio units located in a very convenient Aspley location.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in these units (ie no couples, no children and the building is not suitable for pets)\n\n2 designs to choose from, an open-plan combined bedroom and dining area, or a separated bedroom from the living/dining area, both opening out to fully fenced courtyards with designated clotheslines.\n\nSpacious and roomy in design, fully air conditioned for your comfort, plus a ceiling fan, security screens, kitchenette, large bathroom, separated bedroom with spacious extra large built in robes\n\nShared laundry with 2 washing machines provided and free to use. Street parking only available.\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, Aspley Hypermarket and Zillmere Village, train and buses. Easy access to Sunshine Coast motorway and other major arterial highways.",
    "flags": {
     "shops": [
      "the rent Conveniently located right next to Robinson Road Shopping Village, minutes drive to Chermside Shopping Centre, As",
@@ -3711,7 +3712,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -3987,7 +3988,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5993027": {
@@ -4057,7 +4058,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-18T03:36:33+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-18T17:16:51+10:00"
  },
  "rent-6532240": {
   "firstSeenAt": "2026-11-03T16:40:03+10:00",
@@ -4133,9 +4135,9 @@
   "firstSeenAt": "2026-11-03T16:40:03+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268906153/888fcd5b5d0caf7c6d17d468-1-1794869762-original.jpg?1794869762",
-    "https://cdn.rent.com.au/photos/images/268906319/076d6fad59a083c07f750648-2-1794870251-original.jpg?1794870251",
-    "https://cdn.rent.com.au/photos/images/268906320/52ee887f9282e8c8385e35dd-3-1794870251-original.jpg?1794870251"
+    "https://cdn.rent.com.au/photos/images/268950256/34c7e7d48ba612db2ce12b43-1-1794982513-original.jpg?1794982513",
+    "https://cdn.rent.com.au/photos/images/268950259/e92cd39f6c5440ee7968c96a-2-1794982517-original.jpg?1794982517",
+    "https://cdn.rent.com.au/photos/images/268950266/0df7d0664cdb896ff3e4707d-3-1794982519-original.jpg?1794982519"
    ],
    "id": "rent-6532225",
    "source": "rent.com.au",
@@ -4148,8 +4150,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 425,
-   "bond": 1700,
+   "price": 395,
+   "bond": 1580,
    "available": "now",
    "listedAt": "2026-11-03T14:10:22.000+08:00",
    "petsListed": false,
@@ -4167,7 +4169,7 @@
    "inspections": [],
    "lat": "-27.435867",
    "lng": "153.032048",
-   "byline": "Furnished Studio-Utilities Included- WiFi Included",
+   "byline": "Available Now-Furnished Studio-Utilities Included- WiFi Included",
    "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/21205147\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/21205147\n\nStudio apartment is conveniently located less than 3.5km to the Brisbane CBD and walking distance to Windsor Train station, Home Zone Centre, Schools and Hospital as well as a bus stop directly at the front door of the complex, cafe on ground floor for that convenient\n*Furnished\n*Ducted Air Conditioning and ceiling fan\n*42 inch TV\n*Microwave, Washing machine, Small Fridge\n*Single Bed with mattress, students desk\n*Rooftop relax area\n*CCTV, Secure lifts, Intercom, Secure building with fob access \n*WiFi and Electricity usage: included in rental \n# no pets\nPLEASE NOTE if you do not register we cannot notify you of any time changes or cancellations\nApplications are subject to inspection, please do not submit applications before inspecting the property. Please ensure applications are complete when submitting to ensure no delays in processing for you.\nWhile care has been taken in the preparation of these particulars no responsibility is accepted for the accuracy of the whole or any part and interested persons are advised to make their own enquiries and satisfy themselves in all respects.\n\n(Listing ID: 21205147 )",
    "flags": {
     "ground": [
@@ -4202,7 +4204,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4272,7 +4274,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4338,7 +4340,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4410,7 +4412,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4480,7 +4482,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4614,7 +4616,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4676,7 +4678,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-18T03:36:33+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-18T17:16:51+10:00"
  },
  "rent-6539032": {
   "firstSeenAt": "2026-11-10T17:09:57+10:00",
@@ -4721,7 +4724,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Pike Property Rental Team",
-    "phone": "+61754955466",
+    "phone": "07 5495 5466",
     "phoneAlt": "+61754955466"
    },
    "company": {
@@ -4736,7 +4739,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4805,7 +4808,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -4866,7 +4869,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6540948": {
@@ -4933,7 +4936,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6531118": {
@@ -5000,7 +5003,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5073,7 +5076,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5143,7 +5146,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5535940": {
@@ -5210,7 +5213,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6544964": {
@@ -5281,7 +5284,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-6546396": {
@@ -5342,7 +5345,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5917799": {
@@ -5413,7 +5416,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  },
  "rent-5848978": {
@@ -5484,7 +5487,146 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-18T03:36:33+10:00",
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
+  "gone": false
+ },
+ "rent-6547352": {
+  "firstSeenAt": "2026-11-18T17:16:51+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268938681/c2d26068e7fa82b4e222af50-Main-image_cead-ba58-c306-ddfe-9e1a-e421-350b-e0d0_20261109082224-1794966546-original.jpg?1794966546",
+    "https://cdn.rent.com.au/photos/images/268938683/d894d1ea310c500be7ee484a-R1-bedroom-upstairs_071a-50c4-16af-38a1-974c-07cd-f2aa-38b0_20261109082227-1794966548-original.jpg?1794966548",
+    "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550"
+   ],
+   "id": "rent-6547352",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/593-sandgate-rd-clayfield-qld-4011-6547352",
+   "area": "Northern suburbs",
+   "address": "593 Sandgate Road",
+   "suburb": "Clayfield",
+   "postcode": "4011",
+   "type": "Other",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 290,
+   "bond": 1160,
+   "available": "27th November 2026",
+   "listedAt": "2026-11-18T09:49:04.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 82,
+   "walkCategory": "very_walkable",
+   "transitScore": 58,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Close to CBD",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.42311",
+   "lng": "153.051392",
+   "byline": "Furnished Private Lockable Room with Shared Amenities",
+   "description": "Welcome to 593 Sandgate Road, Clayfield, where we offer a comfortable and convenient living space that is perfect for students and young professionals. All rooms are furnished and inclusive of bills, including electricity, internet, and water, so you can enjoy a stress-free living experience.\n\nLocated in the heart of Clayfield, our property is just a stone's throw away from a wide range of local amenities, including cafes, restaurants, supermarkets, and shops. Public transport is easily accessible, with several bus stops located within a few minutes walk from the property. The location is ideal for students as we are within close proximity to several universities, including the University of Queensland, Queensland University of Technology, and Griffith University.\n\nOur property boasts a spacious and modern living area, with ample natural light that creates a warm and inviting atmosphere. The kitchen is equipped with all the necessary appliances, including a fridge, oven, and microwave, making it easy to cook and prepare meals. The property also features a communal laundry area that is available for all occupants to use, so you won't have to worry about finding a laundromat or sharing machines with others.\n\nIf you're looking for a convenient and affordable living space in the heart of Clayfield, then look no further than 593 Sandgate Road. With easy access to local amenities and universities, spacious living areas, and inclusive bills, this is the perfect opportunity to make your stay in Brisbane a memorable one.\n\nProperty Features:\n* Room 1 - $290pw lockable private furnished room with air con \n* Single Occupants only\n* Flexible lease options (6 - 12 months)\n* Your electricity, internet, and water are included within your weekly rental price. Electricity for air conditioning usage is not included in the rent and charged separately.\n* Furnished rooms with built-in robes and unlimited Wi-Fi included in the rent\n* Private lockable room with digital access\n* Shared amenities include kitchen, living, dining, laundry, powder room and bathroom\n* No pets in the rooming accommodation properties\n* Rooming Accommodation Agreement (Form R18)\n* House Rules\n* Shared cleaning responsibilities with cleaning roster\n\n*** Advertising images may vary with different rooms and common areas\n*** Please note this property is not suitable for pets or couples  single occupants only.\n\nAll approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement. A copy of the House Rules will be provided to all potential residents during the application processing stage.\n\nApply through REA Ignite:\nREA Ignite is a smart, user-friendly platform that is used for submitting online rental applications. Click the red APPLY button on a property advertisement to seamlessly fill and submit your completed application directly to the respective agency or property manager. We process applications prior to viewings allowing for faster turnaround times in finalising your application.\n\nDisclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and correct. However, we disclaim all liability for any errors, omissions, inaccuracies, or misstatements. We encourage prospective tenants to make their own enquiries to verify the information contained in this advertisement.\n\nDisclaimer: \n Karalis Real Estate Agents also offer a property management service. If youre considering renting your property,  are looking to buy or would like a free review of your current portfolio, please call our main office on (07) 3343 8000 ",
+   "flags": {
+    "stairs": [
+     "ing your application. Disclaimer: We have taken reasonable steps to ensure the information in this advertisement is true and"
+    ],
+    "pets": [
+     "itchen, living, dining, laundry, powder room and bathroom * No pets in the rooming accommodation properties * Rooming Accommoda"
+    ],
+    "shops": [
+     "ide range of local amenities, including cafes, restaurants, supermarkets, and shops. Public transport is easily accessible, with se",
+     "amenities, including cafes, restaurants, supermarkets, and shops. Public transport is easily accessible, with several bus st",
+     "cluding cafes, restaurants, supermarkets, and shops. Public transport is easily accessible, with several bus stops located within",
+     "shops. Public transport is easily accessible, with several bus stops located within a few minutes walk from the property."
+    ]
+   },
+   "contactPerson": {
+    "name": "Angelo Karalis",
+    "phone": "+61421242645",
+    "phoneAlt": "+61421242645"
+   },
+   "company": {
+    "name": "Karalis Real Estate",
+    "phone": null,
+    "email": null,
+    "address": "1389 Logan Road Mount Gravatt, QLD 4122",
+    "profileUrl": "https://www.rent.com.au/agents/12981/karalis-real-estate"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
+  "gone": false
+ },
+ "rent-6547641": {
+  "firstSeenAt": "2026-11-18T17:16:51+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268943449/c3a1a3f1d457ef3b2dfe7bf4-23ac5614c704d2d1482f344df450d5ea1ec22c3e4fc6448da52b15159a9526ab-1794973161-original.jpg?1794973161",
+    "https://cdn.rent.com.au/photos/images/268943556/67b830e97e05bb2c0818a207-6ca4c6b907badb39f3596c52772bb17cfd2c9465113d17523996486617149c52-1794973194-original.jpg?1794973194",
+    "https://cdn.rent.com.au/photos/images/268943560/f34e657bdb6e184eb95adfa7-f6d36456aeac0671a446ff7df7a16439e5d10f5d7e5e46585bcf282c02e7c696-1794973195-original.jpg?1794973195"
+   ],
+   "id": "rent-6547641",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/23-mann-ave-northgate-qld-4013-6547641",
+   "area": "Northern suburbs",
+   "address": "23 Mann Avenue",
+   "suburb": "Northgate",
+   "postcode": "4013",
+   "type": "House",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 300,
+   "bond": 1200,
+   "available": "now",
+   "listedAt": "2026-11-18T11:38:13.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 43,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 48,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Friendly neighbourhood",
+    "Near shops",
+    "I feel safe here"
+   ],
+   "inspections": [],
+   "lat": "-27.390505",
+   "lng": "153.075821",
+   "byline": "1 bed 1 bath Room only",
+   "description": "PROPERTY ID: 442944 (quote when calling)\n\nAPPLY HERE: https://rentbetter.com.au/apply/d97b9a51 (copy and paste link in your browser)\n\nRoom for rent in a rooming house (4 bedrooms total) in Northgate with an ensuite \n$300 per week plus Wifi and Electricity (not included in rent)\n\nRoom has\n- aircon\n- WIR\n- Study desk\n- ensuite\n- water included\n- unfurnished or furnished \n\n5 min from Nundah Village and a 5-min walk to Northgate train station.\n\n12-month lease. Available Now.",
+   "flags": {
+    "shops": [
+     "d 5 min from Nundah Village and a 5-min walk to Northgate train station. 12-month lease. Available Now."
+    ]
+   },
+   "contactPerson": {
+    "name": "RentBetter",
+    "phone": "1800234397",
+    "phoneAlt": "1800234397"
+   },
+   "company": {
+    "name": "RentBetter",
+    "phone": null,
+    "email": null,
+    "address": "New St Bondi, NSW 2026",
+    "profileUrl": "https://www.rent.com.au/agents/13605/rentbetter"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-18T17:16:51+10:00",
   "gone": false
  }
 }
