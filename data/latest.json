@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-11-19T01:52+00:00",
+ "searchedAt": "2026-11-19T07:16+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 29,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -121,7 +121,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "+61493446309",
+    "phone": "0493 446 309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -134,62 +134,6 @@
    "feedAgentName": null,
    "feedCompany": null,
    "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268048667/0f3edc6ef20a10c73a55b3d8-194dfd6e9935c38618af8ff1d44600d6-1790500039-original.?1790500039",
-    "https://cdn.rent.com.au/photos/images/268048668/b2ca78f77cfd42b1524ec617-19331bb1104cf7ab8071e1617591fab2-1790500045-original.?1790500045",
-    "https://cdn.rent.com.au/photos/images/268048669/77429ca8a778af54fdc54226-9c79578921da44881fd8724913429be1-1790500045-original.?1790500045"
-   ],
-   "id": "rent-6499181",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/mango-hill-qld-4509-6499181",
-   "area": "Deception Bay / North Lakes",
-   "address": "",
-   "suburb": "Mango Hill",
-   "postcode": "4509",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 300,
-   "bond": 1200,
-   "available": "now",
-   "listedAt": "2026-09-27T17:07:11.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 52,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 35,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Near shops",
-    "Friendly neighbourhood",
-    "Close to schools",
-    "Great public transport"
-   ],
-   "inspections": [],
-   "lat": "-27.231165",
-   "lng": "153.039013",
-   "byline": "Gorgeous Home With Lakeside View",
-   "description": "The Phone Code for this property is: 75150. Please quote this number when phoning or texting.\n\nPlease submit an enquiry to receive a link to the Application Form.\n\nLocated in the heart of Mango Hill, this gorgeous home is just step to the beautiful Capstone lake.\n\nFeatures:\n-Brand new building\n-Central air-conditioning\n-Ceiling fan\n-Fully equipped kitchenette\n-Spacious modern bathroom\n-Walk-in wardrobes\n-Furnished with a queen bed \n\nMore in Common Area; \n- Fully equipped, shared kitchen\n- Lounge area\n- Shared laundry\n\n$300 per week for single room\n$400 per week for master bedroom\nRent includes electricity, water, and internet so no other bills to pay!\n\nContact us for an inspection today!\n\nPLEASE NOTE: this is not a General Tenancy. Approved applicants will be required to sign a Rooming Accommodation Agreement (Form R18) and adhere to House Rules which form part of the agreement.\n\nDisclaimer: All photos shown are for illustration purposes only.\nAll information contained herein is gathered from sources we consider to be reliable however we cannot guarantee or give any warranty about the information provided and interested parties must solely rely on their own enquiries.",
-   "flags": {},
-   "contactPerson": {
-    "name": "For Rent",
-    "phone": "+61488839724",
-    "phoneAlt": "+61488839724"
-   },
-   "company": {
-    "name": "Property Listings",
-    "phone": null,
-    "email": null,
-    "address": "19 William St Balaclava, VIC 3183",
-    "profileUrl": "https://www.rent.com.au/agents/12554/property-listings"
-   },
-   "feedAgentName": "For Rent",
-   "feedCompany": "Property Listings",
-   "feedEmail": "rentals@forsalebyagent.com.au",
    "emailsInText": []
   },
   {
@@ -295,7 +239,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "+61448191826",
+    "phone": "0448 191 826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -357,7 +301,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "+61448191826",
+    "phone": "0448 191 826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -494,70 +438,6 @@
     "email": null,
     "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
     "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/259382299/aa6476d46704fc3b6dbbc3d3-b36804fe-7674-4b98-88cb-664f365f0b14-1788391975-original.jpg?1788391975",
-    "https://cdn.rent.com.au/photos/images/259382224/33cae125bec1e6bc4b27ac71-b36804fe-7558-40b5-972d-8196d3832ec8-1788391972-original.jpg?1788391972",
-    "https://cdn.rent.com.au/photos/images/259382298/11559cc9c3593d65844f8d5b-b36804fe-7423-4508-8cb8-b41dadaac3f6-1788391974-original.jpg?1788391974"
-   ],
-   "id": "rent-6170544",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/3-121-speight-st-brighton-qld-4017-6170544",
-   "area": "Sandgate / Brighton",
-   "address": "3/121 Speight Street",
-   "suburb": "Brighton",
-   "postcode": "4017",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "listedAt": "2026-09-03T07:29:10.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 15,
-   "walkCategory": "car_dependent_2",
-   "transitScore": 0,
-   "transitCategory": "minimal_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Parks and recreation",
-    "I feel safe here",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.30334",
-   "lng": "153.055686",
-   "byline": "1 Week RENT FREE!- Fully Furnished Spacious Unit- All Inclusive",
-   "description": "Welcome to your very own spacious studio oasis, situated in a quiet street just minutes from the beautiful Brighton Beach Foreshore!\nThis near- new studio unit  boast impeccable finishes, functional layouts and present unmissable value for the single working professional.\n\n\nA SPECIAL WELCOME OFFER -  ENJOY 1 WEEK RENT FREE!\n\nWe're offering an exclusive move-in bonus!\n\n6-month & 12 month lease: Enjoy 1 week RENT FREE!\n\nIt's our way of welcoming you home and making your move even more rewarding.\n**IMPORTANT INFORMATION** \n\n\n- Brisbane City Council Laws and Fire Safety Regulations limit One (1) occupant per unit. No couples or dependents\n\n- Once you have viewed the Virtual 3D tour, this officially counts as having inspected the property and you can submit an online application.\n\n- TO REGISTER FOR AN INSPECTION, CLICK ON THE \"BOOK AN INSPECTION\" BUTTON\nBELOW. You must register to inspect this property. By registering your details, you will be\ninstantly informed of any updates, changes, or cancellations for your scheduled\ninspection. If no one registers for an inspection time, then that inspection may be\ncancelled at short notice.\n\n\n\nMain features include:\n\n- Spacious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenance finishes and excellent separation between living and bedroom spaces\n\n- Fully Equipped Kitchenette: Enjoy the freedom to create culinary delights with your own kitchenette complete with luxury appliances including dual induction cooktop, air fryer, coffee machine, kettle, toaster, microwave, fridge, and all cooking equipment and utensils provided.\n\n- Fully Furnished: Relax and unwind with top-tier furniture items including a queen-size bed, comfy 2-seater sofa, stylish dining suite and a 50 smart TV for your entertainment.\n\n- All-Inclusive Living: Experience the ease of living and extra savings with all utilities includedwater, electricity and unlimited superfast Wi-Fi are all included in the rental price!\n\n- Secure Living: Experience the convenience of key-less, digital entry locks, providing maximum security for your peace of mind.\n\n- Private Bathroom: Freshen up in your own well appointed bathroom with large shower\n\n- Private Outdoor Area: Relax and enjoy fresh air in your private courtyard area with a large tranquil garden and a screen door for added convenience\n\n- Modern Amenities: Enjoy the benefits of a ceiling fan and reverse cycle air conditioning for year-round comfort.\n\n- Communal Convenience: Access a shared communal area with a fully equipped kitchen, laundry with 2 washing machines, and a secure clothesline area.\n\n- Plenty of street parking available\n\n\n**Location Benefits**\n- 200m to nearest Bus Stop\n- 1.8km (4 mins) to Brighton Beach Foreshore\n- 1.5 km (3mins) to Brighton Hotel\n- 4km (7 mins) to Sandgate Station\n- 6km (10 mins) to 2 Local Shopping Plazas\n- 9km (11 mins) to Brisbane Entertainment Centre\n- 20km (18 mins) to Brisbane International Airport\n- 28km (30 mins) to Brisbane CBD\n- Super convenient access to the MI North and South",
-   "flags": {
-    "ground": [
-     "acious Studio Designs: Immerse yourself in the comfort of a single level studio-style apartment featuring quality yet low maintenanc"
-    ],
-    "shops": [
-     "parking available **Location Benefits** - 200m to nearest Bus Stop - 1.8km (4 mins) to Brighton Beach Foreshore - 1.5 km",
-     "4km (7 mins) to Sandgate Station - 6km (10 mins) to 2 Local Shopping Plazas - 9km (11 mins) to Brisbane Entertainment Centre"
-    ]
-   },
-   "contactPerson": {
-    "name": "Leasing Team",
-    "phone": "+61493446309",
-    "phoneAlt": "+61493446309"
-   },
-   "company": {
-    "name": "Upside Ave",
-    "phone": null,
-    "email": null,
-    "address": "27 Stanley Road Camp Hill, QLD 4152",
-    "profileUrl": "https://www.rent.com.au/agents/14723/upside-ave"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1140,68 +1020,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268646094/9b0c42522ad1f3f000f399e2-168248288626934082-1793585845-original.jpg?1793585845",
-    "https://cdn.rent.com.au/photos/images/268646390/d2e37690aff617de2987b7b6-168248288625298693-1793586007-original.jpg?1793586007",
-    "https://cdn.rent.com.au/photos/images/268646391/6af3387970bc5e562e491af7-168248288524546291-1793586007-original.jpg?1793586007"
-   ],
-   "id": "rent-5535940",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/1-12-westacott-st-nundah-qld-4012-5535940",
-   "area": "Northern suburbs",
-   "address": "1/12 Westacott Street",
-   "suburb": "Nundah",
-   "postcode": "4012",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 390,
-   "bond": 0,
-   "available": "now",
-   "listedAt": "2026-11-02T10:13:50.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 83,
-   "walkCategory": "very_walkable",
-   "transitScore": 57,
-   "transitCategory": "good_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Cafes and restaurants",
-    "Friendly neighbourhood"
-   ],
-   "inspections": [],
-   "lat": "-27.406474",
-   "lng": "153.058776",
-   "byline": "Low Maintenance in a Great Location",
-   "description": "This low maintenance unit is positioned perfectly - park the car in the large garage and walk to the train station, shops, or a very short drive to Nundah Village where you will find an array of cafes, shops & parks.\n\nProperty features:\n\n* Combined living and dining area\n* 1 Bedroom\n* 1 Bathroom \n* Tiled throughout\n* Laundry in garage\n* Large lock up garage\n\nNote: historic images used to protect tenants privacy",
-   "flags": {
-    "shops": [
-     "erfectly - park the car in the large garage and walk to the train station, shops, or a very short drive to Nundah Village whe",
-     "the car in the large garage and walk to the train station, shops, or a very short drive to Nundah Village where you will fin",
-     "ve to Nundah Village where you will find an array of cafes, shops & parks. Property features: * Combined living and dining"
-    ]
-   },
-   "contactPerson": {
-    "name": "Leasing Team",
-    "phone": "+61738763744",
-    "phoneAlt": "+61738763744"
-   },
-   "company": {
-    "name": "Elders Real Estate Paddington",
-    "phone": null,
-    "email": null,
-    "address": "50/283 Given Terrace Paddington, QLD 4064",
-    "profileUrl": "https://www.rent.com.au/agents/9460/elders-real-estate-paddington"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/268950256/34c7e7d48ba612db2ce12b43-1-1794982513-original.jpg?1794982513",
     "https://cdn.rent.com.au/photos/images/268950259/e92cd39f6c5440ee7968c96a-2-1794982517-original.jpg?1794982517",
     "https://cdn.rent.com.au/photos/images/268950266/0df7d0664cdb896ff3e4707d-3-1794982519-original.jpg?1794982519"
@@ -1378,7 +1196,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Angela Bryer",
-    "phone": "+61731224198",
+    "phone": "+61409820705",
     "phoneAlt": "+61731224198"
    },
    "company": {
