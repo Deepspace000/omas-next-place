@@ -460,7 +460,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-20T03:21:28+10:00"
+  "lastSeenAt": "2026-11-20T17:04:01+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -1641,7 +1641,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-20T03:21:28+10:00"
+  "lastSeenAt": "2026-11-20T17:04:01+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2480,7 +2480,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2531,7 +2531,7 @@
    },
    "contactPerson": {
     "name": "Jay Wu",
-    "phone": "+61402686929",
+    "phone": "0402 686 929",
     "phoneAlt": "+61730612937"
    },
    "company": {
@@ -2546,7 +2546,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-4232584": {
@@ -2812,7 +2812,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -3019,7 +3019,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3560,7 +3560,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3575,7 +3575,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3703,7 +3703,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -3718,7 +3718,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -4211,7 +4211,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4281,7 +4281,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4306,7 +4306,7 @@
    "price": 370,
    "bond": 1480,
    "available": "4th December 2026",
-   "listedAt": "2026-11-04T11:18:04.000+08:00",
+   "listedAt": "2026-11-20T02:00:56.000+08:00",
    "petsListed": null,
    "furnished": false,
    "walkScore": 79,
@@ -4347,7 +4347,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4404,7 +4404,7 @@
    },
    "contactPerson": {
     "name": "Leasing Team",
-    "phone": "0493 446 309",
+    "phone": "+61493446309",
     "phoneAlt": "+61493446309"
    },
    "company": {
@@ -4419,7 +4419,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4489,7 +4489,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4623,7 +4623,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4731,7 +4731,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Pike Property Rental Team",
-    "phone": "+61754955466",
+    "phone": "07 5495 5466",
     "phoneAlt": "+61754955466"
    },
    "company": {
@@ -4746,7 +4746,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4815,7 +4815,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -4944,7 +4944,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6531118": {
@@ -5011,7 +5011,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5084,7 +5084,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5139,7 +5139,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -5154,7 +5154,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5535940": {
@@ -5293,7 +5293,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6546396": {
@@ -5354,7 +5354,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5917799": {
@@ -5410,7 +5410,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -5425,7 +5425,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-5848978": {
@@ -5481,7 +5481,7 @@
    },
    "contactPerson": {
     "name": "Hero Karalouka",
-    "phone": "0439 673 884",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -5496,7 +5496,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6547352": {
@@ -5570,7 +5570,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  },
  "rent-6547641": {
@@ -5635,7 +5635,144 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-20T03:21:28+10:00",
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
+  "gone": false
+ },
+ "rent-6550236": {
+  "firstSeenAt": "2026-11-20T17:04:01+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268986693/0ef79d7c660758b099a39a93-uploads_2F1763946739501-60sxzc7bbmt-3c7c9e43475d9c4ee61b165164f7400a_2Frxkrrjmwpii6tarz6hybquuihy-1795142831-original.jpg?1795142831",
+    "https://cdn.rent.com.au/photos/images/268986865/08d987e364c6904e4f75bd57-uploads_2F1763946739498-xb1u9xhmn6-3c7c9e43475d9c4ee61b165164f7400a_2Fstreetview-1795143416-original.jpg?1795143416",
+    "https://cdn.rent.com.au/photos/images/268986866/eab3c170194e05294e1bbf53-uploads_2F1768362642134-xhhmftkfd4e-80333f8aa27803afa7b658bb3811d654_2F2-1795143416-original.jpg?1795143416"
+   ],
+   "id": "rent-6550236",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-16-flinders-pde-sandgate-qld-4017-6550236",
+   "area": "Sandgate / Brighton",
+   "address": "3/16 Flinders Parade",
+   "suburb": "Sandgate",
+   "postcode": "4017",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 370,
+   "bond": 1480,
+   "available": "24th November 2026",
+   "listedAt": "2026-11-20T10:43:13.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 78,
+   "walkCategory": "very_walkable",
+   "transitScore": 42,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Parks and recreation",
+    "Friendly neighbourhood",
+    "Near shops",
+    "Great public transport"
+   ],
+   "inspections": [],
+   "lat": "-27.319789",
+   "lng": "153.073784",
+   "byline": "Waterfront Living on Iconic Flinders Parade",
+   "description": "Flinders Parade is one of Sandgates most desirable waterfront locations, known for its sweeping bay views, breezy esplanade and unmatched lifestyle convenience. This neat and tidy one-bedroom unit offers effortless low-maintenance living just steps from the shoreline  an ideal entry into a blue-chip coastal strip.\n\nKey Features\n Light-filled open-plan lounge and dining area\n Well-maintained kitchen featuring a gas cooktop\n Spacious bedroom equipped with a ceiling fan\n Separate bathroom complete with a bathtub\n\nLocation & Proximity\n Located on Flinders Parade, one of Sandgates well-known waterfront streets\n Positioned in a bayside setting with access to coastal lifestyle amenities\n Situated in the suburb of Sandgate, known for its foreshore, walking paths and scenic esplanade\n Conveniently positioned near local parks, community spaces and recreational areas\n Close to general Sandgate amenities, including cafs, shops and dining options within the suburb",
+   "flags": {
+    "stairs": [
+     "-bedroom unit offers effortless low-maintenance living just steps from the shoreline an ideal entry into a blue-chip coastal"
+    ],
+    "shops": [
+     "areas Close to general Sandgate amenities, including cafs, shops and dining options within the suburb"
+    ]
+   },
+   "contactPerson": {
+    "name": "Jodie Shay",
+    "phone": "+61409178026",
+    "phoneAlt": "+61409178026"
+   },
+   "company": {
+    "name": "Jim McKeering Real Estate - Sandgate",
+    "phone": null,
+    "email": null,
+    "address": "200 Seymour Street Sandgate, QLD 4017",
+    "profileUrl": "https://www.rent.com.au/agents/10464/jim-mckeering-real-estate-sandgate"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
+  "gone": false
+ },
+ "rent-6549886": {
+  "firstSeenAt": "2026-11-20T17:04:01+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268980514/e22d38a54bdee875ef7b74e3-229872671__1795132215-229872671__1795132164-221383-FreshlyClearedBrickFrontPorch-1795132650-original.png?1795132650",
+    "https://cdn.rent.com.au/photos/images/268980523/916748958d42111b8a075e54-229871521__1795132216-229871521__1795131868-46866-Brightenedkitchenwithwarmnaturallight-1795132666-original.png?1795132666",
+    "https://cdn.rent.com.au/photos/images/268980520/41ba78410e4747124c9436c8-229871291__1795132216-229871291__1795131780-34612-Brightenedlivingroomandkitchen-1795132665-original.png?1795132665"
+   ],
+   "id": "rent-6549886",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-19-atthow-pde-nundah-qld-4012-6549886",
+   "area": "Northern suburbs",
+   "address": "2/19 Atthow Parade",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 360,
+   "bond": 1440,
+   "available": "now",
+   "listedAt": "2026-11-20T07:57:22.000+08:00",
+   "petsListed": true,
+   "furnished": false,
+   "walkScore": 79,
+   "walkCategory": "very_walkable",
+   "transitScore": 56,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Cafes and restaurants",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.404712",
+   "lng": "153.06265",
+   "byline": "NUNDAH CENTRAL! GROUND FLOOR!",
+   "description": "This good sized one bedroom ground floor unit is ideally located in the Heart Of Nundah. \nWalk into the Village, hop on a train or catch a bus to and from Brisbane City and surrounding suburbs with ease. \n\n* Quiet complex of just six\n* Bedroom with built-in wardrobes\n* Combined lounge / dining\n* Tidy kitchen with good storage \n* Bathroom with separate toilet and large shower \n* Internal laundry facilities \n* On-street parking only\n\n*TO INSPECT THIS PROPERTY CLICK ON THE INSPECTIONS LINK TO REGISTER\n*We only accept RTA Form 22 application forms. Applications from other platforms (1form, Ignite, Snug etc) are not accepted or monitored.\nhttps://www.prd.com.au/nundah/sell-buy-rent-more/rent-smarter/rental-forms-docs/\n\nMarketing Image Disclaimer-\nMarketing images may include virtual furniture, digital staging, digital enhancements or AI-generated content for illustrative purposes only and may not accurately represent the property, its features, furnishings, condition, layout, dimensions or views. Buyers should rely on their own inspection, enquiries and independent advice.",
+   "flags": {
+    "ground": [
+     "This good sized one bedroom ground floor unit is ideally located in the Heart Of Nundah. Walk into"
+    ],
+    "shops": [
+     "ed in the Heart Of Nundah. Walk into the Village, hop on a train or catch a bus to and from Brisbane City and surrounding su",
+     "f Nundah. Walk into the Village, hop on a train or catch a bus to and from Brisbane City and surrounding suburbs with ease"
+    ]
+   },
+   "contactPerson": {
+    "name": "Property Management Team Nundah",
+    "phone": "+61732665166",
+    "phoneAlt": "+61732665166"
+   },
+   "company": {
+    "name": "PRDnationwide Nundah",
+    "phone": null,
+    "email": null,
+    "address": "1162 Sandgate Road Nundah, QLD 4012",
+    "profileUrl": "https://www.rent.com.au/agents/4849/prdnationwide-nundah"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-20T17:04:01+10:00",
   "gone": false
  }
 }

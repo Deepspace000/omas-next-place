@@ -1,5 +1,16 @@
 [
  {
+  "at": "2026-11-20T17:04:01+10:00",
+  "found": 28,
+  "new": [
+   "rent-6550236",
+   "rent-6549886"
+  ],
+  "gone": [],
+  "problems": [],
+  "trigger": "schedule"
+ },
+ {
   "at": "2026-11-20T03:21:28+10:00",
   "found": 26,
   "new": [],
@@ -556,17 +567,6 @@
    "rent-5974533"
   ],
   "gone": [],
-  "problems": [],
-  "trigger": "schedule"
- },
- {
-  "at": "2026-10-29T15:40:28+10:00",
-  "found": 21,
-  "new": [],
-  "gone": [
-   "rent-6473629",
-   "rent-6350788"
-  ],
   "problems": [],
   "trigger": "schedule"
  }
