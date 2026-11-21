@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-11-20T07:04+00:00",
+ "searchedAt": "2026-11-21T06:58+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 28,
+ "count": 26,
  "problems": [],
  "listings": [
   {
@@ -381,67 +381,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268549310/34895b591b80c1159f4cc2bc-178529031251494662-1793149094-original.jpg?1793149094",
-    "https://cdn.rent.com.au/photos/images/268549523/224f0b5aa67d93fd2f3dad27-178529029758811792-1793149371-original.jpg?1793149371",
-    "https://cdn.rent.com.au/photos/images/268549522/ab5856605bf7f6961f3e33cc-178529029831118449-1793149371-original.jpg?1793149371"
-   ],
-   "id": "rent-6511808",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/2-15-norman-st-deagon-qld-4017-6511808",
-   "area": "Sandgate / Brighton",
-   "address": "2/15 Norman Street",
-   "suburb": "Deagon",
-   "postcode": "4017",
-   "type": "Unit",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 390,
-   "bond": 1600,
-   "available": "now",
-   "listedAt": "2026-10-12T11:00:38.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 55,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 43,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Great public transport",
-    "Near shops",
-    "Friendly neighbourhood",
-    "I feel safe here"
-   ],
-   "inspections": [],
-   "lat": "-27.332046",
-   "lng": "153.060604",
-   "byline": "Beautifully Renovated Studio: All Utilities Included in Prime Deagon Location!",
-   "description": "Looking for a low-maintenance home in a highly convenient location? This beautifully renovated studio apartment offers the perfect blend of privacy, comfort, and outstanding value. Thoughtfully designed to maximize both space and functionality, this unfurnished studio acts as a blank canvas, ready for you to personalize and make your own. With electricity, water, Wi-Fi, and garden maintenance all included in the weekly rent, this is an exceptional choice for a single professional, FIFO worker, or student looking for a stress-free lifestyle.\n\nImportant Information: Please note that Brisbane City Council regulations and fire safety requirements permit a maximum of one occupant per studio. As such, the property is not suitable for couples, families, or children. Pets are not permitted.\n\nProperty Features\n\n- All-Inclusive Living: Enjoy ultimate peace of mind with electricity, water, Wi-Fi, and garden maintenance all included in the rent!\n\n- Newly Renovated: Beautifully updated throughout with brand-new carpet and reverse-cycle air-conditioning for year-round comfort.\n\n- Modern Kitchenette & Storage: Features a modern kitchenette with generous storage and a pantry, plus a built-in mirrored wardrobe in the main living space.\n\n- Stylish Bathroom: A contemporary, well-appointed bathroom featuring quality fittings and a modern vanity.\n\n- Private Outdoor Space: Relax and unwind on your own private covered patio, complete with a small garden area.\n\n- Premium Shared Amenities: Residents enjoy access to a spacious shared backyard with a covered entertaining area, a fully equipped communal kitchen with a dishwasher, and a shared laundry featuring two front-loading washing machines.\n\nLocation Features\n\n- Exceptional Transit: Commuting is a breeze, located just 650m (approx.) from Deagon Train Station.\n\n- Everyday Convenience: Only 850m to the local grocery store for all your daily essentials.\n\n- Cafes & Dining: A quick 600m stroll to local cafes and fast-food outlets.\n\n- Easy Commutes: Superb, straightforward access to the Gateway Motorway, plus close proximity to local parks and public transport routes.\n\nIf you are looking for an affordable, move-in-ready home in a fantastic and well-connected location, this renovated studio is one you won't want to miss!",
-   "flags": {
-    "shops": [
-     "muting is a breeze, located just 650m (approx.) from Deagon Train Station. - Everyday Convenience: Only 850m to the local gr",
-     "ay Motorway, plus close proximity to local parks and public transport routes. If you are looking for an affordable, move-in-read"
-    ]
-   },
-   "contactPerson": {
-    "name": "Jay Wu",
-    "phone": "0402 686 929",
-    "phoneAlt": "+61730612937"
-   },
-   "company": {
-    "name": "Jay Wu Estate Agents",
-    "phone": null,
-    "email": null,
-    "address": "Suite 40, Mezzanine Level, Aspley Hypermarket, 59 Albany Creek Road Aspley, QLD 4034",
-    "profileUrl": "https://www.rent.com.au/agents/14759/jay-wu-estate-agents"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/268246863/f5472998338e1affedeee678-10057515_21683806_21_1791675689-1791678709-original.jpg?1791678709",
     "https://cdn.rent.com.au/photos/images/268246840/41f2b35f5badfdfd2d1a612f-10057515_21683806_2_1791675640-1791678693-original.jpg?1791678693",
     "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
@@ -622,7 +561,7 @@
    },
    "contactPerson": {
     "name": "Angelo Karalis",
-    "phone": "+61421242645",
+    "phone": "0421 242 645",
     "phoneAlt": "+61421242645"
    },
    "company": {
@@ -691,7 +630,7 @@
    },
    "contactPerson": {
     "name": "Angelo Karalis",
-    "phone": "+61421242645",
+    "phone": "0421 242 645",
     "phoneAlt": "+61421242645"
    },
    "company": {
@@ -1550,7 +1489,7 @@
    "cars": 0,
    "price": 425,
    "bond": 1700,
-   "available": "21st November 2026",
+   "available": "now",
    "listedAt": "2026-11-16T13:45:10.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -1644,71 +1583,6 @@
      "e rent. Perfectly located close to Boondall train station, bus stops and local shops. Short drive to Boondall Entertainmen",
      "ocated close to Boondall train station, bus stops and local shops. Short drive to Boondall Entertainment Centre, Toombul and",
      "ive to Boondall Entertainment Centre, Toombul and Chermside Shopping Centres. Easy access to bike ways, Wetlands, Gateway M1"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/234410004/10e88d6afd48b60d9ff823c5-10057515_20750597_13_1612315620-1650519581-original.jpg?1650519581",
-    "https://cdn.rent.com.au/photos/images/265963818/490e94b495798d670ce2499f-10057515_20750597_5_1779427099-1779428487-original.jpg?1779428487",
-    "https://cdn.rent.com.au/photos/images/234410006/5984936a6d007bc0e2d51a1b-10057515_20750597_10_1612315619-1650519581-original.jpg?1650519581"
-   ],
-   "id": "rent-4464501",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/4-184a-church-rd-taigum-qld-4018-4464501",
-   "area": "Northern suburbs",
-   "address": "4/184A Church Road",
-   "suburb": "Taigum",
-   "postcode": "4018",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 430,
-   "bond": 1720,
-   "available": "1st December 2026",
-   "listedAt": "2026-11-13T10:05:58.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 76,
-   "walkCategory": "very_walkable",
-   "transitScore": 41,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Near shops",
-    "Friendly neighbourhood",
-    "Great public transport",
-    "I feel safe here"
-   ],
-   "inspections": [],
-   "lat": "-27.350706",
-   "lng": "153.045936",
-   "byline": "NEAR NEW GROUND FLOOR STUDIO UNIT",
-   "description": "Near new, well designed studio apartment styled and ready for occupancy in the heart of Taigum\n\nPerfectly located ground floor studio with fully fenced private courtyard and garden facing the rear of the property. \n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children and the property is not suitable for pets) \n\nFully furnished studio with spacious, open plan living area, spacious bedroom area, kitchenette, ensuite and loads of storage space. Air conditioned, complete with security screens and ceiling fan. \n\nShared laundry with 2 washing machines, street parking only\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nConveniently located across the road from Taigum Shopping Centre. Equal distances to Carseldine and Zillmere train stations, buses at your door. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe Quick book your inspection online today!!",
-   "flags": {
-    "ground": [
-     "ady for occupancy in the heart of Taigum Perfectly located ground floor studio with fully fenced private courtyard and garden facin"
-    ],
-    "shops": [
-     "the rent Conveniently located across the road from Taigum Shopping Centre. Equal distances to Carseldine and Zillmere trai",
-     "Shopping Centre. Equal distances to Carseldine and Zillmere train stations, buses at your door. Easy access to Sunshine Coast",
-     "Equal distances to Carseldine and Zillmere train stations, buses at your door. Easy access to Sunshine Coast motorway and ot"
     ]
    },
    "contactPerson": {

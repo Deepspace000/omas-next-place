@@ -1,17 +1,28 @@
 {
- "generatedAt": "2026-11-20T17:04:01+10:00",
+ "generatedAt": "2026-11-21T16:58:43+10:00",
  "lastSearch": {
-  "at": "2026-11-20T17:04:01+10:00",
-  "found": 28,
-  "new": [
-   "rent-6550236",
-   "rent-6549886"
+  "at": "2026-11-21T16:58:43+10:00",
+  "found": 26,
+  "new": [],
+  "gone": [
+   "rent-6511808",
+   "rent-4464501"
   ],
-  "gone": [],
   "problems": [],
   "trigger": "schedule"
  },
  "runs": [
+  {
+   "at": "2026-11-21T16:58:43+10:00",
+   "found": 26,
+   "new": [],
+   "gone": [
+    "rent-6511808",
+    "rent-4464501"
+   ],
+   "problems": [],
+   "trigger": "schedule"
+  },
   {
    "at": "2026-11-20T17:04:01+10:00",
    "found": 28,
@@ -110,14 +121,6 @@
     "rent-6040091",
     "rent-6529673"
    ],
-   "problems": [],
-   "trigger": "schedule"
-  },
-  {
-   "at": "2026-11-15T16:18:44+10:00",
-   "found": 31,
-   "new": [],
-   "gone": [],
    "problems": [],
    "trigger": "schedule"
   }
@@ -428,7 +431,7 @@
     "https://cdn.rent.com.au/photos/images/268816569/1d3074adee75d22835472a49-228230545__1794358262-47893-3-1794358995-original.jpg?1794358995"
    ],
    "firstSeenAt": "2026-11-11T16:02:11+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -485,7 +488,7 @@
     "https://cdn.rent.com.au/photos/images/258349742/b76677d385a8fb1194f2d960-b32c018d-f77b-403f-a1e5-01a6b088acc9-1793774521-original.jpg?1793774521"
    ],
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -776,7 +779,7 @@
     "https://cdn.rent.com.au/photos/images/268799137/3cf7ee204c521412c22d896d-uploads_2F1794281459855-umiygrfrej-d89a0cb4061ebd66530a230b03455545_2FKitchen___Meals_-_Overall-1794282115-original.jpg?1794282115"
    ],
    "firstSeenAt": "2026-11-10T17:09:57+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -825,7 +828,7 @@
     "https://cdn.rent.com.au/photos/images/267911462/8a00742c7c827f48754cf362-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1793151636-original.jpg?1793151636"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -865,7 +868,7 @@
     "https://cdn.rent.com.au/photos/images/268303998/c26a6df1bf8f2b6bb391bd14-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1793151636-original.jpg?1793151636"
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1117,7 +1120,7 @@
     "https://cdn.rent.com.au/photos/images/268986866/eab3c170194e05294e1bbf53-uploads_2F1768362642134-xhhmftkfd4e-80333f8aa27803afa7b658bb3811d654_2F2-1795143416-original.jpg?1795143416"
    ],
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -1322,7 +1325,8 @@
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
    "lastSeenAt": "2026-11-20T17:04:01+10:00",
-   "gone": false,
+   "gone": true,
+   "goneAt": "2026-11-21T16:58:43+10:00",
    "reviewed": false,
    "verdict": "no",
    "reason": "The ad says no pets (not checked by Claude yet)",
@@ -1361,7 +1365,7 @@
     "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
    ],
    "firstSeenAt": "2026-10-27T09:46:24+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1782,7 +1786,7 @@
     "https://cdn.rent.com.au/photos/images/268830793/8459e6d6cfc7908a877e6f04-uploads_2F1794350358963-w5o0229urjj-45e606fbd8751b3d317a0fcd00464c39_2FIMG_5235-1794378851-original.jpeg?1794378851"
    ],
    "firstSeenAt": "2026-11-12T00:09:19+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -1839,7 +1843,7 @@
     "https://cdn.rent.com.au/photos/images/268865003/e0fe1d13b5b740ed36a824f4-7-cox-road-windsor-q_04bf-1f76-409d-5eae-8d34-186d-4367-4f93_20261105083151-1794538188-original.jpg?1794538188"
    ],
    "firstSeenAt": "2026-11-13T16:32:30+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1879,7 +1883,7 @@
     "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550"
    ],
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -1919,7 +1923,7 @@
     "https://cdn.rent.com.au/photos/images/268943560/f34e657bdb6e184eb95adfa7-f6d36456aeac0671a446ff7df7a16439e5d10f5d7e5e46585bcf282c02e7c696-1794973195-original.jpg?1794973195"
    ],
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -2076,7 +2080,7 @@
     "https://cdn.rent.com.au/photos/images/268454238/d71fc3098448ddebc3bd1a3a-b4e400ea-5790-4366-a940-1f1f9176a405-1792717850-original.jpg?1792717850"
    ],
    "firstSeenAt": "2026-10-15T14:30:20+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -2116,7 +2120,7 @@
     "https://cdn.rent.com.au/photos/images/260700685/b99083e8bef6c6f9867fd4e9-127839142__1733798417-149978-DSC6470FW2024-1764047737-original.jpg?1764047737"
    ],
    "firstSeenAt": "2026-11-06T10:57:35+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -2173,7 +2177,7 @@
     "https://cdn.rent.com.au/photos/images/261243774/bbf1e4ab680caf3671a22060-178952903__1765244943-63656-DSC8160-2NOV-1765245978-original.jpg?1765245978"
    ],
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -2312,7 +2316,7 @@
     "https://cdn.rent.com.au/photos/images/268980520/41ba78410e4747124c9436c8-229871291__1795132216-229871291__1795131780-34612-Brightenedlivingroomandkitchen-1795132665-original.png?1795132665"
    ],
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -2361,7 +2365,7 @@
     "https://cdn.rent.com.au/photos/images/268694820/85df73c109c40c8fff8ca59d-ac029797-9d3c-468c-9123-67d337f5235b-1793762289-original.jpg?1793762289"
    ],
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -2586,7 +2590,7 @@
     "https://cdn.rent.com.au/photos/images/268309241/2ce0a70746a6177240c44ce7-a35113520ce2097ba4aa1336925fbf0f80673929c76ec4937cf25dcc5504f124-1791959218-original.jpg?1791959218"
    ],
    "firstSeenAt": "2026-10-14T20:07:50+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -2733,7 +2737,7 @@
     "https://cdn.rent.com.au/photos/images/268950266/0df7d0664cdb896ff3e4707d-3-1794982519-original.jpg?1794982519"
    ],
    "firstSeenAt": "2026-11-03T16:40:03+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -2855,7 +2859,7 @@
     "https://cdn.rent.com.au/photos/images/268073970/a3b8254fa65bc2e556be04a6-10057515_21681185_8_1790648665-1790649739-original.jpg?1790649739"
    ],
    "firstSeenAt": "2026-10-30T09:56:19+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -2945,7 +2949,7 @@
     "https://cdn.rent.com.au/photos/images/248460999/49f08adec2f5480c6c1db037-4c4c8f6f_2Dec67_2D5f5f_2D793d_2D23ca06e2bd10-1709105256-original.jpg?1709105256"
    ],
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -2994,7 +2998,7 @@
     "https://cdn.rent.com.au/photos/images/268922790/4332754d5adbb0c570534e39-zbed-cda4-b86d-0a39-_f2af-4d76-42ed-264a-ba21-2186-5e8f-cfdb_20261117051528-1794892728-original.jpg?1794892728"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -3349,7 +3353,7 @@
     "https://cdn.rent.com.au/photos/images/254751168/77e9b9edbcd324ab18dc0d61-10057515_20486527_10_1591669609-1736815375-original.jpg?1736815375"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -3438,7 +3442,7 @@
     "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -3775,14 +3779,14 @@
    "beds": 1,
    "price": 425,
    "bond": 1700,
-   "available": "21st November 2026",
+   "available": "now",
    "photos": [
     "https://cdn.rent.com.au/photos/images/268974764/fe2978d269c2d278b7f4fe11-1-1795074311-original.jpg?1795074311",
     "https://cdn.rent.com.au/photos/images/268974765/b1a83184aaa2577f0329e49f-2-1795074312-original.jpg?1795074312",
     "https://cdn.rent.com.au/photos/images/268974767/a46be6455ede7ce67ef63da5-2-1795074313-original.jpg?1795074313"
    ],
    "firstSeenAt": "2026-11-17T12:54:04+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -4159,7 +4163,7 @@
     "https://cdn.rent.com.au/photos/images/268658140/2353b41a806c80d3b44e412e-63broughton-unit-2-0_c6a4-1a54-88f5-bd0e-8280-10a2-8cc8-6593_20261102053413-1793598897-original.jpg?1793598897"
    ],
    "firstSeenAt": "2026-11-13T11:01:30+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -4200,7 +4204,8 @@
    ],
    "firstSeenAt": "2026-11-13T16:32:30+10:00",
    "lastSeenAt": "2026-11-20T17:04:01+10:00",
-   "gone": false,
+   "gone": true,
+   "goneAt": "2026-11-21T16:58:43+10:00",
    "reviewed": false,
    "verdict": "no",
    "reason": "The ad says no pets (not checked by Claude yet)",
@@ -4239,7 +4244,7 @@
     "https://cdn.rent.com.au/photos/images/253487209/efbfaa486b011410e7e2074d-10057515_21434588_5_1692678243-1730774208-original.jpg?1730774208"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-20T17:04:01+10:00",
+   "lastSeenAt": "2026-11-21T16:58:43+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
