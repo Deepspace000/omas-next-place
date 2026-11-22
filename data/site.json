@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:18:28+10:00",
+ "generatedAt": "2026-11-22T10:10:49+10:00",
  "lastSearch": {
   "at": "2026-11-22T01:18:28+10:00",
   "found": 26,
@@ -119,8 +119,8 @@
   "searchButtonAt": "2026-10-19T14:02:59+10:00"
  },
  "claude": {
-  "lastReviewAt": "2026-09-29T07:38:44+10:00",
-  "emailRetryAt": "2026-09-29T07:38:44+10:00"
+  "lastReviewAt": "2026-11-22T10:10:30+10:00",
+  "emailRetryAt": "2026-11-22T10:10:30+10:00"
  },
  "listings": [
   {
@@ -423,21 +423,21 @@
    "firstSeenAt": "2026-11-11T16:02:11+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
-   "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Lovely Flat Across the Bay!\"",
+   "reviewed": true,
+   "verdict": "longshot",
+   "summary": "1-bedroom flat with a carport, across the road from the bay, close to shops. Water is included. The ad says there are at least 15 stairs to the unit.",
    "kind": "1-bedroom flat",
    "cat": {
     "state": "ask",
     "note": "The ad doesn't say. Ask about her cat."
    },
    "stairs": {
-    "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "state": "stairs",
+    "note": "The ad says there are at least 15 stairs to the unit."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says it's close to shops, restaurants and public transport."
    },
    "agency": "Ray White Woody Point",
    "contacts": [
@@ -480,9 +480,9 @@
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says no pets are permitted",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -771,9 +771,9 @@
    "firstSeenAt": "2026-11-10T17:09:57+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Comfortable & Convenient Living in Kallangur - Fresh Updates Underway!\"",
+   "summary": "1-bedroom unit on Anzac Avenue with one car space. It is being repainted and getting new blinds. Available 4 December.",
    "kind": "1-bedroom unit",
    "cat": {
     "state": "ask",
@@ -781,20 +781,36 @@
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. On Anzac Avenue."
    },
    "agency": "Pike Property",
    "contacts": [
+    {
+     "name": "Eliza McInerney",
+     "role": "Rentals reception, Pike Property",
+     "email": "eliza@pikeproperty.com.au",
+     "phone": "(07) 5495 5466",
+     "source": "https://pikeproperty.com.au/staff/",
+     "team": false
+    },
     {
      "name": "Pike Property Rental Team",
      "role": "Agent on the ad",
      "email": null,
      "phone": "(07) 5495 5466",
-     "source": "rent.com.au ad",
+     "source": "https://www.rent.com.au/property/1-1456-anzac-ave-kallangur-qld-4503-6539032",
+     "team": true
+    },
+    {
+     "name": "Pike Property office",
+     "role": "General office email",
+     "email": "sales@pikeproperty.com.au",
+     "phone": "(07) 5495 7777",
+     "source": "https://pikeproperty.com.au/",
      "team": true
     }
    ],
@@ -860,9 +876,9 @@
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "A room in a shared house",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -1112,9 +1128,9 @@
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Waterfront Living on Iconic Flinders Parade\"",
+   "summary": "1-bedroom unit on Flinders Parade on the Sandgate waterfront, with a gas cooktop and a bathtub. Available 24 November.",
    "kind": "1-bedroom unit",
    "cat": {
     "state": "ask",
@@ -1122,11 +1138,11 @@
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says it's close to Sandgate cafes and shops."
    },
    "agency": "Jim McKeering Real Estate - Sandgate",
    "contacts": [
@@ -1357,9 +1373,9 @@
    "firstSeenAt": "2026-10-27T09:46:24+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says it is not suitable for pets",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -1778,9 +1794,9 @@
    "firstSeenAt": "2026-11-12T00:09:19+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Refurbished 1 Bedroom Flat in a Convenient Sandgate Location\"",
+   "summary": "Refurbished 1-bedroom flat, one of four on the property, with a new kitchen, rear deck, carport and a shared front sunroom. The ad says it suits a single person. A bit over budget.",
    "kind": "1-bedroom flat",
    "cat": {
     "state": "ask",
@@ -1788,11 +1804,11 @@
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says it's walking distance to Sandgate shops, buses and the train station."
    },
    "agency": "Jim McKeering Real Estate - Sandgate",
    "contacts": [
@@ -1835,9 +1851,9 @@
    "firstSeenAt": "2026-11-13T16:32:30+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "A room in rooming accommodation (Form R18), not suitable for pets",
    "shops": {
     "state": "close",
     "note": "Walkable."
@@ -1875,9 +1891,9 @@
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "A room in rooming accommodation, no pets",
    "shops": {
     "state": "close",
     "note": "Walkable."
@@ -1915,9 +1931,9 @@
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "A room in a rooming house",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -2072,9 +2088,9 @@
    "firstSeenAt": "2026-10-15T14:30:20+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "A room in a share house",
    "shops": {
     "state": "close",
     "note": "Walkable."
@@ -2112,21 +2128,21 @@
    "firstSeenAt": "2026-11-06T10:57:35+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"RENOVATED STUDIO IN THE HEART OF NUNDAH ( Single living only)\"",
-   "kind": "1-bedroom unit",
+   "summary": "Renovated studio with its own kitchen and bathroom, next to a small park. Coin-operated washing machine in the common area. The ad says single living only. Available 16 December.",
+   "kind": "studio",
    "cat": {
     "state": "ask",
     "note": "The ad doesn't say. Ask about her cat."
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says Nundah Village is a 10-minute walk and a bus stop is 500 m away."
    },
    "agency": "Rent my Property Redcliffe",
    "contacts": [
@@ -2169,21 +2185,21 @@
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"RENOVATED SELF-CONTAINED STUDIO IN THE HEART OF NUNDAH\"",
-   "kind": "1-bedroom unit",
+   "summary": "Self-contained unfurnished studio with a kitchen, bathroom and a private balcony or courtyard, next to a park. Coin laundry on site. Available 18 December.",
+   "kind": "studio",
    "cat": {
     "state": "ask",
     "note": "The ad doesn't say. Ask about her cat."
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says Nundah Village is a 10-minute walk and a bus stop is 500 m away."
    },
    "agency": "Rent my Property Redcliffe",
    "contacts": [
@@ -2308,34 +2324,47 @@
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
-   "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"NUNDAH CENTRAL! GROUND FLOOR!\"",
+   "reviewed": true,
+   "verdict": "good",
+   "summary": "Ground-floor 1-bedroom unit in a complex of six in central Nundah, with an internal laundry and a separate toilet. On-street parking only. The agency only accepts RTA Form 22 applications.",
    "kind": "1-bedroom unit",
    "cat": {
-    "state": "ok",
-    "note": "The ad says pets are allowed or considered."
+    "state": "ask",
+    "note": "The listing is marked as allowing pets, but the ad text doesn't mention them. Confirm her cat."
    },
    "stairs": {
     "state": "none",
-    "note": "The ad mentions ground floor or single level."
+    "note": "The ad says ground floor."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says you can walk into Nundah Village and to the train and bus."
    },
    "agency": "PRDnationwide Nundah",
    "contacts": [
     {
      "name": "Property Management Team Nundah",
-     "role": "Agent on the ad",
-     "email": null,
+     "role": "Agent on the ad, PRD Nundah",
+     "email": "enquiries@prdnundah.com.au",
      "phone": "(07) 3266 5166",
-     "source": "rent.com.au ad",
+     "source": "https://www.prd.com.au/nundah/property-search/2006202/219-atthow-parade-nundah-qld-4012/",
+     "team": true
+    },
+    {
+     "name": "PRD Nundah office",
+     "role": "General office email",
+     "email": "nundah@prd.com.au",
+     "phone": "(07) 3266 5166",
+     "source": "https://www.prd.com.au/nundah/contact-us/",
      "team": true
     }
    ],
-   "otherAds": []
+   "otherAds": [
+    {
+     "site": "PRD Nundah",
+     "url": "https://www.prd.com.au/nundah/property-search/2006202/219-atthow-parade-nundah-qld-4012/"
+    }
+   ]
   },
   {
    "id": "rent-3465732",
@@ -2357,9 +2386,9 @@
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"In the heart of Everton Park\"",
+   "summary": "1-bedroom unit with an ensuite bathroom, gas cooking, covered car space and a shared laundry. Available 4 December.",
    "kind": "1-bedroom unit",
    "cat": {
     "state": "ask",
@@ -2367,23 +2396,32 @@
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says it's a short stroll to grocery shops, restaurants and transport."
    },
    "agency": "Denovans Real Estate",
    "contacts": [
+    {
+     "name": "Denovans Real Estate office",
+     "role": "General office email",
+     "email": "reception@denovans.com",
+     "phone": "(07) 3355 6233",
+     "source": "https://denovans.com.au/contact/",
+     "team": true
+    },
     {
      "name": "Tolsi Bassett",
      "role": "Agent on the ad",
      "email": null,
      "phone": "(07) 2112 1327",
-     "source": "rent.com.au ad",
+     "source": "https://www.rent.com.au/property/3-707-stafford-rd-everton-park-qld-4053-3465732",
      "team": false
     }
    ],
+   "enquiryForm": "https://denovans.com.au/contact/",
    "otherAds": []
   },
   {
@@ -2582,9 +2620,9 @@
    "firstSeenAt": "2026-10-14T20:07:50+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "A room in a rooming accommodation house",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -2729,9 +2767,9 @@
    "firstSeenAt": "2026-11-03T16:40:03+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says no pets",
    "shops": {
     "state": "close",
     "note": "Walkable."
@@ -2851,9 +2889,9 @@
    "firstSeenAt": "2026-10-30T09:56:19+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says the building is not suitable for pets",
    "shops": {
     "state": "close",
     "note": "Walkable."
@@ -2941,34 +2979,48 @@
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Properly Managed I Enjoy the Best of Windsor on Your Doorstep\"",
+   "summary": "Small flat with a combined bedroom and living area, air-conditioning, a gas cooktop and a modern bathroom. On-street parking only.",
    "kind": "1-bedroom flat",
    "cat": {
-    "state": "ok",
-    "note": "The ad says pets are allowed or considered."
+    "state": "ask",
+    "note": "The listing is marked as allowing pets, but the ad text doesn't mention them. Confirm her cat."
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say which floor. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says it's walking distance to Windsor train station and buses, and close to shops."
    },
    "agency": "Housemark",
    "contacts": [
+    {
+     "name": "Housemark office",
+     "role": "General office email",
+     "email": "hello@housemark.com.au",
+     "phone": "(07) 3073 3991",
+     "source": "https://housemark.com.au/contact/",
+     "team": true
+    },
     {
      "name": "Kelsi Weeks",
      "role": "Agent on the ad",
      "email": null,
      "phone": "0405 052 517",
-     "source": "rent.com.au ad",
+     "source": "https://www.rent.com.au/property/2-22-annie-st-windsor-qld-4030-5590918",
      "team": false
     }
    ],
-   "otherAds": []
+   "enquiryForm": "https://housemark.com.au/contact/",
+   "otherAds": [
+    {
+     "site": "2Apply (Housemark)",
+     "url": "https://app.2apply.com.au/Agency/Housemark"
+    }
+   ]
   },
   {
    "id": "rent-6546396",
@@ -2990,9 +3042,9 @@
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "maybe",
-   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Spacious Self Contained Unit in Quiet Street\"",
+   "summary": "Self-contained 1-bedroom unit in a cul-de-sac with an air-conditioned living area, internal laundry, covered outdoor area, grassy backyard and single carport. Power and water are included. Available 12 December.",
    "kind": "1-bedroom unit",
    "cat": {
     "state": "ask",
@@ -3000,21 +3052,29 @@
    },
    "stairs": {
     "state": "ask",
-    "note": "The ad doesn't say. Ask."
+    "note": "The ad doesn't say. It has its own backyard, so it may be at ground level. Ask."
    },
    "shops": {
     "state": "close",
-    "note": "Walkable."
+    "note": "Walkable. The ad says it's close to all amenities."
    },
    "agency": "Go Gecko Inner North",
    "contacts": [
     {
      "name": "Angela Bryer",
-     "role": "Agent on the ad",
-     "email": null,
+     "role": "Agent on the ad, business owner and rental manager, Go Gecko Inner North",
+     "email": "angela.rentals@gogecko.com.au",
      "phone": "0409 820 705",
-     "source": "rent.com.au ad",
+     "source": "https://www.gogecko.com.au/meet-the-team/angela-bryer/",
      "team": false
+    },
+    {
+     "name": "Go Gecko Inner North office",
+     "role": "General office email",
+     "email": "innernorth@gogecko.com.au",
+     "phone": "(07) 3122 1323",
+     "source": "https://www.gogecko.com.au/",
+     "team": true
     }
    ],
    "otherAds": []
@@ -3345,9 +3405,9 @@
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says it is not suitable for pets",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -3778,9 +3838,9 @@
    "firstSeenAt": "2026-11-17T12:54:04+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says no pets",
    "shops": {
     "state": "far",
     "note": "Not walkable: most errands need a car or bus."
@@ -4155,9 +4215,9 @@
    "firstSeenAt": "2026-11-13T11:01:30+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "A room in a shared house (not checked by Claude yet)",
+   "reason": "Rooming accommodation",
    "shops": {
     "state": "close",
     "note": "Walkable."
@@ -4236,9 +4296,9 @@
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
    "lastSeenAt": "2026-11-22T01:18:28+10:00",
    "gone": false,
-   "reviewed": false,
+   "reviewed": true,
    "verdict": "no",
-   "reason": "The ad says no pets (not checked by Claude yet)",
+   "reason": "The ad says it is not suitable for pets",
    "shops": {
     "state": "close",
     "note": "Walkable."
