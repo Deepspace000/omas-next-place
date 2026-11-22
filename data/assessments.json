@@ -234,5 +234,231 @@
  "rent-6458671": {
   "verdict": "no",
   "reason": "The ad says no pets"
+ },
+ "rent-5054450": {
+  "verdict": "longshot",
+  "kind": "1-bedroom flat",
+  "summary": "1-bedroom flat with a carport, across the road from the bay, close to shops. Water is included. The ad says there are at least 15 stairs to the unit.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "stairs",
+   "note": "The ad says there are at least 15 stairs to the unit."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's close to shops, restaurants and public transport."
+  }
+ },
+ "rent-6116223": {
+  "verdict": "no",
+  "reason": "The ad says no pets are permitted"
+ },
+ "rent-6539032": {
+  "verdict": "maybe",
+  "kind": "1-bedroom unit",
+  "summary": "1-bedroom unit on Anzac Avenue with one car space. It is being repainted and getting new blinds. Available 4 December.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. On Anzac Avenue."
+  }
+ },
+ "rent-6490958": {
+  "verdict": "no",
+  "reason": "A room in a shared house"
+ },
+ "rent-6550236": {
+  "verdict": "maybe",
+  "kind": "1-bedroom unit",
+  "summary": "1-bedroom unit on Flinders Parade on the Sandgate waterfront, with a gas cooktop and a bathtub. Available 24 November.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's close to Sandgate cafes and shops."
+  }
+ },
+ "rent-6511173": {
+  "verdict": "no",
+  "reason": "The ad says it is not suitable for pets"
+ },
+ "rent-6540948": {
+  "verdict": "maybe",
+  "kind": "1-bedroom flat",
+  "summary": "Refurbished 1-bedroom flat, one of four on the property, with a new kitchen, rear deck, carport and a shared front sunroom. The ad says it suits a single person. A bit over budget.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's walking distance to Sandgate shops, buses and the train station."
+  }
+ },
+ "rent-6542985": {
+  "verdict": "no",
+  "reason": "A room in rooming accommodation (Form R18), not suitable for pets"
+ },
+ "rent-6547352": {
+  "verdict": "no",
+  "reason": "A room in rooming accommodation, no pets"
+ },
+ "rent-6547641": {
+  "verdict": "no",
+  "reason": "A room in a rooming house"
+ },
+ "rent-6515639": {
+  "verdict": "no",
+  "reason": "A room in a share house"
+ },
+ "rent-2727769": {
+  "verdict": "maybe",
+  "kind": "studio",
+  "summary": "Renovated studio with its own kitchen and bathroom, next to a small park. Coin-operated washing machine in the common area. The ad says single living only. Available 16 December.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says Nundah Village is a 10-minute walk and a bus stop is 500 m away."
+  }
+ },
+ "rent-6238683": {
+  "verdict": "maybe",
+  "kind": "studio",
+  "summary": "Self-contained unfurnished studio with a kitchen, bathroom and a private balcony or courtyard, next to a park. Coin laundry on site. Available 18 December.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says Nundah Village is a 10-minute walk and a bus stop is 500 m away."
+  }
+ },
+ "rent-6549886": {
+  "verdict": "good",
+  "kind": "1-bedroom unit",
+  "summary": "Ground-floor 1-bedroom unit in a complex of six in central Nundah, with an internal laundry and a separate toilet. On-street parking only. The agency only accepts RTA Form 22 applications.",
+  "cat": {
+   "state": "ask",
+   "note": "The listing is marked as allowing pets, but the ad text doesn't mention them. Confirm her cat."
+  },
+  "stairs": {
+   "state": "none",
+   "note": "The ad says ground floor."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says you can walk into Nundah Village and to the train and bus."
+  }
+ },
+ "rent-3465732": {
+  "verdict": "maybe",
+  "kind": "1-bedroom unit",
+  "summary": "1-bedroom unit with an ensuite bathroom, gas cooking, covered car space and a shared laundry. Available 4 December.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's a short stroll to grocery shops, restaurants and transport."
+  }
+ },
+ "rent-6514911": {
+  "verdict": "no",
+  "reason": "A room in a rooming accommodation house"
+ },
+ "rent-6532225": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ },
+ "rent-6500883": {
+  "verdict": "no",
+  "reason": "The ad says the building is not suitable for pets"
+ },
+ "rent-5590918": {
+  "verdict": "maybe",
+  "kind": "1-bedroom flat",
+  "summary": "Small flat with a combined bedroom and living area, air-conditioning, a gas cooktop and a modern bathroom. On-street parking only.",
+  "cat": {
+   "state": "ask",
+   "note": "The listing is marked as allowing pets, but the ad text doesn't mention them. Confirm her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say which floor. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's walking distance to Windsor train station and buses, and close to shops."
+  }
+ },
+ "rent-6546396": {
+  "verdict": "maybe",
+  "kind": "1-bedroom unit",
+  "summary": "Self-contained 1-bedroom unit in a cul-de-sac with an air-conditioned living area, internal laundry, covered outdoor area, grassy backyard and single carport. Power and water are included. Available 12 December.",
+  "cat": {
+   "state": "ask",
+   "note": "The ad doesn't say. Ask about her cat."
+  },
+  "stairs": {
+   "state": "ask",
+   "note": "The ad doesn't say. It has its own backyard, so it may be at ground level. Ask."
+  },
+  "shops": {
+   "state": "close",
+   "note": "Walkable. The ad says it's close to all amenities."
+  }
+ },
+ "rent-5917799": {
+  "verdict": "no",
+  "reason": "The ad says it is not suitable for pets"
+ },
+ "rent-6544964": {
+  "verdict": "no",
+  "reason": "The ad says no pets"
+ },
+ "rent-6531118": {
+  "verdict": "no",
+  "reason": "Rooming accommodation"
+ },
+ "rent-5848978": {
+  "verdict": "no",
+  "reason": "The ad says it is not suitable for pets"
  }
 }

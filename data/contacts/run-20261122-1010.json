@@ -1,0 +1,183 @@
+{
+ "agencies": [
+  {
+   "name": "Pike Property",
+   "website": "https://pikeproperty.com.au/",
+   "rentalsEmail": null,
+   "generalEmail": "sales@pikeproperty.com.au",
+   "phone": "(07) 5495 5466",
+   "address": "174 Morayfield Road, Morayfield QLD 4506",
+   "source": "https://pikeproperty.com.au/staff/"
+  },
+  {
+   "name": "PRD Nundah",
+   "website": "https://www.prd.com.au/nundah/",
+   "rentalsEmail": "enquiries@prdnundah.com.au",
+   "generalEmail": "nundah@prd.com.au",
+   "phone": "(07) 3266 5166",
+   "address": "1162 Sandgate Road, Nundah QLD 4012",
+   "source": "https://www.prd.com.au/nundah/property-search/2006202/219-atthow-parade-nundah-qld-4012/"
+  },
+  {
+   "name": "Denovans Real Estate",
+   "website": "https://denovans.com.au/",
+   "rentalsEmail": null,
+   "generalEmail": "reception@denovans.com",
+   "phone": "(07) 3355 6233",
+   "address": "630 Samford Road, Mitchelton QLD 4053",
+   "source": "https://denovans.com.au/contact/"
+  },
+  {
+   "name": "Housemark",
+   "website": "https://housemark.com.au/",
+   "rentalsEmail": null,
+   "generalEmail": "hello@housemark.com.au",
+   "phone": "(07) 3073 3991",
+   "address": "76 Merthyr Road, New Farm QLD 4005",
+   "source": "https://housemark.com.au/contact/"
+  },
+  {
+   "name": "Go Gecko Inner North",
+   "website": "https://www.gogecko.com.au/",
+   "rentalsEmail": "angela.rentals@gogecko.com.au",
+   "generalEmail": "innernorth@gogecko.com.au",
+   "phone": "(07) 3122 1323",
+   "address": "1471 Sandgate Road, Nundah QLD 4012",
+   "source": "https://www.gogecko.com.au/meet-the-team/angela-bryer/"
+  }
+ ],
+ "listings": [
+  {
+   "id": "rent-6539032",
+   "contacts": [
+    {
+     "name": "Eliza McInerney",
+     "role": "Rentals reception, Pike Property",
+     "email": "eliza@pikeproperty.com.au",
+     "phone": "(07) 5495 5466",
+     "source": "https://pikeproperty.com.au/staff/"
+    },
+    {
+     "name": "Pike Property Rental Team",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "(07) 5495 5466",
+     "source": "https://www.rent.com.au/property/1-1456-anzac-ave-kallangur-qld-4503-6539032"
+    },
+    {
+     "name": "Pike Property office",
+     "role": "General office email",
+     "email": "sales@pikeproperty.com.au",
+     "phone": "(07) 5495 7777",
+     "source": "https://pikeproperty.com.au/"
+    }
+   ],
+   "enquiryForm": null,
+   "otherAds": [],
+   "extraDetails": null,
+   "notes": "The agency's website shows no rentals email, only staff emails. The ad was not found on the agency's own website."
+  },
+  {
+   "id": "rent-6549886",
+   "contacts": [
+    {
+     "name": "Property Management Team Nundah",
+     "role": "Agent on the ad, PRD Nundah",
+     "email": "enquiries@prdnundah.com.au",
+     "phone": "(07) 3266 5166",
+     "source": "https://www.prd.com.au/nundah/property-search/2006202/219-atthow-parade-nundah-qld-4012/"
+    },
+    {
+     "name": "PRD Nundah office",
+     "role": "General office email",
+     "email": "nundah@prd.com.au",
+     "phone": "(07) 3266 5166",
+     "source": "https://www.prd.com.au/nundah/contact-us/"
+    }
+   ],
+   "enquiryForm": null,
+   "otherAds": [
+    {
+     "site": "PRD Nundah",
+     "url": "https://www.prd.com.au/nundah/property-search/2006202/219-atthow-parade-nundah-qld-4012/"
+    }
+   ],
+   "extraDetails": "The agency's own ad also says ground floor and a complex of six. Bond $1,440. It doesn't mention pets or stairs.",
+   "notes": "The agency's website gives its office address as Shop 3/89 Buckland Road, Nundah."
+  },
+  {
+   "id": "rent-3465732",
+   "contacts": [
+    {
+     "name": "Denovans Real Estate office",
+     "role": "General office email",
+     "email": "reception@denovans.com",
+     "phone": "(07) 3355 6233",
+     "source": "https://denovans.com.au/contact/"
+    },
+    {
+     "name": "Tolsi Bassett",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "(07) 2112 1327",
+     "source": "https://www.rent.com.au/property/3-707-stafford-rd-everton-park-qld-4053-3465732"
+    }
+   ],
+   "enquiryForm": "https://denovans.com.au/contact/",
+   "otherAds": [],
+   "extraDetails": null,
+   "notes": "No rentals email is published. The agent on the ad is not named on the agency's website."
+  },
+  {
+   "id": "rent-5590918",
+   "contacts": [
+    {
+     "name": "Housemark office",
+     "role": "General office email",
+     "email": "hello@housemark.com.au",
+     "phone": "(07) 3073 3991",
+     "source": "https://housemark.com.au/contact/"
+    },
+    {
+     "name": "Kelsi Weeks",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0405 052 517",
+     "source": "https://www.rent.com.au/property/2-22-annie-st-windsor-qld-4030-5590918"
+    }
+   ],
+   "enquiryForm": "https://housemark.com.au/contact/",
+   "otherAds": [
+    {
+     "site": "2Apply (Housemark)",
+     "url": "https://app.2apply.com.au/Agency/Housemark"
+    }
+   ],
+   "extraDetails": null,
+   "notes": "The email is on the contact page behind the site's email protection, so it only shows in a browser. No rentals email is published."
+  },
+  {
+   "id": "rent-6546396",
+   "contacts": [
+    {
+     "name": "Angela Bryer",
+     "role": "Agent on the ad, business owner and rental manager, Go Gecko Inner North",
+     "email": "angela.rentals@gogecko.com.au",
+     "phone": "0409 820 705",
+     "source": "https://www.gogecko.com.au/meet-the-team/angela-bryer/"
+    },
+    {
+     "name": "Go Gecko Inner North office",
+     "role": "General office email",
+     "email": "innernorth@gogecko.com.au",
+     "phone": "(07) 3122 1323",
+     "source": "https://www.gogecko.com.au/"
+    }
+   ],
+   "enquiryForm": null,
+   "otherAds": [],
+   "extraDetails": null,
+   "notes": "Angela Bryer's direct office line is (07) 3122 4198."
+  }
+ ]
+}
