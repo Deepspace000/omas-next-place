@@ -1,18 +1,30 @@
 {
- "generatedAt": "2026-11-23T10:46:13+10:00",
+ "generatedAt": "2026-11-23T17:26:35+10:00",
  "lastSearch": {
-  "at": "2026-11-23T10:46:13+10:00",
-  "found": 26,
+  "at": "2026-11-23T17:26:35+10:00",
+  "found": 30,
   "new": [
-   "rent-6153667"
+   "rent-6551602",
+   "rent-6552278",
+   "rent-5962205"
   ],
-  "gone": [
-   "rent-6540948"
-  ],
+  "gone": [],
   "problems": [],
   "trigger": "schedule"
  },
  "runs": [
+  {
+   "at": "2026-11-23T17:26:35+10:00",
+   "found": 30,
+   "new": [
+    "rent-6551602",
+    "rent-6552278",
+    "rent-5962205"
+   ],
+   "gone": [],
+   "problems": [],
+   "trigger": "schedule"
+  },
   {
    "at": "2026-11-23T10:46:13+10:00",
    "found": 26,
@@ -95,18 +107,6 @@
     "rent-6499181",
     "rent-6170544",
     "rent-5535940"
-   ],
-   "problems": [],
-   "trigger": "schedule"
-  },
-  {
-   "at": "2026-11-19T11:52:18+10:00",
-   "found": 29,
-   "new": [],
-   "gone": [
-    "rent-6036286",
-    "rent-6510954",
-    "rent-6540950"
    ],
    "problems": [],
    "trigger": "schedule"
@@ -418,7 +418,7 @@
     "https://cdn.rent.com.au/photos/images/268816569/1d3074adee75d22835472a49-228230545__1794358262-47893-3-1794358995-original.jpg?1794358995"
    ],
    "firstSeenAt": "2026-11-11T16:02:11+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "longshot",
@@ -475,7 +475,7 @@
     "https://cdn.rent.com.au/photos/images/258349742/b76677d385a8fb1194f2d960-b32c018d-f77b-403f-a1e5-01a6b088acc9-1793774521-original.jpg?1793774521"
    ],
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -766,7 +766,7 @@
     "https://cdn.rent.com.au/photos/images/268799137/3cf7ee204c521412c22d896d-uploads_2F1794281459855-umiygrfrej-d89a0cb4061ebd66530a230b03455545_2FKitchen___Meals_-_Overall-1794282115-original.jpg?1794282115"
    ],
    "firstSeenAt": "2026-11-10T17:09:57+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -814,6 +814,55 @@
    "otherAds": []
   },
   {
+   "id": "rent-6551602",
+   "url": "https://www.rent.com.au/property/2-18-toby-cl-kallangur-qld-4503-6551602",
+   "area": "Deception Bay / North Lakes",
+   "address": "2/18 Toby Close",
+   "suburb": "Kallangur",
+   "postcode": "4503",
+   "type": "House",
+   "beds": 1,
+   "price": 390,
+   "bond": 1560,
+   "available": "6th January 2027",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269010457/1dcfeeded82f06127ddf72fe-230324612__1795396254-52989-Front-1795397877-original.jpg?1795397877",
+    "https://cdn.rent.com.au/photos/images/269010459/161f0af87ffdc9525bd83012-230324653__1795396256-185977-Kitchen-1795397878-original.jpg?1795397878",
+    "https://cdn.rent.com.au/photos/images/269010462/a1d9f674e98dbe13d6712e5b-230324708__1795396259-185738-Living-1795397878-original.jpg?1795397878"
+   ],
+   "firstSeenAt": "2026-11-23T17:26:35+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
+   "gone": false,
+   "reviewed": false,
+   "verdict": "maybe",
+   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Low-Maintenance Living in a Convenient Location\"",
+   "kind": "1-bedroom place",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "Ray White - North Lakes",
+   "contacts": [
+    {
+     "name": "North Lakes Team",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "(07) 3482 3501",
+     "source": "rent.com.au ad",
+     "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
    "id": "rent-6490961",
    "url": "https://www.rent.com.au/property/3-5-wirragrove-cct-kallangur-qld-4503-6490961",
    "area": "Deception Bay / North Lakes",
@@ -831,7 +880,7 @@
     "https://cdn.rent.com.au/photos/images/267911462/8a00742c7c827f48754cf362-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1793151636-original.jpg?1793151636"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -871,7 +920,7 @@
     "https://cdn.rent.com.au/photos/images/268303998/c26a6df1bf8f2b6bb391bd14-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1793151636-original.jpg?1793151636"
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1123,7 +1172,7 @@
     "https://cdn.rent.com.au/photos/images/268986866/eab3c170194e05294e1bbf53-uploads_2F1768362642134-xhhmftkfd4e-80333f8aa27803afa7b658bb3811d654_2F2-1795143416-original.jpg?1795143416"
    ],
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -1206,47 +1255,6 @@
      "phone": "(07) 3869 9999",
      "source": "https://www.professionalssandgate.com.au/wp-content/uploads/2025/12/Application-Form-GENERAL-TENANCY.pdf",
      "team": false
-    }
-   ],
-   "otherAds": []
-  },
-  {
-   "id": "rent-6447565",
-   "url": "https://www.rent.com.au/property/14-waruda-st-bracken-ridge-qld-4017-6447565",
-   "area": "Sandgate / Brighton",
-   "address": "14 Waruda Street",
-   "suburb": "Bracken Ridge",
-   "postcode": "4017",
-   "type": "Unit",
-   "beds": 1,
-   "price": 380,
-   "bond": 1520,
-   "available": "now",
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268277591/a8e7b98cee08b7658baee89d-b4e20053-1847-4500-bf7e-a4d1bdaf6778-1791855343-original.png?1791855343",
-    "https://cdn.rent.com.au/photos/images/268278206/8a72b7e9cb2c49f3e1dececf-b4e20057-a95d-486d-8b0d-1d43fcb8e67d-1791856530-original.png?1791856530",
-    "https://cdn.rent.com.au/photos/images/268277728/b164d0b73e6c867e788fd4da-b4e20053-170f-4f1f-ba8b-5e8176b66270-1791855561-original.png?1791855561"
-   ],
-   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-10-24T09:04:44+10:00",
-   "gone": true,
-   "goneAt": "2026-10-24T11:31:06+10:00",
-   "reviewed": true,
-   "verdict": "no",
-   "reason": "The ad says it's not suitable for pets",
-   "shops": {
-    "state": "close",
-    "note": "Walkable."
-   },
-   "agency": "Upside Ave",
-   "contacts": [
-    {
-     "name": "Leasing Team",
-     "role": "Agent on the ad",
-     "email": null,
-     "phone": "0493 446 309",
-     "source": "rent.com.au ad",
-     "team": true
     }
    ],
    "otherAds": []
@@ -1368,7 +1376,7 @@
     "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
    ],
    "firstSeenAt": "2026-10-27T09:46:24+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1594,6 +1602,47 @@
      "phone": "0439 673 884",
      "source": "rent.com.au ad",
      "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6447565",
+   "url": "https://www.rent.com.au/property/14-waruda-st-bracken-ridge-qld-4017-6447565",
+   "area": "Sandgate / Brighton",
+   "address": "14 Waruda Street",
+   "suburb": "Bracken Ridge",
+   "postcode": "4017",
+   "type": "Unit",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268277591/a8e7b98cee08b7658baee89d-b4e20053-1847-4500-bf7e-a4d1bdaf6778-1791855343-original.png?1791855343",
+    "https://cdn.rent.com.au/photos/images/268278206/8a72b7e9cb2c49f3e1dececf-b4e20057-a95d-486d-8b0d-1d43fcb8e67d-1791856530-original.png?1791856530",
+    "https://cdn.rent.com.au/photos/images/268278211/38c37ff0aadb9c2540938ace-b4e2005a-284c-4dc0-a7ae-4593be4ca01e-1791856533-original.png?1791856533"
+   ],
+   "firstSeenAt": "2026-09-29T06:36:00+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
+   "gone": false,
+   "goneAt": "2026-10-24T11:31:06+10:00",
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "The ad says it's not suitable for pets",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "Upside Ave",
+   "contacts": [
+    {
+     "name": "Leasing Team",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0493 446 309",
+     "source": "rent.com.au ad",
+     "team": true
     }
    ],
    "otherAds": []
@@ -1847,7 +1896,7 @@
     "https://cdn.rent.com.au/photos/images/268865003/e0fe1d13b5b740ed36a824f4-7-cox-road-windsor-q_04bf-1f76-409d-5eae-8d34-186d-4367-4f93_20261105083151-1794538188-original.jpg?1794538188"
    ],
    "firstSeenAt": "2026-11-13T16:32:30+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1887,7 +1936,7 @@
     "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550"
    ],
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1927,7 +1976,7 @@
     "https://cdn.rent.com.au/photos/images/268943560/f34e657bdb6e184eb95adfa7-f6d36456aeac0671a446ff7df7a16439e5d10f5d7e5e46585bcf282c02e7c696-1794973195-original.jpg?1794973195"
    ],
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2084,7 +2133,7 @@
     "https://cdn.rent.com.au/photos/images/268454238/d71fc3098448ddebc3bd1a3a-b4e400ea-5790-4366-a940-1f1f9176a405-1792717850-original.jpg?1792717850"
    ],
    "firstSeenAt": "2026-10-15T14:30:20+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2124,7 +2173,7 @@
     "https://cdn.rent.com.au/photos/images/260700685/b99083e8bef6c6f9867fd4e9-127839142__1733798417-149978-DSC6470FW2024-1764047737-original.jpg?1764047737"
    ],
    "firstSeenAt": "2026-11-06T10:57:35+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -2181,7 +2230,7 @@
     "https://cdn.rent.com.au/photos/images/261243774/bbf1e4ab680caf3671a22060-178952903__1765244943-63656-DSC8160-2NOV-1765245978-original.jpg?1765245978"
    ],
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -2320,7 +2369,7 @@
     "https://cdn.rent.com.au/photos/images/268980520/41ba78410e4747124c9436c8-229871291__1795132216-229871291__1795131780-34612-Brightenedlivingroomandkitchen-1795132665-original.png?1795132665"
    ],
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "good",
@@ -2382,7 +2431,7 @@
     "https://cdn.rent.com.au/photos/images/268694820/85df73c109c40c8fff8ca59d-ac029797-9d3c-468c-9123-67d337f5235b-1793762289-original.jpg?1793762289"
    ],
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -2616,7 +2665,7 @@
     "https://cdn.rent.com.au/photos/images/269000900/b1c1ae96d9c251af38f96b08-9a688b110af9db3ff106e62cb39a110eed38975e07dda6637eaaa950e60db3fd-1795249872-original.jpg?1795249872"
    ],
    "firstSeenAt": "2026-10-14T20:07:50+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2763,7 +2812,7 @@
     "https://cdn.rent.com.au/photos/images/268950266/0df7d0664cdb896ff3e4707d-3-1794982519-original.jpg?1794982519"
    ],
    "firstSeenAt": "2026-11-03T16:40:03+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2885,7 +2934,7 @@
     "https://cdn.rent.com.au/photos/images/268073970/a3b8254fa65bc2e556be04a6-10057515_21681185_8_1790648665-1790649739-original.jpg?1790649739"
    ],
    "firstSeenAt": "2026-10-30T09:56:19+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2975,7 +3024,7 @@
     "https://cdn.rent.com.au/photos/images/248460999/49f08adec2f5480c6c1db037-4c4c8f6f_2Dec67_2D5f5f_2D793d_2D23ca06e2bd10-1709105256-original.jpg?1709105256"
    ],
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -3038,7 +3087,7 @@
     "https://cdn.rent.com.au/photos/images/268922790/4332754d5adbb0c570534e39-zbed-cda4-b86d-0a39-_f2af-4d76-42ed-264a-ba21-2186-5e8f-cfdb_20261117051528-1794892728-original.jpg?1794892728"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -3401,7 +3450,7 @@
     "https://cdn.rent.com.au/photos/images/254751168/77e9b9edbcd324ab18dc0d61-10057515_20486527_10_1591669609-1736815375-original.jpg?1736815375"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -3490,7 +3539,7 @@
     "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -3752,7 +3801,7 @@
     "https://cdn.rent.com.au/photos/images/259066459/ff3cd2ef4c31530c89186972-585f7c15_2Dfdb4_2D0c69_2D2522_2Db5e2b0be11f2-1757562387-original.jpg?1757562387"
    ],
    "firstSeenAt": "2026-11-23T10:46:13+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -3778,6 +3827,46 @@
      "phone": "1300 368 658",
      "source": "https://ysh.com.au/contact/",
      "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-6552278",
+   "url": "https://www.rent.com.au/property/124-miles-st-bald-hills-qld-4036-6552278",
+   "area": "Northern suburbs",
+   "address": "124 Miles Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269021211/80c40a65d60a8fefd4975382-10057515_21701553_0_1795411174-1795412087-original.jpg?1795412087",
+    "https://cdn.rent.com.au/photos/images/269021401/b8ffa2f1b3a0fd46232147ac-10057515_21701553_1_1795411174-1795412286-original.jpg?1795412286",
+    "https://cdn.rent.com.au/photos/images/269021399/b454c50eeb160b50abda3de5-10057515_21701553_2_1795411174-1795412286-original.jpg?1795412286"
+   ],
+   "firstSeenAt": "2026-11-23T17:26:35+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
+   "gone": false,
+   "reviewed": false,
+   "verdict": "no",
+   "reason": "The ad says no pets (not checked by Claude yet)",
+   "shops": {
+    "state": "far",
+    "note": "Not walkable: most errands need a car or bus."
+   },
+   "agency": "QPSR Realty",
+   "contacts": [
+    {
+     "name": "Cooper Mooney",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0411 563 401",
+     "source": "rent.com.au ad",
+     "team": false
     }
    ],
    "otherAds": []
@@ -3865,6 +3954,46 @@
    "otherAds": []
   },
   {
+   "id": "rent-6531118",
+   "url": "https://www.rent.com.au/property/unit-2-63-broughton-rd-kedron-qld-4031-6531118",
+   "area": "Northern suburbs",
+   "address": "2/63 Broughton Road",
+   "suburb": "Kedron",
+   "postcode": "4031",
+   "type": "Unit",
+   "beds": 1,
+   "price": 425,
+   "bond": 1700,
+   "available": "now",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/268658139/48605dac74755b1eb909fb8f-63broughton-unit-2-0_1017-a9d5-6da4-3277-4f02-bdba-0db5-6f16_20261102053411-1793598896-original.jpg?1793598896",
+    "https://cdn.rent.com.au/photos/images/268658141/c84cf0b994f43f2202cbbf92-63broughton-unit-2-0_9111-24f8-8e25-ba9f-045e-6cdd-b7d6-5002_20261102053413-1793598897-original.jpg?1793598897",
+    "https://cdn.rent.com.au/photos/images/268658140/2353b41a806c80d3b44e412e-63broughton-unit-2-0_c6a4-1a54-88f5-bd0e-8280-10a2-8cc8-6593_20261102053413-1793598897-original.jpg?1793598897"
+   ],
+   "firstSeenAt": "2026-11-13T11:01:30+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
+   "gone": false,
+   "reviewed": true,
+   "verdict": "no",
+   "reason": "Rooming accommodation",
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "LJ Hooker Stafford",
+   "contacts": [
+    {
+     "name": "LJ Hooker Stafford Rental Team",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0405 659 437",
+     "source": "rent.com.au ad",
+     "team": true
+    }
+   ],
+   "otherAds": []
+  },
+  {
    "id": "rent-6544964",
    "url": "https://www.rent.com.au/property/id99919093-42-griffiths-st-bald-hills-qld-4036-6544964",
    "area": "Northern suburbs",
@@ -3877,12 +4006,12 @@
    "bond": 1700,
    "available": "now",
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268974764/fe2978d269c2d278b7f4fe11-1-1795074311-original.jpg?1795074311",
-    "https://cdn.rent.com.au/photos/images/268974765/b1a83184aaa2577f0329e49f-2-1795074312-original.jpg?1795074312",
-    "https://cdn.rent.com.au/photos/images/268974767/a46be6455ede7ce67ef63da5-2-1795074313-original.jpg?1795074313"
+    "https://cdn.rent.com.au/photos/images/269021457/fccc210432e3bcd9473b8353-1-1795412308-original.jpg?1795412308",
+    "https://cdn.rent.com.au/photos/images/269021667/a619a07925d889649157b1f1-2-1795412410-original.jpg?1795412410",
+    "https://cdn.rent.com.au/photos/images/269021664/519781b73ff181dd5b6eebd7-3-1795412409-original.jpg?1795412409"
    ],
    "firstSeenAt": "2026-11-17T12:54:04+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -4242,46 +4371,6 @@
    "otherAds": []
   },
   {
-   "id": "rent-6531118",
-   "url": "https://www.rent.com.au/property/unit-2-63-broughton-rd-kedron-qld-4031-6531118",
-   "area": "Northern suburbs",
-   "address": "2/63 Broughton Road",
-   "suburb": "Kedron",
-   "postcode": "4031",
-   "type": "Unit",
-   "beds": 1,
-   "price": 430,
-   "bond": 1720,
-   "available": "now",
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268658139/48605dac74755b1eb909fb8f-63broughton-unit-2-0_1017-a9d5-6da4-3277-4f02-bdba-0db5-6f16_20261102053411-1793598896-original.jpg?1793598896",
-    "https://cdn.rent.com.au/photos/images/268658141/c84cf0b994f43f2202cbbf92-63broughton-unit-2-0_9111-24f8-8e25-ba9f-045e-6cdd-b7d6-5002_20261102053413-1793598897-original.jpg?1793598897",
-    "https://cdn.rent.com.au/photos/images/268658140/2353b41a806c80d3b44e412e-63broughton-unit-2-0_c6a4-1a54-88f5-bd0e-8280-10a2-8cc8-6593_20261102053413-1793598897-original.jpg?1793598897"
-   ],
-   "firstSeenAt": "2026-11-13T11:01:30+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
-   "gone": false,
-   "reviewed": true,
-   "verdict": "no",
-   "reason": "Rooming accommodation",
-   "shops": {
-    "state": "close",
-    "note": "Walkable."
-   },
-   "agency": "LJ Hooker Stafford",
-   "contacts": [
-    {
-     "name": "LJ Hooker Stafford Rental Team",
-     "role": "Agent on the ad",
-     "email": null,
-     "phone": "0405 659 437",
-     "source": "rent.com.au ad",
-     "team": true
-    }
-   ],
-   "otherAds": []
-  },
-  {
    "id": "rent-4464501",
    "url": "https://www.rent.com.au/property/4-184a-church-rd-taigum-qld-4018-4464501",
    "area": "Northern suburbs",
@@ -4340,7 +4429,7 @@
     "https://cdn.rent.com.au/photos/images/253487209/efbfaa486b011410e7e2074d-10057515_21434588_5_1692678243-1730774208-original.jpg?1730774208"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-23T10:46:13+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -4358,6 +4447,63 @@
      "phone": "0439 673 884",
      "source": "rent.com.au ad",
      "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
+   "id": "rent-5962205",
+   "url": "https://www.rent.com.au/property/4-45-pioneer-st-zillmere-qld-4034-5962205",
+   "area": "Northern suburbs",
+   "address": "4/45 Pioneer Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Apartment",
+   "beds": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "14th December 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/255534984/4e9cbeef3d27b4b2e45337a9-37932d53_2Daeff_2D95ed_2Dfd9a_2Da15a3b11a8fd-1740447406-original.jpg?1740447406",
+    "https://cdn.rent.com.au/photos/images/255534979/d32afc1d654c19cb7704dd30-f05c2993_2D6a61_2D1212_2D549e_2D56d98f65de0f-1740447405-original.jpg?1740447405",
+    "https://cdn.rent.com.au/photos/images/255534980/8cda8ef36de0d456b9d1e217-a8f8ecd7_2De230_2D1e8f_2Db6e2_2Db0686e0b458b-1740447405-original.jpg?1740447405"
+   ],
+   "firstSeenAt": "2026-11-23T17:26:35+10:00",
+   "lastSeenAt": "2026-11-23T17:26:35+10:00",
+   "gone": false,
+   "reviewed": false,
+   "verdict": "maybe",
+   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Fully furnished, Private, one-bedroom apartment with electricity, NBN, water included!\"",
+   "kind": "1-bedroom apartment",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "YSH Property",
+   "contacts": [
+    {
+     "name": "Indeea Mallett",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "0497 019 777",
+     "source": "rent.com.au ad",
+     "team": false
+    },
+    {
+     "name": "YSH Property",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@ysh.com.au",
+     "phone": "1300 368 658",
+     "source": "https://ysh.com.au/contact/",
+     "team": true
     }
    ],
    "otherAds": []

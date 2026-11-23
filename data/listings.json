@@ -443,7 +443,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -460,7 +460,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-23T10:46:13+10:00"
+  "lastSeenAt": "2026-11-23T17:26:35+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -675,7 +675,7 @@
    "photos": [
     "https://cdn.rent.com.au/photos/images/268277591/a8e7b98cee08b7658baee89d-b4e20053-1847-4500-bf7e-a4d1bdaf6778-1791855343-original.png?1791855343",
     "https://cdn.rent.com.au/photos/images/268278206/8a72b7e9cb2c49f3e1dececf-b4e20057-a95d-486d-8b0d-1d43fcb8e67d-1791856530-original.png?1791856530",
-    "https://cdn.rent.com.au/photos/images/268277728/b164d0b73e6c867e788fd4da-b4e20053-170f-4f1f-ba8b-5e8176b66270-1791855561-original.png?1791855561"
+    "https://cdn.rent.com.au/photos/images/268278211/38c37ff0aadb9c2540938ace-b4e2005a-284c-4dc0-a7ae-4593be4ca01e-1791856533-original.png?1791856533"
    ],
    "id": "rent-6447565",
    "source": "rent.com.au",
@@ -688,15 +688,15 @@
    "beds": 1,
    "baths": 1,
    "cars": 1,
-   "price": 380,
-   "bond": 1520,
+   "price": 430,
+   "bond": 1720,
    "available": "now",
    "listedAt": "2026-07-31T12:35:39.000+08:00",
    "petsListed": false,
    "furnished": false,
-   "walkScore": 50,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 37,
+   "walkScore": 40,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 27,
    "transitCategory": "some_transit",
    "topFeatures": [
     "Friendly neighbourhood",
@@ -707,19 +707,17 @@
    "inspections": [],
    "lat": "-27.322837",
    "lng": "153.038309",
-   "byline": "Comfortable & Private Unfurnished Apartments  Convenient Living in Bracken Ridge",
-   "description": "Welcome to your own private micro apartment, offering comfortable, low-maintenance living in a convenient Bracken Ridge location.\n\nThese well-designed apartments provide an excellent housing option for single professionals looking for an affordable, private place to call home. With your own kitchenette and bathroom, each apartment offers the comfort and independence of your own self-contained residence, while also providing access to shared communal facilities.\n\nPLEASE NOTE: Due to Brisbane City Council regulations and fire safety requirements, only ONE occupant is permitted per unit. These properties are not suitable for couples, families, or pets, and overnight guests are not permitted.\n\n** Apartments are unfurnished, photos are virtually staged. **\n\nWith only five apartments available, this is a fantastic opportunity to secure comfortable accommodation in a quiet location with excellent access to public transport, shops and major road networks.\n\nAvailable Apartments\n\nGround Floor\n\nUnit 1  $470 per week  Includes both secure garage parking spaces, Internal Garage Access to Unit\nUnit 2  $380 per week  Includes Internal Storage Space- Street parking only\n\nFirst Floor\n\nUnit 3  $410 per week  Street parking only\nUnit 4  LEASED\nUnit 5  $445 per week  Street parking only\n\n\nFeatures You'll Enjoy\n\n Comfortable, Functional Layouts  Thoughtfully designed to provide a practical living space with separate areas for relaxing, sleeping and preparing meals.\n\n Private Kitchenette  Each apartment includes its own kitchenette with quality appliances, making everyday cooking simple and convenient.\n\n Unfurnished  Bring your own furniture and personalise the space to suit your lifestyle.\n\n Private Bathroom  Enjoy the convenience of your own bathroom with a generous shower.\n\n Secure Access  Keyless digital entry offers added security and ease of access.\n\n Year-Round Comfort  Reverse-cycle air conditioning and ceiling fans help keep the apartment comfortable throughout every season.\n\n Shared Amenities  Residents have access to a communal downstairs kitchen and shared laundry facilities, including two washing machines, providing additional convenience.\n\nLocation Highlights\n\n Less than 100 metres to the nearest bus stop\n Approximately 3 km to Bald Hills Train Station\n Approximately 1.5 km to Bracken Ridge TAFE Campus\n Approximately 1.5 km to Woolworths & Bracken Ridge Tavern\n Approximately 1 km to Bracken Ridge Library\n Approximately 2 km to Bracken Ridge Plaza\n Approximately 8.5 km to the Brisbane Entertainment Centre\n Approximately 20 km (around 18 minutes) to Brisbane International Airport\n Approximately 28 km (around 30 minutes) to Brisbane CBD\n\nWith excellent access to the Gateway Motorway and M1, travelling north or south is quick and convenient, making this an ideal location for working professionals seeking affordable, private accommodation close to everyday amenities.\n\nInspections & Applications\n\nAfter viewing the 3D Virtual Tour, you're invited to submit your application online. While the virtual tour provides a comprehensive overview of the property, a physical inspection is required before we can process your application or offer formal approval.\n\nTo book an inspection, simply click the \"Book an Inspection\" button and register your details. By registering, you'll receive instant notifications of any changes, updates or cancellations to your inspection. Please note that inspections without registered attendees may be cancelled without notice.\n\nIf you're looking for comfortable, self-contained accommodation that offers privacy, convenience and excellent value in a well-connected location, these apartments are well worth inspecting.",
+   "byline": "Spacious Ground Floor Apartment- Double Garage- All Bills Included!",
+   "description": "Welcome to your own private apartment, offering comfortable, low-maintenance living in a convenient Bracken Ridge location.\n\nThese well-designed apartments provide an excellent housing option for single professionals looking for an affordable, private place to call home. With your own kitchenette and bathroom, each apartment offers the comfort and independence of your own self-contained residence, while also providing access to shared communal facilities.\n\nPLEASE NOTE: Due to Brisbane City Council regulations and fire safety requirements, only ONE occupant is permitted per unit. These properties are not suitable for couples, families, or pets, and overnight guests are not permitted.\n\n** Apartments are unfurnished, photos are virtually staged. **\n\n\nAvailable Apartments\n\nGround Floor\n\nApartment 1  $430 per week  Spacious ground floor Apartment\n\nOptional Double car garage for parking & ample storage options- $40 per week\n\n\n\n\nFeatures You'll Enjoy\n\n Comfortable, Functional Layouts  Thoughtfully designed to provide a practical living space with separate areas for relaxing, sleeping and preparing meals.\n\n Private Kitchenette  Each apartment includes its own kitchenette with quality appliances, making everyday cooking simple and convenient.\n\n Unfurnished  Bring your own furniture and personalise the space to suit your lifestyle.\n\n Private Bathroom  Enjoy the convenience of your own bathroom with a generous shower.\n\n Secure Access  Keyless digital entry offers added security and ease of access.\n\n Year-Round Comfort  Reverse-cycle air conditioning and ceiling fans help keep the apartment comfortable throughout every season.\n\n Shared Amenities  Residents have access to a communal downstairs kitchen and shared laundry facilities, including two washing machines, providing additional convenience.\n\nLocation Highlights\n\n Less than 100 metres to the nearest bus stop\n Approximately 3 km to Bald Hills Train Station\n Approximately 1.5 km to Bracken Ridge TAFE Campus\n Approximately 1.5 km to Woolworths & Bracken Ridge Tavern\n Approximately 1 km to Bracken Ridge Library\n Approximately 2 km to Bracken Ridge Plaza\n Approximately 8.5 km to the Brisbane Entertainment Centre\n Approximately 20 km (around 18 minutes) to Brisbane International Airport\n Approximately 28 km (around 30 minutes) to Brisbane CBD\n\nWith excellent access to the Gateway Motorway and M1, travelling north or south is quick and convenient, making this an ideal location for working professionals seeking affordable, private accommodation close to everyday amenities.\n\nInspections & Applications\n\nAfter viewing the 3D Virtual Tour, you're invited to submit your application online. While the virtual tour provides a comprehensive overview of the property, a physical inspection is required before we can process your application or offer formal approval.\n\nTo book an inspection, simply click the \"Book an Inspection\" button and register your details. By registering, you'll receive instant notifications of any changes, updates or cancellations to your inspection. Please note that inspections without registered attendees may be cancelled without notice.\n\nIf you're looking for comfortable, self-contained accommodation that offers privacy, convenience and excellent value in a well-connected location, these apartments are well worth inspecting.",
    "flags": {
     "ground": [
-     "port, shops and major road networks. Available Apartments Ground Floor Unit 1 $470 per week Includes both secure garage parking"
+     "ed, photos are virtually staged. ** Available Apartments Ground Floor Apartment 1 $430 per week Spacious ground floor Apartmen",
+     "rtments Ground Floor Apartment 1 $430 per week Spacious ground floor Apartment Optional Double car garage for parking & ample s"
     ],
     "stairs": [
-     "week Includes Internal Storage Space- Street parking only First Floor Unit 3 $410 per week Street parking only Unit 4 LEASED",
      "on. Shared Amenities Residents have access to a communal downstairs kitchen and shared laundry facilities, including two washin"
     ],
     "shops": [
-     "odation in a quiet location with excellent access to public transport, shops and major road networks. Available Apartments Grou",
-     "a quiet location with excellent access to public transport, shops and major road networks. Available Apartments Ground Floo",
      "Location Highlights Less than 100 metres to the nearest bus stop Approximately 3 km to Bald Hills Train Station Appro",
      "s to the nearest bus stop Approximately 3 km to Bald Hills Train Station Approximately 1.5 km to Bracken Ridge TAFE Campus",
      ".5 km to Bracken Ridge TAFE Campus Approximately 1.5 km to Woolworths & Bracken Ridge Tavern Approximately 1 km to Bracken Ridge"
@@ -742,9 +740,9 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "gone": true,
+  "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-10-24T09:04:44+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "goneAt": "2026-10-24T11:31:06+10:00"
  },
  "rent-6488119": {
@@ -1641,7 +1639,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-23T10:46:13+10:00"
+  "lastSeenAt": "2026-11-23T17:26:35+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2465,7 +2463,7 @@
    },
    "contactPerson": {
     "name": "Rob  Claridge",
-    "phone": "0448 191 826",
+    "phone": "+61448191826",
     "phoneAlt": "+61448191826"
    },
    "company": {
@@ -2480,7 +2478,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2813,7 +2811,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -3005,7 +3003,7 @@
    },
    "contactPerson": {
     "name": "Pinnacle Properties Property  Manager",
-    "phone": "+61423571883",
+    "phone": "0423 571 883",
     "phoneAlt": "+61423571883"
    },
    "company": {
@@ -3020,7 +3018,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3576,7 +3574,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3719,7 +3717,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -4212,7 +4210,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4282,7 +4280,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4348,7 +4346,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4420,7 +4418,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4475,7 +4473,7 @@
    },
    "contactPerson": {
     "name": "Kelsi Weeks",
-    "phone": "0405 052 517",
+    "phone": "+61405052517",
     "phoneAlt": "+61405052517"
    },
    "company": {
@@ -4490,7 +4488,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4624,7 +4622,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4747,7 +4745,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4816,7 +4814,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -4968,8 +4966,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 430,
-   "bond": 1720,
+   "price": 425,
+   "bond": 1700,
    "available": "now",
    "listedAt": "2026-11-02T13:54:54.000+08:00",
    "petsListed": false,
@@ -4987,7 +4985,7 @@
    "inspections": [],
    "lat": "-27.408949",
    "lng": "153.029298",
-   "byline": "INDEPENDENT LIVING - MODERN ONE BEDROOM UNIT",
+   "byline": "EASY LIVING! - MODERN ONE BEDROOM UNIT wi A/C",
    "description": "You won't believe the size of this newly renovated 1-bedroom apartment, located in a quiet street in Kedron! With the bus stop and local Coles supermarket just a short walk away, you won't even need a car!\n\nThis is Rooming Accommodation & is suitable for one resident only.\n\nLive here and you'll love:\n- Open plan living area with air conditioning\n- Kitchen with convection microwave and fridge provided (not pictured)\n- Large bedroom with ceiling fan\n- Modern bathroom with large shower\n- Electricity, water & NBN invoiced directly at fixed cost of $70 per month \n- Communal laundry fitted with 2 washing machines and 2 clothes dryers\n- Off-street parking available (non allocated)\n\n** PLEASE READ CAREFULLY **\n* To arrange an inspection click GET IN TOUCH and submit your details.\n* To apply online, copy & paste this link into your browser https://app.snug.com/apply/ljhookerstafford . We do not accept 2Apply or Ignite applications.\n* To apply on paper, you can complete an RTA Form 22 Rental Application via Snug or our office.\n* Open Homes are usually on Saturdays and the time will be published as soon as confirmed.  Pre-registration via Snug is encouraged and can be completed at  https://app.snug.com/apply/ljhookerstafford .\n* In preparing this information, we have used our best endeavours to ensure that the information is true and accurate however we accept no responsibility and disclaim all liability in respect of any errors, inaccuracies, or misstatements. Prospective tenants should make their own inquiries to verify the information provided which is provided as a convenience to clients.",
    "flags": {
     "shops": [
@@ -5013,7 +5011,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5086,7 +5084,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5232,9 +5230,9 @@
   "firstSeenAt": "2026-11-17T12:54:04+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268974764/fe2978d269c2d278b7f4fe11-1-1795074311-original.jpg?1795074311",
-    "https://cdn.rent.com.au/photos/images/268974765/b1a83184aaa2577f0329e49f-2-1795074312-original.jpg?1795074312",
-    "https://cdn.rent.com.au/photos/images/268974767/a46be6455ede7ce67ef63da5-2-1795074313-original.jpg?1795074313"
+    "https://cdn.rent.com.au/photos/images/269021457/fccc210432e3bcd9473b8353-1-1795412308-original.jpg?1795412308",
+    "https://cdn.rent.com.au/photos/images/269021667/a619a07925d889649157b1f1-2-1795412410-original.jpg?1795412410",
+    "https://cdn.rent.com.au/photos/images/269021664/519781b73ff181dd5b6eebd7-3-1795412409-original.jpg?1795412409"
    ],
    "id": "rent-6544964",
    "source": "rent.com.au",
@@ -5296,7 +5294,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6546396": {
@@ -5357,7 +5355,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-5917799": {
@@ -5428,7 +5426,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-5848978": {
@@ -5499,7 +5497,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6547352": {
@@ -5573,7 +5571,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6547641": {
@@ -5615,10 +5613,10 @@
    "lat": "-27.390505",
    "lng": "153.075821",
    "byline": "1 bed 1 bath Room only",
-   "description": "PROPERTY ID: 442944 (quote when calling)\n\nAPPLY HERE: https://rentbetter.com.au/apply/d97b9a51 (copy and paste link in your browser)\n\nRoom for rent in a rooming house (4 bedrooms total) in Northgate with an ensuite \n$300 per week plus Wifi and Electricity (not included in rent)\n\nRoom has\n- aircon\n- WIR\n- Study desk\n- ensuite\n- water included\n- unfurnished or furnished \n\n5 min from Nundah Village and a 5-min walk to Northgate train station.\n\n12-month lease. Available Now.",
+   "description": "PROPERTY ID: 442944 (quote when calling)\n\nAPPLY HERE: https://rentbetter.com.au/apply/d97b9a51 (copy and paste link in your browser)\n\nRoom for rent in a rooming house (4 bedrooms total) in Northgate with an ensuite \n$300 per week plus Wifi and Electricity (not included in rent)\n\nRoom has\n- aircon\n- WIR\n- Study desk\n- ensuite\n- water included\n- unfurnished or furnished \n\nPlease note this is rooming accommodation, but you'll have your own ensuite and bedroom. \n\n5 min from Nundah Village and a 5-min walk to Northgate train station.\n\n12-month lease. Available Now.",
    "flags": {
     "shops": [
-     "d 5 min from Nundah Village and a 5-min walk to Northgate train station. 12-month lease. Available Now."
+     ". 5 min from Nundah Village and a 5-min walk to Northgate train station. 12-month lease. Available Now."
     ]
    },
    "contactPerson": {
@@ -5638,7 +5636,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6550236": {
@@ -5706,7 +5704,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6549886": {
@@ -5775,7 +5773,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  },
  "rent-6153667": {
@@ -5846,7 +5844,209 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T10:46:13+10:00",
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "gone": false
+ },
+ "rent-6551602": {
+  "firstSeenAt": "2026-11-23T17:26:35+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269010457/1dcfeeded82f06127ddf72fe-230324612__1795396254-52989-Front-1795397877-original.jpg?1795397877",
+    "https://cdn.rent.com.au/photos/images/269010459/161f0af87ffdc9525bd83012-230324653__1795396256-185977-Kitchen-1795397878-original.jpg?1795397878",
+    "https://cdn.rent.com.au/photos/images/269010462/a1d9f674e98dbe13d6712e5b-230324708__1795396259-185738-Living-1795397878-original.jpg?1795397878"
+   ],
+   "id": "rent-6551602",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-18-toby-cl-kallangur-qld-4503-6551602",
+   "area": "Deception Bay / North Lakes",
+   "address": "2/18 Toby Close",
+   "suburb": "Kallangur",
+   "postcode": "4503",
+   "type": "House",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 390,
+   "bond": 1560,
+   "available": "6th January 2027",
+   "listedAt": "2026-11-23T09:37:54.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 21,
+   "walkCategory": "car_dependent_2",
+   "transitScore": 14,
+   "transitCategory": "minimal_transit",
+   "topFeatures": [
+    "Near shops",
+    "Close to schools",
+    "Great public transport",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.244376",
+   "lng": "152.97914",
+   "byline": "Low-Maintenance Living in a Convenient Location",
+   "description": "*** You  must register in order to view this property ***\n\nLooking for a comfortable, low-maintenance place to call home? This property offers practical living in a convenient Kallangur location, ideal for a single occupant or couple seeking easy living and everyday convenience.\n\nFeaturing a functional layout, air conditioning and built-in storage, this home offers a comfortable space to relax and unwind.\n\nProperty features include:\n One spacious bedroom\n One bathroom\n Internal laundry \n Separate garage\n Air conditioning\n Built-in wardrobe\n Fully fenced \n Low-maintenance courtyard\n\nConveniently located in Kallangur, you are within reach of local shops, amenities, public transport and major road connections, making day-to-day living easy.\n\nDon't miss out - schedule your inspection today!\n\nYou will receive an application code at the inspection to apply for the property. If you are not able to attend an inspection but want to apply for this property, please contact our office to find out further information.\n\nDisclaimer: While we have marketed this property to the best of our ability and knowledge, please note that the description and photos may vary. Prospective tenants are encouraged to inspect the property in person or contact our office for clarification before applying.",
+   "flags": {
+    "shops": [
+     "niently located in Kallangur, you are within reach of local shops, amenities, public transport and major road connections, ma",
+     "gur, you are within reach of local shops, amenities, public transport and major road connections, making day-to-day living easy."
+    ]
+   },
+   "contactPerson": {
+    "name": "North Lakes Team",
+    "phone": "+61734823501",
+    "phoneAlt": "+61734823501"
+   },
+   "company": {
+    "name": "Ray White - North Lakes",
+    "phone": null,
+    "email": null,
+    "address": "3/13 Discovery Drive North Lakes, QLD 4509",
+    "profileUrl": "https://www.rent.com.au/agents/8942/ray-white-north-lakes"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "gone": false
+ },
+ "rent-6552278": {
+  "firstSeenAt": "2026-11-23T17:26:35+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269021211/80c40a65d60a8fefd4975382-10057515_21701553_0_1795411174-1795412087-original.jpg?1795412087",
+    "https://cdn.rent.com.au/photos/images/269021401/b8ffa2f1b3a0fd46232147ac-10057515_21701553_1_1795411174-1795412286-original.jpg?1795412286",
+    "https://cdn.rent.com.au/photos/images/269021399/b454c50eeb160b50abda3de5-10057515_21701553_2_1795411174-1795412286-original.jpg?1795412286"
+   ],
+   "id": "rent-6552278",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/124-miles-st-bald-hills-qld-4036-6552278",
+   "area": "Northern suburbs",
+   "address": "124 Miles Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 420,
+   "bond": 1680,
+   "available": "now",
+   "listedAt": "2026-11-23T13:31:42.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 38,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 35,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.322558",
+   "lng": "153.011991",
+   "byline": "BRAND NEW BALD HILLS STUDIOS",
+   "description": "Discover a collection of brand-new, architecturally designed studio apartments located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n10 to choose from, all different shapes and sizes, your choice of fully furnished or unfurnished. Each with separated living spaces and feature air conditioning, ceiling fans, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, designated parking spaces available for $15 per week\n\nPositioned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
+   "flags": {
+    "shops": [
+     "oned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
+     "thin walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Cent",
+     "d local shops, with easy access to major arterial roads and Shopping Centres Book your inspection today and enjoy low-maint"
+    ]
+   },
+   "contactPerson": {
+    "name": "Cooper Mooney",
+    "phone": "+61411563401",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "gone": false
+ },
+ "rent-5962205": {
+  "firstSeenAt": "2026-11-23T17:26:35+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/255534984/4e9cbeef3d27b4b2e45337a9-37932d53_2Daeff_2D95ed_2Dfd9a_2Da15a3b11a8fd-1740447406-original.jpg?1740447406",
+    "https://cdn.rent.com.au/photos/images/255534979/d32afc1d654c19cb7704dd30-f05c2993_2D6a61_2D1212_2D549e_2D56d98f65de0f-1740447405-original.jpg?1740447405",
+    "https://cdn.rent.com.au/photos/images/255534980/8cda8ef36de0d456b9d1e217-a8f8ecd7_2De230_2D1e8f_2Db6e2_2Db0686e0b458b-1740447405-original.jpg?1740447405"
+   ],
+   "id": "rent-5962205",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/4-45-pioneer-st-zillmere-qld-4034-5962205",
+   "area": "Northern suburbs",
+   "address": "4/45 Pioneer Street",
+   "suburb": "Zillmere",
+   "postcode": "4034",
+   "type": "Apartment",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "14th December 2026",
+   "listedAt": "2026-11-23T10:21:17.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 72,
+   "walkCategory": "very_walkable",
+   "transitScore": 42,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Parks and recreation",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.358035",
+   "lng": "153.040849",
+   "byline": "Fully furnished, Private, one-bedroom apartment with electricity, NBN, water included!",
+   "description": "WELCOME TO 4/45 PIONEER STREET IN ZILLMERE!\n\nSPACIOUS ONE BEDROOM APARTMENT. Simply pack your bags and settle in.\n\nROOM 4: $430.00\tWith A Courtyard and Car Park!\t\t\n\nMICRO APARTMENT: Private bedroom, bathroom, kitchenette, living room and outdoor space.\n\nSOLE OCCUPANCY: Sole Occupant Only. No Couples or children.\n\nALL SERVICES INCLUDED: Electricity, water and internet all included in your rent.\n\nFULLY FURNISHED: Bed, lounge, dining setting, outdoor setting, smart TV, window furnishings.\n\nPRIVATE KITCHENETTE: Fridge, microwave, plug in cooktop, cutlery, dining ware, etc.\n\nPREMIUM EXTRAS: Air conditioning, ceiling fans.\n\nCOMMON FACILITIES: Full kitchen with oven, cooktop, rangehood. Laundry with 2 washing machines.\n\nSAFE AND SECURE: Electronic keyless access.\n\nAMENITIES: Westfield Chermside 3km, Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km\n\nTRANSPORT: Bus Stop 350m, Zillmere Train Station 800m.\n\n*** TO REGISTER FOR AN INSPECTION, CLICK ON THE BOOK AN INSPECTION BUTTON BELOW IMPORTANT! \n*** YOU MUST REGISTER TO INSPECT THIS PROPERTY\n*** AN INSPECTION CODE WILL BE SENT ONCE THE PROPERTY HAS BEEN VIEWED THIS WILL BE REQUIRED BEFORE YOU WILL BE ABLE TO SUBMIT YOUR APPLICATION\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "flags": {
+    "shops": [
+     "yless access. AMENITIES: Westfield Chermside 3km, Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Cent",
+     "Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train",
+     "e Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train Station 800m. *** TO REGIST",
+     "ner 2.7km, Aspley Central Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train Station 800m. *** TO REGISTER FO",
+     "l Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train Station 800m. *** TO REGISTER FOR AN INSPECTION, CLICK ON"
+    ]
+   },
+   "contactPerson": {
+    "name": "Indeea Mallett",
+    "phone": "+61497019777",
+    "phoneAlt": "+611300368658"
+   },
+   "company": {
+    "name": "YSH Property",
+    "phone": null,
+    "email": null,
+    "address": "P.O. Box 677 Annerley, QLD 4103",
+    "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-23T17:26:35+10:00",
   "gone": false
  }
 }
