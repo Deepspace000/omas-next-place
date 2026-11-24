@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-11-24T09:46+00:00",
+ "searchedAt": "2026-11-24T20:39+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 31,
@@ -1540,68 +1540,6 @@
   },
   {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/269021406/b20358d268ef136217d16404-10057515_21701553_7_1795411180-1795412287-original.jpg?1795412287",
-    "https://cdn.rent.com.au/photos/images/269021405/c642bc2608fa743251dcc8bd-10057515_21701553_5_1795411174-1795412287-original.jpg?1795412287",
-    "https://cdn.rent.com.au/photos/images/269021403/9fccd42e2b1a91b00596fa15-10057515_21701553_4_1795411174-1795412287-original.jpg?1795412287"
-   ],
-   "id": "rent-6552278",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/124-miles-st-bald-hills-qld-4036-6552278",
-   "area": "Northern suburbs",
-   "address": "124 Miles Street",
-   "suburb": "Bald Hills",
-   "postcode": "4036",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 420,
-   "bond": 1680,
-   "available": "now",
-   "listedAt": "2026-11-23T13:31:42.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 38,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 35,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Great public transport",
-    "I feel safe here",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.322558",
-   "lng": "153.011991",
-   "byline": "BRAND NEW BALD HILLS STUDIOS",
-   "description": "Furnished $420 per week, unfurnished $410 per week\n\nDiscover a collection of brand-new, architecturally designed studio apartments located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n10 to choose from, all different shapes and sizes, your choice of fully furnished or unfurnished. Each with separated living spaces and feature air conditioning, ceiling fans, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, designated parking spaces available for $15 per week\n\nPositioned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
-   "flags": {
-    "shops": [
-     "oned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
-     "thin walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Cent",
-     "d local shops, with easy access to major arterial roads and Shopping Centres Book your inspection today and enjoy low-maint"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
     "https://cdn.rent.com.au/photos/images/259066457/11137f088a006d1e1a81a5ea-d464b470_2Da744_2D8d2c_2Dd2eb_2D2f77c555c5ef-1757562378-original.jpg?1757562378",
     "https://cdn.rent.com.au/photos/images/259066455/7e336bc06d23df098aca2178-83b3b10e_2Dafb6_2Dd54b_2Daa28_2D68b5d9194ed0-1757562360-original.jpg?1757562360",
     "https://cdn.rent.com.au/photos/images/259066459/ff3cd2ef4c31530c89186972-585f7c15_2Dfdb4_2D0c69_2D2522_2Db5e2b0be11f2-1757562387-original.jpg?1757562387"
@@ -1850,6 +1788,68 @@
     "email": null,
     "address": "205 Stafford Road Stafford, QLD 4053",
     "profileUrl": "https://www.rent.com.au/agents/35/lj-hooker-stafford"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269021406/b20358d268ef136217d16404-10057515_21701553_7_1795411180-1795412287-original.jpg?1795412287",
+    "https://cdn.rent.com.au/photos/images/269021405/c642bc2608fa743251dcc8bd-10057515_21701553_5_1795411174-1795412287-original.jpg?1795412287",
+    "https://cdn.rent.com.au/photos/images/269021403/9fccd42e2b1a91b00596fa15-10057515_21701553_4_1795411174-1795412287-original.jpg?1795412287"
+   ],
+   "id": "rent-6552278",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/124-miles-st-bald-hills-qld-4036-6552278",
+   "area": "Northern suburbs",
+   "address": "124 Miles Street",
+   "suburb": "Bald Hills",
+   "postcode": "4036",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 430,
+   "bond": 1720,
+   "available": "now",
+   "listedAt": "2026-11-23T13:31:42.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 38,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 35,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Great public transport",
+    "I feel safe here",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.322558",
+   "lng": "153.011991",
+   "byline": "BRAND NEW BALD HILLS STUDIOS",
+   "description": "Furnished $430 per week, unfurnished $420 per week\n\nDiscover a collection of brand-new, architecturally designed studio apartments located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n10 to choose from, all different shapes and sizes, your choice of fully furnished or unfurnished. Each with separated living spaces and feature air conditioning, ceiling fans, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, designated parking spaces available for $15 per week\n\nPositioned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
+   "flags": {
+    "shops": [
+     "oned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
+     "thin walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Cent",
+     "d local shops, with easy access to major arterial roads and Shopping Centres Book your inspection today and enjoy low-maint"
+    ]
+   },
+   "contactPerson": {
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
+    "phoneAlt": "+6131712230"
+   },
+   "company": {
+    "name": "QPSR Realty",
+    "phone": null,
+    "email": null,
+    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
+    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
