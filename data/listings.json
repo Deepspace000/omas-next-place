@@ -460,7 +460,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-23T17:26:35+10:00"
+  "lastSeenAt": "2026-11-24T14:43:29+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -742,7 +742,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "goneAt": "2026-10-24T11:31:06+10:00"
  },
  "rent-6488119": {
@@ -1639,7 +1639,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-23T17:26:35+10:00"
+  "lastSeenAt": "2026-11-24T14:43:29+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2478,7 +2478,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2811,7 +2811,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -3018,7 +3018,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3509,9 +3509,9 @@
   "firstSeenAt": "2026-10-27T09:46:24+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/268246840/41f2b35f5badfdfd2d1a612f-10057515_21683806_2_1791675640-1791678693-original.jpg?1791678693",
+    "https://cdn.rent.com.au/photos/images/268246841/3980e2433682f79011023d6d-10057515_21683806_9_1791675659-1791678695-original.jpg?1791678695",
     "https://cdn.rent.com.au/photos/images/268246863/f5472998338e1affedeee678-10057515_21683806_21_1791675689-1791678709-original.jpg?1791678709",
-    "https://cdn.rent.com.au/photos/images/268246837/4c01b819b79c9733669512da-10057515_21683806_0_1791675639-1791678668-original.jpg?1791678668"
+    "https://cdn.rent.com.au/photos/images/268246838/ee42173fedb0950660c9e083-10057515_21683806_1_1791675639-1791678693-original.jpg?1791678693"
    ],
    "id": "rent-6511173",
    "source": "rent.com.au",
@@ -3544,11 +3544,11 @@
    "lat": "-27.319653",
    "lng": "153.032077",
    "byline": "FURNISHED STUDIO UNITS WITH A POOL",
-   "description": "Studios range from $390 to $410/week.\n\nNew to the rental market are these 5 freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week, off street uncovered parking space for $15 per week\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
+   "description": "Studios range from $390 to $410/week - only 3 remain!\n\nNew to the rental market are these freshly renovated studio units in a quiet, elevated Bracken Ridge location right next to Barrett Street Park.\n\nCouncil and Fire Regulations allow single people ONLY (no couples, no children, not suitable for pets)\n\n2 of the studios are located upstairs and 1 is located downstairs, all different shapes and sizes, some are open plan, others have separated living and bedroom spaces.\n\nAll fully furnished with security screens, a ceiling fan, built in robes, kitchenette, bathroom and air conditioning\n\nAccess to swimming pool and great outdoor spaces for resident use.\n\nSingle remote lock up garage available for an extra $25 per week.\n\nNo need to connect any services as water, electricity and internet are all included in the rent\n\nConveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk to bus stops, short drive to Bald Hills and Carseldine Train Stations\n\nBe Quick Book your Inspection Online Today!!",
    "flags": {
     "stairs": [
-     "s, no children, not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are",
-     "not suitable for pets) 5 to choose from, 3 upstairs and 2 downstairs, all different shapes and sizes, some are open plan, others"
+     "ldren, not suitable for pets) 2 of the studios are located upstairs and 1 is located downstairs, all different shapes and sizes",
+     "ts) 2 of the studios are located upstairs and 1 is located downstairs, all different shapes and sizes, some are open plan, others"
     ],
     "shops": [
      "ent Conveniently located with easy access to Bracken Ridge Shopping Village and Gawain Road Shopping Villages. Short walk t",
@@ -3574,7 +3574,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3717,7 +3717,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -4210,7 +4210,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4280,7 +4280,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4346,7 +4346,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6116223": {
@@ -4418,7 +4418,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4488,7 +4488,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-4409237": {
@@ -4622,7 +4622,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4745,7 +4745,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4769,7 +4769,7 @@
    "cars": 1,
    "price": 380,
    "bond": 1520,
-   "available": "24th November 2026",
+   "available": "now",
    "listedAt": "2026-11-11T08:59:45.000+08:00",
    "petsListed": false,
    "furnished": false,
@@ -4814,7 +4814,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -5011,7 +5011,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5084,7 +5084,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5294,7 +5294,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6546396": {
@@ -5355,7 +5355,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5917799": {
@@ -5426,7 +5426,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5848978": {
@@ -5450,7 +5450,7 @@
    "cars": 0,
    "price": 430,
    "bond": 1720,
-   "available": "24th November 2026",
+   "available": "now",
    "listedAt": "2026-11-17T13:02:38.000+08:00",
    "petsListed": false,
    "furnished": true,
@@ -5497,7 +5497,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6547352": {
@@ -5571,7 +5571,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6547641": {
@@ -5636,7 +5636,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6550236": {
@@ -5660,7 +5660,7 @@
    "cars": 0,
    "price": 370,
    "bond": 1480,
-   "available": "24th November 2026",
+   "available": "now",
    "listedAt": "2026-11-20T10:43:13.000+08:00",
    "petsListed": false,
    "furnished": false,
@@ -5704,7 +5704,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6549886": {
@@ -5774,7 +5774,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-23T17:26:35+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-24T14:43:29+10:00"
  },
  "rent-6153667": {
   "firstSeenAt": "2026-11-23T10:46:13+10:00",
@@ -5844,7 +5845,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6551602": {
@@ -5910,16 +5911,16 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-6552278": {
   "firstSeenAt": "2026-11-23T17:26:35+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/269021211/80c40a65d60a8fefd4975382-10057515_21701553_0_1795411174-1795412087-original.jpg?1795412087",
-    "https://cdn.rent.com.au/photos/images/269021401/b8ffa2f1b3a0fd46232147ac-10057515_21701553_1_1795411174-1795412286-original.jpg?1795412286",
-    "https://cdn.rent.com.au/photos/images/269021399/b454c50eeb160b50abda3de5-10057515_21701553_2_1795411174-1795412286-original.jpg?1795412286"
+    "https://cdn.rent.com.au/photos/images/269021406/b20358d268ef136217d16404-10057515_21701553_7_1795411180-1795412287-original.jpg?1795412287",
+    "https://cdn.rent.com.au/photos/images/269021405/c642bc2608fa743251dcc8bd-10057515_21701553_5_1795411174-1795412287-original.jpg?1795412287",
+    "https://cdn.rent.com.au/photos/images/269021403/9fccd42e2b1a91b00596fa15-10057515_21701553_4_1795411174-1795412287-original.jpg?1795412287"
    ],
    "id": "rent-6552278",
    "source": "rent.com.au",
@@ -5952,7 +5953,7 @@
    "lat": "-27.322558",
    "lng": "153.011991",
    "byline": "BRAND NEW BALD HILLS STUDIOS",
-   "description": "Discover a collection of brand-new, architecturally designed studio apartments located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n10 to choose from, all different shapes and sizes, your choice of fully furnished or unfurnished. Each with separated living spaces and feature air conditioning, ceiling fans, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, designated parking spaces available for $15 per week\n\nPositioned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
+   "description": "Furnished $420 per week, unfurnished $410 per week\n\nDiscover a collection of brand-new, architecturally designed studio apartments located in a very convenient Bald Hills location. Offering a thoughtfully planned layout with open-plan living, modern finishes, and fully fenced courtyard.\n\nPlease note Council and Fire Regulations allow single people ONLY to reside in this unit (ie no couples, no children and the building is not suitable for pets)\n\n10 to choose from, all different shapes and sizes, your choice of fully furnished or unfurnished. Each with separated living spaces and feature air conditioning, ceiling fans, built-in storage, security screens, kitchenette, bathroom and bedroom with loads of closet space\n\nShared laundry facilities with 2 washing machines, designated parking spaces available for $15 per week\n\nPositioned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial roads and Shopping Centres\n\nBook your inspection today and enjoy low-maintenance, modern living in a highly accessible location.",
    "flags": {
     "shops": [
      "oned for convenience, within walking distance of Bald Hills Train Station and local shops, with easy access to major arterial",
@@ -5961,8 +5962,8 @@
     ]
    },
    "contactPerson": {
-    "name": "Cooper Mooney",
-    "phone": "+61411563401",
+    "name": "Hero Karalouka",
+    "phone": "+61439673884",
     "phoneAlt": "+6131712230"
    },
    "company": {
@@ -5977,7 +5978,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  },
  "rent-5962205": {
@@ -6046,7 +6047,73 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-23T17:26:35+10:00",
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
+  "gone": false
+ },
+ "rent-4770490": {
+  "firstSeenAt": "2026-11-24T14:43:29+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269035054/26a3afddcd4060a8f8941216-80a741cf_2D3e41_2D3cea_2Da25a_2D985792b9d376-1795482809-original.jpg?1795482809",
+    "https://cdn.rent.com.au/photos/images/232981763/f9d3c1ad7a17c0a88ca1306b-7a6d8eb1_2Dd716_2D74cb_2D63ed_2D227113c0dc6a-1644812450-original.jpg?1644812450",
+    "https://cdn.rent.com.au/photos/images/232981625/028993e6ca9572f32f9a8910-ebdf9a57_2Da567_2D5deb_2D8dc2_2D9decf41da0d0-1644812363-original.jpg?1644812363"
+   ],
+   "id": "rent-4770490",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/2-30-cinnabar-rd-kallangur-qld-4503-4770490",
+   "area": "Deception Bay / North Lakes",
+   "address": "2/30 Cinnabar Road",
+   "suburb": "Kallangur",
+   "postcode": "4503",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 420,
+   "bond": 1680,
+   "available": "24th December 2026",
+   "listedAt": "2026-11-24T09:12:59.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 49,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 23,
+   "transitCategory": "minimal_transit",
+   "topFeatures": [
+    "Near shops",
+    "Close to schools",
+    "Great public transport",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.231622",
+   "lng": "152.994869",
+   "byline": "MUST SEE, 1 BEDROOM UNIT WITH AIR CONDITIONING & LOW MAINTENANCE COURT YARD!",
+   "description": "****TO APPLY https://www.2apply.com.au/Agency/ImageRealtySpringwood *****\n\nIMPORTANT: Lease offer will be $420 per week until 12/04/2027, followed by an additional 12 month lease at $450 per week. \n\nThis home is absolutely stunning and does not compare to similar duplex style homes in the area, located in a lovely quiet neighbourhood. With a fenced yard, air conditioning, dishwasher & electric cooking.\n\nFEATURING:\n- Flowing floor plan\n- 1 bedroom with ceiling fan\n- Large Main Bathroom\n- AIR CONDITIONING in the living room\n- Fantastic location for your undercover alfresco entertaining area\n- Large single carport\n- Low maintenance court yard\n\nPublic Transport and shops close by!!!\n\nThe tenant is responsible for all water usage. This is charged at the current rates set by Utility Provider/Local City Council.\n\nBefore applying, it is the tenants responsibility to ensure that the property can accommodate any services they require (e.g. phone, internet, pay TV etc). The agent cannot provide information beyond general guidance on the connection of non-essential services.\n\nDisclaimer: In preparing this information Image Realty has used its best endeavours to ensure that the information contained herein is true and accurate, but accept no responsibility and disclaim all liability in respect of any errors, omissions, inaccuracies or misstatements that may occur. Prospective tenants and buyers should make their own enquiries to verify the information contained herein.",
+   "flags": {
+    "shops": [
+     "- Large single carport - Low maintenance court yard Public Transport and shops close by!!! The tenant is responsible for all wa",
+     "carport - Low maintenance court yard Public Transport and shops close by!!! The tenant is responsible for all water usage."
+    ]
+   },
+   "contactPerson": {
+    "name": "Dennis Popa",
+    "phone": "+61415822158",
+    "phoneAlt": "+611300031261"
+   },
+   "company": {
+    "name": "Image Realty Springwood",
+    "phone": null,
+    "email": null,
+    "address": "Shop 2, 1 7 Murrajong Road Springwood, QLD 4127",
+    "profileUrl": "https://www.rent.com.au/agents/14286/image-realty-springwood"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-24T14:43:29+10:00",
   "gone": false
  }
 }
