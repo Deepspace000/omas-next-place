@@ -1,8 +1,8 @@
 {
- "searchedAt": "2026-11-24T04:43+00:00",
+ "searchedAt": "2026-11-24T09:46+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
- "count": 30,
+ "count": 31,
  "problems": [],
  "listings": [
   {
@@ -708,8 +708,8 @@
   {
    "photos": [
     "https://cdn.rent.com.au/photos/images/268938681/c2d26068e7fa82b4e222af50-Main-image_cead-ba58-c306-ddfe-9e1a-e421-350b-e0d0_20261109082224-1794966546-original.jpg?1794966546",
-    "https://cdn.rent.com.au/photos/images/268938683/d894d1ea310c500be7ee484a-R1-bedroom-upstairs_071a-50c4-16af-38a1-974c-07cd-f2aa-38b0_20261109082227-1794966548-original.jpg?1794966548",
-    "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550"
+    "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550",
+    "https://cdn.rent.com.au/photos/images/268938682/044bb2cf0c4ac20c682b6c20-Bathroom_204e-4441-64b7-f602-033c-ec89-d78b-adea_20261109082222-1794966547-original.jpg?1794966547"
    ],
    "id": "rent-6547352",
    "source": "rent.com.au",
@@ -1081,6 +1081,71 @@
     "email": null,
     "address": "630 Samford Rd Mitchelton, QLD 4053",
     "profileUrl": "https://www.rent.com.au/agents/7313/denovans-real-estate"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269045100/10f729199e4d18a4ccbe6ad5-230655969__1795495895-89131-02unit310cavendishstreetnundahqld4012-1795496462-original.jpg?1795496462",
+    "https://cdn.rent.com.au/photos/images/269045160/89103dd50a64d1c48b392fc4-230655942__1795495882-89068-03unit310cavendishstreetnundahqld4012-1795496490-original.jpg?1795496490",
+    "https://cdn.rent.com.au/photos/images/269045157/88a95f3e533306b9b4b38757-230655965__1795495892-101202-01unit310cavendishstreetnundahqld4012-1795496489-original.jpg?1795496489"
+   ],
+   "id": "rent-6553770",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/3-10-cavendish-st-nundah-qld-4012-6553770",
+   "area": "Northern suburbs",
+   "address": "3/10 Cavendish Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Studio",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 380,
+   "bond": 1520,
+   "available": "30th November 2026",
+   "listedAt": "2026-11-24T13:00:29.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 79,
+   "walkCategory": "very_walkable",
+   "transitScore": 55,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Great public transport",
+    "Near shops",
+    "Cafes and restaurants",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.396772",
+   "lng": "153.063423",
+   "byline": "Convenient Studio Living in the Heart of Nundah!",
+   "description": "Enjoy the convenience of inner-north living with this studio unit, ideally positioned in the popular suburb of Nundah. Offering an easy-care lifestyle in an established residential setting, this property is a great opportunity for those seeking a practical home with shopping, dining and public transport close by.\n\nWith a studio-style layout and private bathroom, this residence provides an affordable alternative to larger apartments without compromising on location. Enjoy the convenience of having Nundah Village, local cafs and everyday essentials nearby, with excellent transport connections making commuting a breeze.\n\nProperty Features:\n- Studio-style accommodation\n- Private bathroom\n- Low-maintenance unit living\n- Located within an established residential property\n- Convenient access to local shops, cafs and public transport\n- Water billing included in rental fee\n- Please note: No allocated car space is recorded for this unit\n\nLocation Highlights:\nPerfectly positioned in the vibrant suburb of Nundah, this property offers excellent access to everyday conveniences. Enjoy nearby Nundah Village, home to supermarkets, specialty stores, cafs and restaurants, along with easy access to Toombul's surrounding retail and dining options.\n\nNundah Train Station and local bus services provide convenient connections to Brisbane's CBD and surrounding suburbs. With Westfield Chermside, Brisbane Airport and major road networks also easily accessible, this location offers a fantastic balance of convenience and lifestyle.\n\nDon't miss your opportunity to secure this conveniently located studio unit. Register your inspection today!\n\nWant to register for the next available inspection time? Simply scroll to 'Inspections' and register, or send through your enquiry. We will reply with all available times and keep you updated on any changes. Registration is important to ensure you are notified of delays or cancellations.\n\nWhilst every care is taken in the preparation of this marketing, Harcourts Solutions will not be held liable for any errors or omissions. All interested parties should rely on their own enquiries to determine suitability, including utilities and internet availability.",
+   "flags": {
+    "shops": [
+     "a great opportunity for those seeking a practical home with shopping, dining and public transport close by. With a studio-s",
+     "e seeking a practical home with shopping, dining and public transport close by. With a studio-style layout and private bathroom,",
+     ", local cafs and everyday essentials nearby, with excellent transport connections making commuting a breeze. Property Features:",
+     "tablished residential property - Convenient access to local shops, cafs and public transport - Water billing included in rent",
+     "roperty - Convenient access to local shops, cafs and public transport - Water billing included in rental fee - Please note: No al",
+     "everyday conveniences. Enjoy nearby Nundah Village, home to supermarkets, specialty stores, cafs and restaurants, along with easy a"
+    ]
+   },
+   "contactPerson": {
+    "name": "Lisa Newbon",
+    "phone": "+61735054444",
+    "phoneAlt": "+61735054444"
+   },
+   "company": {
+    "name": "Harcourts Solutions - WINDSOR",
+    "phone": null,
+    "email": null,
+    "address": "528 South Pine Road Everton Park, QLD 4053",
+    "profileUrl": "https://www.rent.com.au/agents/12969/harcourts-solutions-windsor"
    },
    "feedAgentName": null,
    "feedCompany": null,

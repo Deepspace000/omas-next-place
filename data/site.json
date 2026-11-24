@@ -1,18 +1,26 @@
 {
- "generatedAt": "2026-11-24T14:43:29+10:00",
+ "generatedAt": "2026-11-24T19:46:27+10:00",
  "lastSearch": {
-  "at": "2026-11-24T14:43:29+10:00",
-  "found": 30,
+  "at": "2026-11-24T19:46:27+10:00",
+  "found": 31,
   "new": [
-   "rent-4770490"
+   "rent-6553770"
   ],
-  "gone": [
-   "rent-6549886"
-  ],
+  "gone": [],
   "problems": [],
   "trigger": "schedule"
  },
  "runs": [
+  {
+   "at": "2026-11-24T19:46:27+10:00",
+   "found": 31,
+   "new": [
+    "rent-6553770"
+   ],
+   "gone": [],
+   "problems": [],
+   "trigger": "schedule"
+  },
   {
    "at": "2026-11-24T14:43:29+10:00",
    "found": 30,
@@ -99,14 +107,6 @@
     "rent-6550236",
     "rent-6549886"
    ],
-   "gone": [],
-   "problems": [],
-   "trigger": "schedule"
-  },
-  {
-   "at": "2026-11-20T03:21:28+10:00",
-   "found": 26,
-   "new": [],
    "gone": [],
    "problems": [],
    "trigger": "schedule"
@@ -418,7 +418,7 @@
     "https://cdn.rent.com.au/photos/images/268816569/1d3074adee75d22835472a49-228230545__1794358262-47893-3-1794358995-original.jpg?1794358995"
    ],
    "firstSeenAt": "2026-11-11T16:02:11+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "longshot",
@@ -475,7 +475,7 @@
     "https://cdn.rent.com.au/photos/images/258349742/b76677d385a8fb1194f2d960-b32c018d-f77b-403f-a1e5-01a6b088acc9-1793774521-original.jpg?1793774521"
    ],
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -766,7 +766,7 @@
     "https://cdn.rent.com.au/photos/images/268799137/3cf7ee204c521412c22d896d-uploads_2F1794281459855-umiygrfrej-d89a0cb4061ebd66530a230b03455545_2FKitchen___Meals_-_Overall-1794282115-original.jpg?1794282115"
    ],
    "firstSeenAt": "2026-11-10T17:09:57+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -831,7 +831,7 @@
     "https://cdn.rent.com.au/photos/images/269010462/a1d9f674e98dbe13d6712e5b-230324708__1795396259-185738-Living-1795397878-original.jpg?1795397878"
    ],
    "firstSeenAt": "2026-11-23T17:26:35+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -880,7 +880,7 @@
     "https://cdn.rent.com.au/photos/images/267911462/8a00742c7c827f48754cf362-e601fe8d_2D0763_2D1eba_2D5c04_2Dd7c173e75396-1793151636-original.jpg?1793151636"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -920,7 +920,7 @@
     "https://cdn.rent.com.au/photos/images/268303998/c26a6df1bf8f2b6bb391bd14-4de2097d_2D554b_2Dfe2c_2D1401_2D0de87f1cbd98-1793151636-original.jpg?1793151636"
    ],
    "firstSeenAt": "2026-10-12T15:50:11+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1001,7 +1001,7 @@
     "https://cdn.rent.com.au/photos/images/232981625/028993e6ca9572f32f9a8910-ebdf9a57_2Da567_2D5deb_2D8dc2_2D9decf41da0d0-1644812363-original.jpg?1644812363"
    ],
    "firstSeenAt": "2026-11-24T14:43:29+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
@@ -1221,7 +1221,7 @@
     "https://cdn.rent.com.au/photos/images/268986866/eab3c170194e05294e1bbf53-uploads_2F1768362642134-xhhmftkfd4e-80333f8aa27803afa7b658bb3811d654_2F2-1795143416-original.jpg?1795143416"
    ],
    "firstSeenAt": "2026-11-20T17:04:01+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -1425,7 +1425,7 @@
     "https://cdn.rent.com.au/photos/images/268246838/ee42173fedb0950660c9e083-10057515_21683806_1_1791675639-1791678693-original.jpg?1791678693"
    ],
    "firstSeenAt": "2026-10-27T09:46:24+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1673,7 +1673,7 @@
     "https://cdn.rent.com.au/photos/images/268278211/38c37ff0aadb9c2540938ace-b4e2005a-284c-4dc0-a7ae-4593be4ca01e-1791856533-original.png?1791856533"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "goneAt": "2026-10-24T11:31:06+10:00",
    "reviewed": true,
@@ -1945,7 +1945,7 @@
     "https://cdn.rent.com.au/photos/images/268865003/e0fe1d13b5b740ed36a824f4-7-cox-road-windsor-q_04bf-1f76-409d-5eae-8d34-186d-4367-4f93_20261105083151-1794538188-original.jpg?1794538188"
    ],
    "firstSeenAt": "2026-11-13T16:32:30+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -1981,11 +1981,11 @@
    "available": "27th November 2026",
    "photos": [
     "https://cdn.rent.com.au/photos/images/268938681/c2d26068e7fa82b4e222af50-Main-image_cead-ba58-c306-ddfe-9e1a-e421-350b-e0d0_20261109082224-1794966546-original.jpg?1794966546",
-    "https://cdn.rent.com.au/photos/images/268938683/d894d1ea310c500be7ee484a-R1-bedroom-upstairs_071a-50c4-16af-38a1-974c-07cd-f2aa-38b0_20261109082227-1794966548-original.jpg?1794966548",
-    "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550"
+    "https://cdn.rent.com.au/photos/images/268938686/88b6439427b8e09ceaafb3e8-kitchen_f925-3631-9695-2eb7-8ff3-b47e-10dd-e898_20261109082223-1794966550-original.jpg?1794966550",
+    "https://cdn.rent.com.au/photos/images/268938682/044bb2cf0c4ac20c682b6c20-Bathroom_204e-4441-64b7-f602-033c-ec89-d78b-adea_20261109082222-1794966547-original.jpg?1794966547"
    ],
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2025,7 +2025,7 @@
     "https://cdn.rent.com.au/photos/images/268943560/f34e657bdb6e184eb95adfa7-f6d36456aeac0671a446ff7df7a16439e5d10f5d7e5e46585bcf282c02e7c696-1794973195-original.jpg?1794973195"
    ],
    "firstSeenAt": "2026-11-18T17:16:51+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2182,7 +2182,7 @@
     "https://cdn.rent.com.au/photos/images/268454238/d71fc3098448ddebc3bd1a3a-b4e400ea-5790-4366-a940-1f1f9176a405-1792717850-original.jpg?1792717850"
    ],
    "firstSeenAt": "2026-10-15T14:30:20+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2222,7 +2222,7 @@
     "https://cdn.rent.com.au/photos/images/260700685/b99083e8bef6c6f9867fd4e9-127839142__1733798417-149978-DSC6470FW2024-1764047737-original.jpg?1764047737"
    ],
    "firstSeenAt": "2026-11-06T10:57:35+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -2279,7 +2279,7 @@
     "https://cdn.rent.com.au/photos/images/261243774/bbf1e4ab680caf3671a22060-178952903__1765244943-63656-DSC8160-2NOV-1765245978-original.jpg?1765245978"
    ],
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -2481,7 +2481,7 @@
     "https://cdn.rent.com.au/photos/images/268694820/85df73c109c40c8fff8ca59d-ac029797-9d3c-468c-9123-67d337f5235b-1793762289-original.jpg?1793762289"
    ],
    "firstSeenAt": "2026-11-04T16:07:30+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -2622,6 +2622,63 @@
    "otherAds": []
   },
   {
+   "id": "rent-6553770",
+   "url": "https://www.rent.com.au/property/3-10-cavendish-st-nundah-qld-4012-6553770",
+   "area": "Northern suburbs",
+   "address": "3/10 Cavendish Street",
+   "suburb": "Nundah",
+   "postcode": "4012",
+   "type": "Studio",
+   "beds": 1,
+   "price": 380,
+   "bond": 1520,
+   "available": "30th November 2026",
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269045100/10f729199e4d18a4ccbe6ad5-230655969__1795495895-89131-02unit310cavendishstreetnundahqld4012-1795496462-original.jpg?1795496462",
+    "https://cdn.rent.com.au/photos/images/269045160/89103dd50a64d1c48b392fc4-230655942__1795495882-89068-03unit310cavendishstreetnundahqld4012-1795496490-original.jpg?1795496490",
+    "https://cdn.rent.com.au/photos/images/269045157/88a95f3e533306b9b4b38757-230655965__1795495892-101202-01unit310cavendishstreetnundahqld4012-1795496489-original.jpg?1795496489"
+   ],
+   "firstSeenAt": "2026-11-24T19:46:27+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
+   "gone": false,
+   "reviewed": false,
+   "verdict": "maybe",
+   "summary": "Claude hasn't read this ad yet. The ad's headline: \"Convenient Studio Living in the Heart of Nundah!\"",
+   "kind": "studio",
+   "cat": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask about her cat."
+   },
+   "stairs": {
+    "state": "ask",
+    "note": "The ad doesn't say. Ask."
+   },
+   "shops": {
+    "state": "close",
+    "note": "Walkable."
+   },
+   "agency": "Harcourts Solutions - WINDSOR",
+   "contacts": [
+    {
+     "name": "Lisa Newbon",
+     "role": "Agent on the ad",
+     "email": null,
+     "phone": "(07) 3505 4444",
+     "source": "rent.com.au ad",
+     "team": false
+    },
+    {
+     "name": "Harcourts Solutions - Windsor",
+     "role": "Agency rentals email (found earlier)",
+     "email": "rentals@harcourtssolutions.com.au",
+     "phone": "(07) 3505 4444",
+     "source": "https://www.harcourtssolutions.com.au/contact/",
+     "team": false
+    }
+   ],
+   "otherAds": []
+  },
+  {
    "id": "rent-6173821",
    "url": "https://www.rent.com.au/property/2-10-cavendish-st-nundah-qld-4012-6173821",
    "area": "Northern suburbs",
@@ -2715,7 +2772,7 @@
     "https://cdn.rent.com.au/photos/images/269000900/b1c1ae96d9c251af38f96b08-9a688b110af9db3ff106e62cb39a110eed38975e07dda6637eaaa950e60db3fd-1795249872-original.jpg?1795249872"
    ],
    "firstSeenAt": "2026-10-14T20:07:50+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2862,7 +2919,7 @@
     "https://cdn.rent.com.au/photos/images/268950266/0df7d0664cdb896ff3e4707d-3-1794982519-original.jpg?1794982519"
    ],
    "firstSeenAt": "2026-11-03T16:40:03+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -2984,7 +3041,7 @@
     "https://cdn.rent.com.au/photos/images/268073970/a3b8254fa65bc2e556be04a6-10057515_21681185_8_1790648665-1790649739-original.jpg?1790649739"
    ],
    "firstSeenAt": "2026-10-30T09:56:19+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -3074,7 +3131,7 @@
     "https://cdn.rent.com.au/photos/images/248460999/49f08adec2f5480c6c1db037-4c4c8f6f_2Dec67_2D5f5f_2D793d_2D23ca06e2bd10-1709105256-original.jpg?1709105256"
    ],
    "firstSeenAt": "2026-11-05T00:27:56+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -3137,7 +3194,7 @@
     "https://cdn.rent.com.au/photos/images/268922790/4332754d5adbb0c570534e39-zbed-cda4-b86d-0a39-_f2af-4d76-42ed-264a-ba21-2186-5e8f-cfdb_20261117051528-1794892728-original.jpg?1794892728"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "maybe",
@@ -3500,7 +3557,7 @@
     "https://cdn.rent.com.au/photos/images/254751168/77e9b9edbcd324ab18dc0d61-10057515_20486527_10_1591669609-1736815375-original.jpg?1736815375"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -3589,7 +3646,7 @@
     "https://cdn.rent.com.au/photos/images/259549305/937848b2698a06e5a2f507d8-agent923_rental_extra_4640337-1760056649-original.jpg?1760056649"
    ],
    "firstSeenAt": "2026-09-29T06:36:00+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -3851,7 +3908,7 @@
     "https://cdn.rent.com.au/photos/images/259066459/ff3cd2ef4c31530c89186972-585f7c15_2Dfdb4_2D0c69_2D2522_2Db5e2b0be11f2-1757562387-original.jpg?1757562387"
    ],
    "firstSeenAt": "2026-11-23T10:46:13+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -3899,7 +3956,7 @@
     "https://cdn.rent.com.au/photos/images/269021403/9fccd42e2b1a91b00596fa15-10057515_21701553_4_1795411174-1795412287-original.jpg?1795412287"
    ],
    "firstSeenAt": "2026-11-23T17:26:35+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "no",
@@ -4021,7 +4078,7 @@
     "https://cdn.rent.com.au/photos/images/268658140/2353b41a806c80d3b44e412e-63broughton-unit-2-0_c6a4-1a54-88f5-bd0e-8280-10a2-8cc8-6593_20261102053413-1793598897-original.jpg?1793598897"
    ],
    "firstSeenAt": "2026-11-13T11:01:30+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -4061,7 +4118,7 @@
     "https://cdn.rent.com.au/photos/images/269021664/519781b73ff181dd5b6eebd7-3-1795412409-original.jpg?1795412409"
    ],
    "firstSeenAt": "2026-11-17T12:54:04+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -4479,7 +4536,7 @@
     "https://cdn.rent.com.au/photos/images/253487209/efbfaa486b011410e7e2074d-10057515_21434588_5_1692678243-1730774208-original.jpg?1730774208"
    ],
    "firstSeenAt": "2026-11-17T17:49:15+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": true,
    "verdict": "no",
@@ -4519,7 +4576,7 @@
     "https://cdn.rent.com.au/photos/images/255534980/8cda8ef36de0d456b9d1e217-a8f8ecd7_2De230_2D1e8f_2Db6e2_2Db0686e0b458b-1740447405-original.jpg?1740447405"
    ],
    "firstSeenAt": "2026-11-23T17:26:35+10:00",
-   "lastSeenAt": "2026-11-24T14:43:29+10:00",
+   "lastSeenAt": "2026-11-24T19:46:27+10:00",
    "gone": false,
    "reviewed": false,
    "verdict": "maybe",
