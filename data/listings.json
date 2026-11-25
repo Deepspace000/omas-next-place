@@ -460,7 +460,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-25T06:39:09+10:00"
+  "lastSeenAt": "2026-11-25T13:31:38+10:00"
  },
  "rent-6490955": {
   "raw": {
@@ -742,7 +742,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "goneAt": "2026-10-24T11:31:06+10:00"
  },
  "rent-6488119": {
@@ -1639,7 +1639,7 @@
   },
   "gone": false,
   "firstSeenAt": "2026-09-29T06:36:00+10:00",
-  "lastSeenAt": "2026-11-25T06:39:09+10:00"
+  "lastSeenAt": "2026-11-25T13:31:38+10:00"
  },
  "rent-6490939": {
   "raw": {
@@ -2478,7 +2478,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6511808": {
@@ -2811,7 +2811,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6471985": {
@@ -2969,8 +2969,8 @@
    "beds": 1,
    "baths": 1,
    "cars": 0,
-   "price": 320,
-   "bond": 640,
+   "price": 295,
+   "bond": 590,
    "available": "now",
    "listedAt": "2026-10-15T10:51:23.000+08:00",
    "petsListed": false,
@@ -3003,7 +3003,7 @@
    },
    "contactPerson": {
     "name": "Pinnacle Properties Property  Manager",
-    "phone": "0423 571 883",
+    "phone": "+61423571883",
     "phoneAlt": "+61423571883"
    },
    "company": {
@@ -3018,7 +3018,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6515327": {
@@ -3574,7 +3574,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5974533": {
@@ -3717,7 +3717,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5847889": {
@@ -4210,7 +4210,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6238683": {
@@ -4280,7 +4280,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-3465732": {
@@ -4347,7 +4347,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-25T06:39:09+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-25T13:31:38+10:00"
  },
  "rent-6116223": {
   "firstSeenAt": "2026-11-05T00:27:56+10:00",
@@ -4418,7 +4419,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5590918": {
@@ -4489,7 +4490,8 @@
    "emailsInText": []
   },
   "lastSeenAt": "2026-11-25T06:39:09+10:00",
-  "gone": false
+  "gone": true,
+  "goneAt": "2026-11-25T13:31:38+10:00"
  },
  "rent-4409237": {
   "firstSeenAt": "2026-11-05T10:52:22+10:00",
@@ -4622,7 +4624,7 @@
    "feedEmail": "rentals@rentmyproperty.com.au",
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6515037": {
@@ -4730,7 +4732,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Pike Property Rental Team",
-    "phone": "+61754955466",
+    "phone": "07 5495 5466",
     "phoneAlt": "+61754955466"
    },
    "company": {
@@ -4745,7 +4747,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5054450": {
@@ -4814,7 +4816,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6540950": {
@@ -5011,7 +5013,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6542985": {
@@ -5084,7 +5086,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-4464501": {
@@ -5294,7 +5296,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6546396": {
@@ -5355,7 +5357,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5917799": {
@@ -5426,7 +5428,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5848978": {
@@ -5497,7 +5499,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6547352": {
@@ -5571,7 +5573,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6547641": {
@@ -5636,7 +5638,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6550236": {
@@ -5704,7 +5706,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6549886": {
@@ -5845,7 +5847,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6551602": {
@@ -5911,16 +5913,16 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6552278": {
   "firstSeenAt": "2026-11-23T17:26:35+10:00",
   "raw": {
    "photos": [
-    "https://cdn.rent.com.au/photos/images/269021406/b20358d268ef136217d16404-10057515_21701553_7_1795411180-1795412287-original.jpg?1795412287",
-    "https://cdn.rent.com.au/photos/images/269021405/c642bc2608fa743251dcc8bd-10057515_21701553_5_1795411174-1795412287-original.jpg?1795412287",
-    "https://cdn.rent.com.au/photos/images/269021403/9fccd42e2b1a91b00596fa15-10057515_21701553_4_1795411174-1795412287-original.jpg?1795412287"
+    "https://cdn.rent.com.au/photos/images/269060031/61b737a71648b9c305764e00-10057515_21701553_31_1795569965-1795570402-original.jpg?1795570402",
+    "https://cdn.rent.com.au/photos/images/269060081/492af04c83c60401425c4277-10057515_21701553_31_1795569978-1795570433-original.jpg?1795570433",
+    "https://cdn.rent.com.au/photos/images/269060077/4b3c45b12263a6c4d8ed26ea-10057515_21701553_31_1795570003-1795570432-original.jpg?1795570432"
    ],
    "id": "rent-6552278",
    "source": "rent.com.au",
@@ -5978,7 +5980,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-5962205": {
@@ -6020,10 +6022,14 @@
    "lat": "-27.358035",
    "lng": "153.040849",
    "byline": "Fully furnished, Private, one-bedroom apartment with electricity, NBN, water included!",
-   "description": "WELCOME TO 4/45 PIONEER STREET IN ZILLMERE!\n\nSPACIOUS ONE BEDROOM APARTMENT. Simply pack your bags and settle in.\n\nROOM 4: $430.00\tWith A Courtyard and Car Park!\t\t\n\nMICRO APARTMENT: Private bedroom, bathroom, kitchenette, living room and outdoor space.\n\nSOLE OCCUPANCY: Sole Occupant Only. No Couples or children.\n\nALL SERVICES INCLUDED: Electricity, water and internet all included in your rent.\n\nFULLY FURNISHED: Bed, lounge, dining setting, outdoor setting, smart TV, window furnishings.\n\nPRIVATE KITCHENETTE: Fridge, microwave, plug in cooktop, cutlery, dining ware, etc.\n\nPREMIUM EXTRAS: Air conditioning, ceiling fans.\n\nCOMMON FACILITIES: Full kitchen with oven, cooktop, rangehood. Laundry with 2 washing machines.\n\nSAFE AND SECURE: Electronic keyless access.\n\nAMENITIES: Westfield Chermside 3km, Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km\n\nTRANSPORT: Bus Stop 350m, Zillmere Train Station 800m.\n\n*** TO REGISTER FOR AN INSPECTION, CLICK ON THE BOOK AN INSPECTION BUTTON BELOW IMPORTANT! \n*** YOU MUST REGISTER TO INSPECT THIS PROPERTY\n*** AN INSPECTION CODE WILL BE SENT ONCE THE PROPERTY HAS BEEN VIEWED THIS WILL BE REQUIRED BEFORE YOU WILL BE ABLE TO SUBMIT YOUR APPLICATION\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "description": "Dont miss the opportunity to rent an all-inclusive, spacious, one bedroom apartment within building of 5. This property comes fully furnished PLUS high-speed internet, electricity and water bills are included!\nSimply pack your bags and settle in.\nImportant: Single Occupancy Only & No Pets\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, pets and overnight guests are not permitted.\n\nKEY FEATURES:\n- All-inclusive living expenses!\n- Fully furnished with high-quality, modern furniture throughout.\n- Air conditioning. \n- Ceiling fans.\n- Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n- Secure electronic door locks for keyless entry.\n- Security System.\n- Equipped kitchenette.\n- Smart TV.\n- Private courtyard \nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\nRELAX IN COMFORT: Ceiling fans and split- system A/C in every room to ensure  you enjoy a pleasant living environment. \nFULLY FURNISHED: Your apartment comes equipped with everything you need: a comfy bed, lounge, dining setting, outdoor furniture, smart TV, and kitchenware. \nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop, cutlery, dinnerware, and more for your convenience.\nPREMIUM EXTRAS: Stay comfortable year-round with air conditioning and ceiling fans.\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\nAMENITIES: Westfield Chermside 3km, Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km\n\nTRANSPORT: Bus Stop 350m, Zillmere Train Station 800m.\n\n*** TO REGISTER FOR AN INSPECTION, CLICK ON THE BOOK AN INSPECTION BUTTON BELOW IMPORTANT! \n*** YOU MUST REGISTER TO INSPECT THIS PROPERTY\n*** AN INSPECTION CODE WILL BE SENT ONCE THE PROPERTY HAS BEEN VIEWED THIS WILL BE REQUIRED BEFORE YOU WILL BE ABLE TO SUBMIT YOUR APPLICATION\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
    "flags": {
+    "pets": [
+     "your bags and settle in. Important: Single Occupancy Only & No Pets Please note that due to Brisbane City Council and Fire Safe",
+     "Designed for single occupancy only. No couples, children or pets allowed. MICRO APARTMENT: Enjoy the privacy of your own securely ac"
+    ],
     "shops": [
-     "yless access. AMENITIES: Westfield Chermside 3km, Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Cent",
+     "llance system. AMENITIES: Westfield Chermside 3km, Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Cent",
      "Boondall Shopping Centre Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train",
      "e Sue's Korner 2.7km, Aspley Central Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train Station 800m. *** TO REGIST",
      "ner 2.7km, Aspley Central Shopping Centre 3.4km TRANSPORT: Bus Stop 350m, Zillmere Train Station 800m. *** TO REGISTER FO",
@@ -6047,7 +6053,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-4770490": {
@@ -6113,7 +6119,7 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  },
  "rent-6553770": {
@@ -6183,7 +6189,81 @@
    "feedEmail": null,
    "emailsInText": []
   },
-  "lastSeenAt": "2026-11-25T06:39:09+10:00",
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
+  "gone": false
+ },
+ "rent-6107317": {
+  "firstSeenAt": "2026-11-25T13:31:38+10:00",
+  "raw": {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/258178082/775556fda922e01ef5eef187-0f6c34ba_2D534a_2D2470_2D5dd1_2Daf298d952732-1753315117-original.jpg?1753315117",
+    "https://cdn.rent.com.au/photos/images/258178083/c4151e8db51481b13227ebe9-9aa8f376_2D3f6e_2D2a41_2D8898_2Df9df2bb1e4c0-1753315118-original.jpg?1753315118",
+    "https://cdn.rent.com.au/photos/images/258177860/81005d5808fcd8ec952afdad-7795c122_2D43de_2Dddb1_2D0d65_2D0948d31415d1-1753314629-original.jpg?1753314629"
+   ],
+   "id": "rent-6107317",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/5-181-north-rd-brighton-qld-4017-6107317",
+   "area": "Sandgate / Brighton",
+   "address": "5/181 North Road",
+   "suburb": "Brighton",
+   "postcode": "4017",
+   "type": "Apartment",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "9th December 2026",
+   "listedAt": "2026-11-25T08:03:47.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 51,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 0,
+   "transitCategory": "minimal_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Parks and recreation",
+    "I feel safe here",
+    "Close to schools"
+   ],
+   "inspections": [],
+   "lat": "-27.292592",
+   "lng": "153.060612",
+   "byline": "Fully furnished one bedroom apartments with electricity, nbn, water included!",
+   "description": "Dont miss the opportunity to rent an all-inclusive, spacious, one bedroom apartment within building of 5. This property comes fully furnished PLUS high-speed internet, electricity and water bills are included!\nSimply pack your bags and settle in.\nImportant: Single Occupancy Only & No Pets\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, pets and overnight guests are not permitted.\n\nKEY FEATURES:\n- All-inclusive living expenses!\n- Fully furnished with high-quality, modern furniture throughout.\n- Air conditioning. \n- Ceiling fans.\n- Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n- Secure electronic door locks for keyless entry.\n- Security System.\n- Equipped kitchenette.\n- Smart TV.\n- Private courtyard OR balcony.\nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\nRELAX IN COMFORT: Ceiling fans and split- system A/C in every room to ensure  you enjoy a pleasant living environment. \nFULLY FURNISHED: Your apartment comes equipped with everything you need: a comfy bed, lounge, dining setting, outdoor furniture, smart TV, and kitchenware. \nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop, cutlery, dinnerware, and more for your convenience.\nPREMIUM EXTRAS: Stay comfortable year-round with air conditioning and ceiling fans.\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\n\nAMENITIES NEARBY:\nConveniently Located Near Shops, Services & Public Transport  Live Close to It All! Bracken Ridge Plaza 1.9km: offering Coles, a medical center, dining options, and a variety of retail stores to cover all your daily needs.\nBarrett Street Park - Water Reservoir: 1.1km: offering breath of fresh air in open and green space just around the corner. \n \n\nTRANSPORT:\nBald Hills Train Station: 2.8km: offered transport to Brisbane CBD in approx. 29 minutes. \nBus Stop: 50m: Offering quick access to local bus routes for seamless travel around Bracken Ridge and neighbouring suburbs. \nBrisbane Airport 18.4km: Domestic and International terminals.\n\n*** TO SCHEDULE AN INSPECTION, CLICK THE \"BOOK AN INSPECTION\" BUTTON BELOW. \n\n*** REGISTRATION IS REQUIRED TO VIEW THIS PROPERTY.\n\n*** AFTER THE INSPECTION, YOU WILL RECEIVE AN INSPECTION CODE, WHICH MUST BE PROVIDED BEFORE YOU CAN SUBMIT YOUR APPLICATION.\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.\n\nAMENITIES: Brookside Shopping Centre 450m, Everton Plaza 850m, Kedron Brook Park 50m\n\nTRANSPORT : Deagon Train Station 5.2km.\n\nKnown for its relaxed seaside atmosphere, Brighton boasts scenic waterfront views, sandy beaches, and a picturesque esplanade perfect for walking and cycling. The suburb offers a mix of residential areas, parks, and local amenities. Its friendly community and easy access to both the city and neighboring coastal areas make Brighton an attractive place to call home.\n\n*** TO REGISTER FOR AN INSPECTION, CLICK ON THE BOOK AN INSPECTION BUTTON BELOW IMPORTANT! \n*** YOU MUST REGISTER TO INSPECT THIS PROPERTY\n*** AN INSPECTION CODE WILL BE SENT ONCE THE PROPERTY HAS BEEN VIEWED THIS WILL BE REQUIRED BEFORE YOU WILL BE ABLE TO SUBMIT YOUR APPLICATION\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "flags": {
+    "pets": [
+     "your bags and settle in. Important: Single Occupancy Only & No Pets Please note that due to Brisbane City Council and Fire Safe",
+     "Designed for single occupancy only. No couples, children or pets allowed. MICRO APARTMENT: Enjoy the privacy of your own securely ac"
+    ],
+    "shops": [
+     "llance system. AMENITIES NEARBY: Conveniently Located Near Shops, Services & Public Transport Live Close to It All! Bracken",
+     "NEARBY: Conveniently Located Near Shops, Services & Public Transport Live Close to It All! Bracken Ridge Plaza 1.9km: offering",
+     "Live Close to It All! Bracken Ridge Plaza 1.9km: offering Coles, a medical center, dining options, and a variety of retail",
+     "ose to It All! Bracken Ridge Plaza 1.9km: offering Coles, a medical center, dining options, and a variety of retail stores to c",
+     "esh air in open and green space just around the corner. TRANSPORT: Bald Hills Train Station: 2.8km: offered transport to Bris",
+     "een space just around the corner. TRANSPORT: Bald Hills Train Station: 2.8km: offered transport to Brisbane CBD in approx"
+    ]
+   },
+   "contactPerson": {
+    "name": "Indeea Mallett",
+    "phone": "+61497019777",
+    "phoneAlt": "+611300368658"
+   },
+   "company": {
+    "name": "YSH Property",
+    "phone": null,
+    "email": null,
+    "address": "P.O. Box 677 Annerley, QLD 4103",
+    "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  "lastSeenAt": "2026-11-25T13:31:38+10:00",
   "gone": false
  }
 }
