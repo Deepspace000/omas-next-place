@@ -1,5 +1,5 @@
 {
- "searchedAt": "2026-11-26T02:46+00:00",
+ "searchedAt": "2026-11-26T08:07+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 32,
@@ -177,7 +177,7 @@
    "flags": {},
    "contactPerson": {
     "name": "Pike Property Rental Team",
-    "phone": "+61754955466",
+    "phone": "07 5495 5466",
     "phoneAlt": "+61754955466"
    },
    "company": {
@@ -1495,6 +1495,68 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/269094480/701caecf54a40e06159736a1-6-12-ballantine-st-7_e37b-7b1b-71d1-1b28-7371-caa7-ec83-b619_20261126010933-1795674799-original.jpg?1795674799",
+    "https://cdn.rent.com.au/photos/images/269094484/3b74ba35aef03e9d936a8891-6-12-ballantine-st-6_f609-8030-2004-1c15-7593-fc65-c349-0419_20261126010933-1795674801-original.jpg?1795674801",
+    "https://cdn.rent.com.au/photos/images/269094481/4c34136d15704bfada0db901-6-12-ballantine-st-3_861c-1ddc-bd9f-7ca2-0ee3-590e-aaef-a515_20261126010934-1795674800-original.jpg?1795674800"
+   ],
+   "id": "rent-6556836",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/6-12-ballantine-st-chermside-qld-4032-6556836",
+   "area": "Northern suburbs",
+   "address": "6/12 Ballantine Street",
+   "suburb": "Chermside",
+   "postcode": "4032",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 400,
+   "bond": 1600,
+   "available": "4th December 2026",
+   "listedAt": "2026-11-26T14:33:17.000+08:00",
+   "petsListed": false,
+   "furnished": false,
+   "walkScore": 91,
+   "walkCategory": "walkers_paradise",
+   "transitScore": 54,
+   "transitCategory": "good_transit",
+   "topFeatures": [
+    "Near shops",
+    "Great public transport",
+    "Cafes and restaurants",
+    "Parks and recreation"
+   ],
+   "inspections": [],
+   "lat": "-27.385841",
+   "lng": "153.036792",
+   "byline": "Neat as a Pin - Conveniently Located",
+   "description": "This renovated unit is in a quiet complex, close to Chermside Shopping Centre and the Kedron-Wavell RSL.\n\nNOTE - This is a simple one bedroom apartment, without oven or cooktop.\n\nThe property features - \n- 1 Spacious Bedroom with Built-ins and accessible Ensuite Bathroom (including new vanity)\n- Recently renovated\n- Spacious Kitchenette with Fridge and Microwave included\n- Open Plan Living\n- Air conditioned and Fans\n- New carpets, blinds, and freshly painted.\n- Internal Laundry, including washing machine\n- Security screens\n- Rear Outlook\n- Visitor parking onsite only, heaps of street parking\n\nLink to tour\nhttps://youtu.be/50XxLa3GlDY\n\nThe beauty of this property is that it is literally within minutes walking to the Chermside Shopping Centre, the large Council Library, the Chermside Bus Hub and it is adjacent to the Chermside Swimming Pool complex and the Kedron Wavell Services Club.\n\nContact Go Gecko Real Estate today to arrange an inspection.\n\nPlease note: the complex is designed with residents aged 50 and over in mind. The units' construction is intended for single-person occupancy.\n\nSome photos may be digitally altered.",
+   "flags": {
+    "shops": [
+     "is renovated unit is in a quiet complex, close to Chermside Shopping Centre and the Kedron-Wavell RSL. NOTE - This is a sim",
+     "hat it is literally within minutes walking to the Chermside Shopping Centre, the large Council Library, the Chermside Bus Hu",
+     "e Shopping Centre, the large Council Library, the Chermside Bus Hub and it is adjacent to the Chermside Swimming Pool compl"
+    ]
+   },
+   "contactPerson": {
+    "name": "Angela Bryer",
+    "phone": "+61409820705",
+    "phoneAlt": "+61731224198"
+   },
+   "company": {
+    "name": "Go Gecko Inner North",
+    "phone": null,
+    "email": null,
+    "address": "1471 Sandgate Rd Nundah, QLD 4012",
+    "profileUrl": "https://www.rent.com.au/agents/2462/go-gecko-inner-north"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/260239941/b08e9db52e726da38ce7120f-174265961__1762841643-93655-IMG1642-1762916759-original.jpg?1762916759",
     "https://cdn.rent.com.au/photos/images/260240022/10b9283bebce10c74b5da971-174265969__1762841647-106525-IMG1638-1762916888-original.jpg?1762916888",
     "https://cdn.rent.com.au/photos/images/260240021/f6717f50c9df9038aea7dded-174265973__1762841649-106350-IMG1633-1762916888-original.jpg?1762916888"
@@ -1554,72 +1616,6 @@
     "email": null,
     "address": "433 Lutwyche Road Lutwyche, QLD 4030",
     "profileUrl": "https://www.rent.com.au/agents/11892/clark-real-estate"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/254750704/37f18d116de44563a9626d9e-10057515_20486527_3_1591669606-1736815105-original.jpg?1736815105",
-    "https://cdn.rent.com.au/photos/images/254751170/19f287d28a0e4fe6d185b956-10057515_20486527_1_1591669606-1736815375-original.jpg?1736815375",
-    "https://cdn.rent.com.au/photos/images/254751168/77e9b9edbcd324ab18dc0d61-10057515_20486527_10_1591669609-1736815375-original.jpg?1736815375"
-   ],
-   "id": "rent-5917799",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/5-147-wakefield-st-bald-hills-qld-4036-5917799",
-   "area": "Northern suburbs",
-   "address": "5/147 Wakefield Street",
-   "suburb": "Bald Hills",
-   "postcode": "4036",
-   "type": "Studio",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 410,
-   "bond": 1640,
-   "available": "now",
-   "listedAt": "2026-11-17T13:02:39.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 43,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 36,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Great public transport",
-    "I feel safe here",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.321809",
-   "lng": "153.011479",
-   "byline": "EXCELLENT STUDIO APARTMENT",
-   "description": "Ground floor studio well designed studio apartment meticulously designed and styled ready for occupancy with a private fenced courtyard\n\nCouncil and Fire Regulations allow single people ONLY (ie no couples or children and the property is not suitable for pets)\n\nLocated on ground level facing the rear of the property opening out to fully fenced courtyard and garden area. Fully furnished with a spacious, open plan living and bedroom areas, kitchenette, ensuite and loads of storage space. Air conditioned, complete with security screens and ceiling fan\n\nNo going through the hassle of connecting utilities as power, water, electricity and NBN internet are all included in the rent\n\nShared laundry with 2 washing machines, street parking only\n\nConveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway and other major arterial highways.\n\nBe quick, book your inspection online now!!\n\n**INSPECTION NOTES: Our \"Book Inspection\" button will indicate all available inspection times as they become available. Inspections may be changed or cancelled if attendance is not confirmed via return SMS or email.**",
-   "flags": {
-    "ground": [
-     "Ground floor studio well designed studio apartment meticulously designed",
-     "dren and the property is not suitable for pets) Located on ground level facing the rear of the property opening out to fully fenced"
-    ],
-    "shops": [
-     "es, street parking only Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy acce",
-     "ing only Conveniently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine",
-     "iently located to Bald Hills train station, buses and local shops around the corner. Easy access to Sunshine Coast motorway a"
-    ]
-   },
-   "contactPerson": {
-    "name": "Hero Karalouka",
-    "phone": "+61439673884",
-    "phoneAlt": "+6131712230"
-   },
-   "company": {
-    "name": "QPSR Realty",
-    "phone": null,
-    "email": null,
-    "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
-    "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
    },
    "feedAgentName": null,
    "feedCompany": null,
