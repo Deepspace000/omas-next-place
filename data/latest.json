@@ -1,74 +1,10 @@
 {
- "searchedAt": "2026-11-27T02:47+00:00",
+ "searchedAt": "2026-11-27T18:55+00:00",
  "maxRent": 430,
  "suburbsSearched": 48,
  "count": 32,
  "problems": [],
  "listings": [
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/268816421/7cbf11681530298970e2da64-228230353__1794358257-60088-1-1794358916-original.jpg?1794358916",
-    "https://cdn.rent.com.au/photos/images/268816563/f03867d24d9cd12b5872b2a0-228230389__1794358259-48027-2-1794358993-original.jpg?1794358993",
-    "https://cdn.rent.com.au/photos/images/268816569/1d3074adee75d22835472a49-228230545__1794358262-47893-3-1794358995-original.jpg?1794358995"
-   ],
-   "id": "rent-5054450",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/5-28-hornibrook-esp-clontarf-qld-4019-5054450",
-   "area": "Redcliffe Peninsula",
-   "address": "5/28 Hornibrook Esplanade",
-   "suburb": "Clontarf",
-   "postcode": "4019",
-   "type": "Flat",
-   "beds": 1,
-   "baths": 1,
-   "cars": 1,
-   "price": 380,
-   "bond": 1520,
-   "available": "now",
-   "listedAt": "2026-11-11T08:59:45.000+08:00",
-   "petsListed": false,
-   "furnished": false,
-   "walkScore": 67,
-   "walkCategory": "somewhat_walkable",
-   "transitScore": 11,
-   "transitCategory": "minimal_transit",
-   "topFeatures": [
-    "Parks and recreation",
-    "Friendly neighbourhood",
-    "Near shops",
-    "Close to schools"
-   ],
-   "inspections": [],
-   "lat": "-27.259952",
-   "lng": "153.081296",
-   "byline": "APPLICATION APPROVED - Lovely Flat Across the Bay!",
-   "description": "Welcome to 5/28 Hornibrook Esplanade Clontarf! This charming flat is now available for lease and offers a comfortable and convenient living experience. \n\nFeaturing 1 bedroom, 1 bathroom, and 1 toilet, this property is perfect for individuals or couples looking for a cozy space to call home. With a carport space included, parking will never be an issue. \n\nLocated in a sought-after area, this property is conveniently close to various amenities such as shops, restaurants, and public transportation. Enjoy the convenience of having everything you need within reach. Just a small walk over the road to the bay!\n\nDon't miss out on the opportunity to lease this fantastic property. With a price guide of $380 per week, it offers great value for money. \n\nFeatures Include:\n\n Property has security screens throughout\n Single bedroom with brand- new carpet\n Open lounge/dining area, brand- new carpet to lounge\n Kitchen has ample storage; a convection oven with 2 x hobs is provided and range hood\n Bathroom with shower, toilet and brand-new vanity\n Secure communal laundry area, must supply own washing machine\n Carport space provided\n* Water included\n* Please note there are at least 15 stairs to the unit\n\nDISCLAIMER:\nWe have made our best endeavours to provide accurate information. We accept no responsibility for any errors or admissions.\n\nYou will be required to physically attend and complete a property inspection in order to proceed with your rental application for this property. You will be then provided with a code which will give you access to submit your application if you wish to.  We do not accept 1Form applications.\n\nIt is also strongly recommended that you register online to attend one of our inspection times.  Failure to do so may result in you not being notified if there is a change to the inspection or even a cancellation of the inspection.",
-   "flags": {
-    "stairs": [
-     "ovided * Water included * Please note there are at least 15 stairs to the unit DISCLAIMER: We have made our best endeavours t"
-    ],
-    "shops": [
-     "property is conveniently close to various amenities such as shops, restaurants, and public transportation. Enjoy the convenie",
-     "to various amenities such as shops, restaurants, and public transportation. Enjoy the convenience of having everything you need w"
-    ]
-   },
-   "contactPerson": {
-    "name": "Kim Ellis",
-    "phone": "+61738838109",
-    "phoneAlt": "+61738838109"
-   },
-   "company": {
-    "name": "Ray White Woody Point",
-    "phone": null,
-    "email": null,
-    "address": "54 Oxley Avenue Woody Point, QLD 4019",
-    "profileUrl": "https://www.rent.com.au/agents/6609/ray-white-woody-point"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
   {
    "photos": [
     "https://cdn.rent.com.au/photos/images/258349746/a1478c11c46ecd3ab7e5d968-b32c018e-0100-4850-a7cf-3057b48e3bcb-1793774495-original.jpg?1793774495",
@@ -696,6 +632,75 @@
     "email": null,
     "address": "Ground Floor 67 Lytton Road East Brisbane, QLD 4169",
     "profileUrl": "https://www.rent.com.au/agents/8823/qpsr-realty"
+   },
+   "feedAgentName": null,
+   "feedCompany": null,
+   "feedEmail": null,
+   "emailsInText": []
+  },
+  {
+   "photos": [
+    "https://cdn.rent.com.au/photos/images/269114301/561050c45228a85080de4b97-751d37b4_2D1207_2Dbba8_2D840a_2Dfd6ea48a893c-1795757864-original.jpg?1795757864",
+    "https://cdn.rent.com.au/photos/images/269114308/19d21c0d20824980ff1f4a57-598602f3_2D9a6a_2Da1a6_2Da28a_2Dec087874a165-1795757868-original.jpg?1795757868",
+    "https://cdn.rent.com.au/photos/images/269114304/fd03a95ff732eddb06e83437-fe7394c8_2D739a_2De6f4_2Dc4d0_2Db56cb76d7157-1795757866-original.jpg?1795757866"
+   ],
+   "id": "rent-6558030",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/146-north-rd-brighton-qld-4017-6558030",
+   "area": "Sandgate / Brighton",
+   "address": "146 North Road",
+   "suburb": "Brighton",
+   "postcode": "4017",
+   "type": "Apartment",
+   "beds": 1,
+   "baths": 1,
+   "cars": 1,
+   "price": 430,
+   "bond": 1720,
+   "available": "11th December 2026",
+   "listedAt": "2026-11-27T13:37:43.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 40,
+   "walkCategory": "car_dependent_1",
+   "transitScore": 0,
+   "transitCategory": "minimal_transit",
+   "topFeatures": [
+    "Friendly neighbourhood",
+    "Parks and recreation",
+    "I feel safe here",
+    "Close to schools"
+   ],
+   "inspections": [],
+   "lat": "-27.293089",
+   "lng": "153.05819",
+   "byline": "Brand New One-Bedroom Apartment with Utilities Included!",
+   "description": "**PHOTOS ARE INDICATIVE AND OF A SIMILAR PROPERTY**\n\nDont miss the opportunity to rent a brand new, all inclusive, spacious, 1 Bedroom apartment within building of 5. \n\nThis property is fully furnished and comes with high-speed internet, electricity and water bills all included!\n\nSimply pack your bags and settle in.\n\nImportant: Single Occupancy Only, NO PETS.\nPlease note that due to Brisbane City Council and Fire Safety Regulations, these apartments are strictly for single occupants. Couples, families, and overnight guests are not permitted.\n\nROOM #1 $430        \t\nROOM #2 $440\t\t\nROOM #3 $460        \tCar Park A\t\nROOM #4 $460          Car Park B\nROOM #5 $480          Car Park C\n\nKEY FEATURES:\n- All-inclusive living expenses!\n- Fully furnished with high-quality, modern furniture throughout.\n- Split-system air conditioning & ceiling fans. \n- Smart Storage! Including floor-to-ceiling built-in wardrobes to maximize space and minimize mess.\n- Secure electronic door locks for keyless entry.\n- Security System.\n- Equipped kitchenette.\n- Smart TV.\n- Private courtyard.\n\nSOLE OCCUPANCY: Designed for single occupancy only. No couples, children or pets allowed.\n\nMICRO APARTMENT: Enjoy the privacy of your own securely accessed bedroom, bathroom, kitchenette, living area, and outdoor space within a property of 5 Micro Apartments. \n\nALL UTILITIES INCLUDED: Rent includes all basic utilities including electricity, water, and high-speed internet.\n\nRELAX IN COMFORT: Ceiling fans and split-system A/C in every room to ensure you enjoy a pleasant living environment. \n\nPRIVATE KITCHENETTE: Includes a fridge, microwave, cooktop and utensils for your convenience.\n\nCOMMON FACILITIES: Access to a fully equipped shared kitchen with oven, cooktop, and rangehood. Access to a fully equipped shared laundry. \n\nSAFE AND SECURE: Peace of mind with electronic keyless access and a security surveillance system.\n\nAMENITIES NEARBY:\nConveniently Located Near Shops, Services & Public Transport  Live Close to It All! \n\nBrighton Shopping Village: 600m: offering a Coles, takeaway food options, newsagent, chemist and post office.\nBrighton Beach Foreshore: 600m: a breath of fresh air and the sea breeze right on you doorstep! \n\nTRANSPORT:\nSandgate Train Station: 4.7km: direct transport to Brisbane CBD in approx. 50 minutes. \nBus Stop: 120m: Offering quick access to local bus routes for seamless travel around Brighton and neighboring suburbs. \nBrisbane Airport 20.9km: Domestic and International terminals.\n\n*** TO SCHEDULE AN INSPECTION, CLICK THE \"BOOK AN INSPECTION\" BUTTON BELOW. \n\n*** REGISTRATION IS REQUIRED TO VIEW THIS PROPERTY.\n\n*** AFTER THE INSPECTION, YOU WILL RECEIVE AN INSPECTION CODE, WHICH MUST BE PROVIDED BEFORE YOU CAN SUBMIT YOUR APPLICATION.\n\nBy registering your details using the method above, you will be INSTANTLY informed of any updates, changes, or cancellations for your property appointment. If no one registers for an inspection time, then that inspection MAY NOT PROCEED.\n\nDisclaimer: Whilst every care is taken in the preparation of the information contained in this marketing, YSH Property Management will not be held liable for any errors in typing or information. All interested parties should rely upon their own enquiries in order to determine whether or not this information is in fact accurate.",
+   "flags": {
+    "pets": [
+     "your bags and settle in. Important: Single Occupancy Only, NO PETS. Please note that due to Brisbane City Council and Fire Saf",
+     "Designed for single occupancy only. No couples, children or pets allowed. MICRO APARTMENT: Enjoy the privacy of your own securely a"
+    ],
+    "shops": [
+     "llance system. AMENITIES NEARBY: Conveniently Located Near Shops, Services & Public Transport Live Close to It All! Brigh",
+     "NEARBY: Conveniently Located Near Shops, Services & Public Transport Live Close to It All! Brighton Shopping Village: 600m: o",
+     "rvices & Public Transport Live Close to It All! Brighton Shopping Village: 600m: offering a Coles, takeaway food options,",
+     "se to It All! Brighton Shopping Village: 600m: offering a Coles, takeaway food options, newsagent, chemist and post office.",
+     ": 600m: offering a Coles, takeaway food options, newsagent, chemist and post office. Brighton Beach Foreshore: 600m: a breath o",
+     "th of fresh air and the sea breeze right on you doorstep! TRANSPORT: Sandgate Train Station: 4.7km: direct transport to Brisban"
+    ]
+   },
+   "contactPerson": {
+    "name": "Indeea Mallett",
+    "phone": "+61497019777",
+    "phoneAlt": "+611300368658"
+   },
+   "company": {
+    "name": "YSH Property",
+    "phone": null,
+    "email": null,
+    "address": "P.O. Box 677 Annerley, QLD 4103",
+    "profileUrl": "https://www.rent.com.au/agents/13234/ysh-property"
    },
    "feedAgentName": null,
    "feedCompany": null,
@@ -1624,6 +1629,70 @@
   },
   {
    "photos": [
+    "https://cdn.rent.com.au/photos/images/269117883/840a021f5be8e11bd7c8f6b3-b50f01af-6603-4b3a-8dbf-1a428d4b93d8-1795766203-original.png?1795766203",
+    "https://cdn.rent.com.au/photos/images/269117884/760a11ba60aaa69dca8bfe78-b50f01af-71db-4ebb-a281-cbf1a7bf4460-1795766230-original.png?1795766230",
+    "https://cdn.rent.com.au/photos/images/269117885/cd4ecf9ee687ba24e29f3753-b50f01af-7db7-4c99-a4cf-c5f9a284089c-1795766230-original.png?1795766230"
+   ],
+   "id": "rent-6558229",
+   "source": "rent.com.au",
+   "url": "https://www.rent.com.au/property/45-marshall-st-strathpine-qld-4500-6558229",
+   "area": "Northern suburbs",
+   "address": "45 Marshall Street",
+   "suburb": "Strathpine",
+   "postcode": "4500",
+   "type": "Unit",
+   "beds": 1,
+   "baths": 1,
+   "cars": 0,
+   "price": 410,
+   "bond": 1640,
+   "available": "16th December 2026",
+   "listedAt": "2026-11-27T15:56:31.000+08:00",
+   "petsListed": false,
+   "furnished": true,
+   "walkScore": 63,
+   "walkCategory": "somewhat_walkable",
+   "transitScore": 38,
+   "transitCategory": "some_transit",
+   "topFeatures": [
+    "Near shops",
+    "Great public transport",
+    "Close to schools",
+    "Friendly neighbourhood"
+   ],
+   "inspections": [],
+   "lat": "-27.299862",
+   "lng": "152.99426",
+   "byline": "Modern Unit Available",
+   "description": "1 room available all featuring the following: \n\nKitchenette\n- Fridge, microwave, toaster, kettle and air fryer.\nLounge Room\n- Air-conditioned, ceiling fan, TV, couch and dining table.\nBedroom\n- Ceiling fan, bedframe, mattress, bedside tables and mirrored built-in wardrobes\n- Balcony\n\nCommon areas include: \n- Full-sized communal kitchen\n- Laundry with two 8kg top loader washing machines\n- Two off-street parking spaces plus ample street parking\n- External security camera system for added peace of mind\n\n* BILLS INCLUDED - High-speed internet, water and electricity usage \n\nPlease note: Bedroom linen and kitchenware are not provided and must be supplied by the tenant.\n\nRental Amounts (Refer to floorplan): \nRoom 5 - $410\n\n*Bond is equivalent to 4x weeks worth of rent \n\nLocation Highlights: \n- Walking distance to local train station and bus stops \n- Walking distance to Strathpine Plaza Shopping Centre \n- Many local parks, cafes and shops nearby \n- Easy access to Gympie Road \n- Approx. 5 min drive to Pine Rivers Private Hospital \n- Approx. 8 min drive to UniSC Moreton Bay\n- Approx. 15-20 min drive to Westfield North Lakes & Westfield Chermside \n- Approx. 30 min drive to Brisbane Airport \n- Approx. 35 min drive to Brisbane CBD\n\nImportant Information:\n\nThis accommodation is approved for single occupancy only. Due to council and fire safety requirements, couples, families, pets, and overnight guests are not permitted.\n\nPhotos may be digitally enhanced or not of the exact room that is available at the time of listing. Prospective tenants are encouraged to review the description carefully and attend an inspection to view the property in person.\n\nTo submit your application for this property, click on 'apply now' to be redirected to Ignite, or alternatively, you can use the following link to access Snug: https://app.snug.com/apply/wilsonrealtyagents\n\nTo stay informed about any open inspection cancellations or changes in schedule, kindly make sure to register for the specific open inspection you wish to attend.\n\n*Wilson Realty Agents recommend that the information presented in this advertisement be considered a general guide. Prospective tenants are encouraged to conduct their own thorough investigations and enquiries regarding specific details of the property.*",
+   "flags": {
+    "shops": [
+     "of rent Location Highlights: - Walking distance to local train station and bus stops - Walking distance to Strathpine Pla",
+     "Highlights: - Walking distance to local train station and bus stops - Walking distance to Strathpine Plaza Shopping Cent",
+     "ation and bus stops - Walking distance to Strathpine Plaza Shopping Centre - Many local parks, cafes and shops nearby - E",
+     "thpine Plaza Shopping Centre - Many local parks, cafes and shops nearby - Easy access to Gympie Road - Approx. 5 min drive",
+     "o Gympie Road - Approx. 5 min drive to Pine Rivers Private Hospital - Approx. 8 min drive to UniSC Moreton Bay - Approx. 15-20"
+    ]
+   },
+   "contactPerson": {
+    "name": "Chelsey Wilson",
+    "phone": "+61432300666",
+    "phoneAlt": "+61432300666"
+   },
+   "company": {
+    "name": "Wilson Realty Agents ",
+    "phone": null,
+    "email": null,
+    "address": "Po Box 174 Deception Bay, QLD 4508",
+    "profileUrl": "https://www.rent.com.au/agents/14658/wilson-realty-agents-"
+   },
+   "feedAgentName": "Chelsey Wilson",
+   "feedCompany": "Wilson Realty Agents ",
+   "feedEmail": "chelsey@wilsonrealtyagents.com.au",
+   "emailsInText": []
+  },
+  {
+   "photos": [
     "https://cdn.rent.com.au/photos/images/259066457/11137f088a006d1e1a81a5ea-d464b470_2Da744_2D8d2c_2Dd2eb_2D2f77c555c5ef-1757562378-original.jpg?1757562378",
     "https://cdn.rent.com.au/photos/images/259066455/7e336bc06d23df098aca2178-83b3b10e_2Dafb6_2Dd54b_2Daa28_2D68b5d9194ed0-1757562360-original.jpg?1757562360",
     "https://cdn.rent.com.au/photos/images/259066459/ff3cd2ef4c31530c89186972-585f7c15_2Dfdb4_2D0c69_2D2522_2Db5e2b0be11f2-1757562387-original.jpg?1757562387"
@@ -1744,72 +1813,6 @@
     "email": null,
     "address": "Po Box 230 Waterford, QLD 4133",
     "profileUrl": "https://www.rent.com.au/agents/649/onsite-property"
-   },
-   "feedAgentName": null,
-   "feedCompany": null,
-   "feedEmail": null,
-   "emailsInText": []
-  },
-  {
-   "photos": [
-    "https://cdn.rent.com.au/photos/images/269021457/fccc210432e3bcd9473b8353-1-1795412308-original.jpg?1795412308",
-    "https://cdn.rent.com.au/photos/images/269021667/a619a07925d889649157b1f1-2-1795412410-original.jpg?1795412410",
-    "https://cdn.rent.com.au/photos/images/269021664/519781b73ff181dd5b6eebd7-3-1795412409-original.jpg?1795412409"
-   ],
-   "id": "rent-6544964",
-   "source": "rent.com.au",
-   "url": "https://www.rent.com.au/property/id99919093-42-griffiths-st-bald-hills-qld-4036-6544964",
-   "area": "Northern suburbs",
-   "address": "ID:99919093/42 Griffiths Street",
-   "suburb": "Bald Hills",
-   "postcode": "4036",
-   "type": "Apartment",
-   "beds": 1,
-   "baths": 1,
-   "cars": 0,
-   "price": 425,
-   "bond": 1700,
-   "available": "now",
-   "listedAt": "2026-11-16T13:45:10.000+08:00",
-   "petsListed": false,
-   "furnished": true,
-   "walkScore": 38,
-   "walkCategory": "car_dependent_1",
-   "transitScore": 35,
-   "transitCategory": "some_transit",
-   "topFeatures": [
-    "Friendly neighbourhood",
-    "Great public transport",
-    "I feel safe here",
-    "Parks and recreation"
-   ],
-   "inspections": [],
-   "lat": "-27.322957",
-   "lng": "153.011369",
-   "byline": "Furnished with Bills + WiFi Incl",
-   "description": "To register for an inspection, go here: https://www.theonsitemanager.com.au/inspect/99919093\nTo apply for this listing go here: https://www.theonsitemanager.com.au/apply/99919093\n\nAVAILABLE NOW - Spacious 1 bedroom furnished apartment. This rental option is air conditioned with ceiling fans and features a large bathroom with over-sized shower as well as a kitchenette equipped with all your appliance needs. \n\nLocated on the ground floor, private living space opens onto a small courtyard and exclusive use clothesline. Security is assured with electronic locks and security screens throughout. In addition, there is a full kitchen and laundry facilities (2 x washing machines) available for use in common areas of the building. The rental rate is inclusive of utilities + access to free unlimited WiFi is provided.\n\nThis type of accommodation is strictly only available for one person to occupy. No Couples or children. Sorry no pets.\n\nIdeally positioned within 4 mins drive or 10 mins walk from the train station and close to local amenities. All enquiries welcome.\n\n(Listing ID: 99919093 )",
-   "flags": {
-    "ground": [
-     "te equipped with all your appliance needs. Located on the ground floor, private living space opens onto a small courtyard and excl"
-    ],
-    "pets": [
-     "ble for one person to occupy. No Couples or children. Sorry no pets. Ideally positioned within 4 mins drive or 10 mins walk fr"
-    ],
-    "shops": [
-     "lly positioned within 4 mins drive or 10 mins walk from the train station and close to local amenities. All enquiries welcome"
-    ]
-   },
-   "contactPerson": {
-    "name": "Shay Harrison",
-    "phone": "+61411203377",
-    "phoneAlt": "+61411203377"
-   },
-   "company": {
-    "name": "The Onsite Manager",
-    "phone": null,
-    "email": null,
-    "address": "111 Eagle St Brisbane, QLD 4000",
-    "profileUrl": "https://www.rent.com.au/agents/33/the-onsite-manager"
    },
    "feedAgentName": null,
    "feedCompany": null,
